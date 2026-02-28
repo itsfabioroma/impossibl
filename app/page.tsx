@@ -1,6 +1,7 @@
 "use client";
 
 import dynamic from "next/dynamic";
+import StaggeredText from "@/components/react-bits/staggered-text";
 
 // dynamic import to avoid SSR issues w/ three.js
 const AsciiWaves = dynamic(() => import("@/components/ascii-waves"), {
@@ -33,9 +34,18 @@ export default function Home() {
 
         {/* hero headline */}
         <div className="flex flex-1 items-center justify-center">
-          <h1 className="max-w-5xl text-center font-[900] text-[clamp(2.5rem,8vw,7rem)] uppercase leading-[0.9] tracking-tighter text-white">
-            Find your way in.
-          </h1>
+          <StaggeredText
+            text="for the ones who don't fear the impossibl ."
+            segmentBy="words"
+            separator="|"
+            direction="top"
+            delay={150}
+            duration={1}
+            blur={true}
+            staggerDirection="forward"
+            exitOnScrollOut={true}
+            className="max-w-5xl font-[900] text-[clamp(1.8rem,5vw,4rem)] uppercase leading-[0.9] tracking-tighter text-white justify-center"
+          />
         </div>
 
         {/* bottom bar */}
