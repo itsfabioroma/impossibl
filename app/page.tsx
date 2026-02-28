@@ -34,7 +34,7 @@ export default function Home() {
 
         {/* sponsored by — top right */}
         <div className="self-end text-right text-xs tracking-widest text-white/40">
-          <p>[ sponsors ]</p>
+          <p>[ powered by ]</p>
           <a href="https://ultracontext.ai" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-white/70 hover:text-white transition-colors">[•] Ultracontext</a>
           <a href="https://firecrawl.dev" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-orange-400/70 hover:text-orange-300 transition-colors">🔥 Firecrawl</a>
           {/* <a href="https://latitud.com" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-[#4a6b2a]/90 hover:text-[#5a7f35] transition-colors">Λ Latitud</a> */}
