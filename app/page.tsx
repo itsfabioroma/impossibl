@@ -21,7 +21,7 @@ export default function Home() {
           elementSize={10}
           noiseScale={3.7}
           speed={0.19}
-          intensity={1}
+          intensity={0.4}
           waveTension={0.5}
           waveTwist={0.1}
           hasCursorInteraction={true}
@@ -31,6 +31,13 @@ export default function Home() {
 
       {/* content overlay */}
       <div className="pointer-events-none relative z-10 flex h-full flex-col justify-between px-8 py-8 md:px-12 md:py-10">
+
+        {/* sponsored by — top right */}
+        <div className="self-end text-right text-xs tracking-widest text-white/40">
+          <p>[ sponsors ]</p>
+          <a href="https://ultracontext.ai" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-white/70 hover:text-white transition-colors">[•] Ultracontext</a>
+          <a href="https://firecrawl.dev" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-orange-400/70 hover:text-orange-300 transition-colors">🔥 Firecrawl</a>
+        </div>
 
         {/* hero headline */}
         <div className="flex flex-1 items-center justify-center">
