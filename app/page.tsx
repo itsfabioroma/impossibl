@@ -37,13 +37,13 @@ export default function Home() {
           <p>[ sponsors ]</p>
           <a href="https://ultracontext.ai" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-white/70 hover:text-white transition-colors">[•] Ultracontext</a>
           <a href="https://firecrawl.dev" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-orange-400/70 hover:text-orange-300 transition-colors">🔥 Firecrawl</a>
-          <a href="https://latitud.com" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-[#4a6b2a]/90 hover:text-[#5a7f35] transition-colors">Λ Latitud</a>
+          {/* <a href="https://latitud.com" target="_blank" rel="noopener noreferrer" className="pointer-events-auto block text-[#4a6b2a]/90 hover:text-[#5a7f35] transition-colors">Λ Latitud</a> */}
         </div>
 
         {/* hero headline */}
         <div className="flex flex-1 items-center justify-center">
           <StaggeredText
-            text="for the ones who don't fear the impossibl ."
+            text="ship the impossibl ."
             segmentBy="words"
             separator="|"
             direction="top"
@@ -60,7 +60,7 @@ export default function Home() {
         <div className="flex items-end justify-between">
           <span className="font-bold text-base text-white/80 md:text-lg">impossibl</span>
           <span className="font-bold text-base uppercase text-white/80 md:text-lg">SF</span>
-          <span className="font-bold text-base text-white/80 md:text-lg">March 14</span>
+          <span className="font-bold text-base text-white/80 md:text-lg">March 21</span>
         </div>
 
       </div>

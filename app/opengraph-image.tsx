@@ -2,7 +2,7 @@ import { ImageResponse } from "next/og";
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
-export const alt = "Impossibl @ SF, March 14";
+export const alt = "Impossibl @ SF, March 21";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -54,7 +54,7 @@ export default async function OGImage() {
         >
           <span>SF</span>
           <span>·</span>
-          <span>March 14</span>
+          <span>March 21</span>
         </div>
       </div>
     ),
