@@ -43,7 +43,7 @@ export default function Home() {
         {/* hero headline */}
         <div className="flex flex-1 items-center justify-center">
           <StaggeredText
-            text="ship the impossibl ."
+            text="for the ones who don't fear the impossibl ."
             segmentBy="words"
             separator="|"
             direction="top"
