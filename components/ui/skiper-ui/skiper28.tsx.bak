@@ -1,0 +1,68 @@
+"use client";
+
+import {
+  motion,
+  useMotionTemplate,
+  useScroll,
+  useTransform,
+} from "framer-motion";
+import React, { useRef } from "react";
+
+const Skiper28 = () => {
+  const targetRef = useRef<HTMLDivElement | null>(null);
+  const { scrollYProgress } = useScroll({
+    target: targetRef,
+    offset: ["start start", "end end"],
+  });
+
+  // Aumentei bastante o trajeto negativo (-800) para o texto ter espaço 
+  // para viajar até o topo da tela antes do scroll acabar.
+  const yMotionValue = useTransform(scrollYProgress, [0, 1], [1200, -800]);
+  
+  // Reduzi um pouquinho o rotateX (de 65 para 60) porque como o ponto de fuga
+  // agora está mais longe (no topo), o texto já sofre uma distorção natural maior.
+  const transform = useMotionTemplate`rotateX(60deg) translateY(${yMotionValue}px)`;
+
+  return (
+    <div
+      ref={targetRef}
+      className="relative z-0 h-[400vh] w-full bg-white text-[#1d1d1f]"
+    >
+      <div
+        className="sticky top-0 mx-auto flex h-screen w-full items-center justify-center overflow-hidden bg-transparent px-4"
+        style={{
+          transformStyle: "preserve-3d",
+          perspective: "400px", 
+          
+          // O SEGREDO AQUI: Move o ponto de fuga (o horizonte) para o topo central da tela.
+          perspectiveOrigin: "50% 0%", 
+          
+          // Ajustamos a máscara para que o texto fique 100% visível desde baixo (0%)
+          // até 75% da tela, e só comece a sumir nos últimos 25% perto do topo.
+          WebkitMaskImage: "linear-gradient(to top, black 0%, black 75%, transparent 100%)",
+          maskImage: "linear-gradient(to top, black 0%, black 75%, transparent 100%)",
+        }}
+      >
+        <motion.div
+          style={{
+            transformStyle: "preserve-3d",
+            transform,
+            // Alteramos a origem da transformação do texto para o topo
+            // para ele alinhar perfeitamente com o novo perspectiveOrigin
+            transformOrigin: "top center", 
+          }}
+          className="font-geist w-full max-w-2xl text-center text-3xl font-bold tracking-tighter text-[#1d1d1f] antialiased md:text-5xl lg:text-6xl"
+        >
+          So I watched all of your podcasts. Every single one. And I got truly
+          inspired by stories told there. In fact, I noticed a pattern. I
+          realized that everyone you'd invited for a talk were people just like
+          you. The ones building the Impossible. People that got laughed at
+          their faces. That were made fun of. That bet and won against the
+          crowd.
+        </motion.div>
+      </div>
+    </div>
+  );
+};
+
+export { Skiper28 };

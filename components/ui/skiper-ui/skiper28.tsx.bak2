@@ -1,0 +1,87 @@
+"use client";
+
+import {
+  motion,
+  useMotionTemplate,
+  useScroll,
+  useTransform,
+} from "framer-motion";
+import React, { useRef } from "react";
+
+const Skiper28 = () => {
+  const targetRef = useRef<HTMLDivElement | null>(null);
+  const { scrollYProgress } = useScroll({
+    target: targetRef,
+    offset: ["start start", "end end"],
+  });
+
+  const yMotionValue = useTransform(scrollYProgress, [0, 1], [1200, -800]);
+  const transform = useMotionTemplate`rotateX(60deg) translateY(${yMotionValue}px)`;
+
+  return (
+    <div
+      ref={targetRef}
+      className="relative z-0 h-[400vh] w-full bg-white text-[#1d1d1f]"
+    >
+      <div className="sticky top-0 h-screen w-full overflow-hidden bg-transparent">
+        
+        {/* LENTE ÓTICA SUPERIOR (Horizonte) */}
+        {/* Mantida em 12px para profundidade agressiva no horizonte */}
+        <div
+          className="pointer-events-none absolute left-0 top-0 z-10 h-[30vh] w-full"
+          style={{
+            backdropFilter: "blur(12px)",
+            WebkitBackdropFilter: "blur(12px)",
+            WebkitMaskImage: "linear-gradient(to bottom, black 0%, transparent 100%)",
+            maskImage: "linear-gradient(to bottom, black 0%, transparent 100%)",
+          }}
+        />
+
+        {/* LENTE ÓTICA INFERIOR (Foreground) */}
+        {/* REDUZIDO para blur(6px): A entrada agora é sutil e elegante. */}
+        <div
+          className="pointer-events-none absolute bottom-0 left-0 z-10 h-[25vh] w-full"
+          style={{
+            backdropFilter: "blur(6px)",
+            WebkitBackdropFilter: "blur(6px)",
+            WebkitMaskImage: "linear-gradient(to top, black 0%, transparent 100%)",
+            maskImage: "linear-gradient(to top, black 0%, transparent 100%)",
+          }}
+        />
+
+        {/* O PALCO 3D */}
+        <div
+          className="absolute inset-0 mx-auto flex items-center justify-center px-4"
+          style={{
+            transformStyle: "preserve-3d",
+            perspective: "400px",
+            perspectiveOrigin: "50% 0%",
+            WebkitMaskImage: "linear-gradient(to top, black 0%, black 75%, transparent 100%)",
+            maskImage: "linear-gradient(to top, black 0%, black 75%, transparent 100%)",
+          }}
+        >
+          <motion.div
+            style={{
+              transformStyle: "preserve-3d",
+              transform,
+              transformOrigin: "top center",
+              willChange: "transform",
+              WebkitFontSmoothing: "antialiased",
+              backfaceVisibility: "hidden",
+            }}
+            className="font-geist w-full max-w-2xl text-center text-3xl font-bold tracking-tighter text-[#1d1d1f] md:text-5xl lg:text-6xl"
+          >
+            So I watched all of your podcasts. Every single one. And I got truly
+            inspired by stories told there. In fact, I noticed a pattern. I
+            realized that everyone you'd invited for a talk were people just like
+            you. The ones building the Impossible. People that got laughed at
+            their faces. That were made fun of. That bet and won against the
+            crowd.
+          </motion.div>
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export { Skiper28 };

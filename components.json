@@ -31,6 +31,7 @@
       "headers": {
         "Authorization": "Bearer ${REACTBITS_LICENSE_KEY}"
       }
-    }
+    },
+    "@skiper-ui": "https://skiper-ui.com/registry/{name}.json"
   }
 }
