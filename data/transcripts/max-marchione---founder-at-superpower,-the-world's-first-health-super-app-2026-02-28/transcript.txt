@@ -1,0 +1,526 @@
+speaker_0: Okay. You wanna practice one more time?
+speaker_1: <<Ti govarish po-angliski. >>
+speaker_0: Perfect. Man, like, amazing. Okay, so let's- let's get it started. Hey, Matt. How are you doing?
+speaker_1: Hey, Dasha. I'm excited to be here.
+speaker_0: Thank you so much for letting me come to your, um, new office space, by the way, and congratulations on this. So, I think six months ago, I interviewed you for Forbes when you announced your 30 million Series A, right? How have things changed since that moment in Superpower?
+speaker_1: Gosh, I feel like-
+speaker_0: [laughs]
+speaker_1: ... the mission is more the same and true than ev- ever.
+speaker_0: Okay.
+speaker_1: Everything else feels like it has changed, right?
+speaker_0: Yeah.
+speaker_1: Uh, what used to take us maybe a year to build, we can now build in a month, which is really exciting because-
+speaker_0: Mm-hmm
+speaker_1: ... uh, that means we can actually have a vision for the future and make it happen. When we spoke, we were $500 a year.
+speaker_0: Yeah.
+speaker_1: Now we're $199 a year, and, uh, we do around three times more than we used to do, so it's an incredible offering. Uh, when we spoke, we were in a waitlist mode.
+speaker_0: Mm-hmm. Yeah.
+speaker_1: We had around 150,000 people on the waitlist.
+speaker_0: Yes.
+speaker_1: Now we don't have a waitlist, and we have thousands of people coming through every month. Um, and we're g- we're growing quickly. The team has probably tripled in size. We have a new office, um, so a lot's happening.
+speaker_0: Yeah. How many are you now?
+speaker_1: 45 on the core team.
+speaker_0: 45. Yeah, and you just moved in into your new office space. We're gonna show it later, right? Will you give me a tour?
+speaker_1: Uh, yeah, let's do it. Uh, we- we call it the world's healthiest office.
+speaker_0: The world's healthiest-
+speaker_1: A- a- and potentially the world's funniest office as well. The secret to a funny office is just hire Australians.
+speaker_0: Do you have many Australians in your team?
+speaker_1: Um, more than half of the team's Australian.
+speaker_0: Seriously?
+speaker_1: Oh, yeah.
+speaker_0: Is it, like, intentional or accidental?
+speaker_1: Oh, yeah. Oh, I'm an Australian supremacist. Um, trying to build the Australian mafia.
+speaker_0: Oh, my God. Okay.
+speaker_1: [laughs] That's a-
+speaker_0: So if you're not Australian-
+speaker_1: ... joke about us.
+speaker_0: [laughs]
+speaker_1: [laughs] Um, yeah.
+speaker_0: Good luck to try to get, um, hired at Superpowered. Okay. But yeah, a lot of things. Um, you mentioned that it's now so much faster to build things. Why?
+speaker_1: Uh, I think a big part of it is cultural. Uh, I- I think part of... If I- if I look at moving fast, there's probably three things. One is, do you hire the right people?
+speaker_0: Mm-hmm.
+speaker_1: And we set the bar not at good, but insanely great, right?
+speaker_0: Mm-hmm.
+speaker_1: Uh, and when someone is good on the team, th- one of the number one conversations I have with our team is, "This person's good. Therefore, we're gonna have to fire them."
+speaker_0: Mm-hmm.
+speaker_1: And the reason why is the bar has to be insanely great. And the second there's one person who doesn't meet that bar, they drag the whole org down, and it becomes hig- harder to bring on insanely great people. So, first part of shipping fast and doing great things is just bring on great people. Great people want to work with great people. The second part is culture, and the way I think about culture is, do we understand the principles of velocity? And I think of the principles as velocities. Are we questioning every requirement, right?
+speaker_0: Mm-hmm.
+speaker_1: If- if I'm told something takes two months, my response is always, "Okay, well, assume we had to do this in two weeks, what would have to be true?" Because there's always a two-week solution. We just have to understand the trade-offs.
+speaker_0: Yeah. True.
+speaker_1: Part of culture is deleting process, and then part of culture is creating an environment where it's fun to work hard. Most of the team is in here on Saturday and Sunday, at least on Sunday.
+speaker_0: Hmm.
+speaker_1: And that's not because they have to be. We don't tell people, "Here's when you have to be in the office." Instead, what we do is we hire great people, and we say, "Let's just have fun. Let's work together, work alongside your friends." And then, probably the- the final part of moving fast is constantly increasing cycle time, so ha- having- having urgency against a certain goal, right? Uh, I said to the team two weeks ago, "We're gonna complete our end of year roadmap-
+speaker_0: Mm-hmm
+speaker_1: ... in the next two weeks," and on Friday, we completed it.
+speaker_0: Oh, my God. Were they excited? [laughs]
+speaker_1: Uh, I think, at first, a mix of, like, fear and excitement and-
+speaker_0: Yeah
+speaker_1: ... trepidation and disbelief. And then, in retrospect, everyone's like, "Whoa, this is so amazing. We've shipped so much. The product's completely different."
+speaker_0: Yeah.
+speaker_1: Um, and we did it in two weeks. So, uh, I think now they're excited.
+speaker_0: Yeah. But you know, it's funny. When I ask you this question in mind, I had... I saw that you would tell me, "Oh, it's because of all these new tools available. That's why we move so much faster." But it wasn't your answer. It was about hiring and culture.
+speaker_1: Oh, it's a- all about people.
+speaker_0: That's incredible.
+speaker_1: Yeah, yeah. I think t- tools are trivial. Um, people are what matter.
+speaker_0: And also, another question here is, you mentioned that we can ship everything in two weeks or so much faster is a matter of trade-off. So, how do you prioritize things?
+speaker_1: Uh, personal life or for the company strategy?
+speaker_0: Well, in general, but let's start with the company strategy. Yeah.
+speaker_1: Okay. So-
+speaker_0: Mm-hmm.
+speaker_1: ... I think of it as, uh, there's typically one thing that matters more than everything else.
+speaker_0: Mm-hmm.
+speaker_1: And when we find that one thing, how do we make sure that just about every action within the company is supporting this one thing?
+speaker_0: Mm-hmm.
+speaker_1: I... Last night at midnight, I sent this, uh, video to the team. It was just a little Loom, and I said, "Here are the two things that matter for the company right now." And the gist was, if what you're working on day-to-day does not support these two things, it probably is not important enough.
+speaker_0: Mm-hmm.
+speaker_1: And that's really important, 'cause there are very few things that matter. My job is to identify them and make sure the company is oriented around. That's prioritizing. At the same time, 20% of our time is gonna go to the incremental, the experimental, the next bet.
+speaker_0: Mm-hmm.
+speaker_1: So, 80% on the core, on the priorities, and then 20% on the experimental.
+speaker_0: Mm-hmm. Does it mean, like, let's say if- if I'm your employee. I look at my calendar, and I have a lot of meetings. You know, meetings, like, fill up your calendar pretty fast. And you tell me, "Okay, here are the two things, Dasha, that we have to focus on." Meaning, I cancel everything, and I just focus on these two things, and I leave only calls that are related somehow to making these two things possible.
+speaker_1: So, the way I think about it is everyone will have the one thing that is their individual priority.
+speaker_0: Mm-hmm.
+speaker_1: They have to get that done.
+speaker_0: Mm-hmm.
+speaker_1: I don't care how they get it done. I, uh... Uh, all I care about is whether that is getting done.... and to get that done, you can say no to things that are not that.
+speaker_0: Mm-hmm.
+speaker_1: In fact, you're encouraged to say no to things that're not that.
+speaker_0: Mm-hmm.
+speaker_1: Now, sometimes you're gonna want to say yes to other things, which is okay. It's fine for us to do some other things which support another team or, or support an emergent priority. That's okay.
+speaker_0: Mm-hmm.
+speaker_1: So long as your most important thing gets done. And it's never an excuse. You can never say, "I didn't do my most important thing because I did these three other things." I don't care. Like, you can do whatever other things you want.
+speaker_0: Mm-hmm.
+speaker_1: It can be great, but it cannot come in the way of the most important thing.
+speaker_0: Got it. Okay. So you're pretty strict, a strict leader here. [laughs] That's...
+speaker_1: I just think it's very easy for people to get in this world of, um, uh, productive procrastination.
+speaker_0: Yeah.
+speaker_1: They don't think they're procrastinating 'cause they're doing work.
+speaker_0: Yeah.
+speaker_1: But it is procrastination because it's not the most important work. And tasks tend to be exponentially distributed. The most important thing tends to be, like, 10 times more important than the third most important thing. And if we genuinely believe this is true, we have to get that important thing done. And we will say this to people. We'll say to people, like, "Don't go to a meeting if you don't think you're gonna be productive." If you're in a meeting, do other work. I don't care. Like, so long... You co- So long as you were present for the meeting and, and, and contribute in the ways you're meant to. If you're doing other work, I don't mind. We're not gonna have arbitrary rules.
+speaker_0: Yeah.
+speaker_1: Our job is to get the task done, not, not to say, "Here's all of these arbitrary rules."
+speaker_0: Mm-hmm. I see. Th- that's, that's very cool. And I have a quote. You know, it's your, um, Twitter and LinkedIn is very fun to read, so [laughs] I highly encourage everyone to start doing this. So, "Raising capital isn't what matters. Hype milestones don't count. It's easy to get addicted to hype and think that capital means success. It doesn't." So what should we celebrate then? If not rounds raised, what is success for you?
+speaker_1: Uh, building something great that millions of people use. I think Silicon Valley is addicted to the hype, addicted to the fundraise.
+speaker_0: Yep.
+speaker_1: Um, th- there, there are people who build companies purely for the ability to get a headline or say, "I've raised this amount of money." It doesn't matter. There are so many companies that have raised money that are not doing great things. There are so many companies that have raised money that have failed. The important thing is, are you building something that matters and scaling it to millions of people? Now, capital helps you get there, but we don't celebrate the capital.
+speaker_0: Mm-hmm.
+speaker_1: We celebrate the thing we built or the thing that allowed us to get capital, the thing that capital is going to allow us to do. That's what's worth celebrating. I will often have people come to me and say, "Oh, Max, congrats on this and congrats on that. It's so exciting." And my general response is, "We have done nothing yet." Like, the, the more someone congratulates me, the more annoyed I get because I'm like-
+speaker_0: Mm-hmm
+speaker_1: ... you think this is good and I think this is not good yet. Uh, so you can tell me this is good, but it's not gonna get through and it's just gonna make me annoyed because we are n- we are not there yet.
+speaker_0: Mm-hmm. So what are you happy about? What milestones, like customer love?
+speaker_1: Uh, yeah. We, we put out a survey to our, our members the other week-
+speaker_0: Yeah
+speaker_1: ... and we asked them, "How does this compare to your primary care doctor?" And 93% said it's far better or life-changing.
+speaker_0: 93%?
+speaker_1: 93% said far better or life change.
+speaker_0: Oh, wow. Well, that's something to celebrate.
+speaker_1: Which is crazy, right?
+speaker_0: [laughs]
+speaker_1: And that's worth celebrating. We, uh, had our first cohort renewal and we got our retention data came back and it was way better than we expected. That's worth celebrating. We, um, did a bunch of data science work and we saw the member outcomes.
+speaker_0: Yeah.
+speaker_1: And 88% of members improved their, uh, vitamin D between tests, and 83% improved their A1C, the diabetic marker. 83% are less diabetic than they were. That's incredible. Like, that stuff is worth celebrating.
+speaker_0: That's a lot. This is amazing. So some real actual things that your product helped them to achieve, right?
+speaker_1: Totally. Yeah.
+speaker_0: That's what makes you happy?
+speaker_1: Yeah, totally. I think that's... We didn't start the company to raise money, right? [laughs]
+speaker_0: Yeah, for sure.
+speaker_1: We, we didn't st- start the company to get headlines.
+speaker_0: I think a lot of people are confused here. [laughs] Yeah.
+speaker_1: Oh, I think Silicon Valley... I- I joke that, um, Y Combinator has become the new McKinsey.
+speaker_0: [laughs]
+speaker_1: And the, uh... The, the hacks, the s- the status seekers, the ladder climbers, they used to go to your McKinseys of the world.
+speaker_0: Yeah.
+speaker_1: And now they start a tech company.
+speaker_0: Yeah.
+speaker_1: Um, and they don't start a tech company because they authentically want to create something in the world. They start a tech company because it's the thing to do. And I'm very distasteful of that.
+speaker_0: Did you go through YC?
+speaker_1: Uh, no.
+speaker_0: I see. Interesting. Okay. And, you know, I wanted also to talk about your crazy numbers that you had when you launched Superpower. Like, back to six months ago, right? So you had 145K people on the wait list. You had like one million views on the launch post. That was, like, super wild. Like, 100K website visits. How did you do it all? I mean, you haven't even launched yet at that moment, but the numbers are wildly crazy. What's your secret?
+speaker_1: Yeah, it's so interesting you say they're crazy, because in my mind I'm like, yeah, they're better than most people's numbers, and they're not that good.
+speaker_0: Okay.
+speaker_1: Like, the bar should be, "Why don't we have five million people on the wait list? Why don't we have 10 million people visiting the website?" I think that, um... The- My, my general contention is that the best of what is out there in the world is maybe a six out of 10.
+speaker_0: Mm-hmm.
+speaker_1: And that's a really empowering thing to say-
+speaker_0: Six out of 10. [laughs]
+speaker_1: ... because it means that if you're the best in the world, you're still six out of 10 and you can be so much better.
+speaker_0: Yeah.
+speaker_1: Right? It's always possible to be, be better. So that's probably the, the f- first general framing. Now that said, I think what we did was useful to progress the company forward. Um, the foundation of all of that was building a brand that stood for something. The way I think of a brand is not how do you look-
+speaker_0: Mm-hmm
+speaker_1: ... but it starts with what do you believe? So before we had a landing page and a website-
+speaker_0: Where are you going? Okay. Mm-hmm
+speaker_1: ... we had a manifesto. And that manifesto said, "Here's what we believe about the world." And people rallied behind that. Then we tried to express the brand through a award-winning visual, beautiful website. Uh, uh, uh, uh-
+speaker_0: Beautiful. That's true. [laughs]
+speaker_1: The first one was-
+speaker_0: It's actually very beautiful. Yeah. [laughs]
+speaker_1: Our current one's not. Our current one we're gonna fix. The, the, the first one was. Um, and a, a distinctive visual identity that stood for something that was emotional, and then all sorts of viral marketing drops in the world. So we gave our early members like these baseball cards with their biological age that they'd post on Twitter.
+speaker_0: Mm-hmm.
+speaker_1: We created something called the World's Healthiest Hoodie. Um, which was a hoodie-
+speaker_0: Yeah, love those
+speaker_1: ... fully organic cotton, uh, non-toxic. Uh, they sold out in a few minutes. People relisted them on eBay and Grailed for thousands of dollars.
+speaker_0: Yeah.
+speaker_1: Uh, so we did a bunch of these marketing drops as well, um, that helped, that helps create awareness.... that translated to wait list sign-ups.
+speaker_0: Yeah. But, like, a little tiny question here is, like, I talked to some founders even about, like, Superpower, and they're like, "How did they do that? Because, like, before our launch, we were struggling with actually letting people know about this launch." So, even, like, if we take the Whirly Health face hoodie, right? How did it encourage people buying that? Yeah, you mentioned that, like, you have great website, everything, but you still need people to find it out.
+speaker_1: Yeah, I think the first part is making sure you have a good idea.
+speaker_0: Okay.
+speaker_1: All right?
+speaker_0: Check. [laughs]
+speaker_1: And I think something doesn't inherently go viral. Something goes viral-
+speaker_0: Yeah
+speaker_1: ... if it is reflexive with culture, and wha- an idea that already exists.
+speaker_0: Mm-hmm.
+speaker_1: Uh, if you look at Mischief, they specialize in viral drops.
+speaker_0: Yeah.
+speaker_1: The way they think about virality is you take an existing idea within culture, you inject personality or point of view-
+speaker_0: Mm-hmm
+speaker_1: ... and then you push it back at the world. And we see this with most things that are viral.
+speaker_0: Interesting, yeah.
+speaker_1: Right? And you might have seen the Timothée Chalamet video going viral yesterday.
+speaker_0: Mm-hmm.
+speaker_1: Timothée took an idea which exists within culture, a Zoom video, injected point of view, and he pushed it back at the world. Clearly, their launch video was a skit of-
+speaker_0: Oh, yeah
+speaker_1: ... uh, The Social Network. Right?
+speaker_0: Yeah.
+speaker_1: Took an idea in culture, injected point of view, pushed it back at the world.
+speaker_0: Yeah.
+speaker_1: Our hoodie. Hoodies-
+speaker_0: Yeah
+speaker_1: ... exist within culture. Uh, this idea of microplastics and toxins exists within culture. We took those two ideas, we combined them, we injected our point of view, we pushed it back at the world. So when you play with culture and you actually have an idea that is strategically sound, it's far easier to go viral. So I don't think you can make anything viral. I think you actually need an inherently viral idea, and then you have to think about how to execute the virality.
+speaker_0: I think the-
+speaker_1: Mm-hmm
+speaker_0: ... two things... Thr- three things that need to be true to execute virality are, like, distinctive visual identity. It has to look captivating in some way. Distinctive verbal identity. Word choice really matters. Small change in word choice drives big-
+speaker_1: Agree
+speaker_0: ... change in outcome. Oh, yeah.
+speaker_1: People do not appreciate this enough, but words are probably more important than visuals. And then the third thing which has to be true is when you launch, you need a core nucleus of people amplifying it, right? You need some sort of existing distribution to launch into.
+speaker_0: Yeah. Okay. That's almost like, um, an ideal template to launch a viral video right now, [laughs] which is, like, super cool. And, you know, another big part that I wanted to ask you about is hiring. I think, like, your hiring strategy is very special and unique, and I don't know how did it get into your head. Like, who, like, advised you or how did it all happen? But I want to talk about it more. And, you know, I l- I have another quote of yours. [laughs] Today, I have so many. And this one, "It's crazy to me how few people actually aim to hire best in the world, but aiming to do so often makes it possible to do so." Right? So basically, you're talking about, like, hiring underrated 20-years-old people and so on and so forth. So, can you tell us a little bit more? Why... Like, when, when I talk to different founders, they all say, "Oh, we need this superstar, we need this superstar," and they really want to hire some exceptional people, but they also struggle with that. And then people who are trying to find a job, they also struggle because they don't understand, like, "Okay, like, I'm not ex-Google, not ex-Instacart, not ex-Airbnb, so what do I do?" So, how do you look at hiring?
+speaker_1: We thought we hired some of the best people in the world, and we had to fire most of them. So we clearly did not. [laughs]
+speaker_0: Oh, okay. [laughs]
+speaker_1: So, uh, I think it's very, very, very hard to hire someone who is already the best in the world. And the reason why is if they're genuinely already the best in the world, they're running a billion-dollar company. They're being paid millions of dollars a year. You can't hire people who are already best in the world. It's basically not possible. What you can do is try to predict who is going to be the best in the world.
+speaker_0: Yeah.
+speaker_1: And that means finding people who are young but brilliant and who have extremely steep growth curves, and identifying them early, right? We have a bunch of young people on the team who-
+speaker_0: Yeah
+speaker_1: ... uh, in several years' time will probably start billion-dollar companies. Uh, we can't hire them after they've started a billion-dollar company. We can hire them before. So I obsess over this idea of how do we find people who maybe haven't done a lot yet, but are inherently really brilliant, have very steep growth curves, and how do we radically empower them? Most of our leadership team is under 30. And we didn't start that wa- way. We had a bunch of 30-year-olds and 40-year-olds and older people, and they were good initially, and then very quickly, the 23-year-olds became better than the 40-year-olds. And the reason why is those 23-year-olds are the kind of people who are gonna create incredible companies on Earth, and they have insanely high slope.
+speaker_0: How do you identify them?
+speaker_1: I think-
+speaker_0: Wha- what is their-
+speaker_1: Yeah, yeah
+speaker_0: ... what should be their insight? Yeah.
+speaker_1: I think typically they have done exceptionally well at most things they've set their mind to in a slightly idiosyncratical, spiky way, right? If someone's just done well, like they just have-
+speaker_0: Yeah
+speaker_1: ... good high school marks and university marks-
+speaker_0: [laughs]
+speaker_1: ... and played competitive sport and got a competitive job, that's like kind of interesting, but it's not spiky. It's not interesting. Instead, we look at someone who has done exceptionally well. They did well in high school. They have high IQ. They're conscientious. They're winning hackathons or math competitions.
+speaker_0: Yeah.
+speaker_1: They're designing, b- but then they, they have some spiky things to their nature. They've typically started a company. They've typically put something out into the world. Um, they have some sort of nonlinear nature to their path. That's what we look for. So, incredibly smart, typically with some sort of spike in the direction of having founded something or stepped out of the traditional path.
+speaker_0: Mm-hmm.
+speaker_1: Um, that's probably logically how I'd articulate it. To be honest, when I'm actually doing it day to day, it's more a feeling. And the feeling is, do I enjoy chatting with this person?
+speaker_0: Mm-hmm.
+speaker_1: And if someone frustrates me, I've learned that that is my intuition saying that there's some sort of talent gap.
+speaker_0: Yeah.
+speaker_1: And if someone is really interesting and I want to keep chatting-
+speaker_0: Yeah
+speaker_1: ... and I'm learning things...That is my intuition saying, "This person is really talented." And three years ago, I didn't trust my intuition that much, right, because I didn't have the reps. Now, we have hired-
+speaker_0: Yeah
+speaker_1: ... dozens of people. And after you do that, you start to get the reps and see, "Was my intuition right or wrong?" And I've learned that this is w- it's not right in all areas. It's wrong in a bunch of areas. In this area, it's nearly always right. Um, so I've learned to trust it.
+speaker_0: Do you talk to all of the new hires? Like, are you, like, deeply-
+speaker_1: Yeah
+speaker_0: ... involved into the interviewing process?
+speaker_1: Uh, yeah. Uh, we, we won't hire someone unless I've spoken to them.
+speaker_0: Okay.
+speaker_1: Yeah.
+speaker_0: That's, that's incredible. And you also mentioned that the key to success of these people is not only these people, but also how you empowered them, right? So, how do you empower these young, ambitious people?
+speaker_1: My view is give maximum context, uh, maximum direction, not at the level of-
+speaker_0: Mm-hmm
+speaker_1: ... do this task, but around this is what's important for the company. And then l- give these people maximum freedom to make things happen and say, "Go cook."
+speaker_0: Mm-hmm.
+speaker_1: Go make something happen.
+speaker_0: Yeah.
+speaker_1: And that is a really high variance approach in the early days, because you're giving people without a lot of experience a lot of freedom.
+speaker_0: Mm-hmm.
+speaker_1: And in the early days, that creates a little bit of a J-curve effect. You go down the payoff curve for a little bit because these people are learning. Very quickly, these people do learn, and you go up the J-curve, and they become incredibly talented far faster. So we try to make everything public. I share board meeting notes with the company. I share investor updates with the company. I'll record around a video once a week and, or twice, once or twice a week-
+speaker_0: Mm-hmm
+speaker_1: ... and share it with the company, and it's basically like, "Here's what I'm thinking. Here's what matters right now. Let's just share those thoughts," because if you have that context, then you can start making decisions. We try to have a flat hierarchy, as flat a hierarchy as possible. I tend to believe senior is an arbitrary co- uh, construct.
+speaker_0: Yeah.
+speaker_1: We, uh, basically to- don't have, uh, titles. We try to say everyone is the name of the function. If you're in product, you're just called product. If you're in design, you're just called design, right? Um, and a lot of the small things add up to giving people the sense of empowerment.
+speaker_0: Hmm. I love that. No, this is very interesting. But another question. So, you mentioned that probably most of these hires will start their own companies, right? Is it kinda like... Does it hurt [laughs] when you invest a lot in people and then they leave, or like, are you okay with this idea, and it actually makes you even more proud if your employees will go and start incredible companies?
+speaker_1: Well, if- I think if we look at many of the greatest companies on Earth, um-
+speaker_0: Yeah
+speaker_1: ... uh, they tend to have the most founders within them who have started other companies, right? So it's kind of inevitable if you hire enough talented people, some are gonna leave to start companies, and that's fine.
+speaker_0: Yeah.
+speaker_1: Like, that means we've probably hired well. At the same time, it's incumbent on us to make sure that the best people stay. And that means giving them more empowerment, more scope, making sure they're having fun, and giving them a ton of equity.
+speaker_0: Yeah, and I think you also mentioned somewhere that overpaying is better than underpaying. Can you tell me a little bit more about that? [laughs]
+speaker_1: So, typically, when you overpay, it means you're paying two times more.
+speaker_0: Okay.
+speaker_1: Two times more than average. That's what overpay means. But paying two times more allows you to get someone who is 10 times better. So, it's like you pay two times to get someone 10 times.
+speaker_0: Mm-hmm.
+speaker_1: And you're ho- like, "Hold up, there's a five times arbitrage in here." So, one of the best bra-... Because pay scales linearly, whereas talent scales exponentially. So, one of the arbitrages is actually finding someone overpaid, uh, because it typically means that they're gonna be 10 tim- they're paid two times more, but they're 10 times better. So, there's maybe something in there.
+speaker_0: Okay. Now, this is very interesting. Um, meaning that... And this is true for the company, right? For, like, for all the employees? So, meaning that, like, it's a li- a little bit of, like, more investment into the, like, payroll and all of these things, but it still pays off, right?
+speaker_1: Yeah, again, it's a scale, and depending on the role-
+speaker_0: Yeah
+speaker_1: ... there are times when you do not want to overpay. Like, yo- you- you-
+speaker_0: Yeah.
+speaker_1: It's like, okay, we don't have to for this role, but I think f- for the roles where you can have an exponential talent distribution, the best engineers, the best product-
+speaker_0: Yeah
+speaker_1: ... or the best designers, that's where you want to overpay.
+speaker_0: Yeah, that's, that's amazing. Um, I think that's actually pretty cool. And, you know, I also overheard that not only you have talented and ambitious people, that Superpower also has one of the most good-looking teams in San Francisco. [laughs] Is there a special criteria that you check [laughs] as well?
+speaker_1: Um-
+speaker_0: How did it happen? [laughs]
+speaker_1: Well, if you're healthy, you look better.
+speaker_0: Mm-hmm.
+speaker_1: That's true. Like-
+speaker_0: 100%
+speaker_1: ... we know that's true. And most of the team is pretty healthy. I think we're a pretty high taste company. We have a distinctive visual identity.
+speaker_0: Yeah.
+speaker_1: And, uh, if someone's high taste, it tends to mean they also care about how they look. So, maybe that's part of the correlation. Um, so maybe there's some things in there. I'm also being slightly facetious with that [laughs], that tweet.
+speaker_0: Yeah, yeah, no, but that's okay. Uh, but that's actually true. So, you know, it's good to bring some fashion to San Francisco [laughs] and also to look at healthy and good-looking people. I definitely agree with you here. And, you know, um, talking about the health, right? So, that's what I wanted to ask you. Next is about this era of personalized health. What are you building? How, what is your, like, bold mission? So, can you tell me a little bit more about that, and how do you see the future of health?
+speaker_1: We are building a new healthcare system, and the reason why is because the existing one is not actually keeping people healthy.
+speaker_0: Mm-hmm.
+speaker_1: It's not preventing disease, and it's not enhancing human life, right? It's well-documented that it's failing.
+speaker_0: Mm-hmm.
+speaker_1: If we look at what a new healthcare system looks like, we believe that we have to empower people to have access to most ad- advanced diagnostics, advanced therapeutics, and AI to tell them what to do, rather than human doctors.
+speaker_0: Mm-hmm.
+speaker_1: Right? So, fundamentally, we, we wanna build a new system that gives everyone access to the frontier of medicine in the lowest way possible.
+speaker_0: Yeah. And I think you also call it, like, kinda like health on autopilot. Is that the right term to say that?
+speaker_1: Where the world is going is to what I call opinionation, which is once an AI has sufficient context on you, your data, your preferences, et cetera, it can tell you exactly what to do.
+speaker_0: Mm-hmm.
+speaker_1: And if it has enough context, we will- it'll be right and we will follow it. This is true for health as well. So the strong form implication, I think, of AI for human health is that everyone has an AI that puts their health on autopilot. It tells you what to do, it orders everything for you, and it's right every time because it has full context. We're not quite th- there yet, but that's where we need to get to.
+speaker_0: Yeah. And right now SuperPower is membership based, right?
+speaker_1: Yep.
+speaker_0: And it's like $199 per month, right?
+speaker_1: Uh, per year.
+speaker_0: Per year. $199 per year. God, and like, you know, I- I really loved this quote that you- that you had that like, "150 million Americans own Amazon Prime, then Netflix, then Spotify, so next is SuperPower." Is that your goal?
+speaker_1: Uh, minimum.
+speaker_0: Minimum.
+speaker_1: Uh, yeah, minimum. Like, the way we think about the membership is, let's say we're priced somewhere between $100 and $200, what is the best possible thing we can provide at that price for everyone to own?
+speaker_0: Mm-hmm.
+speaker_1: So the strategy with the membership, there's two parts to the business, there's the membership and the ecosystem. The ecosystem is everything you can buy for your health, and we try to bring the frontier of diagnostics and therapeutics to people at the lowest cost. The membership, we basically sit there and say, "What is the best possible membership?" And every day, every week that goes by, we just add more and more to the membership, right? So we start, so right now the membership will start with an annual diagnostic.
+speaker_0: Mm-hmm.
+speaker_1: We'll test over 100+ blood biomarkers, which is incredible because if you went to the hospital to get that, you're set back $2,000 or something.
+speaker_0: Oh, yeah.
+speaker_1: So part of the $199 a year, we give you 100+ blood biomarkers.
+speaker_0: Uh-huh.
+speaker_1: We pool all of someone's data into one place, we collect as much on someone as possible, connect wearables, and all of this builds what we call someone's digital twin. So it's a digital profile of someone that allows us to know what they should do. And all of that comes together, uh, to create a protocol. And the protocol is really, really, really important because this is the health on autopilot. The protocol is this thing that says to someone, "Given your preferences, your budget-"
+speaker_0: Mm-hmm.
+speaker_1: "... your health goals, your health data, your personal history, your family history, what do you do? What is the exact thing for you?" Someone will get that protocol within the membership as well, which is constantly updating. We're constantly saying, "Here's what you should do. Let's update it, let's update it." Um, and then within the membership, uh, someone can chat with the AI. Um, most of our members go to
+speaker_2: [laughs]
+speaker_1: ... before ChatGPT now for health questions.
+speaker_0: Mm-hmm.
+speaker_1: You also have 24/7 access to a medical team, so you can pull out your phone and just text a medical team. And you also get 20% off everything. So you get basically at-cost supplements, at-cost pharmaceuticals, at-cost diagnostics, or at least cheaper than Amazon, cheaper than H&M, cheaper than anywhere else. And all of that is $199 a year, which is crazy.
+speaker_0: $199 a year. So it's around $16 per month, right?
+speaker_1: Yeah.
+speaker_0: That's, yeah, like, you- if you go to the hospital, you'll spend so much more. You know, like I pay my insurance and still every time I go to the doctor, I still have to pay even more.
+speaker_1: Oh, yeah.
+speaker_0: And that's, like, insane, so, like... [laughs] And so here, you basically get so much and you have, like, this membership and you get, like, in control of your health, and, like, yeah, this- this is amazing. So you believe that slowly we'll get to the point that, like, every person will also think about health and have this, like, kind of health membership at SuperPower?
+speaker_1: Uh, yeah, correct.
+speaker_0: Yeah, incredible. And, you know, um, the other question is also what do you do for your health? I know that you're very particular and you have some life hacks, so can you give me three health tips that you personally do that helps you be good-looking, healthy... [laughs] Full of energy, and so on and so forth?
+speaker_1: Number one is I have this superfood smoothie every day.
+speaker_0: Superfood smoothie every day?
+speaker_1: Uh-
+speaker_0: Got it, okay
+speaker_1: ... which has around 50 grams of protein, 30 grams of fiber, a ton of antioxidants, and, um, a lot of gut-supporting compounds.
+speaker_0: Mm-hmm.
+speaker_1: So we sort of have protein, fiber, antioxidants, gut, all in maybe 300 calories, and it fuels me up like a thousand calories, which is crazy.
+speaker_0: Yeah.
+speaker_1: So I'll do that-
+speaker_0: Okay
+speaker_1: ... every day.
+speaker_0: Sweet.
+speaker_1: And that's probably number one. It's just, like, a simple thing most people, I genuinely think, should do. Number two is what I call passive optimization. So how do we use existing moments in our life-
+speaker_0: Mm-hmm
+speaker_1: ... and get more out of them? For example-
+speaker_0: Okay
+speaker_1: ... every time I go up and down the elevator, I will meditate for 20 seconds, right? When I'm at my desk working, I'll use hand grippers for- for grip strength. Or I'll stand on a slanted board to stretch my calves. Or I have, uh, uh, resistance bands and I'll do band pull-aparts. So how do we take moments of our life that we are already using in some way-
+speaker_0: Yeah
+speaker_1: ... and just, like, add a little bit more to them, right? So I'm not saying create more time, I'm saying get more from the time you already have. So that's number two.
+speaker_0: Interesting.
+speaker_1: Passive optimization. And then number three-
+speaker_0: Love that
+speaker_1: ... is, I- I have to say peptides. Uh, everyone thinks-
+speaker_0: [laughs]
+speaker_1: ... I'm the peptide dealer of San Francisco.
+speaker_0: Yes, yes, absolutely. [laughs]
+speaker_1: So, I, uh, I think peptides are gonna be the biggest consumer category in health of all time.
+speaker_0: Can you explain to people who don't understand what it means and how you can get them?
+speaker_1: Peptides are these compounds people are injecting into themselves to give you superhuman-like abilities. Now, gl-
+speaker_0: Okay. [laughs]
+speaker_1: Gl- gl- glp-1s are the peptides most people know, uh, and we now have compounds like glp-1s, like Ozempic's a glp-1, but we have compounds like glp-1s for every other health goal.
+speaker_0: Yeah.
+speaker_1: There's ones for cognition that make you smarter, there's ones for sleep that help you sleep better, there's ones for energy that give you a lot of energy, there's ones for longevity, there are ones for healing, there's ones for immunity. No one on our team ever gets sick, or at least the people who take this compound never get sick anymore.... 'cause we have-
+speaker_0: Oh, my god
+speaker_1: ... these frontier peptides. The market is still early. There's still some risk, but I think this is gonna be a mega, um, category. So, but, yeah, peptides, number three.
+speaker_0: So, as of now, can you order them online somehow or, like, how does it work?
+speaker_1: Yeah, we, we sell a handful of them.
+speaker_0: At Superpower?
+speaker_1: Yeah.
+speaker_0: Okay. So if someone is interested, they can just go to your website and find this information, or just reach out to-
+speaker_1: Yeah, you, you need to be a member, member. Yeah.
+speaker_0: You need to be a member. Oh, okay.
+speaker_1: Yeah.
+speaker_0: So this is like a special perk for members?
+speaker_1: Yeah.
+speaker_0: Do you take all of them? You mentioned different categories.
+speaker_1: Nah, I need, I, I, I, I take a few. I take a few.
+speaker_0: Moderate, healthier. You take a few. Okay. Not all needed.
+speaker_1: No.
+speaker_0: [laughs]
+speaker_1: I probably should take more.
+speaker_0: Yeah. You should... Uh, okay.
+speaker_1: I think I've just, like, not been disciplined enough.
+speaker_0: Okay.
+speaker_1: But I probably should take more.
+speaker_0: Well, I mean, if you are not disciplined enough, I don't know who is disciplined enough because, like, while listening to you, I was like, "Oh, my God, this, like, passive optimization, like, always, like, so smart, having great ideas." Do you, do you have a rest? Like, do you just do nothing? Like, I don't know. What is your guilty pleasure? [laughs]
+speaker_1: Um, gosh. Um, my-
+speaker_0: Do you have it at all? [laughs]
+speaker_1: Probably, yeah, I think my, my closest to a guilty pleasure is, like-
+speaker_0: [laughs]
+speaker_1: ... good food and good wine.
+speaker_0: Okay.
+speaker_1: I-
+speaker_0: So you drink alcohol?
+speaker_1: Yeah, yeah.
+speaker_0: Okay.
+speaker_1: Uh, I don't get drunk.
+speaker_0: Yeah, no.
+speaker_1: I- I remember when I was last-
+speaker_0: No judgment. [laughs]
+speaker_1: Like, I, I, I, I drink, I drink wine probably three times a week.
+speaker_0: Is it healthy?
+speaker_1: Um, I think it's fine for you. Like, if you're having a very small amount-
+speaker_0: Okay
+speaker_1: ... and, uh, it's high-quality wine, there's not a sufficient amount of evidence to say that is bad for you.
+speaker_0: Mm-hmm.
+speaker_1: Um, if you look at empirical data, uh, it actually is associated with a longer life. If you look at Blue Zones, most of them drink small amounts of alcohol. If you look at mechanistic reasoning, you can make arguments for and against. The arguments for is that it's antiviral, antibacterial. Uh, it's an antioxidant.
+speaker_0: Hmm.
+speaker_1: It increases GABA. And then there are a bunch of arguments against as well.
+speaker_0: Yeah.
+speaker_1: So I think on net, like, if you're having one glass three times a week, I don't think it's gonna move the needle in either direction.
+speaker_0: I love that. [laughs]
+speaker_1: Yeah.
+speaker_0: Perfect.
+speaker_1: Yeah. [laughs]
+speaker_0: You just, you know, like, kinda officially allow me to have three glasses of wine a week, so- [laughs]
+speaker_1: Yeah, yeah, totally
+speaker_0: ... as a health expert. Okay. Um, last question. You had, um, I think you had some bunk beds in your office that disappeared. So, my question is, like, what happened? And the other thing, is it all about 996 culture, having the beds in your office? Tell me more.
+speaker_1: I hate this label of 996.
+speaker_0: Ooh. Okay. [laughs]
+speaker_1: Uh, uh, we work more than 996. And-
+speaker_0: Oh, that's why. Okay. Good.
+speaker_1: Uh-
+speaker_0: [laughs]
+speaker_1: ... we don't tell people when they work or how much they have to work.
+speaker_0: Yeah.
+speaker_1: We don't do any of that.
+speaker_0: Yeah.
+speaker_1: Instead, we hire people who care about the mission and we create a really fun and meaningful environment. And within that context and culture, people can choose how much they want to work. They can choose when they're in the office. Um, now, if we've hired correctly and we're working on important things and it's fun, people want to be there.
+speaker_0: Yeah.
+speaker_1: Right? We have dinners in the office on Saturday and Sunday night, a bunch of the team's in.
+speaker_0: Yeah.
+speaker_1: Not because they have to be. It's because they genuinely are having fun, right? Like, we spend an hour laughing together and-
+speaker_0: Yeah
+speaker_1: ... socializing together. That's fun, right?
+speaker_0: That is fun.
+speaker_1: We have all sorts of activities and games in the office. Um, so that's kind of how I think about 996. On the bunk beds, um, we-
+speaker_0: Yeah, what happened? [laughs]
+speaker_1: ... got, uh, we got a triple bunk in one of our, our roo-
+speaker_0: Just to make your people comfortable.
+speaker_1: Uh, yeah. Like, uh, f- for some reason, the building thought that meant that we had three people sleeping there overnight. I can guarantee that the lawyers in the building that, uh, it was not for the purposes of living in an office. It was for the purposes of a nap pod during the day. They disagree, so we got an eviction notice.
+speaker_0: Oh.
+speaker_1: And the bunk bed no longer exists.
+speaker_0: Are you sad?
+speaker_1: Uh, I was very tempted to just, like, fight the building and enter into a lawsuit because I don't like being told what to do. But I just think right now, we don't have the time for it, so we're just, like, listening to them for now. And then maybe in the future we'll fight them because they're wrong. There's no law against not having beds in an office. You're not allowed to live in an office. We're not living in the office.
+speaker_0: Yeah.
+speaker_1: They're nap pods, right?
+speaker_0: Yeah.
+speaker_1: And so- sometimes if someone's in super, super late, they will sleep overnight. Sure, they can sleep under their desk. They can sleep on the couch.
+speaker_0: Of course.
+speaker_1: That's fine. You're not allowed-
+speaker_0: Yeah
+speaker_1: ... to, if you're working till 4:00 AM, not get a three-hour nap before you wake up the next day. We don't have people living here, and therefore we're not doing anything wrong. Um, and therefore, we're right and the building's wrong, and therefore we should fight it because the truth is what matters. Uh, but we don't have time to do that right now 'cause we have more important things to work on. So we'll fight it when we have time.
+speaker_0: [laughs] We'll fight when we have time. The final thought, uh, what's your main goal till the end of this year that you want to achieve? Personal or work related.
+speaker_1: Uh, the main one is to get Superpowered's product and, uh, to a certain place. We have, we have a goal for engagement-
+speaker_0: Mm-hmm
+speaker_1: ... on how much engagement post the action plan people have. And then we have a, a goal on the marketing and growth side as well. So they're the important things for me right now.
+speaker_0: Amazing. Thank you so much. You wanna show me your desk?
+speaker_1: Uh, yeah, let's do it.
+speaker_0: High five.
+speaker_1: Boom.
+speaker_0: Yay.
+speaker_1: Start with the water bottles. So, two water bottles. Um, this one here has water with trace minerals/electrolytes added.
+speaker_0: Okay.
+speaker_1: And this is just normal water. The reason this is really big is that I fill up my teapot from it, and-
+speaker_0: Oh
+speaker_1: ... that's because I don't like walking back and forth to the kitchen. And the reason I keep the teapot at the desk is because, um, I make Japanese Gyokuro green tea every day, and the first steep requires water of one temperature.
+speaker_0: Yeah.
+speaker_1: Then you gotta go warmer for the second steep and then warmer again for the third steep. So I adjust it-
+speaker_0: [laughs]
+speaker_1: ... and do this, uh, all here.
+speaker_0: Okay. Nice. Looks clear.
+speaker_1: Um, there's a good microphone. I often use this with my iPhone on as a camera because the quality is just far higher than this camera. Uh, these are excellent headphones. Um, so I've got these ones which are wired for the desk, and then I've got another set that I use, uh, when I'm like walking around.
+speaker_0: Mm-hmm.
+speaker_1: This is a standing desk, so you can stand.
+speaker_3: [laughs]
+speaker_1: This here is nicotine, um, which is probably my favorite nootropic.
+speaker_3: Wow.
+speaker_1: It's really, really good for cognition and focus. It's also probably neuro-protective. I think nicotine is one of the most underrated compounds in the world.
+speaker_3: Seriously?
+speaker_1: Uh, yeah, yeah. It's really good for you.
+speaker_3: It's... I mean, it's... and it's totally healthy. It's not like it...
+speaker_1: No, it's really healthy. It's genuinely really good for you.
+speaker_3: Okay.
+speaker_1: Now, if you have too much-
+speaker_3: Yeah
+speaker_1: ... you can get addicted. I, I don't have too much. Um, but it's a really powerful compound. This is an air, um, purifier-
+speaker_3: Okay
+speaker_1: ... so it sits out at my desk. These are some supplements I take at night. And then-
+speaker_3: Not peptides though. [laughs]
+speaker_1: No, no peptide. Peptides have to be in the fridge.
+speaker_3: [laughs]
+speaker_1: And then I have a bunch of tea here. So we have, like, the Japanese Gyoku-
+speaker_3: Not the plastic bags, you know? Like, not this-
+speaker_1: Green tea.
+speaker_3: Yeah.
+speaker_1: No, no, no. [laughs] No plastic-
+speaker_3: Special ones. Okay.
+speaker_1: Um, so I've got this one. I've got a bunch of different ones. This one, and then probably the best one, the highest quality is-
+speaker_3: For tea lovers. [laughs]
+speaker_1: ... this h- this here. Um, this is, I think, like, an $80 tea, but it's, it's very good. Um, [laughs] and then I have a bunch of small exercise equipment. So I have a... two lacrosse balls-
+speaker_3: Oh, okay
+speaker_1: ... and I'll use the lacrosse balls just, like, ro- to roll my feet on. And then under the desk I've got a walking treadmill just here.
+speaker_3: Do you actually use it?
+speaker_1: Yeah, yes. So I'll use... Oh, shit. This fucked up. Oh, not good.
+speaker_4: Oh. [laughs] He said it-
+speaker_3: [laughs]
+speaker_1: Okay.
+speaker_4: Let me see if I can get it
+speaker_1: Okay.
+speaker_4: If you set it in the mirror.
+speaker_1: Okay.
+speaker_3: Oops. [laughs]
+speaker_1: Luckily that didn't break. That could have ended poorly.
+speaker_3: [laughs]
+speaker_1: Um...
+speaker_3: We're fine. [laughs]
+speaker_1: We're fine. So a walking treadmill and then I have the little, um, pad as well to stretch my calves. And then over here a bunch of resistance bands. I'll either use this for band pull-aparts or, like, exercising my neck. This is a heavy 10 kilogram bar. You can do these with it. It's pretty heavy and hard to do, and it had the mobility. And then-
+speaker_3: Oh, nice
+speaker_1: ... here's a, uh, I think a 70 pound, 60 pound kettlebell.
+speaker_3: 28 kilos, okay.
+speaker_1: Yeah, 28 kilos.
+speaker_3: I'm still thinking in kilos now. [laughs]
+speaker_1: Um, so yeah, that's, that's the, that's the desk setup.
+speaker_3: Perfect, so that's where-
+speaker_1: Oh, there's, there's some more things. So this here is a headband that you can use to improve focus, so I'll, I'll use that sometimes as well. It's just like a headband and it increases your focus.
+speaker_3: Well, I guess if somebody happens you can actually live here at this office and be fully set up with all the necessary supplies, uh- [laughs]
+speaker_1: Uh, yeah, yeah, literally
+speaker_3: ... for
+speaker_0: Good times and living.
+speaker_1: Yeah, yeah. Well, I get here at 9:00 AM and I stay to, like, 1:00 AM most days, so... [laughs]
+speaker_3: Nine to one-
+speaker_1: Yeah
+speaker_3: ... everybody attention please. Okay.
+speaker_1: Yeah.
+speaker_3: So this-
+speaker_1: So, you can, you can... I, I have a gym session during the day though.
+speaker_3: Okay.
+speaker_1: Like, uh, yeah.
+speaker_3: Keeping healthy, right?
+speaker_1: Tha- those hours are probably, uh, what's that? 16 hours, uh, seven days a week. You can do the math on that, but it's more than 9:00, 9:00 to 6:00. Yeah.
+speaker_3: Okay. Amazing. Thank you, Max. [laughs]
+speaker_1: [laughs]

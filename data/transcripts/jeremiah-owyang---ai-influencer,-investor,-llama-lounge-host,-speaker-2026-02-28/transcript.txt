@@ -1,0 +1,638 @@
+speaker_0: Hi, Jeremiah. It's so great to see you here. Thank you for coming.
+speaker_1: Dasha, it's a pleasure.
+speaker_0: Of course. So I was thinking about how to describe you in a few words.
+speaker_1: Ooh.
+speaker_0: But, like, correct me if I'm wrong. Uh, investor.
+speaker_1: Yep.
+speaker_0: AI influencer.
+speaker_1: Eh.
+speaker_0: Tech event organizer.
+speaker_1: Yeah.
+speaker_0: Anything else to add here?
+speaker_1: Um, speaker. I love to speak at conferences. But I think you got me pegged.
+speaker_0: Yeah. Okay. Perfect. So let's get straight to the point.
+speaker_1: Mm-hmm.
+speaker_0: AI, AI, AI, everybody, everywhere. So there is over 100 events, in-person AI events, in San Francisco.
+speaker_1: Per month.
+speaker_0: Per month, right. What's going on?
+speaker_1: There is just a real clamoring for AI. It is the big trend. And I think one of the reasons is this is built upon the other waves of the internet, whether it's cloud, mobile, social, data. It all kind of culminated to this event. And, oh, about 20 months ago, we saw that birth of GPT-3.5, which took the world by storm. You could talk to it, it could talk back.
+speaker_0: Oh, yeah.
+speaker_1: And people were like, "Wow, this is for real." It was like... It was real and tangible that everybody could use. And it was that moment the world kind of lit up. Now, in San Francisco, uh, April 1st in 2023, there was a massive event down the street, actually very close to here [clears throat]. At the Exploratorium, there was 5,000 AI professionals there.
+speaker_0: Oh, yeah.
+speaker_1: It was called the Woodstock of AI. It was hosted by Hugging Face. And at that moment, I knew that it was on. And from then on, there was just all these events.
+speaker_0: Oh, my god. So is it like a pandemic thing? Like people got tired of, like, having everything online, and, like, that's what they want right now? And plus AI, and like it's all together, like a mix of all the things?
+speaker_1: Yes. So that's a big part of it, is people want to be together. And I think we should point out that it's kind of ironic that AI builders-
+speaker_0: Yeah
+speaker_1: ... want to be together in person, but I think that's-
+speaker_0: That's funny, right?
+speaker_1: ... kind of the big trend. Yeah. Well, I think the thought is that if we can get AI to do the, the tasks that we don't want to do, then we can spend more time being human, being together, going to the park, talking to each other like we are right now. And the other thing, there's a really weird thing happening in San Francisco. The pandemic decimated the city. There's around 35% to 40% commercial vacancy. So people are really clamoring to connect. And now there's a lot of space to host events. So those two things are kind of happening at the same time.
+speaker_0: Yeah. As an event organizer myself, I definitely agree here. But do you think, because some company, they still do host virtual events, do you think it still makes sense, or, like, it's not worth trying even, and it's better to focus on in-person only?
+speaker_1: Uh, you can do both. I mean, with virtual events, you're gonna have that, uh, global reach-
+speaker_0: Yeah
+speaker_1: ... that you just can't, and then... Especially with people that are not able to get here. I mean, AI is a global phenomenon, but what we're seeing is that AI founders and investors and big corporations are setting up AI hubs. It is all happening here in the San Francisco Bay Area. This is really the epicenter, the cradle of AI.
+speaker_0: Yeah. And, you know, uh, a month ago, I put an article together for Forbes called Culture of Innovation, but I think I have more questions to ask you as well. So, in your opinion, why Silicon Valley is so special? What is so unique about this place that we don't see in any other places?
+speaker_1: Dasha, I've been here for 27 years.
+speaker_0: Ooh. [laughs]
+speaker_1: Uh, I was an intern in.com, like that first big wave.
+speaker_0: Wow.
+speaker_1: And then I was in Web2 and the sharing economy, Web3, and now AI. And this is the biggest trend, for sure. But I think what is the interesting that makes innovation happen here is, uh, there's a number of universities that inspire great talent, like, uh, Cal and Stanford. Um, but I think a big thing is that people reinvest in the culture. So when people win as a founder, they become investors, and they put money back into the ecosystem.
+speaker_0: Mm-hmm.
+speaker_1: And I think one of the big factors is immigrants. People from all-
+speaker_0: Immigrants?
+speaker_1: ... over the world. Yeah, you could walk down the street, and you're gonna hear all kinds of languages. And people are accepted here.
+speaker_0: 100%.
+speaker_1: And many people, when they come here, they said, "I was gonna talk about... to my friends back at home about these new tech concepts, but they told me it was stupid. They told me it couldn't be done."
+speaker_0: Yeah.
+speaker_1: "They told me it can't happen here. So I decided to come to San Francisco." And, uh, over 50 years ago, in the '60s, there was the, the big hippie movement and the-
+speaker_0: Yeah
+speaker_1: ... the Summer of Love and-
+speaker_0: Yeah
+speaker_1: ... and, you know, people smoked marijuana, and, uh, free thinking was really encouraged. And that culture still permeates, even through the tech culture, it's part of that. Even Steve Jobs was, in a way, a hippie in many ways. So all of these cultural flavors and, you know, things came together to make San Francisco and the Bay Area this place that en- enables new ideas.
+speaker_0: Yeah. I have a lot of questions right now.
+speaker_1: Yeah.
+speaker_0: Uh, the first one, you know, like I totally agree with you, and yesterday we had an event with female founders, and we were talking about why San Francisco is so great to be.
+speaker_1: Mm-hmm.
+speaker_0: And one of them mentioned that it's all about hope, you know? Like, hope that you can make an impact, that you can-
+speaker_1: The future.
+speaker_0: Yeah. Uh, like, uh, that you can change the future, that you can build something really unique. And I think that's part of the reason, right? What do you think about it?
+speaker_1: That's absolutely right. And I think everybody's gonna have their own view [clears throat] on that. Um, in addition to hope, it's okay to take a risk here. And you can build something, and if you fail, it's okay. You can actually pivot the company, or you can launch a new company. Your reputation isn't destroyed. Your family's reputation isn't destroyed here. You can actually do that a couple of times, not forever.
+speaker_0: [laughs]
+speaker_1: [laughs]
+speaker_0: Is there, like, a limited number of... moves you can make? [laughs]
+speaker_1: There's a limited number. There's a limited number, and if you can exit gracefully and show you can pivot, it's, you know... And you can show that you've learned from it, um, the culture here is okay with that. And in many other cultures, you cannot fail.
+speaker_0: Yeah.
+speaker_1: Bad things will happen to you. You'll be ostracized from the community.
+speaker_0: 100%. Yeah, I think people are still free to take a risk here, and that's definitely amazing. But, you know, on the other side, um, some people say that this culture is also very toxic in a way that everyone is a builder, and there's like a never-ending race that you're in. And because of that, there is no work-life balance. You have, like, health issues and so on and so forth. So how can you commend it?
+speaker_1: That's also true. Every strength has a weakness.
+speaker_0: Yeah.
+speaker_1: And this culture of innovation, of build, build, go, go, get your company to IPO or exit or to sale, it-
+speaker_0: Yeah
+speaker_1: ... as considered a way of winning in life, isn't the only way you win in life. As you know-... having family, taking care of yourself, being connected to society, helping society, going in and out to nature and touching grass.
+speaker_0: [laughs]
+speaker_1: Those are all so important as well. Uh, but, uh, yeah, so the culture of work, you know, from dawn till-
+speaker_0: Mm-hmm
+speaker_1: ... dawn till dusk and behind a computer screen, that's not really healthy. And so, that is a downside of the culture for sure. Uh, but I th- I think things are changing. This next generation is really more interested in being connected and... I was just reading an article today that Gen Z is really into health and fitness. Like, they're the biggest generation of going to the gym. So, there's a change in the balance.
+speaker_0: Really?
+speaker_1: Yeah.
+speaker_0: Statistically?
+speaker_1: Statistically.
+speaker_0: Okay, it's proven? Oh, wow.
+speaker_1: Yeah. There's, they're really into, you know, taking care of yourself, that's important. And so, I think there's gonna be a change in the culture that's not just only about work and burnout.
+speaker_0: Mm-hmm. So, we're moving to four days a week instead of five? [laughs]
+speaker_1: [laughs]
+speaker_0: Gym, like, healthy lifestyle. Uh, yeah, but I agree with you, I can definitely see this trend, I just was not sure if it's statistically proven. Um, but yeah, and can you say that you have a work/life balance for yourself?
+speaker_1: Uh, I do, yeah.
+speaker_0: You do?
+speaker_1: I do.
+speaker_0: So, what is the secret?
+speaker_1: Um, so I get my fitness done first thing in the morning-
+speaker_0: [laughs]
+speaker_1: Uh, and that's before I start work.
+speaker_0: So, every day?
+speaker_1: Uh, five times a week.
+speaker_0: Okay, like-
+speaker_1: Yeah, before dawn-
+speaker_0: ... or, you know
+speaker_1: ... I just get it done. And, you know, spend time with my family. I have, I have kids as well. And then start the work day, but I'm working all the time. So, but I think it's important-
+speaker_0: [laughs]
+speaker_1: ... this. The key thing is to pay yourself first. And so, what I mean by that is you-
+speaker_0: Yeah
+speaker_1: ... do your reading, you do your meditation, you do your fitness, you gotta take care of yourself. You can't do that first, then you can't take care of your family or those around you or the people in your company who are relying on you. Uh, even for me as a, an investor, like, the fund is gonna last over 10 years. So, I need to take care of myself because our-
+speaker_0: Yeah
+speaker_1: ... people who gave us money are... and the founders who are relying on me, it's a longtime journey. And so, I expect the founders that I'm backing to take care of themselves as well.
+speaker_0: Yeah, it's like in an airplane, first put the mask on yourself, then maybe a baby [laughs].
+speaker_1: Absolutely, Dasha. That's a perfect metaphor.
+speaker_0: Yeah, yeah, yeah. Okay. Uh, but going back to immigrants, a question. Um, what is so different about immigrants and how do they actually contribute to the whole ecosystem?
+speaker_1: San Francisco is built by immigrants and actually the, obviously, the indigenous people that were here as well. So, uh, we have the indigenous people, um, Mexico is here, the Chinese helped build the railroads, the Italians are in Little Italy.
+speaker_0: Yeah.
+speaker_1: Um, there's just a real mixture of all these cultures that have built San Francisco for o- over 100 years ago. And now, because it's connected to the Pacific, we have people from Asia flying here, people from Europe. It is truly a mixture of all of these cultures all in, in one place. And each culture brings a different lens, a different food type, by the way. You can see all these restaurants here, this Michelin-
+speaker_0: There's a lot of great food in this hub, right? [laughs]
+speaker_1: What? What's that?
+speaker_0: There is a lot of great food here.
+speaker_1: Yeah. And there's a large ru- a Russian community, large French community, right?
+speaker_0: Yeah.
+speaker_1: Like, there's lots of communities coming together. And so, that's kind of that- that new flavor. And each of them brings a different style, um, to tech, and they have a different way of thinking, and those are all applied here. And the- the cultures just kinda mesh together. You also see this in New York as well.
+speaker_0: True. Yeah.
+speaker_1: And then, here in the tech space, like, people from all over the world. The interesting thing is, typically, I mean, not every- everybody from every country arrives to Silicon Valley, it tends to be those with the big ideas, like you said, the people who have the hope-
+speaker_0: Yeah
+speaker_1: ... the people that are willing to innovate. And so, it attracts the- the best people from around the world that wanna come build, and they come here.
+speaker_0: But do you think we live in a bubble here, kind of? [laughs]
+speaker_1: Wh- of course we live in a bubble, yes. We definitely live in a bubble. Um, this is not representative of the rest of the world. And so, that's something people forget. Like, the adoption that happens here. Like, you and I, we can- we walk out in front of the street, we s- see self-driving cars.
+speaker_0: Yeah.
+speaker_1: Right? It's like, common to see. We see people... I'm sorry, we see cars driving around and there's nobody in them.
+speaker_0: Yeah.
+speaker_1: Like, the Waymo's, right? In-
+speaker_0: At first that was kind of spooky, you know? [laughs]
+speaker_1: Right, it is.
+speaker_0: Now I got used to that.
+speaker_1: Understanding. It's totally normal. There's scooters everywhere.
+speaker_0: Yeah.
+speaker_1: Um, so it's not spread like that in the rest of the world.
+speaker_0: Yeah. But, you know, it's very funny because when, uh, friends visiting from somewhere else-
+speaker_1: Uh-huh
+speaker_0: ... uh, they're like, so impressed by these self-driving cars. It's really like a tourist attraction for them.
+speaker_1: Yeah.
+speaker_0: Like, they're willing to take a ride and test it out.
+speaker_1: I see it. I think it's great.
+speaker_0: And that's amazing. No, 100%, this is something like, you kind of have a feeling like you live in the future, you know? And I mean, it's even... I know, it's fantastic how normal it is for us already, you know? How fast we get, like, adjusted to all these innovations and they become our reality.
+speaker_1: It- it is. Um, I wanted to bring up one other point I just thought of about immigrants.
+speaker_0: Yeah, sure.
+speaker_1: Uh, a majority of the startups are founded by immigrants in Silicon Valley.
+speaker_0: Good point.
+speaker_1: And if you actually look, most of the tech companies are run by, um, people who were not born here. The big tech companies. Like, the- the Indians, uh, from Asia-
+speaker_0: Yeah
+speaker_1: ... they have [laughs] the most CEOs in some of the biggest-
+speaker_0: True
+speaker_1: ... tech companies here in the world. Um, and I think the reason, one of the reasons is, you can come here, do that, take that risk, and you can get world-famous and, frankly, wealthy-
+speaker_0: True
+speaker_1: ... in- in 5 to 10 years. So, it's a- like, what an opportunity. There's not a lotta places in the world where you can do that and apply your brains and- and go for hope, as you said, Dasha.
+speaker_0: Yeah. No, I agree with you. Though, you know, like, uh, my parents, they kind of think that I live in a terrible place because what they watch in news, they are like, "Oh my God. Why our daughter is so not lucky? [laughs] Why does she live in such a terrible place?" I'm like, "Mom, come on." Like, [laughs] I mean, it's all good.
+speaker_1: Yeah.
+speaker_0: So, the way it's presented, you know, from outside, uh, sometimes can be different. [laughs]
+speaker_1: San Francisco has extremes. Um, so-
+speaker_0: True
+speaker_1: ... there's extreme tech innovation-
+speaker_0: Yeah
+speaker_1: ... happening and high tech, but at the same time, there's another part of society that has been left behind. So-
+speaker_0: True
+speaker_1: ... there's this real dichotomy, and it's all happening in just... The- the- the- the city is only seven by seven miles. It's actually pretty small. Uh-
+speaker_0: And walkable.
+speaker_1: It's totally walkable. But, so the media picks up on both of those, but they never show anything in between. So, it's just, all you see is the extremes.
+speaker_0: Yeah. Yeah. I definitely agree. But I hope that w-So in future, we'll work on that, too, uh, with knowing, like, what's all the negative sides, and we'll make our city even better. At least, that is my hope. [laughs]
+speaker_1: That is the hope.
+speaker_0: Uh, yeah. Okay, and, uh, let's switch probably to AI, right?
+speaker_1: Right.
+speaker_0: So how do you see AI evolving over next five years? What are the main trends? I know you speak a lot at different conference about that, so I'm so curious to learn more from you.
+speaker_1: Yes, thank you. So, um, I'm part of Blitzscaling Ventures, which my friend, Chris Yeh, founded, and we're advised by Reid Hoffman. And Reid Hoffman is, you know, the founder of LinkedIn, and, you know, he built Ko-... He was the PayPal monster.
+speaker_0: Very well-known guy. [laughs]
+speaker_1: Uh, fa- great. And, um, I was recently at a dinner with Reid and the team, and he said he can only s- Oh, by the way, he's on the board of Microsoft.
+speaker_0: Mm-hmm.
+speaker_1: And he's a major investor in OpenAI.
+speaker_0: Ah, I see.
+speaker_1: He's like the center in AI. And he says, Reid Hoffman says he can only see two years out. So when you ask me to-
+speaker_0: Two years out?
+speaker_1: Two years out. So when you tell me, "What's gonna happen in five?" I don't know. [laughs]
+speaker_0: Fair enough. [laughs]
+speaker_1: So my mentor, Reid, uh, like he can see two years out. Um, but I think the main reason is because the technology's doubling in capability every six to nine months.
+speaker_0: Mm-hmm.
+speaker_1: Um, s- just some stats to share. Every month, there's 1,000 new AI projects launched. And there's a website called There's an AI for that dot com, of course-
+speaker_0: [laughs]
+speaker_1: ... that tracks all those startups.
+speaker_0: I was looking, was it 1,000?
+speaker_1: Per month-
+speaker_0: Crazy
+speaker_1: ... AI projects. There's, uh, I think almost 14,000, um, as of when we're recording right now, uh, in summer 2024. And so it's just growing at a rapid pace. And by the way, we don't know how many of those AI projects are built by AI.
+speaker_0: True. [laughs]
+speaker_1: And the amount of projects that might be built by AI are only gonna increase. So the human mind thinks in a linear way, right, like this and maybe a curve like that.
+speaker_0: Mm-hmm.
+speaker_1: We just k- can't really understand, like, what it looks like when it starts to go exponential, and that's what's starting to happen.
+speaker_0: Yeah. But, like, I, I got it. You don't know for sure, right, we can plan, uh, like two years ahead. But do you expect, like, big changes come in-
+speaker_1: Huge changes
+speaker_0: ... like really soon or, like, over 10, 20 years?
+speaker_1: I'll give some forecasts on what I see.
+speaker_0: Okay, let's do it.
+speaker_1: So right now, I'm very interested in the AI agent space. In fact, we did an investment in a company that does that. Now, if you're not familiar with AI, let's talk about the different types. So an AI copilot is one that is in- integrated with you, or you're using it like a chat tool-
+speaker_0: Mm-hmm
+speaker_1: ... where you are using it in real time.
+speaker_0: Yeah.
+speaker_1: Like GPT or Claude, Anthropic or Google Gemini.
+speaker_0: Mm-hmm.
+speaker_1: It's like a, a copilot that's connected to an app, or it's just a standalone experience. Separately, an AI agent operates independently on its own capability. You might give it one prompt, or you might say, "Hey, AI agent, I'm Dasha. I'm gonna, I'm gonna let these AI agents look at my calendar-"
+speaker_0: Yeah.
+speaker_1: "... and for the rest of the week, book my Uber rides." And it's gonna alert me-
+speaker_0: Sounds like it's real. [laughs]
+speaker_1: It's gonna alert me when my Uber's in front of my home or after my meeting is done. So it's gonna do all those things on your behalf autonomously. Like, you're gonna have your own assistant, your own EA, or maybe-
+speaker_0: Yeah
+speaker_1: ... you don't wanna do shopping for the home, it's gonna go do the shopping, look at your history, look through your inbox, and find the things that you want. It would autonomously go do those things right there. So AI agents, I see, are rising at a very fast clip. Um, as a result, and this is gonna be within the two-year span-
+speaker_0: Mm-hmm
+speaker_1: ... um, we don't need to go visit the internet. We don't need to web surf. The AI agents are gonna go surf the internet for us.
+speaker_0: Instead of people.
+speaker_1: Instead of humans. And bringing that information back to us in the interface that we want, is it text, video, audio, whatever we want. And so the most common entity in a few years on the internet won't be humans, it will be AI agents on behalf of the human users. So that's a pretty big change, isn't it?
+speaker_0: Yeah, it's interesting. No, I just, uh, probably some company, they're already playing around with that.
+speaker_1: Yes.
+speaker_0: You know, like, kind of like, you know, like Booking, right, where they can like, "Oh, use our AI tool to plan your trip." As of now, I can't rely on them fully.
+speaker_1: Not yet.
+speaker_0: And, yeah, I don't know what should happen so I can be, you know, like, fully confident that my trip will be properly planned. [laughs]
+speaker_1: Yeah, so I think for the first phase, you would observe and monitor and then train it over time. Just, like, think of it as a, um, a college grad that you're hiring. This person doesn't know that much yet, and they're kind of new to the wor-
+speaker_0: Yeah, that's a good comparison, yeah.
+speaker_1: I think it is a good comparison, like an entry-level worker. It can understand or read English or, you know, Cyrillic and, and those can... You can train it over time and, and... Oh, but don't forget, they learn... Unlike a human, they're gonna learn at an exponential rate and then you'll give it access to your data and can look through all of your behaviors that you choose for it to do so. And so those are things that are gonna happen. Um, so another big change, I think, on the, on the, in tech within the next two years, is I expect that the foundational models, like OpenAI and Anthropic and Gemini, because they know that you don't need to go to the internet now, they'll bring everything to you.
+speaker_0: Yeah.
+speaker_1: E-commerce should happen within the chat app. So eventually you'll connect your wallet, and you can say, "You're using GPT. Hey, I'm gonna go to Lake Tahoe," it's a resort place nearby. "Um, I wanna book a hotel." And, um, it'll say, "Sure, here's the best hotels." It'll be right in the same chat app, you don't have to go to the internet.
+speaker_0: Mm-hmm.
+speaker_1: "Would you like me to book it for you?" And you say, "Yes," and you just do it right there and it happens for you. So e-commerce will be integrated right into the chat experience, so that's another change as well.
+speaker_0: Mm-hmm. No, interesting. I'm just thinking, I started thinking already how can I use it better. [laughs] But, but that's, that's fascinating. Um, so basically, we don't expect... Well, we may expect it over the next two years, right, in-
+speaker_1: I think a lot of these capabilities will happen in the next two years, for sure.
+speaker_0: Yeah.
+speaker_1: But the adoption rates will start up in places like Silicon Valley.
+speaker_0: Yeah.
+speaker_1: It's not gonna roll out across the world in those cap- in those ways.
+speaker_0: 100%. I think it's the same as, like, with self-driving cars, probably. It was, like, shocking, right?
+speaker_1: Mm-hmm.
+speaker_0: No one believed first. Then we were like, "Okay, I will go, but I will be super scared and, like..." [laughs] "I will check it out." And then now, like, you don't worry, right? When you- when, when you order a taxi, right, or Waymo, you don't even, you know, stress out anymore, right? You just, like-
+speaker_1: That's right
+speaker_0: ... go there and you, like, ready to go. So probably that's what we...... we'll have with AI agents, right?
+speaker_1: The... Absolutely a, a common... A great metaphor, right? Autonomous vehicles, autonomous workers. Um, all those things are definitely aligned, so there's some big changes coming.
+speaker_0: But basically, like from a good side, all of these changes will lead to humans having more free time, right?
+speaker_1: Yes, so-
+speaker_0: What are we gonna do with this? [laughs]
+speaker_1: So right now, I saw some reports that the average human spends seven hours per day, seven hours per day on the internet.
+speaker_0: Terrible.
+speaker_1: It's terrible. And if you look at your screen time from your-
+speaker_0: Oh, I thought
+speaker_1: ... iPhone-
+speaker_0: ... [laughs]
+speaker_1: ... it's probably much higher than that, right? So if we can get AI agents to do that so we can spend more time doing the things we love that we already talked about, uh, this is a big win for society.
+speaker_0: So you mean, meaning you would not talk with your friends over IG or LinkedIn, so you would just talk with them in real time, like in the restaurant or whatever?
+speaker_1: They... Or... Yes, or and/or get back to your fitness or spend time with your family. Those are all options that we could do.
+speaker_0: But it's interesting, you know, I gotta say like if we talk about social media because like a lot of these happen also on social media like, right? Like Instagram, people like take photos, selfies, and like we all kind of like observe each other there. Basically, it may go and end up with that, that this culture will die, like sharing everything on internet would be not relevant anymore.
+speaker_1: Um, yes. I think we're gonna see a lot of content that's artificially generated, synthetic content. That's already happening now. So right now, the, the US election is happening and there's quite a bit of AI content that's being created.
+speaker_0: [laughs].
+speaker_1: Some of it is a parody and some of it is being manipulative and it's not great. Uh-
+speaker_0: True
+speaker_1: ... it's already happening already. So... But you think about it today, most Instagram and TikTok influencers are already using filters or AI. It's already very common. So just, um, yeah, I think that's only gonna increase. The fact that, uh, Meta, Mark Zuckerberg is so into AI and he expects that to be a, a part of the interface and part of the experience, he's very clear that's where they're headed. Um, this is gonna be infused AI into social media. By the way, we might see a social network where only humans are allowed, so you have to prove your identity that you're human. No AI is allowed.
+speaker_0: Mm-hmm.
+speaker_1: I ex- I expect to see a social network emerge for- to counter that.
+speaker_0: Interesting. But what will happen with all the websites, like, you know, like Google Search or whatever, like if, if you mention that it's gonna be like an app and AI agents will help you, so-
+speaker_1: That's right.
+speaker_0: How, how... Like what will, what will change for them?
+speaker_1: So AI agents can go visit any website. AI agents can use your apps. You don't really need a world with apps and websites in this type of future, right? If that information's gonna come to you. So as a response, the people who run websites, they will launch an API that is for agents to give the agents the rapid fast information from that website.
+speaker_0: Mm-hmm.
+speaker_1: So right now what hap- what's happening is the AI agents are simulating a human-
+speaker_0: Mm-hmm
+speaker_1: ... and it's pretending to do the click-through and fill in text in English or whatever language-
+speaker_0: Yeah
+speaker_1: ... on behalf of the human. And it's a very slow process.
+speaker_0: Mm-hmm.
+speaker_1: So in the future, the, the website owners and app owners are gonna realize, let's just give the straight data in real time, uh, to the AI agent that represents the human. And so we're gonna see that change. Now, humans will still on occasion visit some websites, but because AI is gonna improve, most of those websites will be generated on the fly instantly. So you'll have... Dasha, when you visit a website, it'll be a perfect experience hopefully for you.
+speaker_0: [laughs]
+speaker_1: So that's kinda what we'll see, that websites will change. Um, there's this pattern that happens in, in tech, right? It goes from centralized to distributed and centralized and distributed.
+speaker_0: Yeah.
+speaker_1: So with AI, things are gonna centralize back over to the human. In, in this last wave with Web2 and social, it distributed. I mean, how many chat apps do you have? 10, right? It's a lot.
+speaker_0: Three. [laughs]
+speaker_1: Three, that's it? [laughs] I mean, Slack and-
+speaker_0: Five, okay, five. [laughs]
+speaker_1: ... Teams messaging is tons and every social network has it, right?
+speaker_0: Yeah, yeah, yeah. Fair, fair. [laughs]
+speaker_1: I mean, there's quite a few. Um, and so now we're going back to the centralization where everything can be in like a few, just a few interfaces.
+speaker_0: Oh, I was thinking, I was wondering like if, uh, it will help somehow people to do their job and work, AI agents, yeah? Will it influence too?
+speaker_1: It can. It can. I was just reading the news that Salesforce, a SF company, launched AI agents for marketers and customer care. Um, so they have their own version like using Einstein and then it would replicate the customer care experience-
+speaker_0: Yeah
+speaker_1: ... 24 by 7 all the time. It's being used as, um, you know, sales, for customer care. So... And then within companies, you'll see this for HR, you know, this will... This, the AI agents are already starting to happen. I mean, the opportunity could emerge where... The opportunity could emerge where humans don't have to fill out expense reports anymore.
+speaker_0: [laughs]
+speaker_1: The AI agent could do that and manage all of those unread emails in your work email.
+speaker_0: Sounds like a paradise. Yeah. But the most, like, frequently asked question-
+speaker_1: Yeah
+speaker_0: ... will AI replace people's job?
+speaker_1: Hmm.
+speaker_0: I know it's very common. There is a lot of like, uh... There are a lot of articles about that. So what do you think about that?
+speaker_1: AI will replace jobs. It's already happening. It's already happened. Yeah.
+speaker_0: [laughs] But what will happen with humans? Like will we adjust to it and we'll have more new jobs? Or how do you see it?
+speaker_1: Yes, it's a mixture of all those things. So jobs will be lost-
+speaker_0: Okay
+speaker_1: ... but new jobs are be create- being created. I can see it here in San Francisco. I host a very large event, uh, for AI founders called Llama Lounge and I had 300, 300 of them at my event last night. So new jobs are already created. And there's AI managers within big corporations. There's a new title that has emerged called Chief AI Officer in, in the c-suite.
+speaker_0: Oh, really?
+speaker_1: Yeah. Well, it used to be like the chief innovation officer-
+speaker_0: Yeah
+speaker_1: ... or chief metaverse officer. So they just changed their title with the trends. So yes, new jobs are being created. And then, um, we do need to think about a new way to spread resources because if the world is more efficient with technology, then we will need to make sure that nobody's left behind. And so new topics have emerged to counter what happens when AI is so dominant when you just don't need as many human workers. And those are the topics I'm sure you've heard, like, uh, you know, wealth allocation or, uh, distru- distributed rewards types of systems. Those are all things that are being discussed. But that has to go up to government level.
+speaker_0: Yes, I agree. And I think it's also, like, pretty much normal because with every kind of, like, let's say, an industrial revolution-
+speaker_1: Yeah
+speaker_0: ... or every big change, somehow we change, like, the style, like the way we live, right? And we adjust because people adjust pretty fast, and then we learn how to work with it, how to deal with it-
+speaker_1: That's true
+speaker_0: ... and create something new. So basically, we do not have to worry, right? Because there are a lot of people like, "Oh, my God, I'm gonna lose my job." So I'm pretty optimistic here because, yeah, as you mentioned, I think new jobs will arrive and maybe even better. Um, so I guess you're pretty optimistic too.
+speaker_1: Um...
+speaker_0: Or not?
+speaker_1: I'm optimistic, but also a little cautious. I understand there's gonna be societal impacts. So maybe we could think about the, the roles-
+speaker_0: Mm-hmm
+speaker_1: ... or the behaviors that AI is unlikely to be doing good job at. So leadership and strategy. Um, in law, you're still gonna need litigators. People that-
+speaker_0: Yeah
+speaker_1: ... connect to others, um, for relationship building and building trust, whether that be sales or customer care.
+speaker_0: That's interesting. So trust, it's something that probably I cannot, um-
+speaker_1: No, not quite
+speaker_0: ... work with.
+speaker_1: Not quite.
+speaker_0: So good.
+speaker_1: The human trust will always be higher. So certain types of sales roles and customer care will still be very important. Um, building events and community, um, these are all things that AI won't be great at.
+speaker_0: Now, interesting. I started thinking about trust because have you watched this movie, um, She?
+speaker_1: Uh, Her.
+speaker_0: Her, Her, sorry. [laughs]
+speaker_1: [laughs]
+speaker_0: Her, yeah, yeah, yeah.
+speaker_1: Yes, I have.
+speaker_0: Where, yeah, like, the guy falls in love with, like, kind of like AI assistant.
+speaker_1: Samantha.
+speaker_0: Yeah, yeah, yeah. Uh-
+speaker_1: [clears throat]
+speaker_0: ... so there still can be kind of, like... Basically, they managed to build the trust, right, there in the movie. So maybe in the future-
+speaker_1: He fell in love with her.
+speaker_0: Yeah.
+speaker_1: It's more than trust.
+speaker_0: Yeah, yeah, yeah, exactly.
+speaker_1: Or it, he fell in love with it.
+speaker_0: Do you... Yeah, exactly, it. Do you think it will be the case as well that, like, younger generation can, like, actually date with, like, an AI assistant?
+speaker_1: Yeah, this is very, uh-
+speaker_0: [laughs] A little bit extreme.
+speaker_1: ... an interesting topic. And, like, we seen some articles of some edge cases where that happens. Um, yes, some, uh, that happens in some cultures already-
+speaker_0: Yeah
+speaker_1: ... where people are lonely, and so they're relying on, like, AI, for instance.
+speaker_0: Yeah, because, like, founders are lonely, right? It's one of the main problems that we have, like, here in the Bay.
+speaker_1: I think there's a broader use case, a bigger portion of the population we should talk about. Right now, in society, spec- specifically in American society, there's the highest rate of anxiety and depression-
+speaker_0: Yeah
+speaker_1: ... that's ever been recorded, and I'm sure that's happening in other cultures as well. There's a whole host of reasons why that's happening, I don't need to get into it. But they don't have access to therapists or to, uh, mental healthcare. And now, AI can do some of those things to help them with that, not all of the things. AI technologies for mental health are always available. Um, I've had anxiety in the past, so I understand. And sometimes when I've had those real struggles, it was at 2:00 in the morning, 3:00 in the morning. There's no human therapist there that could've helped me. So if there-
+speaker_0: Yeah.
+speaker_1: So I used, like, the Calm app, Headspace app, or listen to videos to, you know, work through some of those things. The, the higher level would be to use AI for mental health, yep. And so those are some things that I'm tracking those trends, how society could be benefited, um, from those types of technologies. And they should be at a lower cost. Human therapists are not cheap.
+speaker_0: They're not cheap, yeah. And I definitely s- I, I see a lot of potential for AI in terms of, like, healthcare.
+speaker_1: Yeah.
+speaker_0: And I guess mental health is a very burning topic right now. I see more and more project appear that, like, help, um, humans to go through mental health. But I just wanna take a step back, and, like-
+speaker_1: Yeah
+speaker_0: ... it's really interesting because you mentioned there are a number of reasons of that. I definitely agree that mental health issue does exist in, in, like, um, in the USA, and it's-
+speaker_1: Very much
+speaker_0: ... a big problem, a big problem. And, like, personally, for me, it's very interesting to see, why is it so? Uh, if you can just name a few reasons, because you mentioned them, I would be really curious to learn.
+speaker_1: Oh, this is a big topic that could be its own podcast, but, um-
+speaker_0: Yeah, yeah, yeah, yeah.
+speaker_1: Yeah, I know.
+speaker_0: But just briefly because-
+speaker_1: Sure
+speaker_0: ... I was, uh, I, like, I was thinking a lot about that, and it's something that, like, you know, bothers me, especially, like, I have two kids, and they're growing here. And I'm like, "What's wrong?" Like, is there, like, an issue with the society or what? How can I avoid-
+speaker_1: Mm-hmm
+speaker_0: ... so my, my kids have... you know, like, live a happy life?
+speaker_1: Yeah, well, technology has been one of the causes for depression, anxiety, and FOMO, and online bullying. Like, they-
+speaker_0: [laughs]
+speaker_1: Those... It has absolutely contributed and enabled that.
+speaker_0: Controversial, yeah. [laughs]
+speaker_1: Yeah, yeah, it's not... I mean, we should address it, and we should talk about it and find solutions, so I'm open to that. But also, there's just a lot of, like, you know, political unrest in the United States here, and there's also real income, um, d- diversity, and the younger generations even struggling to get on top of their finances. So there's just a lot of reasons, um, for these things to happen. Um, so it's multi-factor.
+speaker_0: Agree. So technology is the reason of mental issues, and technology-
+speaker_1: One-
+speaker_0: ... is here to help. [laughs]
+speaker_1: ... it is one cause, not every problem e- originates-
+speaker_0: Yeah, yeah, yeah
+speaker_1: ... from technology. But it's also, the same time, a solution. So when I think about technology, I think of it as like fire. Like, when, when humans were able to first grab fire, they shot up i- in the evolutionary stack because they could cook food and get more nutrients, and their brains grew a lot faster.
+speaker_0: Yeah.
+speaker_1: But at the same time, fire was used for weapons, right? You know, and you can burn yourself. So I think of technology as like fire. It can be used for-
+speaker_0: Love the comparison
+speaker_1: ... for good and bad. It's actually a reflection of the human condition.
+speaker_0: [clapping] [laughs]
+speaker_1: Bravo, thank you.
+speaker_0: No, that's, that's really amazing. Uh, amazing comparison. Uh, 100% agreed. And, you know, I also wanted to ask you a little bit more about the tech events you're hosting-
+speaker_1: Oh, sure, cool
+speaker_0: ... uh, because I think it's really interesting, uh, because I also host a lot of tech events. But when I saw you, this really caught my attention as well, so Llama Lounge. So what do you do? How did you come up with this idea?
+speaker_1: Uh-huh.
+speaker_0: Because, uh, you've mentioned that you saw that, like, in-person events were back. Uh, was it the time when you thought about hosting your own event series, or-
+speaker_1: Yeah
+speaker_0: ... how did it happen?
+speaker_1: So w-
+speaker_0: And what is the reason?
+speaker_1: Remember that when I f- we first started talking about the Woodstock of AI?
+speaker_0: Yeah.
+speaker_1: So there was 5,000 people there. And for some reason, [laughs] somebody brought physical llamas. They might've been alpacas, I don't know the difference-
+speaker_0: Really?
+speaker_1: ... to the event. And I looked at it, and I, I looked at it. It didn't spit on me, thank God. And I said, "You know what? I need to put on an event series," and it came to me, Llama Lounge. Now, there's a hundred AI events in San Francisco per month, and most of them are called, like, gen A- gen AI this or AI that or machine learning that.
+speaker_0: So true.
+speaker_1: And you can't tell them apart.So I wanted to have a really catchy name or a brand.
+speaker_0: To stand out.
+speaker_1: That's right. And there's nothing like an alliteration, uh, Llama Lounge, and so I went with that. Um, I also partnered with a great agency, Sitebox, who built the logo. It stands out, and so it's built this brand. Uh, so the, the typical anatomy of a Llama Lounge event is around 300 AI founders and about 50 to 100 VCs, and they all come together, and we carefully review the submissions on who can apply.
+speaker_0: Mm-hmm.
+speaker_1: And 10 AI founders are selected to demo, and they each get their own standing demo tables, and there's a sign. People walk around, kinda like a trade show to go and learn from them, and they make lots of new connections. And then there's, uh, some speed pitches where they get on stage. I also do something really ridiculous and, frankly, stupid. I have a giant conch shell, yeah, a snail shell, and I blow it, and it's very loud, at the start of the event, and it triggers-
+speaker_0: What? [laughs]
+speaker_1: ... it's like a ceremony. Oh, yes. You can go find the videos online. And ev-
+speaker_0: I'll join the next one-
+speaker_1: You should
+speaker_0: ... in person.
+speaker_1: It's ridiculous, and you'll laugh at me, but you'll never forget a Llama Lounge event. Even though there's 10-
+speaker_0: Good
+speaker_1: ... other AI events happening on the same night, we usually have a line for people that wanna get into Llama Lounge. So Llama Lounge 12 was last night, and we've got a number of events lined up for the rest of the year. It's just a great way for the AI startup ecosystem to get together. Uh, are you interested in coming?
+speaker_0: Of course. [laughs]
+speaker_1: You're in, VIP.
+speaker_0: Yoo, I am in. I wanted to join it, uh, actually yesterday and before, so I would gladly, uh, come and join you and support you.
+speaker_1: Sure.
+speaker_0: I'm really interested in, and I've also heard, and, um, I'll have a follow-up question after this one, uh, that each startup gets, like, how many, 30 seconds to pitch?
+speaker_1: Yes, each startup gets, uh, well, they have th- their table, and people are walking around talking to them for hours.
+speaker_0: Yeah.
+speaker_1: There's, like, deep relationships that build, and then we do rapid 30-second pitches. And it's enough time for you to say, state the problem, state the solution, and then how you can improve whatever the business case is doing. I'll also add that out of the 10 startups, it's a, a minimum three of them are, are women founders.
+speaker_0: I love it. [laughs]
+speaker_1: But often, it's four to five women founders, and it's just, sometimes we have to reach out and find them. They just don't even apply, so. But the word is spreading that Llama Lounge loves women founders, they should come, and, and get a slot on the floor.
+speaker_0: You brought this topic now, I'm so excited. I was, like, waiting for you to finish to ask you the next question. So why do you think there is an issue with not enough female founders even applying? Because, you know, I talk to different, uh, startup founders, and they're like, "Oh, we're looking for, like, female software engineers, for example. Can you help me?" Because, like, I'm a big women tech, women in tech advocate, and they're like, "You know," or, like, to different accelerators, and they say, "Yes, we, like, we have an open call for female founders, but there are not enough, like, no one applies." Or the other thing is that we would love to hire female representatives in tech, but maybe the level of their knowledge is not enough yet or whatever. So what are your thoughts on that? Like, how can we actually encourage more women to be in tech or to get these jobs, uh, to actively participate in different acceleration programs, get funding from VCs? Too many questions, sorry. [laughs]
+speaker_1: Uh, I hear the overarching question, um, and in general, there's just more men in tech at this time, and that goes way back to grade school, right, in the way that kids are encouraged one way or another to be involved in STEM and STEAM.
+speaker_0: Yeah.
+speaker_1: So, eh, you have to go back to the start, and as a society, we have to address that. Um, I, I don't speak for women. I never pretend I do. Um-
+speaker_0: [laughs]
+speaker_1: ... there are, uh, numerous women groups in AI, like founders. In some cases, they stay together as a group, um, and I, I have to, like, go find those groups and then say, "Hey, we want to feature you or your members." Um, in some cases, they're like, "I don't wanna go to an event that's all dudes," but, you know, we want women to come because we don't wanna be all dudes. So-
+speaker_0: [laughs]
+speaker_1: ... we have this kind of, this breakage that we have to open that. So in t- on average, there's been 560 founders that have applied to demo.
+speaker_0: Okay.
+speaker_1: And I counted, around only about 10% are women, but there's more women founders than 10%.
+speaker_0: For sure.
+speaker_1: So it's, in some cases, I don't wanna speak for women, but I'd love to hear your thoughts, is, like, do they not want to apply because they don't think they're gonna get it? Or w- we also n- I will say something on behalf of men. Men will apply for anything, even if they're not qualified. [laughs]
+speaker_0: Well, you know, I host Women in Tech meetup, and I, uh, I always have applications from men. I'm like, "Okay." Well, I mean-
+speaker_1: Oh, really? Yeah.
+speaker_0: ... I love allies, so I'm okay with that, but that's funny, just to your point.
+speaker_1: So yes, men sometimes are overconfident and overstep, yeah.
+speaker_0: I think confidence is, uh, is a part of the reason here, uh, and we talked to, was, like, a lot of women who are also attending, like, my event, and yeah, uh, it's, in my confidence issue, and what I also heard from women is, like, it's really hard. Like, for example, if I will go to Llama Lounge, yeah, I see, like, hundred of guys around me. I feel awkward, like, right away. I mean, I'm not talking about m- myself personally, but in general-
+speaker_1: Right
+speaker_0: ... like, women feel a little bit awkward because they don't even know how to, you know, start this conversation. Because imagine there is, like, a group of seven guys, and you're like, "Uh, uh," and what I've also-
+speaker_1: I get it
+speaker_0: ... heard, that typically, like, even if we take, I dunno, let's say software engineers. Guys are, like, a bit, like, kinda like arrogant, so they will look at women like, "Oh, what? You can code? Really? Are you sure?" So [laughs] that's what I've heard from women. I'm not sure how do you really feel. [laughs] You can tell me, but that's what I've heard.
+speaker_1: Well, I wanna respect any opinion, that, and I'm here to listen and learn on that topic. And if that's how people feel, then, then we gotta respect that.
+speaker_0: Then we should say, like, "Okay, guys, there is a woman. Let's talk to her." [laughs]
+speaker_1: I wanna do my best to include women in our events, and I will do my best.
+speaker_0: No, but I love it. I, I, I love this initiative. I think it's, um, truly important, and great job. But going back to the point that, like, um, founders have 30 seconds to pitch-
+speaker_1: Yeah
+speaker_0: ... and also I want to connect this question with the fact that you're also like an active investor. So a question is...Um, how do you actually... There are so many networking events, and how can you actually stand out as a founder? What should you tell investor, like for example, if someone meets you at the event-
+speaker_1: Mm-hmm
+speaker_0: ... to grab their attention, especially that, like, time is always limited?
+speaker_1: Mm. Okay, so there's a... That's such an advanced topic because there's so many things to think about. So one of the things that investors are struggling with is there's numerous AI markets that are overcrowded with 10, 20, 100 startups in one category.
+speaker_0: Yeah.
+speaker_1: And honestly, if you're trying to pitch an investor and you're in that category, unless you're the clear category r- leader, y- we just don't really even hear it. So making sure you're picking the right market is really important. For example, AI agents in customer care, or, uh, or in sales-
+speaker_0: Mm-hmm
+speaker_1: ... that is such a crowded market. Or, or AI co-pilots for no code, that is such a crowded market. It's like investors really struggle with how to find the winners there, if at all. Or they'll just wait for that market to, like, um, settle out and de-risk, means pe- means startups die.
+speaker_0: Mm-hmm.
+speaker_1: And so they may not even deploy. So that's kind of an issue, is getting in the right category. Um, number two, a smart thing for a founder to do, and you need a little bit of time, is to ask the VC, their investor, "What are you looking for? Which category are you in? Where, what do you invest in?"
+speaker_0: Mm-hmm.
+speaker_1: And if it's not the same match, then you don't need to really pitch, but you can ask them, "Do you know anybody that invests in B2B or in security-"
+speaker_0: Mm-hmm.
+speaker_1: "... or consumer apps or startups that spread?" So understanding that each investor has their own specific flavor that they're looking for.
+speaker_0: Yeah, I agree with you. Uh, but in terms of, you know, like kind of like, um, catching phrases or like kind of like elevator pitch we would still love?
+speaker_1: Okay, you want the really snappy stuff. So, um, VCs hear a lot of pitches and they need things really snappy, so sometimes the comparison is just needed. "We're the AI agent for this market," right? Or, "We're the GPT for, um, you know, farming."
+speaker_0: Okay.
+speaker_1: Or, "We're the, we're the Uber for, um, food," right? Or it's just gotta be really, like, so they can instantly translate it. That's kind of-
+speaker_0: I've heard it. So comparison do really help?
+speaker_1: Comparison into a familiar market is, is a good thing. But then also getting that, that really tight pitch down on the, on what is it that you do and how you improve things, that's something that's required. And so that elevator pitch is gonna be needed. And so that's actually why we do that 30-second pitch.
+speaker_0: Mm-hmm.
+speaker_1: That shows clarity of thought. You just don't get a lot of time to get all your points out. And so th- they're forced to be really succinct in their pitch.
+speaker_0: Yeah, it's really hard.
+speaker_1: Oh, here's one other thing I do.
+speaker_0: Yeah. [laughs]
+speaker_1: Um, on the event page for the, uh, Llama Lounge events, they can... We list their company name with a URL and they have up to seven words only to describe their company. So I do that to force clarity of thought, seven words.
+speaker_0: Make their life so complicated. [laughs]
+speaker_1: Look, you can't say it simply, you just don't know it. So that's kind of a test and that's kind of what I'm, what we're also filtering for.
+speaker_0: Well, but, uh, like, it makes a lot of sense because if people go to the page and they see a lot of companies, they will not even read all of these, you know, like paragraphs of text. So-
+speaker_1: That's right. In seven words.
+speaker_0: From this thing, yeah, it, uh, it does help a lot.
+speaker_1: Mm-hmm.
+speaker_0: But I bet it's like a little challenge for founders sometimes to come up with this, you know, mm-
+speaker_1: Soundbite
+speaker_0: ... great description. Yeah, yeah.
+speaker_1: It is, but they do have a great aid, AI. [laughs]
+speaker_0: AI, yeah.
+speaker_1: So GPT, Claude, and, and Gemini will help them actually solve that right away.
+speaker_0: Probably that's true. But you know, also another question to you as an investor, right?
+speaker_1: Yeah.
+speaker_0: You mentioned that it's so challenging to see which startup, like, is a potential winner. So how do you, how do you decide? How do you make decision? How do you choose? Like-
+speaker_1: Uh-huh
+speaker_0: ... what do you use for due diligence or whatever?
+speaker_1: Sure.
+speaker_0: Like, because-
+speaker_1: Great question
+speaker_0: ... it's so complicated at that.
+speaker_1: It is. So, um, I'm seeing hundreds of startups, like their decks and their websites per week, um, because of Llama Lounge, right?
+speaker_0: [laughs] Yeah.
+speaker_1: And 'cause I'm reviewing who can come and people are applying to demo, so I, I-
+speaker_0: But do you actually invest in those startups who pitch sometimes?
+speaker_1: We have, we have.
+speaker_0: Okay.
+speaker_1: Uh, so I, I probably see more than most VCs because of that. You know, Llama Lounge is one of the largest and longest running AI events in, in-
+speaker_0: Mm-hmm
+speaker_1: ... San Francisco, therefore the world. So I'm seeing more than probably any m- than 99% of most VCs, I'll just guess. Um, uh, so we have a unique filtering system. I work at Blitzscaling Ventures, and so Chris Yeh and Reid Hoffman taught a Stanford class, which became a book called the Blitzscaling. And many AI founders know that book, and it talks about the winners in Silicon Valley and how-
+speaker_0: Interesting
+speaker_1: ... that is, right? And what we do is we've created a scorecard, which the team has taught me how to use, and we're looking for certain criteria. We're looking for startups that spread, um, called viral effect. Today sometimes it's called product led growth. And then-
+speaker_0: Interesting. Uh-huh.
+speaker_1: Uh-huh. And so, and then secondly, they have network effects. It means as every user participates, or client or customer, the value increases for e- everybody else. Uh, now Reid Hoffman is one of our LPs. Like he's re- he's given money into the fund.
+speaker_0: Mm-hmm.
+speaker_1: And he's also our special advisor.
+speaker_0: Mm-hmm.
+speaker_1: Um, Reid actually reviews the deals that I bring forward before we invest. So there's a certain criteria that we're looking for that is based upon like how Reid's investment track record has looked. So Reid built PayPal and LinkedIn, he's on the board of Microsoft. He also invested in Facebook and Airbnb and OpenAI. So they all have those same criteria.
+speaker_0: Has some expertise. [laughs] Definitely.
+speaker_1: Uh, I'm very graced, uh, very, very grateful to work in the team with Chris and Reid and, and Jeff and Scott.
+speaker_0: Yeah.
+speaker_1: And so tho- those types of features we're looking for. Do the products spread and do they have network effects?
+speaker_0: Yeah.
+speaker_1: Um, those are like the key criteria that we're looking for, because it might be a company that would be, uh, like the leader in that market.
+speaker_0: Interesting. Okay, so you have a lot of help to make this right decisions. Well, I guess it's still pretty challenging.
+speaker_1: I'm getting trained on the methods that have been successful in the past. I wouldn't say I have a lot of help, but I'm learning under the team. Yeah.
+speaker_0: Yeah, that's great. So that's, that's a good things we have for sure.
+speaker_1: Yeah.
+speaker_0: Um, but also, you know, another thing is, uh, when you listen to startups pitching, uh, or talk to them, uh-What are the main, like, red flags that you see? Like, if it's not about technology, but, right, but technology is only one part. There is also, like, team, right?
+speaker_1: Okay.
+speaker_0: And so on. So, any red flags that, like, you- you see and you're like, "Okay, uh, maybe even the product is great, but, like, no"? What can actually, you know, attract you rather than the technology itself or vice versa?
+speaker_1: Yeah, so we'll invest in first-time founders that... We'll do, we'll do that. We will... But when there's a sequence where they've had numerous track records, then that's obviously even more attractive 'cause prior behavior is a great indicator of what could happen in, in the future, so we look for that. Um, the thing that we really actually... We have a, a scorecard for founders. I can't tell you all the secrets in it-
+speaker_0: Okay. [laughs]
+speaker_1: But one of the things that we look for is, are they, um, are they able to learn and relearn? And we look for behaviors in that. Were they able to pick up new trends? How fast did they do that?
+speaker_0: Is it like a behavioral interview kind of thing? [laughs]
+speaker_1: On a lightweight. It's not, not like we're like-
+speaker_0: Okay. [laughs]
+speaker_1: ...
+speaker_2: [laughing]
+speaker_1: ... making them do tasks in a laboratory or anything. But you can see from their track record, even on LinkedIn, and, and what do they talk about, like, you know, some of those behaviors. So, we're looking, can they learn fast? And there's ways to, to test that. We're also looking for, can they assemble a team and show leadership? Are they able to communicate to the market? 'Cause it's a, it is a crowded market, so you have to have those skills as well.
+speaker_0: Mm-hmm.
+speaker_1: So, there's a number of things that we look for, um, in the founder's scorecard.
+speaker_0: Yeah, it's interesting. But, in general, like, if we compare, like, product versus team, what would you pay more attention to?
+speaker_1: So, I'm mostly investing in seed stage startups, so they're relatively early, so it's the team.
+speaker_0: Team.
+speaker_1: But also in the right market. We're assuming the product is gonna change many, many times, and it should change. That's why we're looking for somebody that can quickly learn and adapt and adopt-
+speaker_0: Mm-hmm
+speaker_1: ... to the changing market. So, the team is a big part of that.
+speaker_0: But when we say team, what do we mean?
+speaker_1: Oh, uh, so there's a founder or two founders-
+speaker_0: Yeah
+speaker_1: ... typically. And then the engineers or the product people, and sometimes a marketer that they've assembled around them.
+speaker_0: But what do you expect from them? Like, I mean, you look, like, at the expertise or like-
+speaker_1: Yes. Yes, we're looking for deeper expertise. Um, where did they work p- in the past?
+speaker_0: Mm-hmm.
+speaker_1: What roles did they have? Did they have some interesting educational enter-, um, attainment? Did they publish papers? Um, what have they built in the past? Um, sometimes we might look at their GitHub commits. Um, how much have they actually coded, you know? So, there's a number of things that we can look for. Um, also I, I'll add is, we also get referrals from other VCs that have invested, like the angel investors, and we'll talk to them or we'll talk to their customers. We'll do a 360 review around that founder. Sometimes we'll even tell the founder we're doing that just to understand a little bit more about that. By the way, the founders are doing the same thing to me. They have plenty of choices of VCs-
+speaker_0: Of course
+speaker_1: ... they can choose. They're doing reference checks. They're looking at me. Yeah, does this guy do what he says? Like, is he credible? Like, you know, does he do anything stupid in public, like blow giant, you know-
+speaker_0: [laughs]
+speaker_1: ... snail shells? You know, things like that.
+speaker_0: I love him, yeah. [laughs] Or in.
+speaker_1: Yeah, or hate him. But it's a good way to, like, see, are you a match? Because it's a long-term relationship.
+speaker_0: Oh, yeah. It's like a marriage. 100%. Like, I mean, at least for like five to, like, 10 years.
+speaker_1: 10 years. Yeah.
+speaker_0: Yeah, yeah.
+speaker_1: It's usually like s- seven years y-... I mean, we're doing early stage, so could be up to 10 years.
+speaker_0: Yeah. But, you know, uh, also to this point, because you mentioned that startups evaluate investors too, what else do we see bring to the table rather than a paycheck?
+speaker_1: Oh, a lot of things.
+speaker_0: What are unique things that may be?
+speaker_1: Sure. Um, so some of the big VC firms, like Andreessen Horowitz, are known for bringing like consulting type of be-, uh, enablements. Even marketing services.
+speaker_0: Mm-hmm.
+speaker_1: Uh, Pear Ventures does a great job. They have three recruiters on staff that help hire tech talent. That's a big thing.
+speaker_0: I didn't know about that. That's cool.
+speaker_1: Yeah. Uh, most of these VC firms now have accelerators where they-
+speaker_0: Yeah
+speaker_1: ... they kickstart them and they also give them capital. Some of them connect them to industry experts. But I'll tell you what we do. So, we provide expertise to, on how to scale. So, Chris wrote the book with Reid, and some of the founders we've invested in got to have dinner with Reid. Which is, you know, he's a very busy man. So, to have that time with Reid-
+speaker_0: It's a unique deal
+speaker_1: ... yeah, and get his insights on the market has been key. But also, I've helped a number of our founders get act- to speak on the TED stage, TechCrunch Disrupt, press and media, connect to clients. Um, and so there's other ways we could help them. And, and Chris and I speak at conferences. So, we talk about the startups, we actually amplify them as well. So, that's how we try to help out in the ways that we do.
+speaker_0: No, it's, it's, it's amazing. No, it's definitely, um... And how founders have a lot of, uh, choices, right? And-
+speaker_1: Many choices.
+speaker_0: And, and, and that's, that's great. I mean, because now they can really, like, spend and dedicate some time, you know, to pick the right investor. Uh, what do you think, uh, should be their, like, main homework before they start fundraising? You know, many, uh, venture, venture funds, they describe it differently. What is the best, like, tactics or strategies to target investors? Do you have any tips here?
+speaker_1: Yes. We're looking for... So, st- startups that wanna build products that spread and add value to every user. Like, you have to f-... There's only a few comp- VC firms that are really focused on that type of thing. We do that, NFX does a great job at that. There's some other firms out there, um, Maven Ventures. So, there's, there's like a group of VCs and we will, we will work with them by the way, um, that, that fit that type of category. You wanna pick one or two of those to be with you during that journey. So, it's thinking about constructing your portfolio of VCs that can help you. But also, you want to have a VC that's maybe good at marketing. Ones that, one with deep technical expertise. Um, another VC that can find other VCs or institutional money that can bring you more money. So, you kind of want to have this mixtures of VCs. 'Cause in many ways they're like advisors or extensing ge-
+speaker_0: True. Yeah.
+speaker_1: ... extensions of your team or part of your team. Some of them take board seats as well. So, yeah. You could think of them as part of your extended team. And so you have to create a portfolio mixture of your investors.
+speaker_0: I agree with you. And maybe wrapping up our conversation-
+speaker_1: Sure
+speaker_0: ... uh, I, I'll, of course, I want to leverage this opportunity to ask investor, any fundraising tips for the founders? A lot of founders are fundraising right now. And these questions, like, they're always there. [laughs] Any tips from your side?
+speaker_1: I think I went through a lot of the things that we're looking for, um-
+speaker_0: You did, yeah.
+speaker_1: Yeah.
+speaker_0: But just like, you know, like, in general, um, if we make them not in specific to, like-
+speaker_1: Sure
+speaker_0: ... just your fund or anyone.
+speaker_1: So, I'll tell you what I'm looking for because there's so many startups in the pre-seed and seed, is y- you kinda make sure your website is, like, really good, you know, with a clear value prop, and there sh-
+speaker_0: Website.
+speaker_1: Yeah, w- it's gotta be there 'cause we don't have a lot of time-
+speaker_0: Mm-hmm
+speaker_1: ... um, and we're gonna open it for sure. Um, two is, there should be a recorded demo, uh, five minutes max, um, of the product.
+speaker_0: With you talking?
+speaker_1: With you talking, like, a Loom style with a, you know-
+speaker_0: Mm-hmm
+speaker_1: ... you talking as a founder and the product actually working. We gotta see that, because we- we're not gonna have time to do all the Zoom calls that we're requested to do, and the deck needs to be fantastic, matching all of those things that we talked about, um, you know, what does it do. And there's, like, some rules around, like, 10 slides, or some people look for that, sometimes 30, just depends on that type of, that company. But those things are- are really required on that. And- and also, clean up your LinkedIn. Like, make sure it looks great because we're definitely gonna be looking at your LinkedIn accounts out there for sure.
+speaker_0: Okay, so website, LinkedIn-
+speaker_1: Recorded demo.
+speaker_0: ... recorded demo.
+speaker_1: Ge- get your slides nice and tight, you know, clear value proposition, it's like all those things need to be there.
+speaker_0: So yes, like kind of like a little, like, um, fundraising checklist, right? Pre-fundraising
+speaker_1: These are all standard things that I don't think anybody would be too surprised, but a lot of founders forget to do this 'cause they're only focused on building their MVP-
+speaker_0: True
+speaker_1: ... and they forget about how they present themselves. When we have 10 other companies that look like them, like, it's just very hard for us to know.
+speaker_0: You know, like, and- and why also, why do you think, like, storytelling is so important? Especially, you know, I think it's a very Bay Area thing, when founders, like, invest a lot in storytelling, and- and everyone wants to hear a story. Or I think even, like, a new trend now is not even a story, but, like, feeling or experience that your company can, like, let you have. What do you think on that?
+speaker_1: Yes, because you need to stand out from the 10 other companies that look just like you with the same technology. So, the, like, the, you see companies, they're- they're training them this way, YC and 500 Global and- and Techstars, they train the founders for demo day to have that clear story and to even be a little bit vulnerable in your story. Like, "I had this personal pain. I wanted to solve it to make my kid not be sick anymore." Like, they, you expose all of that, so you have that feeling. Like, that is kind of, like, to stand out in the market is needed.
+speaker_0: Meaning that the, like, marketing play is an important role more and more. Not only the product.
+speaker_1: And the founder persona is just as important as the product itself. So, you're selling this whole package together.
+speaker_0: Yeah, like, I guess, like, personal brand, and yeah.
+speaker_1: Yes, personal brand-
+speaker_0: I- I think it matters a lot.
+speaker_1: In the early, especially with the early stage when we are betting on a team, the personal brand matters a lot.
+speaker_0: But, you know, I've also heard, um, one thing from investor once, like, uh, if, like, h- he said that if he, like, is going through a LinkedIn profile of a founder and he saw- he see that he does a lot of, like, public speaking or invest a lot of time in LinkedIn, he's like, "Oh, does he have time to build a product?" And I found it, um, interesting because I think that personal brand matters. So, how do you, like, what do you think about that?
+speaker_1: So, it's common but not required that a- a team, two co-founders, there's a technical lead, and then there's like a business COO, CEO, CMO type that does-
+speaker_0: Exactly. Yeah
+speaker_1: ... market-facing things. So, that's often but not required where VCs wanna see a di- a dual team, uh, to do those things. Uh, so then that's totally fine to do that.
+speaker_0: Okay, awesome. And, uh, final-
+speaker_1: Oh, last thing, last thing on that.
+speaker_0: Yeah. Of course. [laughs]
+speaker_1: Um, founders can be really efficient with all that go-to-market and social media 'cause they can use AI. So, any VC-
+speaker_0: 100%
+speaker_1: ... that is discounting a- a founder that might be using AI is not doing a good job. They need to look further. Maybe they're being hyper-efficient.
+speaker_0: Yeah, no, I agree with that. That's true. Okay, and, uh, last question.
+speaker_1: Yeah, Dasha.
+speaker_0: Your three favorite places in San Francisco.
+speaker_1: Oh, gosh. Okay.
+speaker_0: [laughs] Unexpected.
+speaker_1: No, um, number one is probably the Ferry Building, which includes Shack15 and all those great restaurants. There's hundreds of founders there right now in that private club, and people are working and- and doing things together. Um, number two, I'll save- I'll save that for later. Um-
+speaker_0: [laughs]
+speaker_1: Uh, number two would be the Mission District, getting a real, uh, Mission-style burrito. Oh my God, those are good.
+speaker_0: Oh, I'm so hungry right now, so good.
+speaker_1: Oh, yes.
+speaker_0: [laughs]
+speaker_1: If you haven't had a Mission burrito, it's like what Chipotle copied.
+speaker_0: Mission burrito.
+speaker_1: Chipotle copied Mission-style taquerias.
+speaker_0: Really?
+speaker_1: Yes, they did. And they took it to the masses.
+speaker_0: Wow.
+speaker_1: So, you want that real experience, get a, you know, from the Mexican culture and, uh, Mexican-American culture, that's fantastic. And number three, one of my favorite places to be is in the Transamerica Pyramid. And so, I've- I've hosted events at the top there.
+speaker_0: Seriously?
+speaker_1: Oh, yeah. Michael-
+speaker_0: Oh, I didn't expect that, yeah. [laughs] Wow.
+speaker_1: Michael Chauveau is an amazing... He owns the building. He's let me host events for VCs and AI founders. And the views up there, uh, are just incredible. And my friend, uh, Mason, who works there, he took me on a climbing tour and I went to the very top. So, inside of the peak at the apex, there's a stairwell, and you get to the top and you're on top of the city and you can hear everything in- in the city. So, the Transamerica Pyramid, which is the icon of the city, is truly, I don't know, uh, one of my favorite places to be.
+speaker_0: Wow. Thank you so much. Honestly, like, well, okay, Ferry Building is, like, maybe mainstream, but two others, like, I love it. No, amazing. Thank you for sharing, and thank you for coming. That was great. I really enjoyed-
+speaker_1: Thank you, Dasha
+speaker_0: ... talking to you. Thank you.
+speaker_1: You're welcome.

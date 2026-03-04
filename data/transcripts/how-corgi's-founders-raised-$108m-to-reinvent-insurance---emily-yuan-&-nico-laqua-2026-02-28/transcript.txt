@@ -1,0 +1,325 @@
+speaker_0: Hey, Emily. [laughs] Thank you for joining the show.
+speaker_1: Yeah, thank you. Super excited to be here.
+speaker_0: Okay. So, um, I heard some great news recently about your company, but before we dive into that, um, can you tell me a little bit more. For those who is not familiar with Corgi, what are you building, and most importantly, why?
+speaker_1: Yeah, so Corgi is building the first insurance carrier that's actually built for startups. Um, usually, if a startup is looking for business insurance, whether it's for their office, for a term sheet, for an enterprise contract, they need to go through a broker who then goes through and, like, is reselling other people's products. Um, and as a broker, you don't really have control over, like, how good the product you're selling is. You don't have as much control over the customer experience. And when we started, we actually started as an insurance broker. We were working with all the, like, easy carriers, trying to, like-
+speaker_0: Yeah
+speaker_1: ... make insurance. Because we always thought, like, "Hey, it's been, it's really hard to get insurance for startups."
+speaker_0: Yeah.
+speaker_1: And the process for... Like, we were getting startup insurance at our last company, and it was just such a painful, long, like, complicated process. We were like, "There's no way we can't make this easier." So, when we started as a broker, we realized why we couldn't make it easier, and it's because you're stuck working with these, like, big legacy companies who are so big and so regulated that they, like, no longer care at all about the consumer experience. Um, so we set out to actually be the full stack, fully verticalized all the way down, and be the carrier, like, the person who actually holds the risks, who writes the policies, who prices the policies. And by, like, controlling the end-to-end process, we're able to just provide a better experience. We can give people instant quotes for things that they, like, would not be able to get anywhere else on the market. Um, and we can usually do it for a better price too because there's no middleman. Um, so you just go directly to the source to get your insurance policies. So yeah, last week, we just announced our fundraise and the launch of this-
+speaker_0: Good for you.
+speaker_1: Yeah, thank you. [laughs] Um, we raised $108 million as part of our Seed and Series A, um, and that went towards launching the startup line, which is about a year in the making. But yeah, we're just very excited to have it out, and the, uh, feedback from it so far has been really, really good. Like, I did not expect the amount of, like, inbound and the amount of people reaching out saying like, "Oh, my gosh. Like, this almost feels like too good to be true. Like, why is this so easy?" [laughs]
+speaker_0: That's a good problem to have though. [laughs]
+speaker_1: Yeah, it's a really good problem to have, um-
+speaker_0: And, yeah, you basically, you just came out of styles with, like, 100 million raised, which is, like, so rare. I don't think I've ever heard of that, or maybe I just cannot remember that. But, like, how did it all happen? And, like, how long did the whole process of fundraising take?
+speaker_1: Um, so we've been in style for, um, I guess, like, the last two years. Um, and part of that is because... We actually wanted to launch a very long time ago, but-
+speaker_0: [laughs]
+speaker_1: ... we've been just waiting [laughs] on the regulatory approvals because insurance is such, like, a regulated space. In order to especially go, like, this full stack approach, we need to do a lot of, like, actuarial studies. We need to get a lot of sign-offs from different, like, regulatory parties, and we need to make sure that we have enough capital to, like, pay out claims in case things happen. Um, so just all of that took a lot longer than we thought it would. And I mean, I think this is why, like, most InsurTech companies don't go the route of being a full stack insurance carrier-
+speaker_0: Yeah
+speaker_1: ... because it's very regulated and it's very hard, um, and it takes a very long time. So, uh, we've been just working on that for the last year and a half and working on getting all the approvals, um, getting everything in shape, creating, like, the insurance policies and the insurance products. And in late December, we finally got, like, the stamp of approval saying like, "Hey, like, you're good to go with the insurance carrier." So, now we're the first insurance carrier for startups.
+speaker_0: Woohoo!
+speaker_1: Yeah.
+speaker_0: And, like, meanwhile, while you were working all of these, like, regulated things, you were also fundraising.
+speaker_1: Mm-hmm.
+speaker_0: Yeah, because, you know, last year was very, I would say, special in terms of fundraising. We had a lot of, like, mega rounds and everything was around AI. And, like, the companies that were in AI, they were pretty successful. I mean, it obviously depends in fundraising, but the companies that were not there, they had really hard times. So, what is the secret of your success? [laughs]
+speaker_1: Yeah, I mean, I think AI and insurance is kind of a no-brainer. Because if you think about, like, what are the biggest words-based industries? You have... Legal is one of them, and there's a couple, like, very big legal AI companies. And I think insurance is the other one, where you have, like, dozens of pages of legal contracts where you need to, like, interpret risk and then put a price on the risk. Um, and there's so much, like, subjective, um, work that needs to be done with evaluating why, like, how we should price an insurance policy. And that's why, like, before LOMs, like, wouldn't have been possible to do what we're doing.
+speaker_0: Mm-hmm.
+speaker_1: Because you need to make subjective calls, and if someone says, "Hey, my company is doing, like, XYZ," you're gonna need to think, hey, like, how does it increase, like, the different, um, levers, like, the different coverage, the risk of, like, different, of these events happening. Um, so, uh, yeah, I think AI and insurance is just, uh... Like, it's something that, like, would have happened. Like, someone had to do it.
+speaker_0: Yeah.
+speaker_1: Um, and I think no one's done it yet because it's really hard to do. Um, but it's just... Insurance is 12% of the GDP. Like, the economy would not run without insurance.
+speaker_0: Oh, yeah.Mm
+speaker_1: Um, and is just something that everyone, like, needs, but it's has always, like, had such, like, a terrible experience with. And now, like, we have a way to actually make it better. Like, there was actually, like, a change in technology and improvement in technology where we could make a meaningful improvement in how insurance works. So, yeah, we're just really excited that we can do that.
+speaker_0: Yeah. No. For sure. And, like, can you say that, like, was it hard for you, like, to convince investor that it's necessary or just because it's such a no-brainer it was relatively clear for them to get your vision?
+speaker_1: Um, I mean, it was definitely a process [laughs] because we're going, we were going out to a lot of investors and just selling the vision of, "Hey, like, this is very regulated. We're gonna get there."
+speaker_0: Mm.
+speaker_1: But, like, we need money to get there. And Nico can talk a little bit more about-
+speaker_0: Yeah
+speaker_1: ... the, like, the nuances of the fundraising process. But, yeah, we're very happy that a lot of, like, great investors were able to support us and kind of had the faith in us that we'd be able to figure out how to get it done.
+speaker_0: Yeah.
+speaker_1: Because, yeah, like, no other tech company has figured out how to get it done, so we've... Yeah. So, having them, um, believe that we can do it, I think, it's-
+speaker_0: Yeah.
+speaker_1: Yeah. Great success.
+speaker_0: But what do you think, if we're now talking about, like, Yayo Insurance specifically-
+speaker_1: Mm-hmm
+speaker_0: ... what do you think make you successful as a company?
+speaker_1: Um, I think we like to take big bets-
+speaker_0: Mm-hmm
+speaker_1: ... and we always try to do the most, like, ambitious thing possible, and take a lotta shots at goal. Um, and I think if you have enough smart people, like, making these big bets and executing on it, um, like, even if only some of them work, um, you're gonna get a lot of good products out. And as-
+speaker_0: Big bets, smart people. Uh-huh.
+speaker_1: And we also work very hard. [laughs]
+speaker_0: Very hard.
+speaker_1: Yeah. So that's, that's also like a very well-known part of our culture, even before we launched. Like, for the longest time, no one knew what we did.
+speaker_0: Yeah.
+speaker_1: But people did know about us for, um, from our company culture because we work seven days a week, like, fully in-person. And-
+speaker_0: We're gotta talk about this dog.
+speaker_1: Yeah. [laughs]
+speaker_0: [laughs]
+speaker_1: Yeah. And we, uh, I think, at least in our case, I think that's what it takes to, um, make a big company in this space because it's just a really big problem that's very hard to solve. And if we don't put in, like, 110% effort, I think it's hard to meaningfully, like, move the needle because it's just... It is, it is really hard. [laughs]
+speaker_0: Yeah.
+speaker_1: Yeah.
+speaker_0: No. For sure. No. I love that, hardworking, big bets, in-person. But, uh, can you name, like, one particular sphere that is, like, so great? I don't know. Viral marketing or, like, killer engineering team or, like, everything in one? Either something that, like, helped you to push it through, you know?
+speaker_1: Yeah. I mean, on... Our philosophy on, I guess, like, product and sales and everything is that if you... Like, we just want to make sure that, like, we have a really good product.
+speaker_0: Mm-hmm.
+speaker_1: And I think that makes it easy to sell because it's just better. [laughs]
+speaker_0: Yeah. [laughs]
+speaker_1: Um, like, you know, it's not... It doesn't take that much convincing to say, "Hey, like, you can either fill out this form, it's super easy, you get your policy instantly, you get, like, your proof of insurance to show, like, whatever party that needs the insurance, or you can go through some, like, long, complicated process and spend a lot more money." Like, I think we really like having a product that's able to, like, speak for itself. And we've put a lot of work and a lot of money into being able to offer that product because, uh, was difficult. Like, it took a long time to get to the place where we could actually offer a superior product as opposed to, like, the other things on the market.
+speaker_0: Yeah. And, you know, just looking at your logo [laughs] -
+speaker_1: [laughs]
+speaker_0: ... or at your name, it's hard to understand what the company does-
+speaker_1: [laughs]
+speaker_0: ... because it's called Corgi.
+speaker_1: Mm-hmm.
+speaker_0: So why Corgi?
+speaker_1: Um, I think, as an insurance company, people think of insurance as this very, like, boring, difficult thing. And we just want to make it, like, fun and easy. And I think, like, a lot of these legacy insurance companies, they had to come up with these, like, wacky mascots. Like, there's the Limu Emu. There's the Geico Gecko. [laughs] There's Jake from State Farm. [laughs] Like, all the... There's, like, a caveman from Geico too, I think. And, I think, having, having just a fun brand helps a lot with an insurance where it's kinda like default, just regulated, kind of boring industry. Um, and yeah, we just wanna be memorable. We want to just take all the difficulty and all the annoying parts of insurance, just make everything easy. [laughs]
+speaker_0: How did it happen? Uh, you just were sitting on a couch and then, uh, yeah, let's, let's call it Corgi, or, like, who was, like, you know, like, who made this decision?
+speaker_1: So I actually... I just like corgis. I think they're [laughs] very, I think they're very fun dogs.
+speaker_0: Actually, we have one here.
+speaker_1: Um, yeah.
+speaker_0: It's
+speaker_2: Come see them.
+speaker_1: I think she was taking over there so she wouldn't, uh, bother us. Trudy, come here. Trudy, come here. Trudy, come.
+speaker_0: [laughs] Okay, maybe she will come.
+speaker_1: Yeah. Trudy.
+speaker_0: Hey, there she is. Hello. [laughs]
+speaker_2: Hey, come here. Trudy, come on. Here.
+speaker_0: Okay, so this is the inspiration-
+speaker_1: Yes
+speaker_0: ... behind the name.
+speaker_1: This is Trudy. She's our office corgi, and she is super, super cute, super amazing.
+speaker_0: The most famous
+speaker_2: [laughs]
+speaker_1: The best mascot ever. We'll, we'll make her the most famous corgi ever. Um, but yeah, she's... Uh, yeah, I, I think it just goes along with our whole thesis of, hey, like, insurance shouldn't be, like, this hard [laughs], and we just wanna make thing-
+speaker_0: I know who works the most here in the company. Yeah, the, the most hardworking person. [laughs]
+speaker_2: The most hardworking dog.
+speaker_0: Well, dog. The most hardworking dog. Oh, this is so cute.
+speaker_2: [laughs]
+speaker_0: Aw. Trudy, feel free to stay with us through the whole process. [laughs]
+speaker_2: [laughs]
+speaker_0: But, um, let's get back a little bit to how you started your entrepreneurship journey.
+speaker_1: Yeah.
+speaker_0: And, um, as far as I know, uh, you did computer science at Stanford. And then, you just decided to start your own company. So what happened? Like, have you always had this, you know, itch to start something on your own?
+speaker_1: Yeah. Yeah, I've, I've always thought startups were super cool. Um, like a fun fact is, on my fifth grade, like, About Me poster, um, they had us put like, oh, like, "What's your favorite TV show?"
+speaker_0: Right.
+speaker_1: And I was like, "Oh, my favorite TV show is Shark Tank." [laughs]
+speaker_0: Oh, okay.
+speaker_1: As a kid, as a kid. Most kids are like, "Oh, like, I like SpongeBob. I like..." They're like all, all good TV shows. Um, but I've always just liked the concept of, hey, you can just go and, like, do things. You can make a product that people will use, and then you can just grow into a big company. Um, and just, I think since then, I've always, um, I don't know. I think I just always enjoy like building things, making things, um, like setting up like orgs at like companies. And when I was at Stanford, I think that pushed me even more into the tech scene because everyone there is like, "Oh, I'm going to go do a tech company."
+speaker_0: Yeah.
+speaker_1: Um, like before going to Stanford, I did not understand the ecosystem very much at all. I just knew startups were cool and I, like, wanted to do something in that direction. [laughs]
+speaker_0: Yeah.
+speaker_1: Um, but there, I think, Stanford also really encou- like, they make it really easy to, like, drop out, to just go and do your own thing.
+speaker_0: Make it easy to drop out. [laughs]
+speaker_1: Yeah, because they actually have this program where you can take up to eight quarters of leave before you're, like, officially dropped out. So you can take a bunch of time to, like, validate that, like, hey, like, whatever you're doing is working, and if it doesn't work, you can just go back. Um, so I think that they, they, like, remove a lot of the friction-
+speaker_0: Oh, nice
+speaker_1: ... for encouraging people to do that. Um, so my junior year at, at Stanford, um, I'd been... I was working on a project with Nico for a while and decided, hey, like, now, now's the time. Like, we're gonna go and, like, do this full-time. And I think you really do need to, um, put your full attention to something if you're working on a project. Um, I don't think, like, being a student and also, like, running a company at the same time... Like, you can do it, but I think it's... Like, you don't... If you're not, like, fully invested in something... This is why, this is also part of why we do our seven-day, because you just need to be, like, fully invested in something in order to, like, make it work and to make it big. Um, so yeah, at that point, we started our last company and learned a lot of stuff through running it. And now, when the, uh, I guess, when ChatGPT 3, 3.5 came out, we realized, wow, there's like a big actually, like, innovation in technology and in what we're able to do with tech. And we're thinking, oh, like, what's, like, the most relevant industry that this can be applied to? And insurance, like, was someone, like, it was like an obvious answer, yeah.
+speaker_0: Insurance?
+speaker_1: Um, because I, um, yeah, I had to do the insurance for my last company. It was so annoying. [laughs]
+speaker_0: But the first company was totally different, right?
+speaker_1: Mm-hmm.
+speaker_0: It was about gaming.
+speaker_1: Yeah. It was a gaming company.
+speaker_0: What happened with it?
+speaker_1: Um, um, so we started off as a social media app. We got a bunch of users on our social media app.
+speaker_0: Oh, that's what happened.
+speaker_1: Um, and the company was doing really well, um, and the social media app, we're at a point where we're like, "Okay, we need to figure out how to make money." So then, we realized, like, it's a lot easier to make money in gaming than in a social media app, so we pivoted into gaming. Um, and we started off, like, making games, like playing around there, and then moved towards just being a game publisher and, like, rolling out, like, games and game studios, mostly in, like, the kids' game space.
+speaker_0: Mm-hmm.
+speaker_1: Um, so the company's still around. Like, they're doing well. They have a lot of people working there. Um, but yeah, Nico and I ended up working... Yeah, I think we just couldn't miss the opportunity to make, like, a generational company with Corgi.
+speaker_0: That's so great. And so, as we can tell, so you started the second company with the same co-founder. It's clearly that you guys just probably like working together, but in your opinion, what is important, um, you know, in this union? Like, how do you find... You know, a lot of people are looking for their co-founder. What's your secret sauce?
+speaker_1: Yeah, I think we have very complementary skill sets.
+speaker_0: Ooh.
+speaker_1: Um, like, he does a lot of the, uh, very, like, big picture, coming up with the vision, knowing like, oh, like, this is the right direction to go. And I'm pretty good at figuring out how to, like, get things done.
+speaker_0: Okay.
+speaker_1: So you can throw, like, a big, complicated problem at me, and I'll, like, figure out how to get it done. And I think that that works very well because if you had, like, two of me, then [laughs] I feel like we might be, like, just, like, going down some, like, rabbit... This is like a, I guess, something that I've had to learn over, like, the last, like, couple years, is I used to, like, get, like, very, like, pigeonholed into, oh, like, I'm, like, working on this thing. I need to figure this out, and then just, like, not being able to see, like, big picture enough.
+speaker_0: Yeah.
+speaker_1: Um, so yeah, I think, I think we, like, complement each other's skill sets very well that way. Um, and I think we also have similar values in terms of, hey, like, we just want to work hard and get things done and, like, this is a lot of fun, so we should just do it. [laughs]
+speaker_0: How do you go through conflict situations?
+speaker_1: Um, we actually, I mean, we argue about a lot of things, but I think we are pretty... I think we're both very, like, practical.
+speaker_0: Mm-hmm.
+speaker_1: Um, so, and we're both relatively, like... We're just both very, like, I think reasonable and practical. So if something makes more sense, we're like, "Okay, we'll try that. If it doesn't work, we'll just, we'll, like, do this other thing."
+speaker_0: Okay. No fighting involved. [laughs]
+speaker_1: Yeah. [laughs] Yeah, like, I think just, just moving forward and getting more things done is more important than, like, making the perfect decision on, like, every single tiny thing.
+speaker_0: Yeah.
+speaker_1: So it's very much like, oh, let's just make a decision, move on. If it doesn't work, then we can, like, pivot. We can, like, do it a different way, but let's just, we just need to get going. Like, we just need to get things done. [laughs]
+speaker_0: Yeah. No, I love that. And you know, I also want to dive deeper in your...Kind of like team culture.
+speaker_1: Mm-hmm.
+speaker_0: And, you know, nowadays, especially after COVID, a lot of companies are remote-
+speaker_1: Mm-hmm
+speaker_0: ... and you are going really hard on in-person.
+speaker_1: Mm-hmm.
+speaker_0: Why? Let's start with that.
+speaker_1: Yeah. And I think there are a lot of good remote companies too, but I think the problem that we're solving is just a really big, really hard problem. And I think in order to properly solve it and to make a big company in this space, I think we just need to work harder than everyone else. Um, because if, I think a lot of, like being in-person allows you to come up more ideas, like be more creative, um, and it helps you like solve problems faster because you're all like in the same room. I mean to say like, "Hey, like, can you look at this, like what's going on here? Let's like get this updated." And that's just something that's really hard to do if you're not in-person. Um, and yeah, everyone we hire here, like, they like working. Like we, we hire people who like, like the culture and like want to work in-person and just really want to be immersed in like, um, just something that's like very ambitious and like moving very fast. I think that's a big part of our, just like cultural values as a team. Um, we just want to make sure that like, we make sure that everyone's like very aligned. [chuckles]
+speaker_0: Okay. So yeah, so it's clear that like in-person is better for solving big problems.
+speaker_1: Mm-hmm.
+speaker_0: But you work seven days a week. Can you please explain that to me?
+speaker_1: [laughs]
+speaker_0: How has it been possible?
+speaker_1: Um, I don't know. I've, I've always been working, [laughs] working all the time. Like, even before Corgi, like, we've always worked seven days a week.
+speaker_0: Okay.
+speaker_1: It was just less of like a publicized thing, it was just default like, hey, like, we want to get this thing done so we might as well like just work to get it done. Um, and I think we, uh, like we really just do enjoy what we're doing. So, like, whenever I think like, oh, like, do I want to go like watch a movie or do I want to like get this other thing shipped? I'm like, oh, like, I'll like go get this other... I, I generally think it's fun. Like I, I enjoy doing what we're doing.
+speaker_0: It's fun to work seven days a week. [laughs]
+speaker_1: Uh, yeah.
+speaker_0: But, you know-
+speaker_1: Like it doesn't even feel like work. It just feels like, hey, like I get like, people gave us like a lot of funding to like build a really cool product. Like we should just do it. [laughs]
+speaker_0: No, and this is true.
+speaker_1: Yeah.
+speaker_0: We are recording right now on Saturday and the whole team is here, so I can confirm. But one thing is founder's vision, right? And that you are so, you know, like kind of like inspired, you know, and you want to build, you want to get things done. But what about like your employees? Because like some of them, they have their personal life, so how do you convince them to work so hard?
+speaker_1: Um, I think it's just about working on solving like a very big important problem, and then seeing that we're actually like making progress towards solving it. I think if it feels like we're like super stuck, like what we're doing isn't working at all, like it's easy for people to get demotivated. But I think we've been just like growing a lot in the right direction, like getting things done. And I think people, people see that like, hey, like this is going to work.
+speaker_0: Mm-hmm.
+speaker_1: Um, and people, I think people like being a part of something that's like a rocket ship that's working. Um, so yeah. We also have a lot of like ex-founders on the team as well, so people who have been used to the [laughs] st- startup grind.
+speaker_0: Yeah. But, you know, um, what about burnout? I mean, you know, I've, I've talked to one of my friends recently who's also a founder, and he said that, "Yes, you can do it for a certain amount of time, but then there are cycles and there will be a cycle when you'll be completely exhausted and burned out." So what's your, um, thoughts about that? What are your thoughts?
+speaker_1: Um, I think the solution to burnout... And this is actually something that YC teaches during the YC batch.
+speaker_0: Okay.
+speaker_1: Like burnout isn't from working too hard, it's from working too hard and having whatever you're doing not working. So if you feel like you're like spending a lot of time in working and it's not, you're not going anywhere, that's when you start feeling burnt out. But if you're working and whatever, you're working really hard and whatever you're doing, like you're making it work, then you don't feel very burned out. Um, and kind of like on the flip side, like if whatever you're doing is not working and you need to find a way to fix it, not like going like, "Oh, I'm just gonna like take a two-week vacation," isn't gonna help you solve the problem of like how to make the, how to make the thing work. So that's, that's very, um... So I found that to be like very true even like personally of like burnout where like, like when I just feel the most... I think when I feel the most burned out is always when it feels like, like we're running up against a wall, like things aren't working. And we just need to... Like there's, there's, I don't think there's another solution besides like you just need to make it work. [laughs] Like if you make, if you make it work, then people are, I think like reoriented and, um, are, I think, back on track and knowing that, hey, like whatever, like all the effort they're putting in is actually like resulting in something. And I think that's something that's very important.
+speaker_0: But what if it doesn't? What if it's not working?
+speaker_1: Then you, you just need to-
+speaker_0: You just keep pushing
+speaker_1: ... you need to figure out to make it work. I think that's the only way to solve burnout as an issue is you need to figure out to make it work. Um, sometimes like individual people they might be burned out because like they're like maybe they're not working on the right thing that like aligns the best with their skillset, so then they need to be like moved onto a different project or moved to like working on like something else. So there's a lot of different levels of like where burnout can occur. And obviously like we're always like learning a lot about, hey, like how do we, um, better lead the team and how do we make sure everyone's like excited to like come into work and to like get things done? Um, and as we scale, like we need to figure out like, hey, like how does that look as we scale, as we become like a, like a 200, 300, 400-person company. Like is, is like the seven days a week all the time sustainable? I don't know. But at least for our core team, like that's like, that's what we're, um...
+speaker_0: Mm-hmm.
+speaker_1: That's what we do, and I think that's a very core part of our culture, and I think it's a reason for why we're able to move very quickly and get things done.
+speaker_0: I think another reason is corgi. Having corgi helps you with burnout. [laughs]
+speaker_1: Yeah. Having a cutie is like an emotional support animal. [laughs]
+speaker_0: Yeah, for sure. And, um, you mentioned that, like, this was one of the lessons that you learned, um, going through Y Combinator. Any other great lessons that you found really helpful there?
+speaker_1: Yeah. I think the biggest takeaway from YC is they really pushed us to, like, think bigger and think about things from first principles. Like, I remember during our, like, office hours when we were starting, we were like, "Oh, like, it's, we can't really improve the experience that much because these carriers, like, they make us fax them documents. Like, this is terrible. How are we going to, [laughs] like, make a super, like, sleek, smooth user experience if it takes so long to get someone, like, their product back?" And they've, yeah, they've been very, like, encouraging and, like... encouraging us to just swing for the fences, to just, like, do the harder thing. Um, and I think they just give, give good advice in general, I think, because a lot of, like, all the people at YC, a lot of them are, like, ex-founders. They've been working with so many companies. They've seen what works. They've also seen, like, what doesn't work. So, it's just always a good sounding board for things.
+speaker_0: Yeah.
+speaker_1: But yeah. Nothing but good things to say about YC.
+speaker_0: Yeah. Endless source of probably motivation, inspiration and, you know, like, probably healthy competition, when you see how other companies also are competitive. Probably it keeps inspiring you and pushing harder and harder. Uh, but you know, another thing I wanted to ask you is, um, you know, I'm a big female founders advocate and general advocate of women in tech. And what I normally get that there are two different categories of female founders. One is like, "Oh, I'm a female founder and life is so much more difficult for me," or, "I'm a female founder and this is my superpower." So, which camp are you in?
+speaker_1: Um, I don't know. I, I, like, don't think about it as, like, a very material part of, like, being a founder. Like, I'm like, "I'm a founder, I'm, like, building a company." I don't really think of myself as, like, oh, like, either I'm a female founder and because I'm a female founder, then things are either, like, so much harder or, like, so much easier for me. Um, I think I just put, like, being a founder first and, like, we just need to get things done. Like, I don't really care, [laughs] like, what I am. [laughs]
+speaker_0: Actually, a good point. So, this philosophy that, like, do, do you believe that, for example, you know, it's harder for female founders to get funding? Or do you think that this is not the key and we should stop, like, categorizing things and just think about, like, okay, this is just a company and this is the founder, and that's how we look at this?
+speaker_1: Um, I think, like, statistically it has, female founders, I think, do get less funding.
+speaker_0: That's true.
+speaker_1: Um, and I think I also get the benefit of not, like, a solo female founder as well.
+speaker_0: Mm-hmm.
+speaker_1: Um, but it's definitely something where you just, there's, like, if there is more female founders in the ecosystem, it becomes more of like a norm instead of, um, being a, like, anomaly for there to be, like, a female founder. Um, and I think it's getting there. Like, I see a lot more, like, good female founders, um, and their companies do awesome.
+speaker_0: Yeah.
+speaker_1: So.
+speaker_0: That's true. But have you ever, have you ever felt, um, somehow limited, let's put it this way, uh, because you are a female founder? Or not really?
+speaker_1: Like, I personally don't feel like I've ever been, like, discriminated against for being a female founder. Um, maybe we've only, I think our investors are great and they don't care about that type of stuff. Um, but, like, personally, I haven't felt, like, too impacted, like, one way or another, um, by being a female founder. I think, like, how, how I think about it is, like, we just need to, like, get things done and everything else is a distraction. [laughs]
+speaker_0: That's, yeah, that's, that's really... You're, you're right as well. Yeah, and I, and I agree with you in some ways. And, um, another thing I wanted to ask you about big bets again. [laughs] You mentioned you liked, um, doing big bets. And I saw that you once had a massive billboard that you paid, like, almost $1 million for, saying like, uh, "Go work for us," for engineers.
+speaker_1: No. That was AI. [laughs]
+speaker_0: That was not true.
+speaker_1: Um, no, no. That was, uh, I think one of our interns posted that as a joke. Um, it was, uh, I think she, like, made it on Gemini or something. And a lot of people thought it was real. It had a, like, little Gemini thing at the bottom.
+speaker_0: It was very real. Yeah.
+speaker_1: But yeah, I think it was, it was like a funny, funny thing that she was posting.
+speaker_0: But, uh, there were some campaigns for sure, like hiring campaigns that you launched in San Francisco. So, in general, um, why is it so important? And, like, for example, how does hiring great engineers or all, all other workers will help you, you know, to prove this ROI and to move the company forward? How do you look at this? Like, do you even invest in this process a lot?
+speaker_1: Um, we... Like, I guess, in terms of, like, just doing big campaigns and, like, just going big. Yeah, like, as part of our launch, we actually, I don't know if you know this, but we put up a bunch of flyers around, like, San Francisco. Like, we tried to put up a flyer on every single lightpost that we're allowed to put up a flyer on in SF. Um, so we put up-
+speaker_0: Where you're allowed to put flyers. [laughs]
+speaker_1: Where we're allowed to put up f- There's, there's a couple, like, restricted historical posts in SF.
+speaker_0: Oh, yes. [laughs]
+speaker_1: And there's rules around, like, it needs to be 11 inches and you need to have a posting date. There's a lot of rules I have to follow. But we went, we posted a lot of, um, flyers around. I go, I think it's just for, it's good for having people, like, pay attention. Um, and I think it just, like, follows our company thesis as a whole of just, like-Mm
+speaker_0: Just go big or go home. Like, [laughs] if we wanna do something, like, we're gonna do it right. Um, and, yeah, I think it helps a lot in all different parts of, whether it's, whether it's sales, whether it's marketing, whether it's hiring, like, we just, we just wanna be fun and creative and just go all out. Yeah, love that. I think this is the way to go, for sure. Mm-hmm. Y- you gotta stand out, especially right now- Mm-hmm... you know, in this AI era. But, um, you don't drink alcohol?
+speaker_1: Mm-mm.
+speaker_0: Why?
+speaker_1: I don't know. I just, mm, don't really see a point in it, personally. Um, I don't really like the taste of alcohol either. Like, it's not like I've, like, never, like, drank before.
+speaker_0: Mm-hmm.
+speaker_1: Um, but I think just more recently, I'm just, I've been just very, like, locked in, like, focused on work and, like, getting things done. And I think g- going out and drinking, like, is a little bit of a distraction from that.
+speaker_0: Just for now?
+speaker_1: Um, like usually, like if I were in more of a, like, sales and, like, marketing role, like, I think part of my job would be to, like, go out to these, go, like, take people out to bars and, like-
+speaker_0: Yeah
+speaker_1: ... mm, do that. I know people, a lot of people on our sales team do, but I think for what I need to do, which is, like, figure out h- how to solve these really complicated things, um, I just need to be, like, very focused.
+speaker_0: Clear mind.
+speaker_1: Yeah.
+speaker_0: And you don't drink coffee as well?
+speaker_1: Yeah, I try to avoid coffee because I don't want... I want my baseline to not be, like, dependent on coffee. Um, but if I have something, like, really big that I need to get done, I will go get, like, a-
+speaker_0: Seven cups, please? [laughs]
+speaker_1: I mean, I will go get my thing. [laughs] And then that, like, makes me super productive for a little bit. But I, I really save that for, like, if I really need to.
+speaker_0: Okay. What do you do in your free time? I- except working-
+speaker_1: [laughs]
+speaker_0: ... obviously. I got it. [laughs]
+speaker_1: Um, well, most of the time, like, we do a lot of work, and I think in terms of, like, I guess, like, recreational, like, fun stuff, we try to do things with the team. Um, so, like, there's this one restaurant we really like called Taco in the Marina that we always take people to. Um, or, like, the people who are around the office, around, like, Christmas, we all, like, drove down to LA together, um, and we went to the desert and camped there for a night and then we [laughs] drove back up. Um, so yeah. I just, I just try to, we try to do, like, fun things with the team and just, like, I think people work a lot and I think in order to, like, in order to, like, be their best, I think just mixing in some, like, just having it be fun and having people feel like part of the team is
+speaker_0: And you go to the gym together.
+speaker_1: Yeah, and we go to the gym together.
+speaker_0: This is a good thing.
+speaker_1: [laughs]
+speaker_0: [laughs] Healthy lifestyle, that's important. And you know, now I have, like, a few questions for you. Not questions, but let's call it finish the sentence. [laughs] So I read the sentence, and you finish it. Ready?
+speaker_1: Okay. [laughs]
+speaker_0: [laughs] No stress. So most startups fail because...
+speaker_1: Um, I think you could say, like, give up too early.
+speaker_0: Give up too early. That's fair. Growth doesn't come from working harder, it comes from...
+speaker_1: Working hard in the right direction.
+speaker_0: [laughs]
+speaker_1: [laughs] But yeah, I think you have to work hard regardless. I don't think, I don't think you can grow if you don't work hard. [laughs]
+speaker_0: If I had $10,000 to grow a startup today, I would...
+speaker_1: Uh, I think do some type of creative growth hack that's not just, like, traditional marketing. Um, like, I guess some really flashy, like, shirts and, like, hand them out to people and do the, like, we like doing the flyer-
+speaker_0: Or Don't do work for $1 [laughs] that is AI-based. [laughs]
+speaker_1: Yeah.
+speaker_0: Okay. The fastest way to kill momentum is...
+speaker_1: Um, kill momentum. I think if you, I think if you, if you just stop, like, you just need to keep going. Like, I think if you have momentum, you have to keep going.
+speaker_0: Don't stop. [laughs]
+speaker_1: Don't stop.
+speaker_0: It's also basically, yeah, the fastest way to kill momentum is stopping, right? Okay, and the last one. Founders should spend way less time on, to, to, to, and more time on?
+speaker_1: Um, I think founders should spend less time worrying about, like, marketing and optics and a lot of the stuff and just spend more time on making sure that, like, their product is good. Um, and I think once you have a good product, everything kind of follows from there.
+speaker_0: But if you have a good product that no one knows about?
+speaker_1: Um, but I think the product always, like, comes first. So if you, h- I think it's sometimes it's hard to, like, well, I think it's, you can market something and then you get the feedback on, like, how to improve your product. But I think you need to get something, like, decent out.
+speaker_0: Mm-hmm.
+speaker_1: Um, I think it's just, like, getting to market is really imp- is more important than... Oh, I guess maybe another way to think about it is, like, it's more important to, like, get to market than to, like, try to perfect everything and then launch it and realize that, hey, like, that's not what people want. [laughs]
+speaker_0: That's for sure. Your personal wish or professional one for this year?
+speaker_1: Um, I think we just wanna, we just wanna grow a lot. Um, we want the startup line to be a success because we think it's, like, a very material improvement in, like, how, like, the status quo of, like, what startups are able to, like, find on the market. Um, and yeah, we just want to grow that as big as possible. We want Corgi to be the go-to insurance provider for all startups.
+speaker_0: Yoo-hoo. Amazing. Thank you.
+speaker_1: Yeah. Thank you.
+speaker_0: High five. Woo! Okay. Hey, Nico. Hi. Thank you for joining us as well. Yeah, thanks for being here. Yeah, I have a few questions for you, and Trudy's so cute right now, I just cannot stand it. [laughs] So, the first question is about how to find a great co-founder. So you've started two companies with Emily. What do you think is important for being excellent co-founders for each other?
+speaker_3: I think the... A lot of times people kind of look for opposite skill sets or different skill sets, and actually I, I don't necessarily think that's that important. Um, Emily and I were both engineers actually before we-
+speaker_0: Oh.
+speaker_3: So, we, we had pretty similar skillsets. I, I think the, the most important thing is you need someone where, um... In, in like sports, um, if you're someone's teammate for a long time, you can kind of pass them the ball without looking. It's a no-look pass, and, and they can, they can catch it. They can, you know, um, kind of coordinate without you needing to micromanage or check in on every little thing. And I think that kind of the ability to have no-look passes is actually more important than maybe, um, different skillsets. So, most of the, the co-founder, um, dynamics that I've seen work really well are people that have known each other for, for quite some time, um, which is why I think the Collisons worked really well at Stripe.
+speaker_0: Yeah.
+speaker_3: And, um, you know, things like that. So, um, you know, I, I, I, I think if you're like going out blind and trying to find, um, someone that you might not know so well-
+speaker_0: Yeah
+speaker_3: ... and you don't trust so well and, and start a company with them, um, that can oftentimes be pretty difficult.
+speaker_0: Passing the ball without looking, it's a very good quote. But you know that when I asked Emily the same question, [laughs] she said it's because we're indifferent. [laughs]
+speaker_3: May- maybe. I mean, we, we ended up doing different things.
+speaker_0: Yeah, yeah.
+speaker_3: But I think if you went back in time a couple of years ago, um, our starting skillsets weren't nece- weren't necessarily so different. So, over time, I think that's kind of diverged where Emily's become more focused on, on operational things.
+speaker_0: Yeah.
+speaker_3: And I've become more focused on kind of strategic and technical-
+speaker_0: Exactly what she said, right? [laughs]
+speaker_3: Um, but, um, but I, I think if you like, look back in time in, in 2020, um, probably our skillsets were, were not that different and just weren't that differentiated yet.
+speaker_0: Mm-hmm. I got it. And you know, um, first of all, congratulations with your public launch.
+speaker_3: Thanks.
+speaker_0: And amazing fundraising use. And I think you guys are doing like exceptionally great. And, you know, last year was, um, very difficult for some startups because, you know, there were a lot of mega rounds and a lot of like investment in AI. And it was like much harder for a lot of companies. And so here we're in 2026 and you just like kickoff this year with this crazy news, raising like $108 million. So, can you tell us a little bit more about what did you do to make this fundraising so successful?
+speaker_3: Yeah. Um, I, I always never try to celebrate fundraising. I think, I think revenue and, and ultimately profit is the things that, that people should celebrate most of all.
+speaker_0: Sure.
+speaker_3: But in, in our case, um, we were going into, and we are in one of the most regulated areas of the economy, a little more regulated than, than banking. But pro- maybe less regulated than like utilities. But very, very regulated, uh, very capital intensive. For us to even get started we had to acquire $35 million of, of licensing. And, um, for us to launch our main product line, we had to, um, put a pretty similar amount of money into regulatory capital. So, um, I think in, in our case, um, the fundraising journey wasn't necessarily easy. It was, um, it was kind of always a process. But it was something that we had to do. Otherwise, we, we weren't able to go into this, um, into this kind of category of the economy. Um, so I think with fundraising, like the key is that you need to have a, a really compelling and concrete use of the money. Um, probably fundamentals matter a little bit less in the early stages than being able to, um, paint a picture that, that is reasonable and is likely to happen of-
+speaker_0: Mm-hmm
+speaker_3: ... of how, um, you'll become a very, very big company and an important company. Um, and I, I think in general, you shouldn't be doing a startup if you don't want a big and important company. But being able to articulate that is really important, not just for investors, but for, for customers and, um, and team members recruiting as well. Um, but yeah, I mean, our, our, our fundraising wasn't, uh, you know... I, I think we have a great group of investors. Basically, we raised our pre-seed during YC and all of the, all of those investors doubled and tripled down on us. Um, and most of the money we raised was raised pre kind of revenue or revenue growth.
+speaker_0: Yeah.
+speaker_3: So, um, yeah, I, I mean, I, I don't know if I'm like the best guy at fundraising in the world to, to give advice, but I think just being able to be really clear with what your mission is, um, being very direct with how you think about, um, building something important and, um, and just repeating that again and again. I think that's kind of the, the, the key to, to closing customers, to fundraising, to recruiting, to anything important really.
+speaker_0: Do you think any personal, uh, features of character matter? Because you mentioned that most of your investors invested in you pre-revenue, right? So why... Like, how did they get this vision, you know?
+speaker_3: Um, well, you, you probably need to ask them that more than me.
+speaker_0: Yeah. [laughs]
+speaker_3: But, um, it's... You know, I'm, I'm not totally privy to all of their decision-making. But I think that... Something I always tell my investors is our team in general is, is amazing. We have, I think, the hardest working team in, in-
+speaker_0: Seven days a week
+speaker_3: ... San Francisco. Seven days a week. I mean, it's a Saturday now and the office is, is, is buzzing with people, um, as it normally is. Um, and I, I think the, the, the key is that, um, even when things aren't going well, even when there are challenges, even when, um, you know, things are uncertain or we're not 100% sure of which approach to take, the commitment that I try to make to our investors is that we're-... we will be and are the hardest working team in all of San Francisco, and ideally, the hardest working company that there is a- in general. And I think that that's something that they appreciate. That's something that, um, they can see is true. Um, you know, for the first, um, for the first year and a half of the company, I wasn't taking a salary. Um, you know, I live in the office, all, all those sort of things. And I think the dedication of our team is, is second to none. You know, of our first 30 employees, roughly 20 of them got, got Corgi tattoos, and, uh-
+speaker_0: Corgi tattoos? [laughs]
+speaker_3: Yeah.
+speaker_0: Do you have one?
+speaker_3: No.
+speaker_0: No?
+speaker_3: And I try not to encourage it too much.
+speaker_0: [laughs]
+speaker_3: But, um, but yeah. We have beds in the office, and I, I, I think just, um, working hard and, and being very, um, dedicated to the mission, um, and being very transparent is important. Um, but as to what our investors saw, i- in us in particular, um, you know, I think they're very smart people. They're very, uh, capable. They've invested in a lot of great companies. And, um, perhaps they got the feeling that, that, um, we could kinda follow in, in the footsteps of the great companies that came before us.
+speaker_0: Yeah.
+speaker_3: But, um, but I'm not sure exactly what it was that, that led to them investing.
+speaker_0: How hard was it to get to Y Combinator?
+speaker_3: Um, that one was, uh, uh... I don't think that was too hard. Um-
+speaker_0: Was it your first attempt?
+speaker_3: Yeah, it was our first attempt. Um, yeah. I mean, we'd, we'd, we'd done a company before that worked pretty well. So, um, I don't think it... And I think when, when we applied, it was when, when Gary was just, um, taking over. And Gary's done an amazing job wi- with, with YC. Um, you know, at the time, the number one question that we got was like, "Why are you doing YC? Why are you giving up 7%?" Um, and no one asks that anymore, which I think, um, kind of exemplifies that like, YC as a brand and as an organization and institution has created such enormous value and has really kind of, um, I think grown in many ways over the past, uh, year and a half that we've been in it.
+speaker_0: Oh, yeah.
+speaker_3: Um, but yeah. I don't know. I mean, YC, I think is the best, you know, inves- group of investors and operators that exist in San Francisco. Um, I don't think we'd have a company without YC. I don't think we'd have been able to, to, you know, get everything together to get to the point where we're at now. Um, especially thanks to Jared Friedman. Um, I think he's, you know, one of our company's biggest supporters.
+speaker_0: Mm-hmm.
+speaker_3: Um, and, uh, and everyone on the team loves and admires him very much. Um, but yeah. I, I don't, I don't know if I, if I have the most, you know, tips or anything on how to get into Y- I don't think our application was that good. Um, we didn't have any revenue when we applied. The, the idea was pretty different than what we ended up, um, doing. Um, but, um, but I can say that YC like saved our company and routed us in the right direction. And I, I very much encourage any entrepreneur who wants to build something actually big to, uh, to apply and, and do YC.
+speaker_0: Yeah. What would you... H- I know maybe it's hard, but what would you recommend to other companies who are dreaming about getting accepted into Y Combinator to do or to include in the application, or just in general to focus on based on your experience?
+speaker_3: Yeah. I think instead of like focusing on like how to get into YC or how to raise money or whatever, people should just think like, "What's the biggest possible company that I could build? What's the most important thing that I could be doing with my life?" And maybe it's not building a company. Maybe it's doing a nonprofit. Maybe it's, it's joining a company that is really admirable and cool. Maybe it's, um, you know, I don't know, um, rescuing stray dogs. Whatever people think is the most like ambitious or interesting thing that they could be doing with their lives, they should probably be doing that. And, um, and I don't think kind of like the institutionalization of, of starting companies, and then there's these five or six steps you need to go through, um, in order to have a, a hot startup. Like, I, I'm not really a, a fan of that. I, I, I think that people should just think like kind of from first principles. "What's the most ambitious thing I can do with my life? Um, how do I do that?" And, um, and in my case, I, I really like, um, building companies. Um, and, you know, I, I, I think that the key for me is I just kind of think like, "What's the most ambitious or biggest possible company that I could be part of or make or create?" And then I try to do that. And I think if you do that, then, um, YC would be very lucky to have you as an entrepreneur. Um, but, uh, even if YC doesn't, doesn't take you, even if you don't do YC, I think you can still build a really great company. Although, I would highly recommend that, that everyone that is able to does YC.
+speaker_0: Mm-hmm. What do you think makes your company successful?
+speaker_3: Well, I, I think the mission's just getting started, so I don't wanna call ourselves a success yet. Um, but I, I think it comes down... Everything is downstream of culture. And I think we have one of the best cultures of any startup. Um, you know, we, we work, we work the hardest. We work the longest hours. Everyone here... And life in general is about sacrificing and trade-offs. And everyone here is making sacrifices and trade-offs. And, um, and I think kind of the, the social contract that everyone that's part of Corgi, um, kind of signs is that, um, they're gonna work super hard. They're gonna work their ass off. Um, but they're gonna be doing the most ambitious things they could possibly be doing with their time. They're gonna make a ton of money, um, when the company works out. Um, you know, enough that they don't need to work again if they don't want to. And, um, but I think everyone here loves to work. And, um, and there, you know, there's no work-life balance here. There's, there's, there's work and there's life.
+speaker_0: For sure.
+speaker_3: And it blends together, and that's it. And you're here seven days a week, and you're gonna work hard. But you're working on something that's important. And, uh...... and I think in five or 10 years when you look back, um, you know, you won't be exactly crying in your Ferrari. You'll be very happy in your Ferrari as you, um, look back on the time that you spent like, with some of the smartest people in the world that are all kind of in the same boat. So, an enormous number of our, of our team, uh, consists of ex-founders. Um, you know, m- most of us are ex-founders, I think. Probably the numerical majority. And, um, and I think this collection of talent is really the only reso n that, that we've managed to, to get to where we are. And I think that in terms of getting to the, the next stage, um, kind of, um, keeping the same bar as, of, of people as they come and join our company is the most important thing.
+speaker_0: Yeah. Did you have people who you interviewed and when you mentioned like seven days a week, they were like, "What?" [laughs]
+speaker_3: Yeah, I mean a lot of people think we're kidding or think it's satire.
+speaker_0: Seriously.
+speaker_3: Or they, or they'll ask like, "Do you really work seven days a week?" Um, but I, I, I think, um, you, you know, if, if you're doing something important and if you want to be part of one of the fastest-growing companies in the world and you want to actually, um, do something big with your life and, and do the biggest possible thing, then, um, I don't think you should, y- you know, working six days or five days, four days or three days or two days, um, like I, I don't know why you'd do that. You, you, you'd wanna go all in. So, if, if, if we're asking people to give a lot, I think we should ask people to give the most possible so that they in turn get the most possible.
+speaker_0: Is the idea to make a lot of sacrifices right now, let's say for the next like three, five years, so then you just can travel around the world and do nothing? [laughs]
+speaker_3: Um, I mean, I have enough m- I, I... My, my last company worked out okay. Um, I think, you know, I could be doing that now if I wanted to. But, um, I personally just really wanna do big things and important things. I think that the problem that we're solving is, is really important. Um, financial infrastructure is something that is like totally broken and bad right now. And maybe, you know, insurance, um, isn't the most exciting thing in the world, but it is 12% of the GDP, um, it's something that every single business needs to purchase and person needs to purchase. And right now it just sucks, it's a terrible experience. It's, it doesn't pay out, it's, it's not, not, not nice to work with. And by, by making faster, better and ultimately cheaper insurance, um, what we can do is we can make every business and person in the U.S. a little more protected and, um, waste people's time a lot less. And it's basically a, a smaller tax on the entire U.S. economy if we accomplish our mission. And I think that that's something that's, that's very ambitious. Um, you know, if we do our job, we can be more impactful than like the government is, um, in terms of, of helping, um, the economy. And right now we're, we're very small relatively to, you know, compared to where we wanna be. Um, but, um, you know, we admire the greats, we wanna join them. I think, uh, we're working our hardest to do that. And, um, and yeah, I, I don't, I don't know. I, I, I think, um, you know, kind of chilling out on a, on a yacht, um, doesn't really appeal to me personally.
+speaker_0: No. Yeah. [laughs]
+speaker_3: Um, but, um-
+speaker_0: I bet some people would argue here. [laughs] What's your biggest wish for this year? Personal or professional?
+speaker_3: Um, I mean, they're kind of the same thing. I'd, I'd like us to expand into a lot of different product lines. Um, I want us to, to reach some pretty ambitious revenue goals. Um, and I think more than just like this year, in general I'd like us to, to, you know, as a company to become an important part of the economy and to like improve and, and, and save people money and, you know, protect businesses and people a lot better than they are right now. So I, I would like us to take something that people hate, which is kind of, you know-
+speaker_0: [laughs]
+speaker_3: ... highly regulated financial infrastructure entities and to turn them in, into, into something that maybe people don't necessarily love, but people, um, you know, feel provides a real service and real value as opposed to just wasting their time and their money.
+speaker_0: Cheers to big and ambitious goals. Thank you so much. High five. That's great. [laughs]

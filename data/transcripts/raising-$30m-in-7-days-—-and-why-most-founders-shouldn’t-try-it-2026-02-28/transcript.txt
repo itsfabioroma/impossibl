@@ -1,0 +1,630 @@
+speaker_0: All right. Hello. [laughs]
+speaker_1: Hey, Filas. [laughs] How are you?
+speaker_0: I'm doing very good.
+speaker_1: Thank you so much for letting me into your gorgeous office space. It looks really amazing. My first question to you. Uh, we had an interview with you, I think, a year ago. Time flies.
+speaker_0: Mm-hmm.
+speaker_1: And you raised 30 millions in seven days. How did your life look like after raising so much money?
+speaker_0: I think at the beginning, everyone gets super excited and you get, you know, the invites to swanky dinners with-
+speaker_1: Woo hoo!
+speaker_0: ... one of the biggest CEOs and everything. But, um, this doesn't matter. In the end of the day what matters is product, and you need to push out an exciting incredible product and, um, just need to, you know, this is a little bit of a cliché, but build something that people love. And in the end-
+speaker_1: Yeah
+speaker_0: ... only that matters. Do I still get more invites to, like, I don't know, some camp in Courchevel where they pay for my hotel? Yes. But, uh, you know-
+speaker_1: [laughs]
+speaker_0: ... at the end of the day, it allowed me to hire incredible talent, um, build with ambition, and, um, probably that's it.
+speaker_1: Okay. Hiring and invites to cool dinners. [laughs] Summarize that.
+speaker_0: Pretty much. Um, you know, I think the, the biggest thing would be the scale of ambition. And, you know, we raised at a high valuation.
+speaker_1: Mm-hmm.
+speaker_0: Um, not, not too high or anything, but it's just the next round needs to be a billion plus.
+speaker_1: Mm-hmm.
+speaker_0: Um, and I've promised both to the people that work here and our investors to try to, you know, build a hundred billion trillion dollar company.
+speaker_1: I love that.
+speaker_0: And you build a company like this differently than you build a B2B vertical SaaS, which you're planning to sell for 500 million. Um, and we are trying to live up to this, and there were very difficult decisions that we've taken since that round that put us back on the path of, risky path, of trying to get to a hundred billion or a trillion doll- dollar outcome.
+speaker_1: What is different?
+speaker_0: So back in the day, we thought that we were gonna be building only an infrastructure product.
+speaker_1: Mm-hmm.
+speaker_0: Uh, that other companies, um, would use as-
+speaker_1: Mm-hmm
+speaker_0: ... their backend for agentic setup.
+speaker_1: Yeah.
+speaker_0: Okay? Um, since then, vibe coding, uh, was basically invented. It became a thing. So non-technical people could work on the agent orchestration. But also, the goals for revenue and for, you know, how to get to multi-billion dollar valuation have changed. We, um, saw the rise of companies like ElevenLabs, like Globable.
+speaker_1: Mm-hmm.
+speaker_0: And they basically set the bar for everyone else very, very high. You know, the goals right now with the multiples are completely different.
+speaker_1: Mm-hmm.
+speaker_0: You need to be doing 20, 40 million ARR to be reaching a valuation of, you know, 1.5 billion.
+speaker_1: Mm-hmm.
+speaker_0: For an AI company on the forefront of, like, what agents mean-
+speaker_1: Mm-hmm
+speaker_0: ... it used to be that, you know, Cohere, I think-
+speaker_1: Mm-hmm
+speaker_0: ... was raising at 150X, same as Perplexity. Completely different goals for revenue.
+speaker_1: Yeah.
+speaker_0: And, you know, that basically, we, we basically had to design a new entry point to Worldware-
+speaker_1: Mm-hmm
+speaker_0: ... which is Xona, our new product.
+speaker_1: Amazing. We're gonna talk about it later.
+speaker_0: Sure.
+speaker_1: But, you know, still, raising 30 millions in seven days, first, it's, like, a lot of money. A lot of people struggle just to raise, you know, like, two millions or so. And then the speed, like, seven days. That is crazy. Any fundraising tips that you can share?
+speaker_0: Our fundraise was very different to a typical fundraise for a seed round. This is not my first rodeo.
+speaker_1: Mm-hmm.
+speaker_0: You know-
+speaker_1: You are prepared.
+speaker_0: Our, our early investor has joined, uh, full time before that, uh, that race.
+speaker_1: Mm-hmm. Mm-hmm.
+speaker_0: We did a lot of work that took years. And, you know, it's not like we just created a magical pitch deck.
+speaker_1: Mm-hmm.
+speaker_0: Me and Robert known each other for 11 years. I built previously a company in this space. We went crazy viral and had 10 million users, 700,000 signups. We got to one million ARR within days. Uh, so, you know, there was a lot of things that, like, kind of went on top of each other. And also, and this is kind of the biggest advice, I'm good at running an auction.
+speaker_1: Mm-hmm.
+speaker_0: And I think a lot of people think that they can just build a product and everyone will find out about this, and the investors are-
+speaker_1: Yeah
+speaker_0: ... gonna approach it from first principles.
+speaker_1: Mm-hmm.
+speaker_0: Not the case. You have to apply basically auction techniques to make sure the people are excited and people feel FOMO and they feel the pressure. And if you run a good auction, it's not something that, you know, is a one-time thing and, like, "Oh, they got lucky." No, no. That muscle stays with you-
+speaker_1: Yeah
+speaker_0: ... for the next rounds, et cetera. So as a CEO, you need to learn how to run a good auction, how to use the right techniques to make, um, investors want to give you money.
+speaker_1: Mm-hmm.
+speaker_0: And keep using that skill in every round. And it's not, like, something that you can just trick people to do at seed. It's-
+speaker_1: Yeah.
+speaker_0: Yeah.
+speaker_1: Can you say that fundraising also kind of like a sales process?
+speaker_0: It's similar to dating, I'd say. [laughs]
+speaker_1: Dating? I know you're very opinionated about dating in this. [laughs]
+speaker_0: But I think, uh, you just need to be okay with, uh, you just need to be okay with-
+speaker_1: Rejection?
+speaker_0: With rejection, I would say. That's, that's, uh-
+speaker_1: [laughs] That's why it sounds like dating. [laughs]
+speaker_0: And I think you need to put yourself out there. Um, really strive for who you want to be on your cap table. For us, it was, um, from very beginning we knew who we really want to have-
+speaker_1: Mm-hmm
+speaker_0: ... on the cap table.
+speaker_1: Mm-hmm.
+speaker_0: And some other people we knew we are gonna, you know...... use it for just being popular and get offers and then leverage these offers, et cetera. So, um, I think you... In the end of the day, you're looking for the right partner, and you then are trying to get good terms. And the-
+speaker_1: Yeah
+speaker_0: ... good terms come from competition. And the right partner does completely different.
+speaker_1: Mm-hmm.
+speaker_0: That's someone who... For us, it's Park Capital. They've built companies and they've funded companies in the same space.
+speaker_1: Mm-hmm.
+speaker_0: So their advice and their ambitiousness actually really helped us with the recent change of kind of entry point 'cause they gave-
+speaker_1: I see
+speaker_0: ... us the chutzpah, you know-
+speaker_1: Mm-hmm
+speaker_0: ... to-
+speaker_1: Mm-hmm
+speaker_0: ... um, actually do it. And with other investors, they might have pushed us into, like, B2B vertical SaaS.
+speaker_1: Yeah.
+speaker_0: We are building a horizontal AI agent. This is the name of the game right now.
+speaker_1: Mm-hmm.
+speaker_0: The most ambitious things that you can do right now in the world. And it's gonna be hard and the competition is hard. And the right investors are gonna be okay with this.
+speaker_1: I see. And when we chatted one year ago, two of your tips, I still remember, about fundraising. One was do not create, like, a lot of slides in your pitch deck, and that something that you use almost like one slide with all the metrics or so. But correct me if I'm wrong.
+speaker_0: We just had an Excel. We didn't even have a slide. [laughs]
+speaker_1: Excel?
+speaker_0: Yeah.
+speaker_1: Okay, you can tell us more. And the second tip was that preparation makes everything effortless, right? Is it still true? Yeah, so these two tips that I still remember.
+speaker_0: Yeah. Let me just re-sync with myself for a second. Um, I think the au- running a process that is based almost on auction techniques requires a little bit of like, I call it the horse race. So, you need to let all the horses-
+speaker_1: Yeah
+speaker_0: ... go at the same time, for example. That's one of the techniques. There's also, like, other ones-
+speaker_1: Okay. [laughs]
+speaker_0: ... we can talk about that. But the process, it means you do a lot of research. You get intros to every person, warm intros. Cold in- intros do not work.
+speaker_1: Mm-hmm.
+speaker_0: And then you actually, like, open the floodgates at the same time. Um, so yes, it is process. And then just p- play the game. That's it.
+speaker_1: Mm-hmm.
+speaker_0: It's a game.
+speaker_1: Okay.
+speaker_0: And you have to play it. Don't think that you are somehow special. Play the game.
+speaker_1: Were investors surprised to see just one Excel sheet or no?
+speaker_0: Um-
+speaker_1: Instead of, like, many slides?
+speaker_0: I think we run a very competitive process. I would not recommend that to most startups.
+speaker_1: Okay.
+speaker_0: Get a good simple messages across on, you know, 12 slides of a pitch deck. Um, and then have the appendices be, you know, 150 slides long. So every question that the investor-
+speaker_1: Mm-hmm
+speaker_0: ... asks, you're, like, jumping there. You're like, "Oh, yeah, Slide 57." Makes you look prepared, um, but it also actually answers all the questions. Um, so, you know, we didn't have one slide even.
+speaker_1: Mm-hmm.
+speaker_0: It was a story. It was a narrative that me and Robert got really good at pitching. And it was like a 40-minute theater situation. [laughs]
+speaker_1: Okay.
+speaker_0: Where we actually tell the whole story. We get people, you know-
+speaker_1: Yeah
+speaker_0: ... on the rollercoaster of emotions that been... that, that, that has been the last 10 years of building in this space.
+speaker_1: So you made them feel something, which is great.
+speaker_0: I think that's, that's a big part of story-building.
+speaker_1: Amazing. Okay. And then after your round raised, you spent... Correct me if I'm wrong, 1.5 million to build kind of an office that looks like a vacation home.
+speaker_0: [laughs]
+speaker_1: But, uh, you know, some of the criteria that I think you said for your real estate agents were, like, sauna in the office, as close to the beach as possible for surfing, right? Showers, like, to take breaks after swimming and so on. Kitchen for a real chef, like, why?
+speaker_0: Um, I think there are some lessons from the first company that I kind of treated, you know, like, the whole team more like as cogwheels in this machine that has to run.
+speaker_1: Mm-hmm.
+speaker_0: And whenever there was somebody who was missing, you would kind of fill it with the right cogwheel.
+speaker_1: Yeah.
+speaker_0: In this company, we have a lot of ex-founders. And, um, it's basically a lot of people are their own engine rather than being a cogwheel in-
+speaker_1: Mm-hmm
+speaker_0: ... in, in, you know, in a bigger engine. And that has its, uh, d- downsides, but it means that each person, I value them immensely.
+speaker_1: Mm-hmm.
+speaker_0: And each one of these ex-founders is giving it all. And if they're giving it all, they... I think they deserve a place where, you know, they call home. We have also, like, a lot of immigrant founders.
+speaker_1: Mm-hmm.
+speaker_0: They end up having friends in the company. They spend... You know, I have had multiple times a question of like, "Philip, would you mind if I sleep here, like, more ongoingly?" [laughs]
+speaker_1: Mm-hmm.
+speaker_0: There is a closet here. And one of our employees ask me like, "Philip, can I put a mattress there?" [laughs] And I said no. [laughs] But, uh, at the same time-
+speaker_1: Your landlord is not watching this interview. [laughs]
+speaker_0: [laughs] Um, but at the same time, you know, I sleep in this office quite a lot. And, like, i- it's just we're working really, really hard. And I want to make sure that people are treated in the right way. Um, and I think as a CEO, I have this... Like, my superpower is to build also a lifestyle-
+speaker_1: Mm-hmm
+speaker_0: ... and build a sports team-like vibe in the team, where everyone values, um, everyone around and their work. And everyone believes they are surrounded by the best people in the world. And part of this lifestyle for me is sustainability. You know?
+speaker_1: Mm-hmm.
+speaker_0: Um, I think a lot of Silicon Valley glorifies living on a mattress and just-
+speaker_1: Yeah
+speaker_0: ... working for 16 hours a day and going to sleep. I've been in AI for 10 years. And I've seen the cycles, you know?
+speaker_1: Mm-hmm.
+speaker_0: And you actually have a little bit more time-... more time than you think. It's still y- The urgency needs to be there.
+speaker_1: Mm-hmm.
+speaker_0: But you can't just jump on and get scared of every other, you know, big thing.
+speaker_1: Mm-hmm.
+speaker_0: You know, there's so many of these big things.
+speaker_1: Yeah, yeah.
+speaker_0: So I think in the end of the day, it comes down to believing and building on a 10-year, um, horizon. Not for, like, "Oh, we're gonna get so rich in a year and a half," and building the lifestyle of your team. It does mean that you really have to make sure that your team doesn't think you made it.
+speaker_1: Mm-hmm.
+speaker_0: And it keeps the urgency there. It keeps everyone on, still on their toes, even though we, uh, we do have a very nice office. Um, and also we didn't pay 1.5 million for it. Uh, you know, this is just ragebaiting for Twitter. Um, it was actually explained in the post, but nobody reads this. Uh, we got a... In the end of the day, it ended up being 250K from the company's bank account.
+speaker_1: Yeah.
+speaker_0: Um, but yeah, you just have to kind of negotiate well to make sure that the walls get built and so on. There was not even walls in this office. So, yeah.
+speaker_1: Yeah. No, I did read it, but [laughs] I think you are a king of negotiation, if I can call you so.
+speaker_0: [laughs]
+speaker_1: No, seriously, you know how to negotiate things well. And what helps you that? Because I see that there is, like, a little trend right now that actually startups started looking for office spaces, even though they have like five people.
+speaker_0: Yup.
+speaker_1: But for some reason, they don't wanna stay in a co-working space. They want to find something for the company. So how did this process look for you? How challenging was it, and how did you manage to negotiate all these amazing terms, and what did you negotiate specifically? Can you share more?
+speaker_0: I think I've had a, um, great real estate agent and a great lawyer. Some things are worth overpaying for, uh, 'cause, uh, it, it d-
+speaker_1: [laughs] Overpay for lawyers, okay, and real estate agent.
+speaker_0: Yeah. [laughs] And, um, I think... I think what, what's kind of one advice is, um, y- you should put your personality into it. It's gonna be the, the place where you spend majority of your life-
+speaker_1: Mm-hmm
+speaker_0: ... over the next 10 years, and vibes matter. [laughs] And I think the, um, kind of how to find a great office is it, it took us, like, I w- I would say four or five months and, like, two deals fell through, uh, before we actually landed this one. Um, and, eh, we also had to make, um, you know, sacrifices. Uh, we had to build out this office, and that's not a standard thing to do.
+speaker_1: Mm-hmm.
+speaker_0: Um, and we then hired a great, um, contracting, like, kind of, eh, company that actually did a lot of it without handholding. And then we actually, from the moment when, you know, the first, um, contractor worker came in, it still was six months. So this whole thing-
+speaker_1: Mm-hmm
+speaker_0: ... lasted nine months end-to-end before kind of deciding we need an office to actually moving in. And I think this is a big part for what I look for in, like, great founders as well. It's like very particular things which matter to them, like if I'm investing, for example, it's like small things that matter to that particular person that they are building for, that show that they are building for the long term. And it's like, I care, for example, about the sanctuary of the space around me and I'm gonna, like, I'm building this company for ne- next 10, 15 years.
+speaker_1: Mm-hmm.
+speaker_0: So it's important to me. Uh, for other people, maybe it's not as important, you know? So then they shouldn't even engage in this kinda situation. Um, yeah.
+speaker_1: No, it's amazing here. It's so nice. You can see the Golden Gate out of the window. But the question is, you know, like some people also struggle to be productive when they're surrounded by nice things, you know? Like for example, when I'm in Miami, it's very hard for me to work because, like, it's hot, you know, palm trees are everywhere.
+speaker_0: Yup.
+speaker_1: It's not the case here.
+speaker_0: I think in San Francisco, you know, if palm trees are there, in Miami and Florida you're having a nice cocktail, you know? San Francisco, the party scene sucks.
+speaker_1: [laughs]
+speaker_0: And you know, what I'm trying to encourage here-
+speaker_1: Yeah
+speaker_0: ... is that people are getting a membership in Movement Gym, so everyone hits the gym, a lot of people run.
+speaker_1: Yeah.
+speaker_0: Eh, you know, this is, it's, the vibe of this place is sports and work.
+speaker_1: Okay.
+speaker_0: And ph- healthy food. This is what we are, what I'm, what I'm giving to my employees. It's not, "Let's have a barbecue on the beach every day." San Francisco is just naturally much better at this stuff.
+speaker_1: Yeah.
+speaker_0: Nature, su- sustainable, kind of, you know, riding a bike every day. That's great.
+speaker_1: Yeah.
+speaker_0: Not kind of, you know, margaritas every day. [laughs]
+speaker_1: Sometimes it's also great, but yeah. [laughs]
+speaker_0: [laughs] Yeah.
+speaker_1: Why was it so important for you to have, like, a private shell?
+speaker_0: Uh, I just think people... The end of the day, you know, [sighs] we spend hundreds of thousands of dollars on engineers and on salaries and so on.
+speaker_1: Mm-hmm.
+speaker_0: And some people are like, "Oh, and then put them anywhere," and just, "Success matters." And it's true, you know? If th- your product is amazing, then y- y- people are gonna come work for you. Um, but there are times, and, you know, the current companies have really proved out that Cursor or, um, or Windsurf, they all pivoted. And you need to, like, also have a core of taking care of your people so they don't leave when you have the first-
+speaker_1: Yeah
+speaker_0: ... you know, the first problem. And I think a, a chef is actually really, really cheap-
+speaker_1: It is, actually
+speaker_0: ... compared to salaries and so on. And it's such a nice differentiator. And if I can make sure that, you know, we, we used to order, like, Uber Eats, right? And people just have a slump of productivity because they don't feel as good after, you know, a burger that just arrived.
+speaker_1: Yeah.
+speaker_0: And, you know, if we have fiber and we have nice protein and so on, people are happy, people are healthy. Long term, it really makes sense.
+speaker_1: [music plays] And I mean, it's great that you have good food. I mean-
+speaker_0: That's it. [laughs] Yeah.
+speaker_1: I also struggle here with good food, like when I go out, so that's why I just cook at home. For me it's like-
+speaker_0: You can stay for lunch, 12:30.
+speaker_1: Much better, yeah. [laughs] Much better, you know, um, to eat home-cooked foods rather than just... Uber Eats is just a different story. Every time I open it, I'm scared. So yeah.
+speaker_0: Yep.
+speaker_1: But anyways. So and, um, finalizing this, uh, theme about the office space. So your co-founder at first thought that you were crazy, right? Uh, what does he think now?
+speaker_0: Uh, you know, he, he-
+speaker_1: Still crazy? [laughs]
+speaker_0: Uh. [laughs] Uh, he's fully bought in on the office. I think he still thinks I'm crazy. Um, I think in co-founding relationships, um, me and Robert are very different.
+speaker_1: Mm-hmm.
+speaker_0: Uh, but the good part about this is we really trust each other in the part where we know that the other person is excellent. Part of where, where Robert really trusts me is the team-building and the culture-building, et cetera.
+speaker_1: Yeah.
+speaker_0: So even though he said, "Philip, you're crazy," he was like, "I don't, I don't know if I agree, um, I don't agree, but, uh, I fully commit to your decision." And, um, that's what I think makes good co-founder relationships, that he still trusted me. And, um, now he realizes how big of a... You know, it's so much easier to hire, so much easier to retain people. Like try to put somebody in the mission office with, you know, homelessness and like danger around everywhere after being here. It's just, it... Ho- honestly, I also want to build people's lifestyle and make them happy, but at the same time, it is like economically a great decision.
+speaker_1: Yeah. When you talk about your co-founder, it sounds like a marriage, like perfect marriage, you know? Like literally it's like-
+speaker_0: Not perfect marriage, you know? I think it-
+speaker_1: Well, marriage does involve, you know, include some conflicts and tricky situations. [laughs]
+speaker_0: Yeah. Yeah.
+speaker_1: But you trust each other. If you wanna buy Chanel bag, go ahead, I trust you, right? So, um, that's great.
+speaker_0: It comes with time as well.
+speaker_1: Yeah.
+speaker_0: It's like we both hit, you know, our lows, and I can really, you know, think of each one of these situations. And big part of this is, all of it is built on friendship.
+speaker_1: Mm-hmm.
+speaker_0: I've known him for 11 years now. And if we see the other one struggles, we make, um, we make do with it and we change our lifestyles or we change something in the company to make sure that we are both in our ikigai, you know?
+speaker_1: Mm-hmm. Mm-hmm.
+speaker_0: I don't know if you've heard of that concept.
+speaker_1: I did, yes.
+speaker_0: Um, but, uh, as in every marriage, there is problems. And we have a great coach. Um, we meet with her, you know, once a month and we talk out through ev- We talk through everything. And to be honest, even though we've known each other for 11 years, we've been stepping into like another phase of our marriage only in the space of like... We've al- It'd always been good, but it's been excellent in the kind of last four months. Uh, and it's like really required a lot of work to, you know, be very honest about what you expect not only from the company, but also from your life and how the company fits into that and make sure that we are aligned how we are trying to build this.
+speaker_1: Definitely like a marriage. [laughs]
+speaker_0: Yeah.
+speaker_1: But yeah. No, this is great. But you know, people say, um, "Don't build business with friends because this will ruin your friendship."
+speaker_0: Yeah.
+speaker_1: Uh, did it ruin your friendship?
+speaker_0: I, I, I think I used to say the same thing. And then I think you realize that if you are to spend honestly 12 hours a day with somebody-
+speaker_1: Yeah
+speaker_0: ... uh, maybe, you know, the fact that you don't go for a crazy party or whatever, or like you don't go canoeing because you don't want to see that person is worth it, because you see them every day for 12 hours a day and it's somebody that you deeply trust. So I would say for most people, it's a very good trade to trade one of your friends to be your business partner for years to come.
+speaker_1: Mm-hmm.
+speaker_0: It just happens so that me and Robert still get to step in into just the friendship thing. And we sometimes like even, you know, we, we sometimes do like stupid toxic shit and, uh, like, I don't know, we get drunk together and we do something and, you know. Um, and we are like outside of that, you know, our professional selves. We sometimes purposefully find occasions to step into the just the friends and we don't talk about work and that's it.
+speaker_1: Yeah.
+speaker_0: Doesn't happen very often, but it still does.
+speaker_1: Yeah, you need some moments like that for sure. Uh, but, you know, I think you're also very specific, correct me if I'm wrong, about people working from the office, but not remote.
+speaker_0: Yep.
+speaker_1: And can you explain me a little bit? Because it feels like after COVID, most of the companies went remote and it's about flexibility, it's about caring about your people, families whatsoever. Why are you so specific about working from the office space?
+speaker_0: I think it all, like a lot of these things come down to the preference of the founder. I prefer to be in person with people. I have a Zoom allergy.
+speaker_1: Zoom allergy. [laughs]
+speaker_0: Yeah. And you know, um, I do think particularly for me, I build better, more productive, happier teams if we're in person. It has its drawbacks. You know, recruiting is a little bit, like quite a lot more difficult, but you also end up selecting for the right type of person. I think a lot of young, ambitious people want to be in person. And, um, I would say actually for a lot of young people, their careers have been somewhat derailed by COVID and by working remotely. A lot of the learning about your career, et cetera, happens in the office, in person, on the water, water cooler chats, et cetera. And-
+speaker_1: Water cooler chats.
+speaker_0: Yeah.
+speaker_1: Zoom allergy, water cooler chats. I love it. Okay.
+speaker_0: I think, uh, and in the end of the day, I'm, I'm just, I'm just happier where I can see the person's face, understand, you know, their body language and try to nail down the problems quicker. Um, it, it has a lot of drawbacks, to be honest.
+speaker_1: [music plays] Yeah. But I mean, I'm honestly on your side. I, I like being in person more than online, because I think you can solve problems much faster. You can just talk to each other and figure it out.
+speaker_0: Even know they exist faster.
+speaker_1: Yeah.
+speaker_0: Sometimes something is brewing for like a month-
+speaker_1: Yeah
+speaker_0: ... in a remote culture, and nobody kinda, nobody can put a finger on it, you know?
+speaker_1: Exactly, exactly. And so in this case, I understand. But you also mentioned that, like, for young, ambitious people, it's important. Does it mean that you don't hire people that are older or like, they're not a good fit for the company if they have kids or a family? Just curious.
+speaker_0: Yep. We do have, um, people with kids and family, and we do have people that are, you know, um, like older than 45 or something like this.
+speaker_1: Mm-hmm.
+speaker_0: But, uh, so we don't end up... W- we're not ageist here.
+speaker_1: Mm-hmm. [laughs]
+speaker_0: But at the same time, what really matters to us is being AI native. And you know, these people that are slightly old- older than our average-
+speaker_1: Mm-hmm
+speaker_0: ... are still AI native. But the truth is, the people who have grown up with using ChatGPT-
+speaker_1: Mm-hmm
+speaker_0: ... and with vibe coding, et cetera, their brains work slightly differently, and this is something I like. So we do end up having, you know, a bunch of people who are 20, 21, 22, drop out of college, you know. They are extremely... They, they bre- breathe and live AI. And yeah, they just think different. And it, that's very useful for an AI-first company. So we do end up having a younger crowd.
+speaker_1: Mm-hmm.
+speaker_0: But we are not discriminating around kind of, you know, people-
+speaker_1: No, yeah
+speaker_0: ... who are older. But it just happens to be that AI-native people are normally a little bit younger.
+speaker_1: Yeah. Uh, I mean, yeah, I think that's totally fine. And you know, uh, I mean, as a stranger, when you look at your story, it looks like a, like very success story, a lot of money raised by C, having your co-founder as a best friend. It all looks great and amazing. But I'm pretty sure that throughout your journey, you had a lot of, uh-
+speaker_0: Ah
+speaker_1: ... doubt moments. [laughs]
+speaker_0: Yeah.
+speaker_1: You also had three VC rejections, like hundred of-
+speaker_0: I think four, even. So-
+speaker_1: VCs, yeah, that, like did not give you money. How do you go through this rejection? What keeps you going? Because I bet it's really hard, and in certain moments, you think, "Oh my God, like maybe I'm not doing the right thing."
+speaker_0: I've been a founder for eight years now.
+speaker_1: Mm-hmm.
+speaker_0: And you know, 20... I started when I was 22.
+speaker_1: Mm-hmm.
+speaker_0: Back in 20... No, 2018. So it's, it's been seven years. And when people look at the success, they don't see the seven years leading up to this.
+speaker_1: Yeah.
+speaker_0: And you know, I'm not even at the success yet. And I think it's just about showing up. And just being consistent, and really making sure that you can show up. That's why, like, I make so many, like lifestyle decisions for my company, because it really worked for me. Um, but I think it, it is important to talk about the difficulties of being a founder, anywhere from, you know, health issues. You know, I... You h- If you're constantly stressed, you end up, uh... Your thought patterns get, I think, uh, developed in a different way if you've been in the game for so long. Everything, every moment is thinking about your company.
+speaker_1: Yeah.
+speaker_0: And you're taking a shower, you're thinking about problems. And, uh, and your body also responds to stress, and it's like, I've had m- multitude of different health issues-
+speaker_1: Yeah
+speaker_0: ... because of stress. I had co-founder issues. Uh, you know, my first company has actually... My exit was due to a co-founder disagreement, you know?
+speaker_1: Ooh.
+speaker_0: And it wasn't like f-... It wasn't success for me. Um, part of this company, you know, we recently had to redesign the entry point of this c- whole product, of the whole technology. That was really stressful. A lot of our investors did not love it. Uh, you know, at the beginning, Robert didn't love it.
+speaker_1: Huh.
+speaker_0: Uh, and he was like really emotionally connected to the previous product. It was his baby. And, um... Oh, there's so many things that are just hard. And I think, you know-
+speaker_1: I bet. [laughs]
+speaker_0: I, I would love for people to understand a little bit more about these kind of things. I even thought about writing a book of just friends' stories.
+speaker_1: Yeah.
+speaker_0: Some of them can be anonymous. About cof- like, doing the opposite of just success, like showing how incredible people failed, and how much randomness there is in all of this. But the main lesson is, as I look around my friends who've stuck to it for the last seven years, who started at the same time and stuck to it.
+speaker_1: Yeah.
+speaker_0: To the whole startup ecosystem, maybe not to their own startup, they all emerge victorious in some way. Um, and you know, they either invested in some company. They either put in some money somewhere.
+speaker_1: Mm-hmm.
+speaker_0: They either worked for a company and made it through the cliff. And they all somehow end up being perfectly fine. But the showing up part throughout all of the difficulties is the hard part. Keep showing up.
+speaker_1: Yeah. How did Y Combinator influence your founders' journey?
+speaker_0: I think the, the... I think there were parts of it which w- I think YC has now changed some of the way that they fund startups, and I'm ready for the change.
+speaker_1: Mm-hmm.
+speaker_0: They ended up investing into younger founders. And y- you can see the statistics of it.
+speaker_1: Oh, yeah.
+speaker_0: It's pretty stark difference to, you know, pre-Gary Tang times.
+speaker_1: Yeah.
+speaker_0: Um, it doesn't mean it's better or worse. We are yet to see, you know?
+speaker_1: Yeah, we'll see. [laughs]
+speaker_0: And normal startup takes more than seven years to actually exit. Um, but I really like their chutzpah right now, and their kind of, you know, their...They are taking risks into new things. When we were still there, um, I think there was more focus on kind of a B2B verticals SaaS enabled by AI.
+speaker_1: Mm-hmm.
+speaker_0: And that did not fit into our nature. Um, so we had like a couple situations where, where we pushed back, uh, quite heavily. Uh, but in the end of the day, it ended up building an incredible community of founders and, uh, you know, the advice on many things was, was really good. But I think the main thing is you pay 7% to re- to align a timeline with a bunch of excellent people.
+speaker_1: Mm-hmm.
+speaker_0: And build a support network for yourself. And I think it's worth it because we have like our, we called it Section X because every, like in startups you have these groups and they're called like Section Four, whatever, whatever.
+speaker_1: Mm-hmm.
+speaker_0: And we have a Section X which were people that we just met through YC. And there's like, I don't know, 15 of us. And we all understand each other businesses very, very well.
+speaker_1: Mm-hmm.
+speaker_0: And speaking of that little toxic thing that I do with Robert sometimes, you know, our very good two of these companies raised, um, their Series A recently.
+speaker_1: Think I know one. Yeah. [laughs]
+speaker_0: Uh, and, uh, you know, they rented a penthouse and a table at like some club in New York. And me and Robert flew in for 12 hours. Uh, and celebrating with friends who fully understand what you're going through-
+speaker_1: Yeah
+speaker_0: ... is really cool and important. And, um, I think that has been the biggest gift of YC for me.
+speaker_1: Yeah. And, you know, um, I also have a good quote from you, uh, about-
+speaker_0: Oh no. [laughs]
+speaker_1: No, no, no. About actually people. I really love it and I just want to discuss a little bit more with you, is, "The thing that surprised me most, how much I care about the people part. I thought I was here to build product. Turns out I'm here to build a team that builds product." I love that. And one of the things, uh, that I like also about your company culture and how much you invest into that is, do you propose your employees after three months working with you as a trial period with an Oura Ring?
+speaker_0: Yeah.
+speaker_1: Can you explain a little bit more about that?
+speaker_0: Yeah. I think you can, you can look around and everyone carries a, an Oura Ring and that-
+speaker_1: It means they're in.
+speaker_0: That means they are in the, the, the sports team. And, you know, a sports team is also requiring you to keep on delivering.
+speaker_1: [laughs] Yeah.
+speaker_0: But at the same time, there is a level of loyalty that we have here. And I think in every situation where somebody was kind of underperforming, we give a little bit more time than other companies to kind of realign and make sure that it's working, et cetera. We just, because of that kind of commitment of you're in-
+speaker_1: Yeah.
+speaker_0: You know, sometimes it is obvious that the person shouldn't be here because it's, it's like, you know, the goals of the company misalign with their personal goals. And, and then you are trying, like it's not like once you're in, you're in forever. But it's, it's a co- it's a commitment for me being like I'm literally putting a finger on, on your f- uh, putting a ring on your finger.
+speaker_1: Did you come up with this idea?
+speaker_0: Yeah, yeah. It's like, it's fun to just create these kind of small things, you know?
+speaker_1: It, it is. I think I have never heard of that. So this is like bizarre and fun and amazing. Uh, I know I've heard that couples in the States do that.
+speaker_0: [laughs]
+speaker_1: They really get married with Oura Rings.
+speaker_0: Oh, okay.
+speaker_1: But I've never heard about... Yeah, yeah, yeah, you know. I've never heard about, um, founders doing it to their employees.
+speaker_0: I, I think there is a fun new feature on, uh, on Oura where you share your statistics.
+speaker_1: Yeah.
+speaker_0: And we have like a group of like, and people-
+speaker_1: A competition?
+speaker_0: E- I p- I'm not part of it. I was like, eh.
+speaker_1: Are you too bad?
+speaker_0: Fuck, fuck this shit. Like sometimes, you know, I don't want to be watching my sleep.
+speaker_1: Yeah. [laughs]
+speaker_0: And, uh, but, uh, I think a lot of people enjoy looking at, you know, each other's sleep scores, et cetera. So.
+speaker_1: Yeah. Uh, what are you building in SportsPlayer?
+speaker_0: Uh, at work we're building Sauna. Sauna is-
+speaker_1: I love the name.
+speaker_0: [laughs] There is a story to it. But Sauna is the main dashboard where you do work with AI. So that essentially means, um, AI proactively does work for you based on all the data it has access to. Uh, you get to delegate work to AI agents.
+speaker_1: Mm-hmm.
+speaker_0: Um, and you get to help your AI agents. So in the end of the day, it's kind of like a, it looks like a Kanban. Um, essentially-
+speaker_1: [laughs]
+speaker_0: ... it's like ideas from AI that it could do.
+speaker_1: Okay.
+speaker_0: So it, you know, searches through emails, drafts responses proactively without you needing to actually say that you need that. It, for example, um, signals to me when there's sentiment in our Slack, um, Slack team messages-
+speaker_1: Mm-hmm
+speaker_0: ... gets, changes. That means that it's a signal for me as a CEO to look for those troubles. So that's number one pain.
+speaker_1: Uh-oh.
+speaker_0: The other pain is to show you what are the agents doing. Right now, the biggest problem with chat is the concurrency of one. You normally work with one, maybe you have a couple tabs open. Um, we are trying to change that and make you aware that like you might be running 10 different processes. And, you know, they can take anywhere from five minutes to a day sometimes.
+speaker_1: Mm-hmm.
+speaker_0: The next one is approval. So that means the agent is stuck somewhere. And the most powerful AI agents are not actually the most autonomous. They ask you for help. They learn with you. So here you, this is you almost like your to-do. This is where the agents are blocked somewhere.
+speaker_1: Mm-hmm.
+speaker_0: Or they finish their work and they want you to send that message or, you know, approve that, um, PR request. And then it's done. So it's a simple command where, um, the agent, Sauna, learns what do you do, how do you delegate work to it.
+speaker_1: Mm-hmm.
+speaker_0: And, um, helps you do everything in your knowledge work. So the way that I explain this often it's, forget the CEO treatment. This is your POTUS treatment. So this is your Oval Office desk. And in the morning you come there and it gives you, they give you, um, the, uh, kind of, uh, briefing of everything that happened, uh, in the last day. They bring you the work that they've done for approval and they also silently, your White House staff.... does the-
+speaker_1: Wow
+speaker_0: ... does the work for you. And we just want everyone to become a manager of AIs.
+speaker_1: Who is your ideal customer?
+speaker_0: I think right now it's a lot of people like me. Um, founders, manager, managers, product managers, VCs. People who deal with a lot of fuzzy data.
+speaker_1: Mm-hmm.
+speaker_0: Um, and people who are very AI native, for now at least. People who are almost trying to take the software engineering tools, like Cloud Code, and apply it for knowledge, and that i- ends up being difficult, hence Sonar is a product that is gonna enable that and is enabling that for a lot of people.
+speaker_1: That's amazing. Sounds like a paradise, to be honest. [laughs]
+speaker_0: It's... Honestly, uh, I think people have... I'm kind of that person that has had one idea in their life [laughs] and my first company was around augmenting human memory with always-on listening devices. That was in 2018 working with GPT-2.
+speaker_1: Ooh.
+speaker_0: And, um, I think for me, I've always believed that human brain is incredible at some things, and really shit at others. And we mostly use it for the sh- shitty part. We became copy-paste machines in knowledge work.
+speaker_1: True.
+speaker_0: A normal person, normal, normal knowledge worker switches their tabs or products on their computer 1,100 times per day. That's ridiculous. And what we are really good at is the deep, creative, intuition-led work that we do very little of. You know, that whole g- gra- gram essay about like deep work, et cetera, not many people follow that. And what I'm trying to do is, um, build the right context to do all the menial stuff. And something that came up in the process is to realize that that context that w- you build out also helps you with the deeper and creative work. So Sonar is a perfect metaphor because we try to take control of... For me, Sonar is a place where I do have these deep, creative-
+speaker_1: Mm-hmm
+speaker_0: ... thoughts. And in a way, once you enter Sonar, everything that is outside, the noise disappears. And you know, the deep, creative thinking can be augmented by the context it, it gathers. So very long story short, we believe that the queue to AGI is not only the intelligence part, but also the context that that intelligence acts upon. We're not, we're not competing with the main AI labs on the intelligence part.
+speaker_1: Mm-hmm.
+speaker_0: We just use the best ones in an intelligent way, in a tr- like model routing, et cetera. But the big part that is just you need incredible product skills is to build out this context.
+speaker_1: Mm-hmm.
+speaker_0: And let the AI work on top of something that really makes sense to you.
+speaker_1: Can you call it like your AI brain or so?
+speaker_0: Yeah. Yeah, yeah. We, we say we are, you know, we call ourselves an, uh, context lab. So AI context is, like, really important. If you would have a human being-
+speaker_1: Yeah
+speaker_0: ... with intelligence that up to the age of 18 was locked in a white room without doors, that human being, even though it's like intelligent as we are, it lacks context on absolutely everything. And it's not only your own AI brain, but it's also the tribal knowledge of how your company does things. So yeah. I would say an AI brain is, is, is good, but then you have to act on it.
+speaker_1: Yeah, of course. So, and right now, we basically live in kind of like agent economy, right? So how do you see the future, or, like, how do you operate within this economy right now, also with web coding and everything? How does your life look like?
+speaker_0: Uh, before I answer how my life changed, because it changed massively through using Sonar. I spent around three or four hours in my own product every day. Um, but how the economy changed-
+speaker_1: Yeah
+speaker_0: ... it's about the stochastic mindset. And when you hire a person-
+speaker_1: Mm-hmm
+speaker_0: ... you don't feel like you will understand fully every action that they have. There is some creativity there.
+speaker_1: Mm-hmm.
+speaker_0: B- but people have approached software in a very rigid form. You always want, once you put in X, you always want Y. And if that breaks, you're just, like-
+speaker_1: Yeah
+speaker_0: ... they're being like, "There's a bug in this software."
+speaker_1: Yeah.
+speaker_0: But in this new stochastic mindset, you need to look at AI agents and compare the potential harm to the benefit you're getting. And once you start thinking like this, about different AI tools as almost like employees, as long as they are becoming better, as lon- as long as they are bringing you more revenue, uh, then they... Like, you know, a good managerial tip is like let your people fail 20% of the time-
+speaker_1: Yeah
+speaker_0: ... so they learn. Nobody's approaching that with software. And I think with-
+speaker_1: Mm-hmm
+speaker_0: ... more and more time, we will understand that, like, our, our agents will fuck up sometimes. And as long as you're getting more benefit from it than trouble, then it's worth it. Um, and, w- there's a second part of the question.
+speaker_1: Your life, yeah.
+speaker_0: Should I... Okay. Uh, so I think every good CEO should, like most of the time... Like at the beginning, they might do everything in that particular marketing or growth-
+speaker_1: Yeah
+speaker_0: ... or product. But with time, you should transition to editing work of others and having them learn from it, rather than making yourself crucial and a blocker in each one of these areas. At the beginning, you can be like an IC everywhere. You need to learn what does it even mean to do that particular job?
+speaker_1: Exactly, yeah.
+speaker_0: But where I guess the world is heading...... is for you to do, the, the first time alone, but the, the, the AI should immediately transfer that into learnings in almost like a pipeline. And from there, you only edit the work. So for me particularly, it means that I barely write emails from zero. There's always a draft based on context that I might not, not even remember-
+speaker_1: Mm-hmm
+speaker_0: ... exists somewhere in my AI brain.
+speaker_1: AI brain? [laughs] Okay.
+speaker_0: Uh, and I just edit it. And every time I edit, it means that the AI is learning and adding more context into how I like to get things done. Um, every piece of content that I've ever written in the space of last three or four months has been firstly written by AI. And it's incredible once you give it so much data, how creative can it be that I can just say, "Hey, based on the meetings from last seven days, what are some of the hypotheses that seem obvious to me but aren't to everyone else? Can you create content about that?" And we can even try this in a second. Uh, and sometimes the answers are, uh, we can honestly try it. Or I can even say, "What is something about me that I don't know that, um, seemed to have emerged in the last 14 days?"
+speaker_1: Oh, wow.
+speaker_0: And the answers are really, really cool. But outside of that, obviously, it answers all my emails. It reviews all, um, linear tickets that get added and whether it's consistent with the goals for this quarter. It creates my investor updates. It runs my own personal investing and helps all of my portfolio companies on a weekly basis based on, like, the intros and their current kind of updates, what they're needing from me. Uh, so my life has completely transformed. And a lot of the things that the AI does, it's not like it does it better. A lot of the times are those things I would've never done. And it makes me feel like I'm a superhuman that's running a team of very aligned hundreds of people, which is really powerful. And I think everyone will love that power.
+speaker_1: I love that. When you say portfolio companies, do you AngelInvest?
+speaker_0: Yeah, I've started, uh, recently, and I love it so far. I think, uh, you kind of have to approach it with making more than 20. Uh, but, uh, I've been, I've been really loving it. Uh, it's gives me a... gives me a way to kind of, uh... I think I've, at some stage I, I might write, like, kind of my lessons from startups book or like a series of articles. I don't have time to do this right now. I'm fully focused on-
+speaker_1: You never had time, yeah.
+speaker_0: ... this company. Uh-
+speaker_1: Use the AI. [laughs]
+speaker_0: ... but with particular people, I mostly invest based on a person. Like, often the idea is shit, and I'll tell them, like, "Hey, this idea sucks, I think. Don't listen to me. I don't know anything about you."
+speaker_1: Yeah.
+speaker_0: "Make sure you believe in it. I'm gonna invest because you're awesome."
+speaker_1: Yeah.
+speaker_0: That's normally the case, um, for my investments.
+speaker_1: Interesting. Okay. And you are from Poland, right?
+speaker_0: Yes.
+speaker_1: You're from Europe. So Europe versus the USA or-
+speaker_0: Oof
+speaker_1: ... versus San Francisco.
+speaker_0: Tough one. I think my, my soul slowly dies, but my bank account grows when I'm in San Francisco. [laughs]
+speaker_1: That's such a good quote. [laughs]
+speaker_0: [laughs] Uh, but I miss Europe definitely. I think, um... I think it takes a long time to build out a specific culture, and I really enjoy how Polish people have... You know, we've, we have a history that everyone knows about, uh, for 1,100 years. It really takes a long time to build, like, culture and a bond between people.
+speaker_1: It is.
+speaker_0: I think America has a little bit less of that because it's a very new country and it's made out of immigrants-
+speaker_1: Exactly
+speaker_0: ... who still hold on to their own-
+speaker_1: Yeah.
+speaker_0: You know, a lot of the times people say, "Oh, I'm, I'm Italian." And I'm like, "You don't even speak Italian."
+speaker_1: Yeah.
+speaker_0: Like, you had pizza.
+speaker_1: [laughs] Yeah.
+speaker_0: That's it, you know? And, um, I think the productivity and the way that people build businesses in America is incredible. It's nowhere to, to be found. Everyone approaches i- themselves as, "Oh my God, let me help you. Let's build something together. One plus one equals five."
+speaker_1: Yeah.
+speaker_0: In Europe, I think we've went through enough hardship, especially in like countries like Poland, that like one plus one, uh, you know, it's a zero sum.
+speaker_1: [laughs]
+speaker_0: People approach it with zero-sum game, uh, uh, like mindset. And but at the same time, the fact that there's more layers in people make for deeper, more meaningful friendships and relationships, at least in my opinion. It's... People are a little bit more like... Yeah. Have you ever seen Shrek?
+speaker_1: Yes.
+speaker_0: When the donkey goes next to Shrek-
+speaker_1: Yeah
+speaker_0: ... and then Shrek says, "Ogres are like onions. They have layers."
+speaker_1: [laughs]
+speaker_0: And I kind of like my people with layers. But in-
+speaker_1: Yeah
+speaker_0: ... business, what's productive is the opposite.
+speaker_1: Yeah.
+speaker_0: Everyone being, "Here's my heart. Let's do something together." And it really works.
+speaker_1: Yeah.
+speaker_0: And it's incredible. That part is incredible about the US, but I miss Europe, uh, dearly.
+speaker_1: I think I 100% agree with you, like with my Eastern European mindset. I don't know, but I do agree with you. Is there one thing or two things that you just cannot stand here? I don't know.
+speaker_0: Oh my God. My first, uh, idea is the stop signs.
+speaker_1: Stop signs? [laughs]
+speaker_0: It's so annoying. It's like... It's like somebody designing all of traffic to the biggest idiots in the world. Like, how can a main street stop every time, even if there's nothing coming from a tiny street here, 99% of the time? It's so inefficient. It drives me mad every time I arrive.
+speaker_1: There's an intersection because of them. There are a lot of-
+speaker_0: Intersections just suck in America. [laughs] And, um, the grid system is not the right way to approach, um, urban planning. It's just, it isn't. Like you should have bigger... Don't get me started on this.
+speaker_1: [laughs]
+speaker_0: [laughs]
+speaker_1: Health, water.
+speaker_0: But I also, I also think I get fatter in America and it requires me to really watch what I'm eating-
+speaker_1: Oh, yeah
+speaker_0: ... much more. And I don't understand why. Like America seems to be smuggling butter into everything that you eat in some... Like, I eat the same stuff, you know?
+speaker_1: Food is so bad here. I feel you so bad.
+speaker_0: And it's... I don't know how it happens, you know? It's-
+speaker_1: Come on, in Poland you can eat pierogi every day and you will be still slim, you know?
+speaker_0: Yeah. I lose weight when I go back to Poland. I eat more. I don't know how it happens.
+speaker_1: Yeah.
+speaker_0: Um, I maybe I will give you one more. Um, I think because the culture in Ameri- um, America is much more individualistic, for good reasons. You know, there's no uniform, there's no universal healthcare. Um, people approach friendship and relationships a little bit more transactionally, which I think is a very logical conclusion-
+speaker_1: Mm-hmm
+speaker_0: ... from how America is run.
+speaker_1: Mm-hmm.
+speaker_0: Uh, a lot is about, you know, your, the way that... your financial status and like particularly in relationships. I think in Poland there's kind of like... it's really frowned upon if you like ask about money on like a date or, you know, talking about salaries is like super rude. Here somebody comes to you on the street like, "How much you make?" And people like immediately answer. And I'm like, that's so weird to me.
+speaker_1: Seriously.
+speaker_0: It's like we don't... Yeah.
+speaker_1: I think it's the opposite way.
+speaker_0: Have you not seen these, these YouTube videos where they like walk around and like people talk about money a lot more and a, a lot of things seem to be a little bit more...
+speaker_1: I think yes and no, because, you know, like, for example, in Russia, you will never ask a friend how much money you make.
+speaker_0: Yeah. So that's what I... That's what I mean.
+speaker_1: Sorry, the opposite. No, the opposite.
+speaker_0: Okay.
+speaker_1: So in Russia you... people always ask how much money you make.
+speaker_0: Really?
+speaker_1: But here, maybe it's the Russian thing.
+speaker_0: Interesting.
+speaker_1: But here people never ask. Like when I meet someone like at the event, no one asks me, "How much money you make?"
+speaker_0: Oh, in Poland you never ask. Uh, and I don't know, you know, in the end of the day, what do I know?
+speaker_1: [laughs]
+speaker_0: I don't know, I'm just a guy. [laughs]
+speaker_1: But maybe openly to share it on social media. Yeah, definitely, I think here it's more popular. And, uh, one more quote-
+speaker_0: Yeah
+speaker_1: ... from you. "SF is a beautiful city," sorry, "town with many attractions, but an ugly and boring city." [laughs] How, I mean, how does it make sense? Beautiful and ugly together. What do you mean?
+speaker_0: No, it's a beautiful town.
+speaker_1: Beautiful town, ugly city.
+speaker_0: But it's a... For me, it's an ugly city. So I think, uh, around from like North Beach on the, um, on the eastern side of the city and anywhere like north of the, um, Golden Gate Park, it's the most incredible town in the world. The-
+speaker_1: It's the town crier?
+speaker_0: ... houses are beautiful. We get to be on the beach every day. Like, not even in like LA that's reachable for most people.
+speaker_1: True.
+speaker_0: Not in New York. I don't think people talk about enough how incredible is the nature in the city and how much of a business hub it is. Those two things together don't exist. Like seriously, New York, no. LA, maybe, but the beach kind of is weird there.
+speaker_1: Yeah.
+speaker_0: Um, and Seattle maybe, but the business hub part kinda sucks. London, no. Like there's no place like this in the world.
+speaker_1: For sure.
+speaker_0: And it's such a beautiful town. You go on Chestnut Street or Fillmore, there's beautiful restaurants.
+speaker_1: Yes.
+speaker_0: You walk there and you're like, "This is a beach town. This is lovely." And then you go to the mission and you kind of... Or you go to the financial district. I just don't like it. I think New York does that better. I think there is a huge homelessness problem.
+speaker_1: There is.
+speaker_0: I think we are... almost became like a joke for people that live here to be like, "Oh, the homeless, they're dying." Whatever. And, and they don't... they kind of forget the humanity part of it, and I do as well. It's just you need to become desenti- desensitized, uh, to this.
+speaker_1: [laughs]
+speaker_0: And, uh, it's horrible that we see people that are almost dying on the street. And I don't know how to help it, to be honest. If I can have a choice, I prefer not to see it. And it... that's a horrible thing to say, because, you know, I should be helping these people. The first couple weeks when I arrived, I used to, um, I used to work on an ambulance back in the day. And my immediate reaction was that if somebody is lying on the street, I run up to them and I'm like, "Doctor, A, B, C, danger, response, airway, breathing, circulation." And, you know, people looked at me so weird, or like I would wheel somebody for hours, uh, because they, you know, they're on a wheelchair.
+speaker_1: Yeah.
+speaker_0: And that's... Like that part of me is dead.
+speaker_1: Yeah.
+speaker_0: Like I don't... Like I can't just... I can't do that. So coming back to the quote, I think for most European, most Europeans, most immigrants, living in the north part of the city is great. There is just a historical reason why most offices are in the Mission, because of the BART train and the fact that a lot of engineers used to live in Palo Alto and the Peninsula. That's no longer the case. We don't have anyone who lives on the Peninsula. It all moved to San Francisco. I don't know any startup that has like... early startup that has HQ there. Let's all enjoy the beautiful town. [laughs]
+speaker_1: Yeah. No, I agree with you. And I think, um, in terms of the homeliness, ho- homelessness, I don't allow myself to get used to this fact that it's normal. So I intentionally always like-
+speaker_0: Yeah
+speaker_1: ... you know, tell myself, "No, that is not normal."
+speaker_0: Yeah.
+speaker_1: "You cannot like look at this and think that it's normal because it is not."
+speaker_0: Yeah.
+speaker_1: And like no one in Europe, like imagine in Warsaw seeing homeless people downtown. Never.
+speaker_0: Yeah.
+speaker_1: I think people wouldn't even allow that.
+speaker_0: And, you know, we call them... Like people just are openly calling them zombies.... and you know, I kind of both get it because it is, you know, how it is.
+speaker_1: Yeah.
+speaker_0: But at the same time, how horrible that we have zombies and people-
+speaker_1: It is
+speaker_0: ... living in the same town, and we make a clear distinction of who is a zombie and who is a person. That kinda sucks.
+speaker_1: It is. And it's also not, not honestly, like, safe as well.
+speaker_0: Yep.
+speaker_1: Um, but two more questions. How would you describe dating and stuff?
+speaker_0: Oh my God. Uh-
+speaker_1: I know you love talking about that, so I couldn't ignore this question.
+speaker_0: I- I- I don't love talking about [laughs], talking about this. I don't know how to get myself out of this question. Uh, I don't date here. Uh-
+speaker_1: Is it just like... I mean, it doesn't exist. Like, the more I talk to startup founders-
+speaker_0: I know, I-
+speaker_1: ... they keep complaining. And not only startup founders. The date, dating is dead here [laughs]. So is it like it's just harder? Everyone is so, like, toxic with this working culture? Is that this-
+speaker_0: I think a lot of people that come here come here for a reason and come here-
+speaker_1: Okay
+speaker_0: ... for productivity.
+speaker_1: And dating is not the reason? [laughs]
+speaker_0: And dating is not the reason. I also think, like, uh, [laughs] this is gonna be a little controversial, but I think hot people-
+speaker_1: [laughs]
+speaker_0: ... anyone who is to do with any kind of industry where you have to be attractive-
+speaker_1: Mm-hmm
+speaker_0: ... from movie to modeling to, you know, anything, like, anything that requires you to be attractive, do not come to San Francisco. They come to New York or LA. So they, they just... And historically also, there has always been more men than females in, um, San Francisco-
+speaker_1: Yes
+speaker_0: ... since the golden, um, the Gold Rush.
+speaker_1: Yes.
+speaker_0: So this, um, town has grown from, I think, 3,000 people to like 120,000 people in a matter of a year. I like... You would have to, um, you know, check the history facts, but I think, uh... And, and it was mostly men seeking, um, risky-
+speaker_1: Yeah
+speaker_0: ... business, um, opportunities, which it kind of stayed similar.
+speaker_1: Similar to innovation, right? Exactly.
+speaker_0: Yeah. So you know, I hate the part about the society that means that, uh, men do more risky things like this or move across the world to pursue, like, a risky business endeavor. Um, but it is the case. And, um, when you look at just the numbers, i- it is misaligned. But I think also women complain, uh, about the dating as well 'cause they're-
+speaker_1: They do
+speaker_0: ... they're being like-
+speaker_1: They do
+speaker_0: ... is just productive geeks, you know, who run and don't drink alcohol and work all the time.
+speaker_1: Oh, yeah. So boring, you know.
+speaker_0: [laughs]
+speaker_1: I host Women in Tech Meetup, you know, so I know a lot of women who complain a lot. [laughs]
+speaker_0: So I think, I think there's... the complaining happens on both sides.
+speaker_1: Both sides.
+speaker_0: And, yeah.
+speaker_1: 100%. Uh, and last one. If it's your last day today, what would you do?
+speaker_0: In, in my life?
+speaker_1: Yes.
+speaker_0: All life is about connections with other humans. I would go and talk to my parents, talk to the most... Really, what is-
+speaker_1: [laughs]
+speaker_0: What is this? Last day of life?
+speaker_1: I thought you would say like, "I would go, I don't know, jump with a parachute. I would go rock climbing."
+speaker_0: [laughs] I've done all of that stuff. I think it's-
+speaker_1: So not for you.
+speaker_0: All life is about human connection. Building, uh, you know, a good group of people at work, building connections with your family, building a relationship, building friendship. Those are the most important people in the end of the day, and it was the most important things. But that's a rogue question for the end [laughs] of the interview.
+speaker_1: [laughs] Welcome.
+speaker_0: I don't know, I'd ch- I would try the heroin thing. I don't know. [laughs] Seems to be like getting a lot of people hooked on it.
+speaker_1: Who knows? Okay, so would you give me a tour?
+speaker_0: Sure. Of course.
+speaker_1: Uh, thank you. That was great.
+speaker_0: Thank you.
+speaker_1: Okay, so you wanna... Do you mind sharing your... Uh-oh.
+speaker_0: Uh-oh.
+speaker_1: How do I open it up? You wanna show me your office space?
+speaker_0: Yeah, there we go. Yeah. Come on in.
+speaker_1: Oh, modern technology. Okay, let's see. Okay, so why this place so special? What do you have here?
+speaker_0: Uh, just a kitchen. We like to make sure that people eat well.
+speaker_1: For a chef. [laughs]
+speaker_0: Um, so for a chef, we really wanted to make sure that we can actually cook, so we built out a nice stove, et cetera. And here's our... It's gonna be a future sauna room, but for now it's just
+speaker_1: Sauna room?
+speaker_0: So we have kayaks, we have kite surfing equipment, we have kite surfing kites. Uh, but yeah.
+speaker_1: Little messy, but... [laughs]
+speaker_0: There is gonna be a big sauna here of this size, which is gonna be fun. We're actually gonna be shooting podcasts there. So-
+speaker_1: From the sauna?
+speaker_0: Yeah. We're gonna call it, uh, Hot Takes with Hot Founders. [laughs]
+speaker_1: Oh my God. How come I didn't know that?
+speaker_0: And it's gonna be only 15 minutes. Everyone will be in towels-
+speaker_1: Yes. Or it's too hot
+speaker_0: ... and it's like, "Oh, it's too hot," you know?
+speaker_1: In towels, okay.
+speaker_0: Um, here we've got all of the team. And for now, we're planning to grow. We are hiring very actively. But for now, this part is kind of like co-working.
+speaker_1: It's amazing, so spacious.
+speaker_0: Yeah, for like our portfolio companies or just friends or someone. And I think-
+speaker_1: You have parties here?
+speaker_0: Yeah, we have, uh, presentations here. And I think it's time for you guys to get the hell out of my office-
+speaker_1: [laughs]
+speaker_0: ... 'cause I'm late to a meeting. So-
+speaker_1: Thank you
+speaker_0: ... it was a pleasure seeing you guys. Bye.
+speaker_1: Okay. Give me a g- Thank you. High five.
+speaker_0: Thank you. Thank you.
+speaker_1: Yeah.

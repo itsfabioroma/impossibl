@@ -1,0 +1,31 @@
+{
+  "sourceUrl": "https://www.youtube.com/watch?v=By7XnT4MtJI",
+  "title": "Google's Gemini AI: EXCLUSIVE Interview with Top Engineer Peter Danenberg on the Future of LLMs!",
+  "date": "2026-02-28",
+  "source": {
+    "extractor": "Youtube",
+    "channel": "TALKS WITH DASHA",
+    "uploader": "TALKS WITH DASHA",
+    "duration": 3933,
+    "duration_string": "1:05:33",
+    "description": "Curious about the future of AI? This interview with Google's Peter Danenberg, a leader in Large Language Models (LLMs), will blow your mind!\n\nWhat exactly are LLMs? What is Google's Gemini aiming to achieve? Peter dives deep into these questions and more, making it easy to understand even for beginners.\n\nBut this isn't just theory! Peter unveils his daily routine as an LLM engineer, the challenges he tackles, and the breakthroughs that keep him excited.\n\nWant a glimpse into the future? Peter shares his insights on the most innovative features of Gemini and the ethical considerations of powerful AI.\n\nThis interview has it all:\n\n- Inspiring career journey of a top AI engineer\n- Explaining what Google's Gemini is\n- Facing the challenges and breakthroughs of cutting-edge tech\n- Exploring the exciting future of AI and LLMs\n- Top tips for aspiring AI engineers\n- How to attract more female engineers\n\nDon't miss this exclusive opportunity to learn from the best! Click to watch now!\n\nAbout Peter\n\n- Autonomous agents on Gemini; full-stack (backend, frontend, modelling, production).\n\n- Launched Bard extensions to 1.8 million DAU.\n\n- Wrote the intent-generator in C++ for serving Neural Semantic Parsing (NSP) models for the Google Assistant; serves ~28 million queries / day.\n \n- Wrote a framework to automate evaluation and release of Neural Semantic Parsing (NSP) models for the Google Assistant; released 54 models across 18 languages.\n\n- Standardized a readability process for the R statistical language; updating ~3 million lines of code to conform to the new style guide.\n\nProduction & Post-Production\n\nhttps://www.instagram.com/youniversalbrand/?locale=en\nhttps://www.instagram.com/elmachini/\nhttps://www.instagram.com/alex_zvon/\n\nConnect with Peter Walker on LinkedIn: https://www.linkedin.com/in/peterdanenberg/\n\nConnect with Dasha on LinkedIn: https://www.linkedin.com/in/dashashunina/\n\nConnect with Dasha on Instagram: https://www.instagram.com/feed_my_unicorn/\n\nSponsor next episode of Talks With Dasha - dariashunina@yahoo.com, Subject - Podcast Sponsorship. \n\nTimecodes:\n\n00:00 - Meet Peter Danenberg, Senior Software Engineer at Google.\n00:37 - Peter's professional journey: How did he start working as a software engineer?\n05:49 - What is Google Gemini?\n08:32 - Will AI take people's jobs?\n10:45 - LLM Smell (assuming \"smell\" is intentional, otherwise, it might need correction)\n15:59 - Converting with LLM: A skill that can be trained.\n24:39 - Does it matter to add \"please\" when talking to LLM?\n26:50 - What are the most innovative things about Google Gemini? AI Agents\n29:56 - Ensuring the model's accuracy and reliability.\n31:10 - What does a typical day look like for you as an LLM engineer working on Google Gemini?\n34:05 - Teamwork.\n36:33 - Tips for communicating with diverse teams.\n40:25 - Tips for the younger generation.\n43:00 - How can you stand out among other software engineers? The competition is high.\n45:20 - Female Engineers: How do we encourage more women to code? And how do we help existing female engineers build successful careers?\n50:49 - Confidence Issues: How to overcome them if you are a female engineer?\n54:04 - What was the most unexpected, challenging, and rewarding aspect of your professional career as a software engineer?\n59:34 - The most interesting use cases of Google Gemini from users.\n1:02:35 - The future of AI.\n1:05:00 - Thank you, Peter!\n1:05:10 - Bonus - A song from Peter & Dasha",
+    "like_count": 28,
+    "comment_count": 4,
+    "view_count": 1154,
+    "thumbnail": "https://i.ytimg.com/vi_webp/By7XnT4MtJI/maxresdefault.webp",
+    "upload_date": "20240618",
+    "webpage_url": "https://www.youtube.com/watch?v=By7XnT4MtJI"
+  },
+  "theme": {
+    "primaryTheme": "technology",
+    "subTheme": "google's-gemini-ai--exclusive-interview-with-top-engineer-peter-danenberg-on-the-future-of-llms!",
+    "folderName": "technology",
+    "confidence": "high",
+    "summary": "This transcript is fundamentally focused on AI technology, software development, and technical innovation. The entire conversation covers Peter Danenberg's technical work on Google Gemini (a large language model), discussing technical concepts like LLM architecture, multimodal models, AI agents, programming with AI tools, model training, technical implementation challenges, and the evolution of AI technology. While it touches on personal journey and some business aspects, the core content is about technical development, software engineering, AI system design, and technology innovation. The discussion extensively covers technical topics like model behavior, programming practices, AI development workflows, and technical challenges in building LLM systems. This aligns perfectly with the existing technology category which already contains content on AI development, software tools, technical implementation, and development platforms from other technical professionals."
+  },
+  "transcription": {
+    "language": "eng",
+    "confidence": 0.9932716488838196,
+    "wordsDetected": 31552
+  }
+}

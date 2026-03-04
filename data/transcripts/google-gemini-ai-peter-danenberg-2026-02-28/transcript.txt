@@ -1,0 +1,766 @@
+speaker_0: Hey, Peter.
+speaker_1: Hey, thanks
+speaker_2: ... here.
+speaker_0: Thank you so much for coming. I think it took us around-
+speaker_1: Yeah
+speaker_0: ... six months to land. [laughs]
+speaker_1: It's about six or seven months. Yeah, it's unbelievable.
+speaker_0: So, yeah, I have to say, it's really pleasant to have you here. And I'm really, really excited to learn more about Gemini and about your journey in general.
+speaker_1: No, that's great, Natasha. Thanks so much for having me. And, uh, you know, as part of this journey with the podcast, uh, I had to learn to do things like, you know, talk on camera and that sort of thing. So for me, it was a learning experience. [laughs]. And it sort of takes me out of my comfort zone a little bit, so it's great.
+speaker_0: I'm pretty sure you'll succeed. [laughs]
+speaker_1: [laughs]
+speaker_0: But let's try. So let's start with just talking a little bit more about your journey. So can you share a little bit more, how did you start it all? Why were you interested in AI? Or maybe you were not in the beginning. So tell us more.
+speaker_1: You know, it's a little bit funny. So, um, I've always loved languages. And so when I was a kid, this is through high school, I, I... so I taught myself Greek, Latin, and Hebrew, and some Sanskrit and stuff like that.
+speaker_0: Wow.
+speaker_1: And, uh, when I went on to college, uh, I studied, uh, mainly classics and philosophy. So I, so w- went sort of deep into linguistics. But there was a funny thing where, when I was a kid, maybe about five or six, uh, my mom bought me this little computer. And I taught myself how to program. And I remember... So I ha- I had these two passions in some sense. It was computers, it was languages. And then, um, everything came together in, like, natural language processing.
+speaker_0: Mm-hmm.
+speaker_1: And somehow it was a marriage of these two things that I happened to love. And, uh, so, um, you know, but when I got into Google, uh, it took me a few years. Like, I had to figure out how to sort of, uh, how to kind of get into the system. And anyway, that took a little while. So, but, uh, but, but thankfully I got in somehow. And, um, I guess I've been doing NLP-related things for maybe five-ish, uh, six-ish years, I guess. So, but, uh, but somehow I, I just felt like it was a minor miracle. And somehow, like I said, the fusion of these passions, you know?
+speaker_0: Yeah, but I love the connection with languages. So basically, coding and writing is the same language, just, like, a little bit different. And so basically, your passion to learn different languages helped you somehow to succeed in learning this one, right?
+speaker_1: Yeah, it's a- it's really weird. Uh, you know, so you can think of program languages as another language. And even other things like music, music is sort of a language, right?
+speaker_0: Exactly.
+speaker_1: And I realize everything, somehow every- everything that we interact with in the world, it's almost language-like. And the same thing goes for your body. Like, when you, when you make a gesture like this, you know, like, what exactly are you saying? In fact, I don't know exactly what that means.
+speaker_0: [laughs]
+speaker_1: But somehow it's, it's a- it's a- it's body language, right? And, um, and then the funny thing is, is that LLMs behave in the same way. So, you know, to like a large language model, whether you're dealing with something like genetic code or musical code, or even video games, which in some sense are like a series of these discrete events, or you're dealing with human languages. Like, in some sense, uh, to the LLM, it's all, it's all sort of language-like, right? And, and that's, um, and that's, I think, why, why, you know, this new development's so interesting, right? And, and, uh, and, and to me, it's, it's sort of been a joy, um, you know, just watching this whole thing unfold. And, um...
+speaker_0: Yeah, but it's interesting, you know, because typically we say there are, like, tech people, right? People who know how to code.
+speaker_1: Mm-hmm.
+speaker_0: And they're like, they're focused on this very specifically. And there are people of arts, right? So actually-
+speaker_1: Mm-hmm
+speaker_0: ... there is something similar between them, right? Because it's all about, like, as you mentioned, code, right?
+speaker_1: You know, it's true. I, you know, and I know... So when I joined Google, and this is... I can't believe it's been about 10 or even 11 y- [laughs] 11 years in December.
+speaker_0: I think it's even more, no? [laughs]
+speaker_1: [laughs] I think, I think-
+speaker_0: Be honest. [laughs]
+speaker_1: I think, I think December will be, like, 11 years. Um, so Google, back in the day, they would hire, what they called, they would hire weird people or whatever.
+speaker_0: Weird people.
+speaker_1: Weird people.
+speaker_0: Okay, interesting. [laughs]
+speaker_1: And, and, and this was like, this was people who, like I said, in addition to tech, they had something in art. So there was something a little bit... They, they zigged, and other people zagged a little bit. And I think, um, I think that's part of it. So somehow... So to me, there's this, there's this really interesting thing where, um, you know, so one, one of the things I do at Google is, um, I help organize this monthly salon, we call it.
+speaker_0: Mm-hmm.
+speaker_1: And this is just where people, we get together, we play music, and this is, this is improv or this is classical or it's jazz.
+speaker_0: Y- you mean real music?
+speaker_1: Yeah, you know, like actually, and, or, you know, or some people will go, they'll, they'll have, like, spoken word poetry or, you know, uh, [laughs] sometime, uh, one time somebody did, like, this interpretive dance to, like, some anime song. Anyway, it just, [laughs] these sort of quirky people get together and do these artistic things. But there's this funny thing, and I, and I can't quite describe it, where it, it feeds into the engineering in the sense that, you know, when I'm writing a piece of code-
+speaker_0: Mm-hmm
+speaker_1: ... and I think, I think sometimes they call it synesthesia. But there's this thing where somehow the code itself feels like music, and, and when everything comes together, um, um, something beautiful happens, right? And so every time I'm writing code, I'm actually... I'm, I'm, I'm... obviously it has to work.
+speaker_0: Mm-hmm.
+speaker_1: But I'm sort of primarily concerned is, is this code beautiful or not?
+speaker_0: [laughs] Yeah, it's funny-
+speaker_1: And, uh, you know-
+speaker_0: ... how you talk about the code, you know? Like, almost like about a woman. [laughs]
+speaker_1: Yeah. [laughs]
+speaker_0: You know, so it's really interesting.
+speaker_1: Oh, that's funny. That's funny, but...
+speaker_0: So you see the beauty in it, right?
+speaker_1: I- Yeah.
+speaker_0: So that's how engineers look at the code and what they're doing.
+speaker_1: I, you know, maybe, maybe to a certain extent. And they, they say there's this thing called mathematical beauty. And, you know, the Germans have a word for it. I don't know if the word exists in English.
+speaker_0: Yeah.
+speaker_1: Uh, but the Germans have this thing called Erhabenheit. And Erhabenheit, I, I don't know how to translate it, but it means something like, um, some inaccessible, uh, eternal beauty.
+speaker_0: Mm-hmm.
+speaker_1: Somehow on the other side of some... And so every time, when Bach would compose, you know, and that's like these... He would, he would compose sometimes these, um, uh, these cantatas, you know? And they would access somehow, like, this otherworldly beauty. And somehow, like, that was, that was Erhabenheit, right? And, and so somehow, and it's one of those things where, you know, when you see that otherworldly beauty in code, you, you just see it, right? And, and, and the funny thing is, is that sometimes, sometimes, I don't know why this is, it, it jumps off the page, just even, even in the shape of the c- You don't even really have to read it. Just somehow, just the way it's shaped, it's really, it's, it's, you know, y- y- even before you read it, you know that somehow this is, this is beautiful.
+speaker_0: It's just so inspirational.
+speaker_1: You know, y- it's really-
+speaker_0: Sorry, I was just listening to you-
+speaker_1: [laughs]
+speaker_0: ... and this is so amazing. How do you say it in German?
+speaker_1: Uh, it's Erhabenheit.
+speaker_0: Habenheit.
+speaker_1: Er- Er- Erhabenheit, yeah, yeah, yeah.
+speaker_0: Habenheit. Okay. [laughs]
+speaker_1: Yeah, yeah.
+speaker_0: So I'll learn some German from you, you know?
+speaker_1: Yeah. [laughs]
+speaker_0: [laughs]
+speaker_1: Mm-hmm.
+speaker_0: Cool. Uh, but, you know, uh, just in general for our listeners, what is Google Gemini, and what are the primary goals of it?
+speaker_1: So Google Gemini, it's a large language model. And, uh, large language models are a little bit interesting, but you can sort of think of them as, um, as next word predictors, right? So-
+speaker_0: Uh-huh
+speaker_1: ... so given some, given some chain of words, given some prefix, almost like given, given a setup for a joke, like it's Gemini's job to come up with a punchline. And so, but that sort of thing where you, you, they call it sort of a prefix and a suffix, where you give Gemini a prefix and it comes up with a suffix, it turns out that that's useful for solving a bunch of different problems. You know, and an example might be, um, "Hey, can you help me write a email to this recruiter?"
+speaker_0: Mm-hmm.
+speaker_1: Can you, you know, can you, can you critique my, um, can you critique my resume, but also can you finish my symphony? Um-
+speaker_0: Mm-hmm
+speaker_1: ... you know, or can you, um, can you help me, like win this game of chess? So somehow that, that, that prefix-suffix thing, it's applicable to all these really interesting problems. And probably a bunch of problems that we haven't even thought of yet, right? But, um, everything from the kind of mundane to like the scientific. Uh, and so I think really Gemini... And, and maybe it's that, that thing where we're trying to asymptotically approach something like general intelligence.
+speaker_0: Mm-hmm.
+speaker_1: Um, I think Gemini tries to be useful in all these really, um, interesting cases, right?
+speaker_0: So basically solving problems is the main thing-
+speaker_1: Yeah
+speaker_0: ... that Google Gemini helps us to do. [laughs]
+speaker_1: Right, right, right. And, and, you know, to a certain extent, so our mission was to kind of organize and make accessible, you know, the world's information. And I think to a certain extent it's an extension of that. And, and in some sense you can think of it as, you know, previously the way we interacted with the web was through like the 10 blue links. And this in some sense is, is a, it's a syn- it's a synthesis of the 10 blue links. And, and what's interesting a- about Gemini and, and discovering things through Gemini is that it's also conversational, right? So, you know, whereas you can't necessarily have a conversation with the 10 blue links, like you can have a conversation about Gemini. And sometimes, by the way, we argue, right? I, I, I, every once in a while-
+speaker_0: You do? [laughs]
+speaker_1: Every, every once in a while, right, I try to convince Gemini that it, that it has something maybe like akin to sentience or, you know, like the way Gemini describes itself, um, you know, it's, it's, it, it's reminiscent of the kind of human brain in the sense that, you know, Gemini is making these various connections between things. It's synthesizing things. And, uh, but Gemini's convinced that nevertheless it doesn't have consciousness, right?
+speaker_0: Mm-hmm.
+speaker_1: And that's something that humans have that's kind of unique. And I guess I don't know-
+speaker_0: Yeah
+speaker_1: ... I don't know exactly what that is, but I guess for the timing that distinguishes us from, [laughs] that distinguishes us from LLMs, whatever, [laughs] whatever that thing is.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: Um-
+speaker_0: And, you know, do you agree with this phrase, you know, a lot of people say, and they're so worried that like AI will replace people and we'll have to worry about our jobs-
+speaker_1: Mm-hmm
+speaker_0: ... but some other people say that actually not AI will replace you, but the people who use AI smart, right?
+speaker_1: Oh, yeah, yeah, right, right.
+speaker_0: So what do you think about this expression in general?
+speaker_1: Oh, yeah. You know what? So, so over the past year or so, um, you know, I've gotten used to using LLMs with my daily... And it's not just work, by the way. It's like even just, um, even just in, in life, like, um, you know, let's say, uh, my kids need a little bit of extra, uh, uh, help with homework.
+speaker_0: Mm-hmm.
+speaker_1: It says, "Hey, generate some music problem." Or occasionally maybe I'm playing, like, I'm playing, uh, pickup rugby and, uh, I need, I need, I need like a, um, I need something like a Tongan playlist or whatever.
+speaker_0: Mm-hmm.
+speaker_1: So somehow like Gemini is helping me with all these really interesting problems. But I realized that um, um, conversing with the LLM is kind of a skill and it's kind of an art. And so when you're trying to solve a problem, and this could be programming or this could be something else, or, you know, uh, how do I surprise my wife for her birthday? Um-
+speaker_0: [laughs] How often do you do... Yeah, you used to. [laughs]
+speaker_1: I mean, I literally... So but, but it's a little bit of a, it's a little bit of a negotiation. You're, you're collaborating with the LLM to, to sort of get at the truth. And I realize that's, that's a little bit of a skill. Like it's, it's something that, um-
+speaker_0: Exactly, right?
+speaker_1: ... when I first started, it didn't necessarily come naturally. And, uh, and so that's the sort of thing where I, I have the feeling that, uh, the sort of more you practice that, the longer you practice that, the better you are at that. And, and if it's true that LLMs are, are companions that are sort of here to stay, and, um, you know, if it's true that... There's this weird thing, Dasha, happening by the way, where I think, um, humans and LLMs are sort of co-evolving, right? And there's a weird thing where, um, um, you know, I feel like somehow, somehow the influence is in two directions. And there's a weird thing where, you know, I notice this in social media sometimes-
+speaker_0: Mm-hmm
+speaker_1: ... as LLMs begin to like create, um, uh, more and more like social media posts, [laughs] I-
+speaker_0: Yeah
+speaker_1: ... to me at least, and I don't know if you can detect this, um, there, there's something like, uh, like an LLM... I call it an LLM smell, but typically like-
+speaker_0: Smell, LLM smell.
+speaker_1: [laughs]
+speaker_0: I love this term. That's amazing. So-
+speaker_1: But yeah, yeah, yeah.
+speaker_0: It's when you can tell, right?
+speaker_1: Yeah.
+speaker_0: That it's made by LLM. Okay. Okay.
+speaker_1: And, and it ca- and it just something, it's like your Spidey sense tingles or whatever, and I can't put my finger on it. Um, but there's a thing in which... But I've noticed there's this really curious thing where... So more social media posts are written by LLMs, but I realize that humans, even in sometimes their dialogue, even sometimes in the way they write, are now, um, almost, almost mimicking LLMs or whatever. So there's this strange like sort of two-way flow where it's-
+speaker_0: So the people are-
+speaker_1: Yeah
+speaker_0: ... trying to copy LLMs.
+speaker_1: But I don't know if it's on purpose.
+speaker_0: Yeah, yeah, yeah, yeah, yeah.
+speaker_1: I, I think it's essentially LLMs have arrived, and in some sense they, they influence us through the environment. And I'm not e- I don't even think it's necessarily conscious. Um, but it's the sort of thing where there seems to be something like a co-evolution where humans and LLMs are sort of evolving together. The models are getting better, but people are adapting to LLMs and sort of vice versa. And so that idea of, of co-evolving with LLMs is, is kind of interesting. I, you know, and in that sense maybe, maybe they're not necessarily competitors, but maybe they're more like companions or, or colleagues or something.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: Uh-
+speaker_0: No, but I definitely like the term LLM smell, because, you know-
+speaker_1: Yes
+speaker_0: ... sometimes, and especially a lot of immigrants or non-native English speakers-
+speaker_1: Mm-hmm
+speaker_0: ... they use it, you know, just to check like grammar mistakes or punctuation.
+speaker_1: Oh, yeah, yeah. Right, right, right.
+speaker_0: And very often you can see that like for example you use like three different posts-
+speaker_1: Mm-hmm
+speaker_0: ... and you send them to the like LLM, like for example, Google Gemini, and then you see the results. And very often-They're very similar, you know? Like-
+speaker_1: Oh, yeah, yeah, yeah
+speaker_0: ... all three different, they're similar. But just, not that they're the same, identical, just the way the phrases are structured, you know?
+speaker_1: Yeah, yeah, yeah, yeah.
+speaker_0: So yeah, that's- that what probably you mean by that.
+speaker_1: Well, you know, we... So, so by the way, Dasha, we have, so we have this biweekly meetup at Google where people-
+speaker_0: Mm-hmm.
+speaker_1: It's- it's just called Gemini Meetup, but we get together, and we talk about things LLM. And sometimes I... So I'll typically open, and I'll say, "How have you used LLMs this week in work or in whatever?"
+speaker_0: Mm-hmm.
+speaker_1: And somebody will usually mention, you know, "I've used LLM this week to, like, compose something on LinkedIn or compose an email."
+speaker_0: Yeah, yeah, yeah, exactly.
+speaker_1: My first question is usually, "Okay, like, have you lost your voice? Like, in some sense, has the LLM taken over? Have you lost your voice?" And usually, you know, usually people don't know how to respond, but I remember this one, this one person came by one time. And she said that actually... So she has this whole preamble that she composed, where essentially she has pages and pages of information on how the LLM can- can recreate her voice. And so every time she has [laughs] to do like a post, she says, "Okay, this is- this is- this is the instruction manual for sounding like me. [laughs] Okay, go write the post." And so somehow, she- she- she sort of negotiated with the LLM to, like, to, like, recreate her voice in some sense. [laughs] And so maybe she's doing it right. Um, but I know there's also another funny thing where there's this sort of cat and mouse game with teachers, right, and students. And, um, you know, maybe previously, we had to write essays. Now the LLMs write the essays. So there's this cat and mouse game where I think there are companies which will try to detect something like the LLM smell, right?
+speaker_0: Yeah.
+speaker_1: But the kids are a little bit clever in the sense that they'll say, "Okay-"
+speaker_0: Oh, yeah, they are. [laughs]
+speaker_1: "... okay, listen. Like please write this thing like an eighth grader. I need some spelling mistakes, like whatever." And so that cat and mouse game is gonna be really interesting-
+speaker_0: [laughs]
+speaker_1: ... because, um, like, you know, it's- it's possible that you can kind of tell the LLM to, you know-
+speaker_0: To be not like LLM. [laughs]
+speaker_1: Exactly, exactly. And- and it does- it does a pretty good job. And by the way, I- I... A couple weeks ago at the meetup, we had this little thing where, um... So I had this thing called Wearable Gemini, which was, uh, I just had a little Pi Zero that was, like, on the wrist, and somehow we had it talking to Gemini.
+speaker_0: Mm-hmm.
+speaker_1: And I just had this sort of project where I just wanted to see, can you, can you embed Gemini in essentially a little Raspberry Pi or whatever? And so- so- so one of the things that I told it to do was I said, I said, "Insert some- insert some disfluencies, uh, into your response."
+speaker_0: Mm-hmm.
+speaker_1: "So when you respond back, sprinkle in, like, some 'ums,' and, like, some whatever." And the uncanny thing was... So Gemini did, and- and using one of these new, like, Google voices, the uncanny thing was, like, it sounded, like, really human. [laughs]
+speaker_0: Really? It did?
+speaker_1: Like, because- because it had, like, these- had these ums, and it had these, like... It had these things that humans do without thinking, right? And, yeah.
+speaker_0: So it's pretty good actor, right? [laughs] So it can transform-
+speaker_1: Right
+speaker_0: ... its answers to the way you need.
+speaker_1: Exactly, exactly. And so in that sense, maybe the LLM is, like, the ultimate chameleon, um, [laughs] and, um... And- and you know what? And by the way, you know, and maybe it's one of the... Like, sometimes I think about some... Let's say- let's say there's some distant future where, I don't know, maybe for whatever reason, humanity ceases to exist, and- and some alien species visits- visits the Earth.
+speaker_0: [laughs] Okay.
+speaker_1: And maybe it's possible... And- and maybe, by the way, for whatever reason, the Gemini servers are still on, and they can sort of interact with the LLM to get- to get an idea of like- like what humanity was like.
+speaker_0: Mm-hmm.
+speaker_1: And, [laughs] you know, maybe, maybe in some sense, if LLM imitates- imitates humanity-
+speaker_0: Yeah. [laughs]
+speaker_1: ... it's sort of the best, um, it's the best archaeological, uh, like, artifact for the future. And, um, you know, because- because, you know, there is this funny thing, by the way, Dasha, where... So we keep training and retraining these models, and let's say, like, Gemini, for instance, or even before that, Bard, um, you know, about every- every-
+speaker_0: Yeah
+speaker_1: ... couple times a year, we come out with a new version. And that new version, let's say, it's been trained on, um, let's say the latest information from the internet. And so it could be that, like, the 2024 version of Gemini is sort of like an- an ar- kind of like an archaeological artifact for, uh, what humanity was like in 2024. And maybe, and maybe, by the way, the 20- the 2034 model is a little bit different.
+speaker_0: Mm-hmm, mm-hmm.
+speaker_1: And 2044 and whatever.
+speaker_0: Yeah.
+speaker_1: And so anyway, that's just kind of an interesting, you know, um... Maybe it's an interesting way to look at these things.
+speaker_0: No, it is, definitely. And I also like your point that it's a skill that can be trained, right?
+speaker_1: Right, right, right.
+speaker_0: When you mentioned that actually, uh, different people can train this skill to write, you know, like, the better request or whatever. So this is also very interesting. So I assume that in future, we'll probably have more jobs related to the, like, how to work with LLMs, right? How to write the request correctly.
+speaker_1: Yeah, yeah, yeah.
+speaker_0: Because I believe it- it's really matters what you put into it, right?
+speaker_1: Right.
+speaker_0: So how you frame your question.
+speaker_1: Mm-hmm.
+speaker_0: So you probably play a lot with that, right? So does it really matter the way you put it, right, and the outfit that you'll get?
+speaker_1: You know, it- it- it does to a certain extent. And, uh, so just to give you an example, so, um... Well, so I- I have this talk next week in Berlin. And one of the things I wanted to do was, uh, I wanted to show how Gemini can play games. And so-
+speaker_0: You mean like video games or like...
+speaker_1: So video games, in this case, uh, I just chose this really simple game, which was rock-paper-scissors. And the reason why I chose that is because it's- it's really a simple game, which- which-
+speaker_0: Rock, paper, scissors, yeah. [laughs]
+speaker_1: ... it requires you to have a theory of mind, right?
+speaker_0: Okay.
+speaker_1: Because in some sense, like, you don't just do it randomly. You try to anticipate, um, you know, what your... You try to anticipate what your opponent's going to do and whatever. So in order to play effectively, you have to come up, you have to sort of model your- your- your opponent's mind, right? And so I had this experiment where, which is, you know, if you have, if you have something like... I- I call them Aries, and I give him the, I give him the- the Ari- or the Aries heuristic. I said, "Okay, Aries, you start with rock."
+speaker_0: Mm-hmm.
+speaker_1: "Uh, when you win, you stay. When you, when you lose, you cycle through," or whatever. And then I created this- this Gemini agent called Athena, and I said, "Listen, can you, can you figure out like what Aries is doing and react?" Right?
+speaker_0: Yeah, yeah, yeah.
+speaker_1: And so can you model Aries' mind? And so the funny thing was, you know, based on... And- and the way this works is that you sort of, it's a little bit strange because you- you prompt, you- you prompt these agents into existence. And, uh, it's- it's just a little bit strange because it- it just... I'm not gonna say it's- it's godlike.
+speaker_0: Mm-hmm.
+speaker_1: But you sort of, you know, through- through the act of language-You somehow, you're creating this, this thing. And the strange thing about these agents is they have, um, they have personality and they have self-awareness, right? And so, you know, if you ask, uh, if you ask Aries, by the way, you know, "Why are you playing rock?" He'll say, "You know, this is the most dominant and aggressive move." And what... And so... But I noticed that depending on how I prompted these agents, I would get totally different results. And-
+speaker_0: Really?
+speaker_1: Yeah.
+speaker_0: So everything depends on your request?
+speaker_1: To a certain extent. And it, and it... To a certain extent.
+speaker_0: Yeah, yeah.
+speaker_1: And, and so, so sometimes, sometimes they're incredibly sensitive, and then sometimes they're not. And just to give you an example, for some reason, Athena, she, she re- she reversed the logic of rock-paper-scissors. So, so she thought for some reason that, uh, paper beats scissors, and, uh, and she thought that rock beat paper.
+speaker_0: Uh-huh.
+speaker_1: [laughs] And, and whatever it did. And I had to tell him the prompt. I said, "Listen, no. Listen, okay. Um, paper beats rock and rock beats scissors," or whatever. And so I had to, um... But, but even then, I had to... I, even then, somehow, I had to, I had to phrase it in such a way that, like, this is actually really... These rules are really important.
+speaker_0: Yeah.
+speaker_1: Like, you can't [laughs], you can't play the game without these. So, the, the, so the interesting thing is there are times when the LLM is incredibly sensitive to, to even, like, just changes in words. And there are other times when you have to be really adamant about, um, this is important, and this is sort of the rules of the game. And, um, and, and by the way, Dasha, there's this fun- there was this funny thing, and, and, and apparently, this isn't-
+speaker_0: Uh-huh
+speaker_1: ... um, apparently, this isn't the case so much anymore. But there was a period of time when, for some of these older models, it was really effective to tell the model, "Um, by the way, uh, you're, you're a mathematician at MIT," or, "You're a Wall Street broker," or... Essentially, you would assign the LLM some role-
+speaker_0: Mm-hmm
+speaker_1: ... and, and you could actually see the performance of the LLM jump. And so for whatever reason, it would actually be better at math or better at predicting stocks or better at writing stories or whatever, if you kind of gave it this role. And what they were saying for some reason, for some of the, the, the more recent models, it, it's not quite as effective. But for these earlier models, like, that was, you know... And so, so basically, depending on how you kind of worded that role-
+speaker_0: Mm-hmm
+speaker_1: ... you would get, like, vastly... Even the performance of the LLM would be, like, vastly different.
+speaker_0: Uh-huh.
+speaker_1: So, so, so, but, but, but, you know, but here's the other thing, though. I, I think, you know, when you're interacting with the LLM in real life, it's, it's almost just like you're talking to another person in some sense. And, and what's funny to me though is that, um, each one of these iterations of the model, um, has a slightly different personality. And so let's say, let's say I've got-
+speaker_0: Personality. [laughs]
+speaker_1: It is a little bit, you know, it is a little bit.
+speaker_0: So I like how you stated that LLMs have different personalities. [laughs]
+speaker_1: A li- a little bit. That's the only way I can put it. And, and so for instance, I, I'm not gonna say I get attached, but I get used to, I get used to some iteration. And then what happens is the model, the model gets bumped, it gets retrained, and then the LLM is a little bit, um, it's a little bit different. And so there's this, there's this strange transition period of time when it's a little bit jarring. So you're used to sort of interacting with it in some way, and in some sense, the rules of the game have changed.
+speaker_0: Mm-hmm.
+speaker_1: And you have to kind of adapt. And I think that sort of goes back to this kind of co-evolution thing. So let's say, let's say the model version of Gemini bumps, and this, and this new Gemini is a little bit different. There's a sort of period of adaptation. And, but, um, but if you've, if you've sort of been co-evolving in some sense with the LLM, I think it's possible that that adaptation is relatively, you know, easy. But, but, you know, it just takes, like, some work.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: Um...
+speaker_0: And so basically, if, if, for example, you're not satisfied with the answer that you get, maybe you should just add a little bit of context or rephrase your question.
+speaker_1: Right.
+speaker_0: Because sometimes people say, "Oh, you know, I asked, like, LLM to do this and this, but I was not happy with the results."
+speaker_1: Right.
+speaker_0: So maybe just... It's on you, right? So you have to do something in a different way.
+speaker_1: Sometimes, sometimes. Sometimes you have to come at it from a different way. And then, you know, there's a funny thing where sometimes the LLM will get fixated on some specific solution. And, you know, when I'm dealing with programming, this happens all the time. And so for whatever reason, it gets fixated on something, and I can't really sort of shake it out of that solution. And really, the only way I can do that is I can say, "Well, listen, have you, have you considered X? Have you considered something else?" And then I can sort of shake it into, like, another train of thought.
+speaker_0: Mm-hmm.
+speaker_1: But, but you're right. Occasionally... And then occasionally, the LLMs get, get sort of caught in these, like, cyclical thought patterns.
+speaker_0: Mm-hmm.
+speaker_1: And to somehow break it out of that pattern and move it in a new direction, um... The interesting thing about that is it requires, to a certain extent... And, and that's why I don't think, I don't think humans will, will be totally, um-
+speaker_0: Replaced?
+speaker_1: ... replaced. Because it requires a little bit of domain knowledge. So, like, let's say, let's say the LLM is caught in some cyclical loop, and I really want to break and go in some other direction. In some sense, I have to, I have to know about the existence of that other direction.
+speaker_0: Mm-hmm.
+speaker_1: And maybe I've gotten that through programming or, like, through whatever. Um, and so, and so in that sense, it's, you know, I think it's like a, it's a collaboration, and it's kind of, um... It's, it's dynamic, right? In that sense. Um, but, but, um, but there's a thing where if you, um, if you, if you kind of, uh, uh, allow the L- LLM to sort of dictate the parameters of the conversation and, like, and the, and the solution space, I think you miss out on, you miss out on a bunch of stuff. So that's, um... But, um, but yeah, you're right. But all that, all that is a, um... I, I, I think it's, I think it's a skill. Or, or, you know... But, but here's the thing. Um, maybe it's almost analogous to, like, a people skill. I don't... You know, I mean-
+speaker_0: People skill. [laughs]
+speaker_1: ... I mean, it feels a little bit like that. I mean, in some sense, you're not supposed to anthropomorphize the LLM, but, but it feels like, um... Oh, not a soft skill per se, but it's, um... You, you know, by the way, Dasha, there, there's this funny thing where, um... So in, in programming, um, we, we're used to, like, we're used to commanding, right? So, so you-
+speaker_0: Mm-hmm
+speaker_1: ... so you give the computer, like, a, a command.
+speaker_0: Yeah, exactly. You command. Yeah.
+speaker_1: And that kind of physically do it.
+speaker_0: Like, "Do this, do that," right? Mm-hmm.
+speaker_1: Do this, do this. But, you know, with the LLMs, you, you don't really command the LLM. It's almost like... I wonder if it's more like a cat in that sense. You, you, you, you can suggest to the LLM. You know, in some sense. Uh, you know, for this, like, Ares-Athena thing-
+speaker_0: Like, being polite or something?
+speaker_1: It's not being polite, but, um, but, but, uh, but you can, you can tell the LLM to do X, and, and it may just decide to do O- X prime. Like, in, in other words, um, like, as, as an example with, uh, you know, with this Ares-Athena thing, I told Ares, "Listen, your strategy is, um, you know, when you win, you, you hold, and when you lose, you, you cycle." And so there was some funny internal thought that, like, Ares had where he said, "Okay, listen. Um, I won with rock, but you know what? Just to show my dominance, like, I'm gonna switch to scissors." And I realized, like, in some sense, I... So I told Ares, I said, "Listen, if you win, like, hold." And he decided to go, like, a different way, right? And so, in some sense, he, he basically, he took my suggestion. [laughs] He says, "I see your suggestion, and-"
+speaker_0: "But I'll do my own thing." [laughs]
+speaker_1: "... I'm gonna do something." Sorta. [laughs]
+speaker_0: [laughs]
+speaker_1: And so, so in that sense, you... Yeah, it's a, it's a little bit bizarre in the sense that you can't really...
+speaker_0: It's actually, uh, fascinating.
+speaker_1: Yeah. [laughs]
+speaker_0: It's so interesting. But, but, you know, like-
+speaker_1: Yeah
+speaker_0: ... I know that some people use polite words as, like, "Please, do you mind?"
+speaker_1: Yeah, yeah.
+speaker_0: Honestly-
+speaker_1: Hmm
+speaker_0: ... is it... Does it matter to use, like, "Please help me to check my text," or I should just say, "Check my text," whatever?
+speaker_1: Y- you know what's weird? Um, it does. So I'd... So I've seen, I've seen-
+speaker_0: It matters?
+speaker_1: I've seen papers where, where, um-
+speaker_0: Ah. Wow
+speaker_1: ... where emotional language actually, um, elicits a better response. And so, um, and- and-
+speaker_0: But can you explain it technically, how does it work?
+speaker_1: [laughs]
+speaker_0: Like how does, "Please" help the LLM-
+speaker_1: [laughs]
+speaker_0: ... to work better on you?
+speaker_1: I, I mean, it's really funny. I mean, so just as an example, like, let's say, you know, let's say the LLM was trained on, on some forum, you know, where people-
+speaker_0: Okay
+speaker_1: ... where people were having a conversation about something.
+speaker_0: Okay.
+speaker_1: And, and l- let's just say, for the sake of argument, there was somebody that was asking a question and, and they were really polite, and whoever was answering the question answered it in a really detailed and helpful way. And it could be, in some sense, that the LLM has learned to mimic that sort of human behavior.
+speaker_0: Hmm.
+speaker_1: Like you, you're polite. And, and by the way, you're, you're-
+speaker_0: Yeah, makes sense
+speaker_1: ... and, and maybe by the way you're emotional, maybe whatever this thing is, it sort of means a lot to you.
+speaker_0: Yeah.
+speaker_1: And, uh, so, you know, it's, it's kind of force of habit. Like, I, I, you know... Gemini does something kind of amazing, I thank it, by the way, you know, "Hey, thanks for doing that." [laughs] Um, but there's also this really funny thing, um... Ah, it's a little bit funny. Um...
+speaker_0: Yeah. [laughs] Go ahead.
+speaker_1: So, so, uh, have you heard of this thing called the Roko's Basilisk? [laughs]
+speaker_0: N- no, no.
+speaker_1: [laughs] So Roko-
+speaker_0: Explain me more.
+speaker_1: Roko's Basilisk. Ah, okay, so it's this, it's this funny thought experiment that, uh, I think some people Did on the internet a little bit-
+speaker_0: Okay
+speaker_1: ... where they, they, there's this hypothetical future AI-
+speaker_0: Okay
+speaker_1: ... okay, that, that somehow retroactively goes back and sort of punishes people that didn't... that, that, that hindered... that didn't bring about its existence.
+speaker_0: Okay.
+speaker_1: So somehow this future A- AI figures that, "You know what? There were these people back in the day that weren't friendly to me. Like, somehow I'm gonna punish them." And so there's this joke where somehow you wanna be... [laughs] you wanna be polite to the LLMs just in case this, like, Roko's Basilisk thing happens, you're just... you're buying a little bit of political credit, right?
+speaker_0: Ah.
+speaker_1: And, uh-
+speaker_0: Yeah. Okay
+speaker_1: ... but, but that, but that's just... that's, that's... it's silly though.
+speaker_0: No, but it's interesting-
+speaker_1: Uh, yeah.
+speaker_0: And it makes sense because you said that it can mimic possibly, right?
+speaker_1: Right.
+speaker_0: Because basically, all, like, LLMs, they learn from us. So the more-
+speaker_1: Yeah
+speaker_0: ... information we put and the way we put it-
+speaker_1: Right, right, right
+speaker_0: ... the way it responds, right? So it makes total sense.
+speaker_1: Yeah, yeah.
+speaker_0: And, you know, I also wanted to dive a little bit deeper into some most innovative things that Google Gemini has-
+speaker_1: Mm-hmm
+speaker_0: ... and if you can share more. So what excites you most of them? Or, like, what are the latest one, the most interesting that you want, you know, the audience to try it out, to learn more about them?
+speaker_1: Oh, yeah. You know, I mean, what's... so what's really interesting right now, what's happening at LLMs is this push into, uh, the so-called agentive, right? Or kind of agentive... a- basically, LLM agents. And this is really L-
+speaker_0: Agents. Mm-hmm.
+speaker_1: This is a sort of agents kind of... if, if you can imagine doing things for you in the world, um, like maybe, maybe you have an Amazon return and-
+speaker_0: Mm-hmm
+speaker_1: ... uh, you just wanna... you basically wanna take a picture of your shoes and maybe, maybe you want, maybe you want Gemini to, to kinda do-
+speaker_0: So kind of like your personal assistant, right-
+speaker_1: Yeah, yeah
+speaker_0: ... to a certain point. Mm-hmm.
+speaker_1: Literally. And, and, you know, maybe to the extent that, um... maybe it's not answering the emails, but maybe, by the way, maybe it's drafting a response-
+speaker_0: Mm-hmm
+speaker_1: ... to emails that come in and it gives you a chance to, to edit and kind of send... Or maybe, by the way, maybe it's handling your calendar and maybe it's figuring out, um, you know, which, which appointments are really important and how to shuffle things around. So really, I guess... I mean, we've talked about this thing called the Assistant for a while, but maybe it's the case that the LLMs can actually finally be like an active assistant in helping you with that sort of thing. And-
+speaker_0: That's definitely helpful.
+speaker_1: Yeah, yeah.
+speaker_0: I mean, I would love to have an agent like that who can help me, you know, to book my trip for summer or whatever.
+speaker_1: Exactly. Exactly. That's a classic. That's a classic use case. So anyway, I'm really excited about that because in some sense, that's like the LLM breaking, breaking free of the browser and, and actually going into the real world. And, uh, you know, and we've seen things like that. Like, um, you know, I, I saw something on, on, uh, LinkedIn a while ago where, you know, some- basically, the LLM was almost acting as like a software, uh, a software developer, but somehow had access-
+speaker_0: Mm
+speaker_1: ... to, like, a terminal and, and an editor.
+speaker_0: Mm-hmm. Yeah.
+speaker_1: And, and, um, but really, I, I guess, you know, anything... effectively, anything that a human do, can do, especially these sort of rote things, an LLM should be able to do-
+speaker_0: Mm-hmm
+speaker_1: ... right? And, um, you know, and, and, and part of what I've learned is, like, due to the magic of, let's say, the multimodal model... And the multimodal model is really, um, just the LLM's ability to understand things through images. Um, you can, you can tell a multimodal model, "Okay, like, here's a picture, here's a picture of a, of a webpage. Um, you know, I wanna do something, like I wanna return these shoes-"
+speaker_0: Mm-hmm.
+speaker_1: "... Like, literally, where do I click and what do I do?" And it'll tell you, "Okay, you need to click here and you need to do this and that." And so basically, everything you do as a human, you, you, you click, you interact with apps, like, in theory, kind of an LLM can do that on your behalf, right? Or, you know, or at least can assist you.
+speaker_0: Just as long as it has, like, clear instructions, right? To follow and... Yeah.
+speaker_1: And, I mean, in theory... I mean, what, what would be nice, and I think this is where we're heading-
+speaker_0: Yeah, it would be nice for sure. Yes. [laughs]
+speaker_1: Would be nice. Is like not even clear instructions, but even, even if you have some vague, like, like-
+speaker_0: Mm-hmm
+speaker_1: ... you know, it turns out, like... I don't know if you've tried to return something, um, on Amazon, but it turns out some-
+speaker_0: Yeah, I did. Of course. [laughs]
+speaker_1: So- so sometimes it's non-trivial. There's like a bunch of clicks-
+speaker_0: Yeah, yeah, yeah
+speaker_1: ... and you have to do this and that. But given some, some high-level task, in theory, you know, the LLM should be d- able to figure out, "Okay, I need to do, like, steps one through 12 to, to accomplish this thing."
+speaker_0: Mm-hmm.
+speaker_1: And I think as LLMs develop, I think they're becoming more sophisticated in that way and they can do, like, more and more complex, uh, journeys, let's say.
+speaker_0: Oh, yeah, that's-
+speaker_1: Yeah.
+speaker_0: That's super interesting. And, you know, the other question that worries a lot of people is, how do we ensure accuracy, that, like, the answer that we get are accurate, reliable-
+speaker_1: Mm-hmm, mm-hmm, mm-hmm.
+speaker_0: So how can we work with that, or, like, how do you see it evolving in the future?
+speaker_1: Yeah. I mean, the factuality thing is really interesting. And I think... So there's a couple of things. And, you know, one of the things we do with Gemini is we, we try to ground every single answer in, in Google Search. And-
+speaker_0: Mm-hmm
+speaker_1: But one of... one of the interesting, uh, developments in that area is this idea of, like, self-critique. And so let's say you can have an LLM, um, um, come up with a final response. So you... Basically, an LLM can say, "Look at some search results. Come up with a final response-"
+speaker_0: Mm-hmm
+speaker_1: ... and then it can kind of critique itself at the end. And it can say, "You know what? Does this, does this really make sense, by the way?"
+speaker_0: Yeah.
+speaker_1: And so in some sense, you can have, like, these checks and balances. And so a combination of, of grounding responses and, and search results, and a combination of self-critique, I think you can eventually, um-... you know, you can, you can sort of asymptotically approach the truth-
+speaker_0: The most accurate-
+speaker_1: ... uh, way. Yeah.
+speaker_0: Yeah. But, but it's always... It, it doesn't hurt just to check. Yeah. Just in case. To use Google Search to double-check your answers, in case it's really something important that you worry about, right? So it's, it's totally fine.
+speaker_1: Right, right.
+speaker_0: And this, like, kind of like two-or-three-steps process will help you to get the right answer.
+speaker_1: Right, right, right. Right. Exactly.
+speaker_0: Yeah, yeah. That, that makes total sense. And, you know, um, talking about your personal, you know, day-to-day life-
+speaker_1: Mm-hmm
+speaker_0: ... as a Google engineer working on Gemini, how does it look like, and what's, you know... The question of productivity is very burning-
+speaker_1: Mm-hmm.
+speaker_0: ... and we talk a lot about burnout, and, like, how challenging and difficult it may be, you know. So what are your secrets of staying productive?
+speaker_1: You know, I think part of it is, um, part of it is sports and music, right? So, um, I, I-
+speaker_0: And, and you're also like, you're a sportsman, right? You're leading the rugby team at Google.
+speaker_1: Yeah. So it's so-
+speaker_0: So that's so cool.
+speaker_1: Yeah. So I'm in this thing called the Google Rugby Football Club, and, uh, it wa- it was great because we had, um, we had such a diverse crew. You know, we had, uh, um... I just remember when we started, there was people from Ireland and France and Israel and-
+speaker_0: Mm-hmm
+speaker_1: ... and Samoa and Tonga. And so we had this, this really diverse crew. And, uh, but anyway, there's this funny thing where somehow, you know, let's say, during the day, if you build up a little bit of the stress, there's a strange phenomena where sports helps you just purge the stress and come out with- come back with sort of a new, uh, a new frame of mind.
+speaker_0: Yeah.
+speaker_1: And..
+speaker_0: So if you're stuck, you can just, you know, like-
+speaker_1: Yeah
+speaker_0: ... get refocused.
+speaker_1: It's, it's really interesting how that works. Yeah, and so sometimes, maybe I'll come back from rugby or soccer with, um, maybe just a solution to something that's been bugging me for hours or days.
+speaker_0: Mm-hmm.
+speaker_1: And, uh-
+speaker_0: Yeah, yeah
+speaker_1: ... and anyway, that's... Yeah, that's kind of a magical process. Uh, the other thing is music, right? I don't know, um, I don't know exactly what music is or why it has this effect-
+speaker_0: Mm-hmm
+speaker_1: ... on people, but, you know, I feel like when I... So, you know, right now I'm, I'm working through some of these Bach, um, Bach fugues, and I, and before that I was working on a bunch of these, uh, Beethoven sonatas. But there's this weird thing when, uh, you're working through a Bach fugue. Um, so a Bach fugue is this thing where, you know, you have multiple voices.
+speaker_0: Mm-hmm.
+speaker_1: Um, multiple, maybe, like, three to four voices interacting, where somehow every voice on its own, um, has to be beautiful and, and, and sort of shapely. But then there's this weird thing where, um, all the voices have to kind of interact in a wonderful way. So somehow, in your mind-
+speaker_0: Mm-hmm
+speaker_1: ... you're keeping track of these four independent voices, but also, like, how they, how they interact with one another. And, um, you know, for some reason, that mental exercise, whatever that is, when I come, when I come out of working through a fugue, um, but first of all, I'm a little bit exhausted. But second of all, uh, for some reason, it brings this interesting clarity. Like, I, I, I, I don't know... Like I said, I don't know exactly what music is and how it affects the human mind, but it seems to have this refreshing, um, kind of clarifying effect. And an- anyway, I just, I, you know, I'm thankful for that, [laughs] even if I don't fully understand it. You know, it's, uh-
+speaker_0: Yeah, yeah, yeah. So music and sports, that's what makes-
+speaker_1: Yeah
+speaker_0: ... you know, keep going, and that's what helps you to relieve stress and, like, so on and so forth. Now, this is, this is, this is cool, and we're all, like, human beings, so we need something-
+speaker_1: Right, right
+speaker_0: ... you know, to get distracted. And I don't know, sometimes when I, like, write an article and I struggle with, you know, just inspiration, I just, like, take a walk, and it helps as well, because-
+speaker_1: Oh, yeah, yeah, yeah
+speaker_0: ... any, like, activity, you know, just stimulates your brain exercise, you know, brain activity, and so it helps you. And, you know, also, another question that I wanted to ask you is about teamwork, right? Because-
+speaker_1: Mm-hmm
+speaker_0: ... probably you have to collaborate a lot with team members. So how does it work, especially when you're working on a, such a big project, yeah-
+speaker_1: Yeah
+speaker_0: ... like Google Gemini? How do you, like, spread these roles? How do you see the outcomes? I don't know, rewards and achievements? How does it happen?
+speaker_1: Well, well, yeah, that's such an interesting question-
+speaker_0: [laughs] So many questions, yeah.
+speaker_1: ... and, um, you know, so, so Gemini in particular, you can imagine, it's a collaboration between, let's say, like, research and production, and there's, there's, roughly speaking, there's, there's... So there's researchers, which is on the cutting edge-
+speaker_0: Mm-hmm
+speaker_1: ... but then there's people that sort of train the model, there's people that work on the backend and the front end, and there's all these independent teams that, almost like a Bach fugue, somehow they have to, like, work together harmoniously. And, um-
+speaker_0: Oh, yeah. That's a challenge. [laughs]
+speaker_1: And, and it's a challenge, so, you know, and, and part of it is like, part of it is just a communication challenge. And so, you know, one of the things I've learned, and I- I've tried to sort of touch-
+speaker_0: Mm-hmm
+speaker_1: ... um, I've tried to touch all the different parts of Gemini. I've tried to be involved in the research and the modeling side and the backend and the front end. And one of the things I realized is that, um, everybody speaks a slightly different language. And so somehow, to, like, translate between the research folks and the production folks, um, I would say that's also maybe sort of a learned skill, to a certain extent.
+speaker_0: Yeah.
+speaker_1: And, uh, and it seems to be, like, almost an exercise in translation, you know?
+speaker_0: Yeah, yeah, yeah.
+speaker_1: And, and, you know, 'cause there's this funny thing with language though, too, and I think we mentioned this earlier. It's, it's not just the things you say. It's, it's sort of how they say them, and, and there's all, and there's all these interesting, like, social cues that are a little bit different.
+speaker_0: Yeah.
+speaker_1: And so I realized these different groups, they just have their own, they have their sort of own social language, as, as- and their own vocabulary. So anyway, I think the, the communication problem is just, like... So on- once you handle that, and, and you have the team harmoniously working together, uh, I think the product arises almost like, uh, the product's almost like an emergent phenomenon that sort of arises from the interaction of these different groups. And, uh, and I guess that's, yeah, I guess, like I said, that's a little bit like the fugue. And, uh, but, but anyway, it's interesting being in the thick of that. Um, it's definitely exciting, and, uh, [laughs] it doesn't really, um, it doesn't really slow down. [laughs] It's kind of-
+speaker_0: Yeah, yeah, yeah. But, you know-
+speaker_1: Yeah
+speaker_0: ... like, for you personally, because when you work with multiple teams, you have different languages. I mean, different-
+speaker_1: Mm-hmm
+speaker_0: ... just like German, English, whatever. You have, like, diverse team, right? First, you have to deal with that. Then you have to, for example, communicate with different teams. Like research, they speak one language-
+speaker_1: Mm-hmm
+speaker_0: ... with a different one, so this is another challenge. Plus interpersonal communication. What are the best, like, maybe some really simple or practical steps that you can recommend for those who struggle with communication issues? Like, for example-
+speaker_1: Yeah
+speaker_0: ... you should be direct, or whatever. You should-
+speaker_1: Oh, yeah
+speaker_0: ... uh, ask many questions. So what can you recommend?
+speaker_1: You know, it's funny. It's, um... So there's also the different communication all that modalities, right? [clears throat]
+speaker_0: Mm-hmm.
+speaker_1: So let's say there's, like, chat versus email versus in-person or whatever.
+speaker_0: Oh, yeah. Oh, my gosh, I forgot about this. [laughs] You have so many.
+speaker_1: So, so this... I think this is a funny thing where, um, chat, like, gets, gets old very quickly in the sense that... So you can be going back and forth with somebody, like maybe, maybe you have 20 or 30 exchanges about something.
+speaker_0: Yeah.
+speaker_1: And maybe you have a quick meeting, and literally within 30 seconds, you've kind of clarified whatever it is. And I realize with a lot of these different communication media, there's a certain loss of information. So, like, when you and I are sitting here speaking, there's something that I can read, just maybe micro-expressions on the face-
+speaker_0: Yeah, exactly
+speaker_1: ... or, or, or intonation. And somehow I realized all of that, all of that conveys information. And so somehow knowing when, like, chat has basically been, reached its threshold, it's saturated, when you need to move from chat, um, to something like an in-person meeting-
+speaker_0: Mm-hmm
+speaker_1: ... like that, that in, that in and of itself is kind of a skill. You know, when does maybe an email suffice 'cause it's, it can be asynchronous. So, um, but then on the other hand, there's a little bit of a cost-benefit. So if you, if you say some- to somebody, "Listen, can we talk about this thing for a few minutes?"
+speaker_0: Yeah.
+speaker_1: You, you are, you're, you're taking their time. You're synchronously taking their entire time in which, you know, it, it sort of, it, it kind of forces them to pay attention. So it has a high cost, but on the other hand, um, you know, it also has a benefit of just the, the bandwidth of communication. So yeah, somehow I guess, I guess first and foremost negotiating those modalities and, uh, figuring out when, when, you know, when do you, when do you escalate to in person, that sort of thing goes a long way. And then, um, and then really, I, I think it's one of those funny things where, um, I think you have to practice, right?
+speaker_0: Yeah.
+speaker_1: Somehow. Um-
+speaker_0: Everything comes with practice.
+speaker_1: Yeah, literally. And, and I didn't used to necessarily think of that, but even somehow communicating with people and getting things across, I realize, actually takes practice. It's, it's, you know, it's interesting. I, I... For some reason, I just thought language is something we're kind of born with and we kind of... But, um-
+speaker_0: And I think you never stop learning here, right?
+speaker_1: Yeah.
+speaker_0: So you've been at Google, like, for a while, but still, like, I think, like every day you still can learn something new-
+speaker_1: No, no, no. That's true
+speaker_0: ... in terms of communicating with people, teams-
+speaker_1: Yeah, yeah, yeah. No, that's really true
+speaker_0: ... and so on.
+speaker_1: That's really true.
+speaker_0: Yeah.
+speaker_1: Yeah.
+speaker_0: And... Yeah, sure, go ahead. [laughs]
+speaker_1: No, no. And I was just gonna say that this, uh, so what's funny is we... So we have this biweekly meetup at Google, this Gemini meetup. And, uh, there, th- that's a little bit interesting too, because I notice, you know, people come in and, um, like they come in sometimes with legitimate problems that they're... You know, it's either something that they're personally going through-
+speaker_0: Mm-hmm
+speaker_1: ... or maybe their business or whatever. And, uh, and that's what... [laughs] That's kind of another form of comm- communication because, um, you know. Anyway, sometimes it's just, um... Sometimes there's a technical solution to the problem and sometimes there's not.
+speaker_0: Yeah.
+speaker_1: And, uh, and anyway, it just, you know... That's another interesting one, right? So... [laughs]
+speaker_0: But that, like, you made me think whether-
+speaker_1: Yeah
+speaker_0: ... how often people ask, for example, Google Gemini about some, you know, like, really, like, how do I make relationships with my husband better-
+speaker_1: Yeah, yeah, yeah
+speaker_0: ... and if these LMs can actually help you with that as well.
+speaker_1: I, you know, what's interesting sometimes-
+speaker_0: Because I've never tried it, yeah. [laughs]
+speaker_1: You know what? You know, sometimes they have, they have interesting ideas and, um, so, yeah, y- you know, and, and like I said, it was basically L1 can somehow enrich in theory, uh, maybe every aspect of your life, right? And, um, but, uh, but somebody came in the other day and mentioned that, you know, the transcript for Gemini, it essentially constitutes something like a diary, right? Because, you know, every day they're asking something, like I said, about, you know, maybe something related to kids or marriage or work or whatever. And sort of when they go, [laughs] when they go back to their chat logs, in some sense it's like, um, yeah, it's, it's like a rec- [laughs] it's like a recorded diary of their life. And, uh, anyway, that's a little bit funny to think about too, but-
+speaker_0: Yeah, yeah, yeah.
+speaker_1: Um-
+speaker_0: But, you know, also as an experienced engineer, right, I'd like to ask you what tips can you give to younger generation, right-
+speaker_1: Mm-hmm
+speaker_0: ... to those who want to start work, working with AI or with large language models? So, any advice for them?
+speaker_1: So I think, uh, first and foremost, GitHub. So essentially, let's say you're looking for a job. Um, a lot of times what happens when we go to startups and big companies is that our code is lost in this vault. Like, essentially never sees the outside world.
+speaker_0: Yeah.
+speaker_1: And, but if you can have a series of, like, GitHub projects that constitute... They constitute kind of a resume in some sense, and maybe they actually speak louder than the resume. I think that's, like, that's kind of first and foremost. And then the question is, what do you fill G- What do you fill GitHub with? And really, you know, the trick is sometimes just sort of scratching your own itch. And if it turns out that you have some problem that you could solve with the LLM, you know what? Put together a little project, do it, put it up on GitHub, and, uh, let the world see it, collaborate with it. And, and what happens is sometimes people will, people will come to the Gemini meetup with some little project they've done, they'll hook up with somebody else, and then, you know-
+speaker_0: Mm-hmm
+speaker_1: ... something will kinda come of that. But, um, but yeah, basically just, like, just dive in, kind of scratch your own itch. And then if possible, uh, at the end of the day, if you can have something like a portfolio of these other different problems I've solved, like, to me, somehow that, maybe that's the best, um-
+speaker_0: So it's kind of more visible.
+speaker_1: Yeah. Yeah.
+speaker_0: So with the projects you can highlight the skills that you have-
+speaker_1: Yeah, yeah
+speaker_0: ... and that can, you know, that can help you to stand out among all other people and engineers.
+speaker_1: Right, right, right, right, exactly. And, um, yeah, exactly. And so, you know, recently so, um, you know, recently I, I hired an intern.
+speaker_0: Mm-hmm.
+speaker_1: And, uh, and I remember I went through, you know, about five or 600, uh, you know, applications. And I just remember looking at, you know, and some people I noticed they, they had a lot of projects on GitHub and, and they, they had, they had solved some problems that were pers- Like, you know, somebody had something that, like, was a personal, um, scholar, you know, and, um, this sort of scholar assistant would go, like, you know, hunt down papers and sort of, you know. And I just realized that, um, yeah, I think, I think maybe what separates good candidates are just this... They have, they have a body of work and they figured out sort of how to make LMs work for them. Um, and, uh, and, and may- And maybe that's a trick, by the way. My, my own intuition is somehow, somehow if you can sort of scratch your own itch, um-... I just have a feeling that the probability of you being able to solve other problems may be greater. I... That's just maybe my intuition, you know?
+speaker_0: Yeah. But the only thing, you know, that worries me is that, like, probably a lot of people are working on different projects-
+speaker_1: Yeah
+speaker_0: ... but the market is so highly competitive.
+speaker_1: Oh, yeah.
+speaker_0: So how to stand out? It's so hard.
+speaker_1: Yeah.
+speaker_0: And how even to get, you know, these people, uh, in the companies to look at you? Because sometimes, you know, you just apply-
+speaker_1: Yeah, yeah
+speaker_0: ... you never hear back. I've heard it from many engineers that they struggle with that because just, you know, like ignorance, no one gets back to you.
+speaker_1: Yeah.
+speaker_0: Any ways of... Any tips here?
+speaker_1: You know, it's funny, as I... I think about that once in a while.
+speaker_0: Yeah.
+speaker_1: Um, I've, I've never... Um, I've never been able to get a job, uh, cold calling, or I've never been able to get a job, like, by applying to anything actually.
+speaker_0: Mm-hmm.
+speaker_1: And the only way... The only way I've ev- ever been able to get a job is by going to things in person.
+speaker_0: So warm introductions or in-person communication?
+speaker_1: Like, you know, c- and, and the crazy thing, if people, if people happen to live in places like Silicon Valley, uh, where there's just like every day... So if you go to something like Cerebro Valley, um, every day there's like five or six meetups and-
+speaker_0: Mm-hmm
+speaker_1: ... you know, all throughout the city. And, and if you keep going to those and keep meeting people, every time you meet somebody, it's almost like playing a lottery ticket. And I feel like the, the probability of finding somebody who can help you land a job, like it approaches one as you, as you keep talking to people. But somehow I, I feel like that's the most, um, powerful way. I... You know, and, uh, to people that can like actually apply to things online and land jobs that way, like kudos. [laughs] But for some reason I've never-
+speaker_0: Good luck. [laughs]
+speaker_1: And that's the reason I've never-
+speaker_0: And we're happy for you. [laughs]
+speaker_1: Yeah. For some reason, th- uh, that's been hard for me. Uh-
+speaker_0: But I actually love the idea that you mentioned events.
+speaker_1: Yeah.
+speaker_0: Because I personally do host and attend a lot of events-
+speaker_1: Yeah. Yeah
+speaker_0: ... and I really see that like it's pretty effective. I didn't know if it is effective for engineers as well, so I'm really glad to hear that it's basically work for everyone, right?
+speaker_1: Yeah.
+speaker_0: Because in personal communication matters.
+speaker_1: Right, right, it's true. And, you know, I think part of that though, that we... I mean, there is a little bit of a bubble, because we live in this like Silicon Valley kind of high density place where there's a bunch of startups. But, um, you know, I traveled to Boston, uh, a few weeks ago to give a little talk, and I noticed the same thing there. There are a bunch of people with startups and, and people are getting together and finding jobs. And so I just, um... Yeah, my gut says that for some reason, um, meeting people in person is still... Probably still maybe one of the best things. But, um... But, but unfortunately, you know, that requires you to be like co-located with some of the... Or travel, and sometimes that's like prohibitively difficult. Um, so it's, it's challenging. It's tough.
+speaker_0: Yeah. No, of course.
+speaker_1: Yeah.
+speaker_0: And, you know, the, the other question that I cannot avoid as, as I'm leading, um, big community of female founders and women in tech, uh, in AF. So what about female engineers, right? Because I've heard many different opinions why the area is too highly male-dominated. Some people say that there is... There are more men with the specific knowledge that are required. Some people say that not enough women apply. Like, "We are open, but we don't get as many applications," and really different other, like, options. So, in your, like, in your opinion, how can we encourage more women to, like, code? Or how we can help them better to integrate and find jobs? So, any ideas on that?
+speaker_1: Yeah, that's so interesting. I mean, I think, you know, w- one of the things I think is that this tends to start at home. And so I... So I have three daughters and, uh-
+speaker_0: Yeah
+speaker_1: ... three daughters, two sons. And one of the-
+speaker_0: Five kids. [laughs]
+speaker_1: Yeah. [laughs] And so one of the things I did with my daughters is just, you know, around the age of four and five, when they could kind of learn and they could read and this and that, and they could use a computer, I just, I just started 'em on Khan Academy. And so they went through the, the JavaScript thing, they went through the SQL things and Python. And in some sense to them, I... You know, so one of the things I do with, with our kids is, I ju- I teach them languages. So they've, they've had some, some Greek, some Latin, some Hebrew, uh, a little bit of Latvian-
+speaker_0: Yeah
+speaker_1: ... and, uh, I'm kind of thinking about German maybe next. But-
+speaker_0: And that helps them to code as well, right?
+speaker_1: But that's what I'm thinking. So, so, you know, when I, when I introduce 'em to code, I just like, "By the way, this is another language, like, you know, like any other language." And, uh, and so what I notice about my daughters is that, um, they pick it up and they speck at it. They pick it up spontaneously, and, and they kind of have fun with it. And it's... In some sense, it's like it's not even a big deal. And let's say, you know, my 10-year-old, she's, she happens to be a little bit better than her brother with coding.
+speaker_0: Mm-hmm.
+speaker_1: It's also not a big deal. She just happens to be good at coding or whatever. And in some sense, it's part of their environment, and, and they don't even think about it. And so what I'm, what I'm hoping that translates into when they're adults, is that they, they have this attitude of sort of just, just going for it and just kind of being like barrier-free. And just, um, you know, not holding back and really just going for whatever they wanna do. If it happens to be in the engineering thing, that would be amazing. Um, but I'm hoping it just gives them the freedom and the courage to like, ah, just kind of do it. And, um, you know, and th- and then the funny thing is, so their grandma, my mom, uh, she happens to be a CEO, and she... You know, my mom started, um... [laughs] I guess she started programming, I think, maybe back in the '70s when they were doing like p-
+speaker_0: You got a really great-
+speaker_1: ... like punch cards or whatever.
+speaker_0: ... example in front of you. Yeah. [laughs]
+speaker_1: And, and, uh, you know, and then so she went into biochemistry, and she's, she started a bunch of startups.
+speaker_0: Mm-hmm.
+speaker_1: She took a company public. And, uh... But the same thing for my daughters. Like, it's just, you know, grandma start... Grandma takes companies public, and, you know, grandma's a scientist, and that's just, that's kind of what grandmas do.
+speaker_0: I love how you... [laughs] Grandma takes companies public.
+speaker_1: And it's like, you know, it's like
+speaker_3: [laughs]
+speaker_0: What a great grandma. [laughs]
+speaker_1: But, but in some sense, like, you know... So hopefully, that's also kind of just something that's in the environment. And, and, and, and ideally, ideally, they just sort of take it for granted. I, I... You know, and some... They just take it for granted that grandmas take companies public.
+speaker_0: Yeah.
+speaker_1: And that's just, ah, that's just kind of, you know...That's just the way it is. Yeah.
+speaker_0: But, but you're mentioning two important things-
+speaker_1: Yeah
+speaker_0: ...actually that might be part of the solution.
+speaker_1: Yeah.
+speaker_0: That one, you can start early, you know?
+speaker_1: Right, right, right.
+speaker_0: And I think, uh, one of the challenges is that people, they just don't get introduced to this.
+speaker_1: Yeah.
+speaker_0: So, for example, I'm like, when I was a kid, nobody told me like, "Oh, you can actually code." So my parents were not in this sphere, so I didn't have this example and nobody just offered me. And probably not always we think about like girls, young girls as, you know, as, as programmers, right? So you don't even think maybe you should go like ice skating or dancing, so you don't necessarily think that you can learn them coding, right?
+speaker_1: Right, right.
+speaker_0: And this is one thing. And the other thing is a pattern, right? So, for example, you had your mom, right, your grandma is a CEO-
+speaker_1: Yeah, yeah.
+speaker_0: ...she takes companies public. So I didn't have this pattern, for example, for me. And I think in many cases, women just don't have this example, you know? And they don't, don't even think about that. For example, if your mom was, I don't know, like an accountant, she's like, "Okay. I'll, I'll, I'll follow the same path," right?
+speaker_1: Right, right.
+speaker_0: But, uh, but that's actually really cool. And I love that the way you stated it, that it's the same as a Greek language or whatever, as German language. And the way you present it, maybe it's even make it easier for them to understand.
+speaker_1: Oh, interesting.
+speaker_0: Like, it's not something scary, right?
+speaker_1: Yeah. Right, right, right.
+speaker_0: It's something that you can try and learn. And just like the earlier you start, the easier would it be, right?
+speaker_1: Yeah, yeah, yeah. No, no, it's absolutely true. And then the other thing too is, I don't even know- I mean, teaching engineering and the thing- or programming is a thing in itself is okay. But really, like programming for me, it's always just kind of a vector-
+speaker_0: Yeah
+speaker_1: ...or, or a means to solve problems. And so if my daughters are thinking about something they wanna do that's fun, or they wanna create a little animation and they need programming to do it. Or they wanna create a little game, and by the way, they just need programming as another tool. Like hopefully it's not even... Hopefully they just get into the place where they're thinking about solving problems, and programming just happens to be another tool that they have. And so, um, so no, you're absolutely right. I, I... If, at, at the end of the day, if programming is like, it's no big deal [laughs], it's just programming. Like in some sense, I know that, um, maybe I've done my work [laughs]. Because it's, you know, like you said it, it's not, it's not really anything privileged or strange. It's just g- it's just, you know, it's maybe a tool. And, and... But you're right, I... But I think people tend to think of it as something a little bit scary and forbidden and, and, uh, inaccessible. So, um, so, yeah, if you can make pro- programming kind of mundane and, um, uh, you know, non- natural-
+speaker_0: Mm-hmm
+speaker_1: ...and not scary, maybe that's the way to go.
+speaker_0: And, you know, the other thing I just remembered about that, that I've heard from female software engineers that they mention that very often when they go to meet-ups full of male representatives-
+speaker_1: Yeah
+speaker_0: ...sometimes they feel awkward as, you know, like male representatives look at them like, "Oh, you really know how to code? Are you sure?"
+speaker_1: Yeah.
+speaker_0: So, and this is, you know, this-
+speaker_1: Hmm
+speaker_0: ...uh, confidence issue.
+speaker_1: Yeah.
+speaker_0: How to overcome it or how to, you know, like for example, let's say, uh, I'm, I'm good at coding and I come to you and you're staying, you know, like four guys, you know, talking about coding. How should I, you know, like interact with you from a stronger side, you know?
+speaker_1: Ah, it's really interesting, you know. So, so, um, at the meet-up that we run at Google, so we have a lot of women that come in and, um-
+speaker_0: That's great.
+speaker_1: But, you know, in terms of the audience though, they're, they tend to be the most, the most confident. They, they ask the best questions, they have the best ideas. They, they... A lot of them are, a lot of them are-
+speaker_0: Yeah
+speaker_1: ...doing start-ups.
+speaker_0: Interesting.
+speaker_1: And for some reason when they come in the room, they, they hold their own. And somehow it's like, you know, actually they're speaking and people are listening. It's kind of the opposite. It's sort of like people kinda gathering around them. And, uh, and it's an interesting dynamic. And, and you're right. Somehow maybe when they come in, they, they exude this interesting natural confidence. And, and my sense is, is because sometimes they're actually like solving problems. And, you know, the interesting thing is a problem. And, and by the way, here's how I solved it.
+speaker_0: Yeah.
+speaker_1: And, um, you know, and, and, and you're right. And I don't know, I don't know exactly what the secret sauce is for that. It's kind of like... I mean, it's easy to go away and tell somebody, "Hey, um, hey, be confident." [laughs]
+speaker_0: Yeah, yeah, yeah. Just be... Yeah. [laughs]
+speaker_1: But that's, that's, that's really, that's difficult, right? That's difficult.
+speaker_0: Yeah.
+speaker_1: Um, you know, and, uh, but I often... You know, and I wonder if it's one of those things where... So when the pandemic hit, like I said, and, and... So when the pandemic hit, we couldn't play rugby for like a couple years.
+speaker_0: Yeah.
+speaker_1: And one of the things I had to do is I, I had to learn all these new sports. So I ended up learning like soccer and basketball, frisbee, a bunch of these crazy things. And I remember when I stepped on the field, um, I every- I was basically, every day I was a fool. Like I was literally just... I had, and I had, I actually had to be, I had to get used to that-
+speaker_0: Yeah
+speaker_1: ...strange, uncomfortable thing. And then at some point, just by like going again and again and again, uh, at some point I became confident and I could sort of hang. But I just wonder in those cases whether, um, whether you just keep at it. And I wonder if you just keep going in some sense and, um, and, and maybe after you've tried enough, maybe, maybe eventually, uh, you arrive. And, um, but I wonder if it's one of those things where you, you, you have to be in the game and you have to show up and you have to play. And, um, you know-
+speaker_0: Yeah, but basically you're saying that confidence is also a skill that can be trained. And I like-
+speaker_1: Right, right, right
+speaker_0: ...100% agree with you.
+speaker_1: Yeah.
+speaker_0: And, you know, I also love seeing that. Like today you're a fool, yeah, like or you know nothing.
+speaker_1: Right.
+speaker_0: But tomorrow you're the best. Today you're the worst, tomorrow you're the best. So, and it all comes with training. So that's why-
+speaker_1: Yeah, yeah, yeah
+speaker_0: ...I really love your point about seeing that you try something new and you feel really awkward. But then, and you know, like, uh, my daughter is, um, she goes to ice skating. I'm stereotypical.
+speaker_1: Yeah.
+speaker_0: So she's not coding, she goes to ice skating. But, uh, I see a lot of people, you know, like older age, even like from, from three to 65-
+speaker_1: Wow
+speaker_0: ...who are trying something new.
+speaker_1: Yeah.
+speaker_0: So they just came to ice skating-
+speaker_1: Yeah
+speaker_0: ...and they try it from scratch. And obviously they fall down, they look awkward, funny, they feel stupid. But the way that they keep going, and then you see like two weeks ago, like this, you know, guy was so bad, and now you see that he's like super cool.
+speaker_1: Yeah, yeah.
+speaker_0: He's the best.
+speaker_1: Yeah.
+speaker_0: And this is amazing.
+speaker_1: Yeah.
+speaker_0: So, and this is to your point that you just have to keep going, you have to keep trying, and so on and so forth. And, you know, um, one more thing I wanted to ask you is about your personal experience working on Google Gemini and Google in general. So what was the most unexpected thing for you-
+speaker_1: Hmm
+speaker_0: Working here, working on your project, what was the most challenging and what was the most rewarding or memorable? So three things.
+speaker_1: Oh, my word.
+speaker_0: Unexpected, challenging-
+speaker_1: Yeah, yeah, yeah
+speaker_0: ... and most rewarding.
+speaker_1: And, you know, so, so-
+speaker_0: [coughs]
+speaker_1: ... part of the, uh, part of Bard, I guess I came from the assistant. And, um, and so it went kind of assistant, Bard, and then Gemini. And so one of the things with the assistant is we were working with much smaller models. And to a certain extent, we, we had to do like a lot of work. And so if you can imagine, you have this huge kind of elaborate infrastructure with kind of a small model in the middle like... You know, but this, really this, this huge elaborate infrastructure did all the magic.
+speaker_0: Yeah.
+speaker_1: The funny thing is, when you go to LLMs, um, all of a sudden, the LLMs can like, can orchestrate themselves.
+speaker_0: Yeah. [laughs]
+speaker_1: And what that means is, like let's say you're trying to, let's say you're trying to plan a trip to Tokyo. And it's relatively complicated-
+speaker_0: Okay
+speaker_1: ... in the sense that you need flights and hotels and cars.
+speaker_0: Exactly, yeah. Right.
+speaker_1: And by the way, you want an itinerary. And, you know, maybe you just want some YouTube videos about what it's like in Kyoto and whatever.
+speaker_0: Mm-hmm.
+speaker_1: So you can imagine, there's this relatively kind of complex, um, journey, let's say. And it turns out, if you tell the LLM, "By the way, you have these tools available. You have kind of a flights tool, and a hotels tool, and a YouTube tool. Just go off and-"
+speaker_0: Mm-hmm.
+speaker_1: "... and work your magic. And essentially, come up with an itinerary for this person, and a ticket they can buy." The LLM will actually say, will actually know, "Oh, wow, okay, I better call YouTube, I better call flights, and here's what happened, and, and I'm gonna package-"
+speaker_0: Mm-hmm.
+speaker_1: "... this up in a really nice way for the user." So the LLM can somehow like do all that work, and that was actually, that was, that was both surprising and difficult. Because, you know, we were coming from this model where, in some sense, we do all the work and then the LLM is just, or the, the model is just kind of li- not an afterthought, but it's just like we have this entire elaborate infrastructure-
+speaker_0: Mm-hmm
+speaker_1: ... to the point where the LLM can really make a bunch of these decisions. So that was challenging in the sense that really had to rethink kind of my entire mindset. Figure out, by the way, how to like harness the LLM. 'Cause the LLM, it's interesting because it's, it's creative, but it's a little bit unpredictable.
+speaker_0: Yeah.
+speaker_1: And so-
+speaker_0: That was the most challenging thing, right?
+speaker_1: Right, exactly, exactly. And, uh, but, but the, but the fact that the LLM was capable in some sense of orchestrating itself was like just really surprising.
+speaker_0: Mm-hmm.
+speaker_1: So, and, uh, you know, to me, working with LLMs, every day, there's always just a new, new like emergent phenomenon that just sort of blows me away. And, um, so no, I'm really thankful to kind of be in this, in this space.
+speaker_0: Yeah.
+speaker_1: And, um..
+speaker_0: So, but that... So, okay, so that was the most challenging thing.
+speaker_1: Yeah.
+speaker_0: And what were the most memorable out of all your experience?
+speaker_1: Oh, you know, the most memorable was, um, oh, let's see. You know, I think this was, um, you know, really, uh, this was really early on, um, you know, when, when we were... This was probably in like maybe late 2022, early 2023.
+speaker_0: 2022, uh-huh.
+speaker_1: And, uh, so this was when we were kind of, you know, the LLM thing was new, we were experimenting with it. And I would just, um, I was shocked that, for instance, um, you know, I, I was just having the LLM do all these crazy things and like composing music. And I was shocked that, for instance, um, [laughs] you know, I, I, I, I asked, uh, the LLM at this... I, like I needed a presentation, and I remember asking the LLM at that point, "Listen, can you just, can you write a few slides and can you put this thing together?" And somehow, somehow it just seemed to magically kind of know what I wanted. And, and this was like, this was like way back when, you know, LLMs were kind of like brand new to us. And, um, and anyway, that to me was kind of magical. And, uh, I guess, um, I guess that kind of... That sort of set me off on this, on this journey. And, um, but, um, but yeah, it's, it's... And, uh, I feel like, you know, like you mentioned, every day, every day there's some new challenge. And, and I feel like... Oh, and here's the other crazy thing about this, this, the LLMs in general. Things are moving so quickly, right?
+speaker_0: Yes.
+speaker_1: And so like every, every two weeks when we have one of these meetups at Google-
+speaker_0: I think this is so challenging, honestly.
+speaker_1: That, that's the crazy thing, whatever. So every two weeks when we have something at Google, like something new, something new has happened within that span.
+speaker_0: Yeah.
+speaker_1: And like I think it used to be, back in the day, you could think in terms of months or sometimes even quarters.
+speaker_0: Mm-hmm.
+speaker_1: Um, but like things, things are happening quickly. And so, and I think that's one of the challenges too, is how do we, how do we sort of move at that kind of velocity? But also at the same time, like do interesting things, do things that scratch people's itches. But how do we also move quickly or whatever, right? That's really, that's really difficult. And, um, so I think that's, yeah, that's also been one of the things. Um, but that's why I'm, I'm kind of grateful, like you mentioned, to be plugged in to... Like I'm, I'm grateful to actually be able to meet people in person and talk about these things. 'Cause there's this funny thing where I feel like that's actually where I learn things. And occasionally I'll come across something maybe on LinkedIn or whatever, but it's really talking to people, figuring out what problems they're trying to solve. And every once in a while, if I'm talking to somebody at kind of the meetup, they'll, they'll drop like a little, a little gem or something. And, and, uh, it's this crazy thing where you have to somehow be attentive and you have to be open to... But, you know, somebody will just mention some problem that they're having or, you know, maybe they're try... [laughs] I don't know, maybe they're trying to like do day trading or maybe they want to like, uh, maybe they want to like, you know, uh, talk to Sherlock Holmes. Or, you know, just they have these little problems and somehow... Anyway, it's, somehow I just feel like you have to be open and you have to be listening and we see these little things.
+speaker_0: Yeah.
+speaker_1: And then-
+speaker_0: And I guess you never know, right? [laughs]
+speaker_1: Yeah, yeah, yeah. It's-
+speaker_0: You never know what problem they're trying to solve.
+speaker_1: Exactly, exactly.
+speaker_0: But, you know, just like, yeah, I just wanted to have... I have a follow-up question here.
+speaker_1: Yeah.
+speaker_0: Right, we can have all our conversations. I have two more for you, and one is like, what are the most interesting use cases that you've seen, you know, from the users, the way they use Google Gemini, and maybe some of the things that you can encourage people to try?
+speaker_1: Hmm, hmm, hmm.
+speaker_0: Not only tech people, but just regular people. Obviously we do it like to check-
+speaker_1: Yeah
+speaker_0: ... grammar, to like, uh, to write a code. What else? Like something maybe simple, but interesting.
+speaker_1: Yeah, there's, you know, so, so I don't know if this is simple, but, um, I... [laughs] So I, I, uh, I was giving a little talk yesterday, uh, up in San Mateo, and so I talked to this concert pianist who is using, um... So is using Gemini to compose music in the style of like Chopin, Bach, Beethoven, and then somehow perform the music, and then also, uh, performs the music with like these various robots. And, and then so she synthesizes these-
+speaker_0: Cool
+speaker_1: ... kind of beautiful things. But somehow, the idea of like, you know, composing music, playing mu-
+speaker_0: Yeah.
+speaker_1: You know, somehow this like... Anyway, that kind of blew me away. And, um...
+speaker_0: I actually didn't know that like, you know, like art people use it. This is so cool. I mean-
+speaker_1: Yeah.
+speaker_0: I mean, they do, obviously.
+speaker_1: Right, right.
+speaker_0: But just like...
+speaker_4: You know, on a regular basis. [laughs]
+speaker_1: I think, I think this is a little bit cutting edge, you know? But, uh, but one of the things she did too, is she would, she trained somehow the model to respond like Chopin or Beethoven, and you know, so people can ask questions and that sort of thing. But one of the questions I had is that, let's say you have a Chopin or Beethoven or Bach or whatever composing music. Like in some sense, they, they know, um, they know what the human hand feels like. And so when they're composing music, at least like, uh, subconsciously, they have this human physiology in mind. In other words, they write things usually that are sort of playable-
+speaker_4: Mm-hmm
+speaker_1: ... and they feel good under the hand. And it said when you're playing music from an LLM, like does it feel like a human wrote it? Is it playable or whatever?
+speaker_4: Yeah, yeah-
+speaker_1: And-
+speaker_4: Because you have to use-
+speaker_1: Exactly
+speaker_4: ... your hands in a certain position.
+speaker_1: And she... precisely. And she mentioned that, you know, occasionally, occasionally a LLM would write something that was like just, just literally physically unplayable. Like, I don't know if you need 11 fingers or whatever. [laughs]
+speaker_4: Yeah, so... [laughs]
+speaker_1: Yes, but like [laughs]
+speaker_4: Use your ha-
+speaker_1: But my three, my three hands-
+speaker_4: Use your feet. Yeah. [laughs]
+speaker_1: Use your thr- use your third hand. So, but, but, but she mentioned for the most part, like this music was kind of playable. And anyway, I just thought that was, that was kind of fascinating. And that's also one of these kind of co-evolution things I was talking about. Uh, and then just in terms of every day-
+speaker_4: Yeah, every day use. Yeah
+speaker_1: ... I mean, it just, it just strikes me that, you know, when people are looking for jobs, for instance, you know, they'll, they'll, they'll have help just, just crafting, crafting a resume, a cover letter, that's specific for this job. Um, but you know, one of the other things I noticed too is that, um, like okay, so I think there was this, this movie. Dune came out or whatever, a few, was it a few months ago?
+speaker_4: Yeah.
+speaker_1: And so you know, there was somebody who I think had read the books a long time ago, and wanted to know like, you know, what's the movie doing. So somehow like ended up putting like both the Dune novels in, in like the, the, the script in.
+speaker_4: Yeah.
+speaker_1: And saying, "Hey, by the way, like what's, what's the difference between these two things? What do they do?" And-
+speaker_4: Which one you're moving to
+speaker_1: ... between the book and the movie or whatever.
+speaker_4: Uh-huh.
+speaker_1: 'Cause usually, you know, that the movie's a little bit different. And so that was something. And, and literally, Gemini came up with, oh, you know, this thing's in the book, it's not in the movie. Oh, they made up this thing, or whatever, and they put it in. And, uh, so anyway, I felt like that was kind of an interesting, you know-
+speaker_4: It is. It is actually.
+speaker_1: Yeah, and that's something you can just...
+speaker_4: Yeah, I've never thought of that.
+speaker_1: Yeah.
+speaker_4: I would definitely try asking.
+speaker_1: [laughs]
+speaker_4: And you know, just like the last question.
+speaker_1: Yeah.
+speaker_4: So in terms of AI in general, talking, right?
+speaker_1: Mm-hmm.
+speaker_4: So how do you see it evolving in like five, 10 years, and what are maybe the spheres, I don't know, fintech, health tech, whatever, that you know, can benefit the most out of using AI for humanity, for the world in general?
+speaker_1: Oh, yeah. Th- that's so tough. And so one of the, one of the difficult things sometimes is just LL-, just the latency of the LLM. And so one of the experiments I did was I, I thought, you know, can we use Gemini for things like day trading and this and that? But it turns out that, let's say if, if you need to do things in the fintech space-
+speaker_4: Mm-hmm
+speaker_1: ... sometimes you really need to operate it like this mic. You need to like make these microtransactions that are really, really-
+speaker_4: Yeah
+speaker_1: ... really fast. But it turns out that LLMs are good at processing a bunch of information. So imagine if you take like a bunch of documents and thousands of pages of like 10 queues or whatever they call it.
+speaker_4: Exactly. Mm-hmm.
+speaker_1: And you know, and, and then, um, and then maybe some output from some models. It's possible that the LLM could synthesize something like a, like a large trading strategy. And I noticed when I was tr- trying to do like LLM with games, that's the other thing too, is that maybe, you know, the LLM can craft something like a general strategy for StarCraft or for chess or whatever. And then, you have other models that come in and, um, and sort of actually manipulate the game sort of in real time. And, and maybe the LLM is in this kind of large advisory role. And so maybe it's a case... I mean, obviously LLMs are gonna get better with respect to latency. But maybe it's a case that they come in in these kind of, with these large scale roles, but maybe you have a place for the smaller models that are still operating in real time and that kind of thing. And so, so maybe, so it's, it's possible that, it's possible that the space of the models bifurcates to a certain extent, where you have like large models doing really, um, really sort of difficult things, really like large-scale things, and you have small, quick models, uh, sort of doing, uh, like real-time things.
+speaker_4: Yeah.
+speaker_1: And I wonder if the future's gonna be, uh, these two things collaborating to do, you know, m- many new things that we can't anticipate.
+speaker_4: But I guess this is the most beautiful synergy-
+speaker_1: Yeah
+speaker_4: ... if we can find the way for the most productive engagements between human and AI, right?
+speaker_1: Right, right, right, right. Exactly, exactly.
+speaker_4: Yeah.
+speaker_1: And, uh, you know, and it's one of those things, Dasha, I think, I think it's a little bit of an emerging phenomenon. I, I have a feeling we don't know exactly how things are gonna work. Um, and, and, and I guess what I find fascinating is this, this co-evolution that we're doing with LLMs. Like it's not where LLMs are gonna be in five and 10 years, but it's where, I mean, where's humanity gonna be in five or 10 years-
+speaker_4: Mm-hmm
+speaker_1: ... possibly as a result of like co-evolving with these things.
+speaker_4: Exactly.
+speaker_1: Um, so you know, maybe that's... Maybe, maybe where's humanity gonna be in five to 10 years. Maybe that's even more, maybe that's even more interesting, right? And you know, um, LLM just happens to be the tool to sorta get us there, you know?
+speaker_4: So let's see what the future holds for us.
+speaker_1: Yeah. [laughs]
+speaker_4: Thank you so much, Peter.
+speaker_1: Yeah, thanks a lot. Thanks for having me.
+speaker_4: It was such a great discussion. I really enjoyed it.
+speaker_1: Yeah, thank you so much for letting me participate.
+speaker_4: Thank you for coming.
+speaker_1: Yeah. Thank you for having me. So let's see. So I asked Gemini to come up with a little song for the Dasha podcast. And, uh, so let's see what it came up with. So, um, I don't know. Do you wanna, do you wanna try to sing it together? Or...
+speaker_4: Yeah. Like, you can start. I will repeat. Okay, let's do this.
+speaker_1: Okay. So let's, so let's see. So the first one is talks with Dasha on Gemini with Flow. Talks with Dasha on Gemini with Flow.
+speaker_4: Talks with Dasha on Gemini with Flow.
+speaker_1: Tech trends and startups.
+speaker_4: In knowledge we grow.
+speaker_1: In knowledge we grow.
+speaker_4: [laughs] Woo! High five, great job. [laughs]
+speaker_1: [laughs] That's amazing.
+speaker_4: Thank you.

@@ -1,0 +1,451 @@
+speaker_0: Hey, Kulveer.
+speaker_1: Hi, Dasha.
+speaker_0: Nice to see you here. Thank you for coming.
+speaker_1: Thank you for having me.
+speaker_0: You know, before we start, um, I want to read something to you. And- you know, it's very interesting because, um, a lot of founders reach out to me, and all of them mostly said the same things about you. So one of the comment, "He acts before the market, trusts before the metrics, and stays through the hard parts." So when I interviewed you, I think six months ago for Forbes, founders were not just responding to, you know, like in comments to the post, but they were reaching out to me directly saying, "Oh, you know, he's so great. He's so helpful, especially when no one is watching." Why do you think they speak about you this way?
+speaker_1: Oh, well, uh-
+speaker_0: Di-di-di-di-din. [laughs]
+speaker_1: [laughs] Um, thank you. That's kind, I think. Uh, my mindset as an investor has been like just help people. Like I've been there.
+speaker_0: Mm-hmm.
+speaker_1: And, um, when I was starting out in my career as a founder, I had a lot of people help me. And I think it's kind of the beauty of the culture of Silicon Valley. So that's what I've tried to do. Um, I started investing at the beginning of 2024. And-
+speaker_0: Mm-hmm
+speaker_1: ... it was also, you know, f- strangely like kind of therapeutic. Like my startup journey-
+speaker_0: [laughs]
+speaker_1: ... the pandemic impacted my last startup, and it was hard. And so my sort of like rebound thing was, "Okay, I'm going to help the next generation of entrepreneurs." Um, and then I just loved it. And maybe, maybe it's also just my personality. Like I think I'm- I'm- I love, uh, problem-solving.
+speaker_0: Mm-hmm.
+speaker_1: I love helping. I love coaching. Um, and then I also just worked really hard to, you know, support these founders that let me invest in their companies.
+speaker_0: Yeah. Some, like most of them say that you're very reactive in the way that like if they have an issue, they can call you, and you're always there. So I guess this is like probably your founder's background that helps you here, right?
+speaker_1: Yeah, I think, um, being responsive is really important. And I know there's like, there's these few critical moments in your startup. You have to make big decisions. Maybe it's about fundraising-
+speaker_0: Mm-hmm
+speaker_1: ... or hiring or-
+speaker_0: Mm-hmm
+speaker_1: ... something else. So I think if I can be there for the entrepreneurs in that moment, you know, it's really important. Um, and I think there's also something about when you're early in your career, those people-
+speaker_0: Mm-hmm
+speaker_1: ... who help you right at the beginning, you always kind of like remember that and you're grateful for it, like before, you know, you become famous or super successful.
+speaker_0: Yeah.
+speaker_1: So, um, yeah, that's what I'm trying to do, just... I think being responsive is an important attribute to being a good investor.
+speaker_0: Yeah. No, for sure. And I think you've been in the YC ecosystem for like almost 18 years.
+speaker_1: Yeah.
+speaker_0: And, you know-
+speaker_1: [coughs]
+speaker_0: ... you were one of those founders who went through the O-1 process, right? Back then, I guess-
+speaker_1: Yeah
+speaker_0: ... it was not that popular, and YC was not that popular. And you also started your first company with co-founders of Stripe, right? Patrick and-
+speaker_1: Yeah
+speaker_0: ... John Collison-
+speaker_1: Yeah
+speaker_0: ... which is amazing. So I want to take you back to that time. So how Silicon Valley looked back that time?
+speaker_1: 2007, um-
+speaker_0: How different?
+speaker_1: Yeah. I think, uh, wow, honestly, like very different. So we were in the fourth batch.
+speaker_0: Yeah.
+speaker_1: And I don't think YC, Y Combinator was as well-known then as it is now. Obviously, it was just starting. The way I remember it, when I moved to San Francisco, it felt like there were maybe 500 people working on startups. The center of gravity was still like, I'm going to say the South Ba- P- Palo Alto, San Jose. Um, and if you would go out in San Francisco to like, I don't know, people would host these get-togethers, parties or bars.
+speaker_0: Mm-hmm.
+speaker_1: You would run into the same people over and over again. Um, it was the time that, you know, Facebook had really taken off. A lot of, uh, Facebook, Facebook people lived in the city-
+speaker_0: Mm-hmm
+speaker_1: ... and you would see them all over the place. Um, and I remember that period very fondly. Like, there was this energy in the air. It was the year the iPhone came out, of like, "Wow, the world is changing quickly. This is the epicenter of where it's going to change." Um, and then also, I think Y Combinator, one of the amazing things they did was, uh, I'm going to say like they were for backing the underdogs.
+speaker_0: Mm-hmm.
+speaker_1: Maybe people who didn't have a lot of experience, maybe people like me who didn't grow up here, um-
+speaker_0: Really?
+speaker_1: Yeah. And, you know, obviously engineers. I think back then the idea was like there were business people, you know, MBAs that venture capitalists typically like to fund. Paul Graham shifted that vibe to like, "No, I want to invest in the young engineers, the hackers." Um, and so it was a great time to come out here. Um, and then, you know, straightaway, I think there was like Dropbox was w- one of the big hits. Airbnb emerged. There was Stripe, Twitter. Like when I moved out here, I, we originally worked in the Twitter office in South Park. Um, and now obviously it's transformed a lot. Like, you know, the whole city feels like it's tech. Um, I do think there are cycles. And I would say maybe last year, I felt like the beginning of... You know, the city went through stuff during the pandemic.
+speaker_0: Oh, yeah.
+speaker_1: But there was a fresh generation of people moving here, wanting to build-
+speaker_0: Yeah
+speaker_1: ... driven by AI, and that energy came back. Um, so yeah, I've seen, I feel like I've seen the cycles of San Francisco.
+speaker_0: Yeah. And I think you're right. Do you feel like everything moves from Palo Alto to the city itself? I don't understand like why.
+speaker_1: Mm-hmm.
+speaker_0: Do you know why? Do you know the answer?
+speaker_1: Yeah, I think like, I want to say younger, y- the young people wanted to live in San Francisco, the city. I mean, I remember-
+speaker_0: Maybe
+speaker_1: ... Y Combinator was based in Mountain View.
+speaker_0: Mm-hmm.
+speaker_1: And I think it was by design because there's not much happening there. And Paul Graham, you know, he wanted you to focus on work. Um, and then, I mean, I wanted... I grew up in London. I wanted to live in the city. A lot of other people wanted to live in the city. It's a city. There's a little bit more going on. Um, and so I think that was the shift. It's like the entrepreneurs wanted to live here, and then they got their offices here.
+speaker_0: Mm-hmm.
+speaker_1: They hired here, and then it just took off in San Francisco. Um, yeah.
+speaker_0: Yeah, I feel like everything is here right now. And when people ask me like, "Why don't you host more events in Palo Alto?" I do sometimes, but it's actually like you get the best crowd. Not the best, but like the biggest outreach is here. So, like, I feel like everyone is in the city, and it makes me so happy.
+speaker_1: Yeah. It feels like it.It really is the epicenter of the AI revolution.
+speaker_0: Yeah, exactly.
+speaker_1: Obviously, like, OpenAI is here and-
+speaker_0: Yeah
+speaker_1: ... um, you know, in Hayes Valley there's a cluster of people as well, so, uh, yeah.
+speaker_0: Yeah. But you were... It's so funny. In, uh, YC batch four, number four. [laughs]
+speaker_1: Yeah, yeah.
+speaker_0: You know, like, most of the founders that I meet right now, they're like, Winter '23s-
+speaker_1: Yeah
+speaker_0: ... or '21.
+speaker_1: Yeah.
+speaker_0: So it was the fourth batch. And you started a company called Automatic, right?
+speaker_1: Yeah.
+speaker_0: And then you sold it in a year, so I think it's pretty great success. So how... Like, what did this early success teach you, and what were you not prepared for?
+speaker_1: Yeah. Um, so I think, like, just to recap my journey, I started Something at Oxford-
+speaker_0: Mm-hmm
+speaker_1: ... as an undergrad, 2004.
+speaker_0: Okay.
+speaker_1: And my co-founders were my cousin, Harj Taggar and Tom Blomfield-
+speaker_0: Mm-hmm
+speaker_1: ... who later started Monzo. We worked on that startup in London for a couple of years before we got into YC. So by the time I sold the company, it'd been four years. Um, and then we joined forces with Patrick and John once we came out to San Francisco. Um, you know, I think, like, that idea, we were... We were focused a little bit more on e-commerce and how the world was changing.
+speaker_0: Mm-hmm.
+speaker_1: The idea was similar to Shopify, but-
+speaker_0: Oh
+speaker_1: ... you know, we should've built Shopify-
+speaker_0: Yeah
+speaker_1: ... we were building it on the eBay platform. I think, like... What did I learn from that? I mean, the truth is-
+speaker_0: [laughs]
+speaker_1: ... you know, my goal wasn't to sell the company.
+speaker_0: Yeah.
+speaker_1: I wanted to build a massive company.
+speaker_0: Mm-hmm.
+speaker_1: But at that time, that felt like a good deal for everyone involved, our investors who'd been with us on the journey. It was tough. Like, that was when I first realized how hard startups are. We were five guys living in a two-bedroom apartment-
+speaker_0: Mm
+speaker_1: ... getting by on, like, I'm gonna s- It was like $2.50 bagels from, uh, Crossroads Cafe. Um, yeah, and, and then, you know, we got this offer and we were like, "We think this is a good deal. We've worked really hard. We've created something of value that somebody wants." Um, so yeah, I think it maybe just taught me a little bit of, like, how the valley works. Um, you know, people investing in you.
+speaker_0: Mm-hmm.
+speaker_1: Um, how you can quickly create products and s- and scale them. Um, and then what was the second part of the question?
+speaker_0: Yeah, what were you not prepared for? Something that, like, hit you really strong. [laughs]
+speaker_1: With the, with the exit specifically?
+speaker_0: Exit, or just in general, this experience of growing a company and selling it later.
+speaker_1: Yeah, I think... I mean, when we were selling the company, you know, we encountered corp dev people and we were talking to, like, large other-
+speaker_0: Mm-hmm.
+speaker_1: Like, Facebook was the other buyer at the table.
+speaker_0: Oh.
+speaker_1: And, uh, to be honest, like, we were just not prepared for, like, how these negotiations go. Like, we were winging it. We didn't really know what we were doing. Um, like, one memory I have is, we signed, uh, an NDA with Facebook, but it turned out it wasn't really an NDA, it was a no-shop. It was an exclusivity deal-
+speaker_0: Mm
+speaker_1: ... for 30 days. And then when we signed that, we realized we couldn't talk to any of the other people who were interested in buying us. And so it was just, like, a pretty amateur mistake.
+speaker_0: Yeah.
+speaker_1: Um, and then I think as well, like... You know, that was when we got a bit of money.
+speaker_0: Yeah.
+speaker_1: And, um, I, I didn't grow up with a lot of money, so I thought it would be-
+speaker_0: Yeah
+speaker_1: ... you know, be, like, this massive life-changing thing.
+speaker_0: Life-changing, exactly.
+speaker_1: And, uh, it was nice for a bit. Um, you know, I was able to buy my mom a house and, uh, I did a little bit of travel.
+speaker_0: That is so sweet, I have to say. [laughs]
+speaker_1: [laughs] Thank you. And, but then, um, it was like, that drive to build and create, like, came back and it didn't change, like, that that much. Um, and I, I also think the interesting thing was after a bit of time elapsed-
+speaker_0: Mm-hmm
+speaker_1: ... I sort of forgot how hard the startup was. [laughs]
+speaker_0: Mm-hmm.
+speaker_1: I, I, I say I call it amnesia, and then I think that's why people do the-
+speaker_0: [laughs] Yeah
+speaker_1: ... After two years you forget and you're like, "Okay, I want to do this again. I'm more experienced, I know more, I'm more excited."
+speaker_0: Yeah.
+speaker_1: Um, and I think the other interesting thing was, like, I still have relationships with people from, like, when I first moved out here in 2007.
+speaker_0: Mm-hmm.
+speaker_1: And, uh, one of the first bits of advice I got when I came here was, "It's a long life in a small valley, and you'll encounter the same people over and over again."
+speaker_0: Oh, yeah.
+speaker_1: And if you're generally, you know, a good citizen, you're helpful, people invested in me, like, you get to, like, p- uh, pay that forward to the next generation. Um, and yeah, and yeah, I still have relationships with people that I met that many years ago.
+speaker_0: I guess that's what we call Silicon Valley culture. [laughs]
+speaker_1: Yeah, yeah.
+speaker_0: Yeah, no, 100%. And then you're a twice YC founder, right?
+speaker_1: Yeah.
+speaker_0: So in 2015, you're going back to YC and with another company.
+speaker_1: Yeah.
+speaker_0: Zeus, right?
+speaker_1: Yeah.
+speaker_0: And you scale it to 450 million-
+speaker_1: Yeah
+speaker_0: ... in revenue, which is amazing.
+speaker_1: Yeah.
+speaker_0: So can you share a little bit more, what is the most challenging part about scaling company to this size?
+speaker_1: Yeah. I think, uh, looking back, um, it's, it's interesting. I feel like there's phases of your startup. It's like originally you and your co-founders.
+speaker_0: Mm-hmm.
+speaker_1: You know, maybe two or three of u- There were three of us for, for Zeus. Then you hire the early team, maybe the first 10 to 15 people.
+speaker_0: Yeah.
+speaker_1: And then the startup looks a bit different then. The culture changes a little bit. It's now the culture of that first group of people. Then I remember we got to, like, 30 people, 80 people. Uh, and then, you know, to a few hundred people. And I think, like, the speed of transition is the thing, like, that's, that's challenging. And, like, your goals keep growing.
+speaker_0: Yeah.
+speaker_1: Um, I think maintaining the culture is a really important part for scaling. And I think if you do it well, it, you know, it can be a superpower. Um, I think that was probably it. It was just, like, my job in the first six months, the second six months, et cetera, it just kept on changing as a CEO, and I just had to, like, adapt.... grow with it. Like, uh, I now- I remember there came this point where, like, we'd do revenue reporting. And I remember the first time where, like, I saw this number in our model which was like collections, and it was like 97% or something like that. And I was like, "Wait, people don't pay?" And, and... Yeah. And it was the first time I encountered that actually when you- when you're at scale and you have revenue, there are always some people who just, like, don't pay.
+speaker_0: Mm-hmm.
+speaker_1: And you actually have to, like, be really on top of, like, accounts receivable and collections. And-
+speaker_0: Oh, yeah
+speaker_1: ... I was like, "That blew my mind." And it- it, you know, in our business, that stuff was all meaningful. So, um, yeah, I think the learning curve, um, the relationship with your co-founders changes quickly. Um, and then the market is just shifting so quickly. Like-
+speaker_0: Yeah.
+speaker_1: I think with competitors, the- the economy and so on. So you go from phases of like, you know, unit economics are the most important thing. Then it's like market share and growth is the most important thing.
+speaker_0: Mm-hmm.
+speaker_1: And, yeah, navigating all of that.
+speaker_0: That is so interesting. And so we are at this moment, you are growing fast, everything is amazing. And your business is in hospitality, right?
+speaker_1: Yeah.
+speaker_0: So then COVID hits.
+speaker_1: Yeah.
+speaker_0: And basically, things changed.
+speaker_1: Yeah.
+speaker_0: How challenging was it? How painful was it to see that the successful company that is growing so, so fast-
+speaker_1: Yeah
+speaker_0: ... started struggling?
+speaker_1: Yeah, it was tough. Um, yeah, so I can share. Like, we did one million revenue in our first year. Then I think we went to fif- five, then we went to 15, then 65. Then we were on track to do 120 when the pandemic hit. And I think that year, we ended up as like around 80 or 90 million. And, um, 2019, you know, we raised a $55 million series B. Airbnb invested in us. They wrote the largest check.
+speaker_0: Mm-hmm.
+speaker_1: And we were just, like, planning to double every single year, and, you know, hopefully go IPO. And then when the pandemic hit, travel sh- uh, stopped. And it was right before the summer, and the summer was our, like, busy period where we'd booked some tens of millions of dollars in revenue.
+speaker_0: Yeah.
+speaker_1: So travel stopped. You know, the bank balance started going down. We did the right thing with our customers. We refunded people who couldn't, you know-
+speaker_0: Yeah
+speaker_1: ... book our home, uh, couldn't move to our homes. Um, and it was also that transition. Like, we had a very strong office culture, in-person culture, and then all of a sudden-
+speaker_0: Mm-hmm
+speaker_1: ... everyone's remote, everything's on Zoom. Uh, you know, I was fundraising at the time. And then there was just the added stress of like, "What is this pandemic? Like, is it gonna kill everyone?"
+speaker_0: Yeah. I remember-
+speaker_1: And...
+speaker_0: ... that was terrible
+speaker_1: ... how do you survive? Like, you remember, like, that feeling of, like, they were saying, "Oh, you have to, like, wipe your groceries down," and stuff like that.
+speaker_0: I did. [laughs]
+speaker_1: They didn't know how the thing was transmitted. So it was a really, really tough time. And to be honest, I'm, I'm only just starting to, like, process it. Uh, where, you know, your, your, your revenue graph is like this, and then it starts going [laughs] like this. And we had to do layoffs. I remember as well, um, you know, we worked hard on the Zeus living culture. And, uh, is it Glassdoor? Uh, where, you know, they, they have, like, the culture ratings from your employees?
+speaker_0: Yeah. Yeah, yeah, yeah.
+speaker_1: And it's your-
+speaker_0: Glassdoor, yeah.
+speaker_1: Mine was, like, perfect. It was, like, five star-
+speaker_0: Yeah
+speaker_1: ... and everything. And I screenshotted it the day before I had to do my first layoffs. And then, you know, just saw all... Like, this, this amazing thing that we'd built and put my heart and soul into just felt like overnight, it was getting, like, destroyed. Um, and I remember one night going to bed being like, "Kulvir, just, just face the reality. It's, it's over. Like, this isn't gonna work now." Um, and, like, feeling really sad and, like, almost like grief, and then went to bed. And then the next morning, I woke up, and I was in the shower. And I was like, "Wait a second. No. I'm not gonna let this be over. We're gonna, we're gonna fight through this. I don't know how, I don't have the plan." Uh, but with my team, I was like, "We're gonna do it." And then we just made that decision that, "We'll pivot the business model if we have to. We'll do anything it takes." And then we did navigate our way through.
+speaker_0: Mm-hmm. So the ending was successful-
+speaker_1: Yeah.
+speaker_0: ... of the story. [laughs]
+speaker_1: I mean, again, I didn't really want to sell Zeus ever.
+speaker_0: Yeah.
+speaker_1: Um, but we made the portfolio profitable. We went through a lot of painful changes. And then, you know, we sold it to Blueground. Um, so, yeah. I mean, we landed the plane. Um...
+speaker_0: Mm-hmm.
+speaker_1: I'm, I'm happy that we did that. Uh, and, you know, it was a- an exit. Uh, um, and it was successful. But my ambitions were like, I, you know, I wanted to-
+speaker_0: Right
+speaker_1: ... to keep working on it. [laughs]
+speaker_0: Yeah, it's funny how life is unpredictable, right?
+speaker_1: Yeah.
+speaker_0: And it didn't even depend on you.
+speaker_1: Yeah.
+speaker_0: At all.
+speaker_1: Yeah.
+speaker_0: Okay. And now, you've built Phosphor Capital.
+speaker_1: Yeah.
+speaker_0: Like, a fund that invests exclusively in YC founders. Why? [laughs]
+speaker_1: Yeah. [laughs] Yeah, so, um, near the end of Zeus, as I knew the exit was gonna go- happen-
+speaker_0: Yeah
+speaker_1: ... uh, I was thinking about what I wanted to do next. And, um, yeah.
+speaker_0: No more startups? [laughs]
+speaker_1: [laughs] Like, definitely not right now. And, uh, so Garry Tan was on-
+speaker_0: Yeah
+speaker_1: ... my board for five years. And I had a very good relationship with him.
+speaker_0: Mm-hmm.
+speaker_1: And when I found out he was taking over Y Combinator, I was like, "Okay, I know how much of a workaholic Garry is." He's just an amazing leader. And I became very excited of like-
+speaker_0: Mm-hmm
+speaker_1: ... where the world was going with the AI revolution, with Garry taking over Y Combinator.
+speaker_0: Mm-hmm.
+speaker_1: And also, from in my, my journey, like, you know, I've been a founder for so long, uh, I was excited to go broad again-
+speaker_0: Mm-hmm
+speaker_1: ... and learn more about what's happening, versus I was so deep in Proptech.
+speaker_0: Yeah.
+speaker_1: Um, and also, that, uh, that part of me that wanted to just help the next generation and, like, share the experiences that I'd been through. So that was my next idea. I was like, "Okay, I think, uh, I want to invest in the best founders and companies coming out of Y Combinator." It's the part of the ecosystem I knew really well.
+speaker_0: Mm-hmm.
+speaker_1: I'd done angel investing through my career. Think I've been to every Demo Day since 2007. And I had, I had like, uh...A strong intuition or instinct of like what can... What type of people are end up being successful. I- I've obviously seen Brilliance up close.
+speaker_0: Mm-hmm.
+speaker_1: Patrick and John and Tom and Haj-
+speaker_0: Mm-hmm
+speaker_1: ... and so on. Um, so yeah, so for me it was like, okay, I'm going to focus on these startups and try and pick the- the best founders I can. And I treated it a little bit as an experiment, I would say, to begin with.
+speaker_0: Mm-hmm.
+speaker_1: Do I like it? Am I going to be good at it? Um, and then I think very quickly I learned that, yes, I was good at it and I loved it.
+speaker_0: Mm-hmm.
+speaker_1: And I wanted to, like, make this my next thing.
+speaker_0: What do you think YC does differently in comparison with other accelerators or venture funds?
+speaker_1: Um, honestly, in the early days, they were the first people who were just genuinely founder-friendly.
+speaker_0: Mm-hmm.
+speaker_1: Everyone talks about it now, but I don't think that used to be the culture.
+speaker_0: Yeah, probably.
+speaker_1: And I have this memory as well where when we were working on Automatic-
+speaker_0: Mm-hmm
+speaker_1: ... there was this period where it felt like it wasn't working, we were going to run out of money and we would have to shut it down.
+speaker_0: Mm-hmm.
+speaker_1: And we emailed Paul Graham. I remember he was in London at that time and he said, "Come and meet me for breakfast."
+speaker_0: Mm-hmm.
+speaker_1: And, you know, we were- you know, we- we were more sort of British in our culture.
+speaker_0: Yeah.
+speaker_1: It's a different culture to Silicon Valley. And we went to this breakfast and like, "Paul, like- like we're really sorry, but we think we failed, run out of money. It's not quite working." And just felt really sort of, I'm going to say, disappointed and a little bit, like, ashamed.
+speaker_0: Yeah.
+speaker_1: And he didn't even skip a beat in his food. He's like, "That's okay. I'll invest in your next company."
+speaker_0: [laughs]
+speaker_1: Uh, and then I was like, "What? Like, you can fail and like-"
+speaker_0: It's okay?
+speaker_1: "... they'll give you more money?" [laughs]
+speaker_0: [laughs]
+speaker_1: And so then I was like, "Okay, how rich are people in America and how much wealth is there?"
+speaker_0: [laughs]
+speaker_1: Um, but he genuinely, I think, treated founders really well. Like, if there was ever a decision where it's like there's something that's best for the investors or something that's best for the entrepreneurs-
+speaker_0: Mm-hmm
+speaker_1: ... they would be like, it's best... They would go with what's best for the entrepreneurs. Um, and then that just built the reputation, and then people referred people. There was a network effect. I think Jessica played a massive role-
+speaker_0: Mm-hmm
+speaker_1: ... in establishing the culture of Y Combinator. Um, and then, you know, Paul Graham's essays, like h- his relationships with the people he could bring in. Like, yeah, I think... I don't know. There- there was something special about what they created and the culture and then the people and it's just, like, kept growing.
+speaker_0: Mm-hmm. Mm-hmm.
+speaker_1: You know?
+speaker_0: Yeah. Interesting. And, you know, you told me once that hyper-speed matters and that what defines a great company from an average one. So I want you- I want to ask you more about what is this hyper-speed? And throughout these three months, this is the duration of the YC program, right? One cohort. What signals do you see in founders that tell you, "Oh, this is the one. This is the company I want to invest in"?
+speaker_1: Yeah. Yeah, good question. Yeah. I think, um... So, again, when I was getting into the- this investing game, I- I asked myself, like, all of the amazing generational companies that have come out of Y Combinator, what did they look like at the three-month mark?
+speaker_0: Mm-hmm.
+speaker_1: And I just went through them bit by... Like, there's obviously Stripe, Airbnb, Coinbase, DoorDash, so many brilliant companies.
+speaker_0: Yeah.
+speaker_1: And I landed on, like, two attributes or like two necessary conditions. The first one was what you're referring to. Um-
+speaker_0: Yeah
+speaker_1: ... I called it, like, being high output.
+speaker_0: Yeah.
+speaker_1: And there was just a sense in those three months there were certain founding teams that every single week just make progress. So, you know, Y Combinator used to have the weekly dinners and you would come to this dinner and-
+speaker_0: Mm-hmm
+speaker_1: ... and in the early days it was like, honestly, you would open up your laptop and just show Paul Graham, like, the progress you've made.
+speaker_0: Yeah. Yeah.
+speaker_1: And, um... So I think there was this sense of like every week there were some founders that just solved the bottlenecks that were in front of them. Maybe they've built more features, they've got more customers, or they've refined their, like, thinking around the initial customers or the go-to market. But there's just a sense of real forward momentum. Um, so I think that was one thing I- I looked for. And, you know, my ear- early questions are like-
+speaker_0: Mm-hmm
+speaker_1: ... honestly, it was like, "What have you got done since the batch has started? What has your focus been on week to week? Like, paint that picture for me." And, um, and then the second thing was, uh, I'm going to say the degree of customer obsession.
+speaker_0: Mm-hmm.
+speaker_1: Like, I think that shows up in the quality of the user experience that they create. You know, I would try out the products, uh, the responsiveness to, like, fixing bugs or support issues.
+speaker_0: Mm-hmm. Yeah.
+speaker_1: Um, honestly, even how committed they are to meeting their users in person, like flying to meet them if that... You know, sitting in the office with them. Um, that level of bandwidth. And I think if you had those two attributes, you work... You're- you're high output and you really care about your customers, like-
+speaker_0: Mm-hmm
+speaker_1: ... I think generally good things will happen. Um, and so... And then of course like when you meet the founders, you- you meet somewhere, like, they've just got that momentum. They're doing, I don't know, hundreds of sales calls.
+speaker_0: Mm-hmm.
+speaker_1: They're closing contracts. Um, you know, they're fixing bugs. They're- they're doing like, you know, the... lots of onboardings, et cetera.
+speaker_0: Yeah.
+speaker_1: And so, uh, I think tho- those are the two things I look for.
+speaker_0: Yeah. No, uh, that's amazing. And any personal features that matter as well? Something in the character?
+speaker_1: You know-
+speaker_0: Yeah
+speaker_1: ... it doesn't feel scientific to say this, but I'm sure there is a lot.
+speaker_0: [laughs]
+speaker_1: Like, the chemistry with the founder.
+speaker_0: Yeah.
+speaker_1: Like, I don't know if you want to call it vibes. I think there's something in there.
+speaker_0: Yeah.
+speaker_1: Like, I- I think when you meet someone, you can tell their energy, you can tell by-
+speaker_0: The electricity. [laughs]
+speaker_1: The- the- the- the way the conversation goes.
+speaker_0: Yeah.
+speaker_1: Um... Yeah, I really think that there's some intuition that you get from meeting people and it's like, you know, how earnest are they? How, like, authentic do they feel? Um, it's hard to pinpoint, like, one particular thing. Um, how, you know, how curious are they? They've obviously... If they're in Y Combinator-They've proven that they can build, and, you know, there's something special about them 'cause the acceptance rate is so low. Uh, but I do think like when I go back to the conversations of-
+speaker_0: Mm-hmm
+speaker_1: ... the companies that have really broken out for me, there was just this instant sense of like, this team is special, this founder is special, they're going to do something. Um, and I contrast that to like maybe focusing too much on what the idea is right now-
+speaker_0: Mm-hmm
+speaker_1: ... like that they're working on. I don't know, maybe how big the market is today. Yeah.
+speaker_0: Yeah. No, but I can tell you, uh, I can tell that looking at your portfolio companies in like WordWhere, absolutely amazing. Octolane, Central, Corgi, like I know them very well and they're like, all of them are amazing. And the founders, you can tell that they're special right away.
+speaker_1: Yeah.
+speaker_0: But was there ever like a situation that everything looked perfect and like there was a chemistry between you and the founder and all the metrics were right, but the outcome wasn't, and something that you learned out of that?
+speaker_1: Yeah. I mean, things happen. I've had one company I'm r- I was really excited about. They're growing. It seems like an amazing product.
+speaker_0: Mm-hmm.
+speaker_1: And then, um, you know, one of the founders decided to go work at OpenAI. Um, and so-
+speaker_0: [laughs] Okay
+speaker_1: ... I think like, you know, that-
+speaker_0: Unexpected. [laughs]
+speaker_1: The startup is like, still has momentum and is doing well. But like that to me was kind of unexpected where I was like, you know, like things are really working. Why would you-
+speaker_0: Mm-hmm
+speaker_1: ... maybe go?
+speaker_0: Yeah.
+speaker_1: But maybe the relationships at the firm or what's best for them. I, I, I think that's one. I mean, there can sometimes be, uh... Yeah. I, I would say for me, maybe the thing that if something's not working, it's been like there's a co-founder breakup-
+speaker_0: Mm-hmm
+speaker_1: ... probably is the thing. And, you know, maybe there's a disagreement in the direction, or, um, I don't know, the co-founders just realize like it isn't the best fit together.
+speaker_0: Mm-hmm.
+speaker_1: Um, so it does happen. Um...
+speaker_0: I guess that's normal, probably. [laughs]
+speaker_1: Yeah. Yeah. Or, or it's like, you know, they, they work really hard on the product, but they realize once they've got into the meat of it a little bit more that like there's some reason why this approach isn't the right one or doesn't work-
+speaker_0: Mm-hmm
+speaker_1: ... and then, you know, they want to pivot. Um, but, you know, one of my, uh, very successful companies, Delve, it was so interesting because they got some early traction during YC.
+speaker_0: Mm-hmm.
+speaker_1: And then I think as the batch ended, they realized that that approach wasn't the best. Uh, so then they tried a second approach after YC ended, and I think they got to pretty decent level of traction, and like, I think a millionaire- or, and then they also realized that that wasn't the right approach.
+speaker_0: Okay. [laughs]
+speaker_1: So then they went back to being, and they started the third thing, and that third thing like took off. And so, um, I think it's pretty normal that like after Y Combinator ends, it can take like two years to figure things out.
+speaker_0: Yeah. And I think pivoting is very normal in general-
+speaker_1: Yeah
+speaker_0: ... um, in the startup world. Do you miss building?
+speaker_1: Oh, man. Good question. Uh, I think- [laughs]
+speaker_0: Or you actually feel relieved that no more? [laughs]
+speaker_1: I'm enjoying, uh, like being a solo GP.
+speaker_0: Mm-hmm.
+speaker_1: Um, and just executing on my own instincts, and, um, just honestly like moving very quickly, uh, with it. Um, I feel like, you know, I'm building my firm. I've... There's a lot of stuff I do to try and help the founders, track how things are improving, just being really productive. I'm using, uh, Claude a lot-
+speaker_0: Mm-hmm
+speaker_1: ... um, to scale up.
+speaker_0: Mm-hmm.
+speaker_1: And I don't think I have the urge to start another startup.
+speaker_0: Mm-hmm.
+speaker_1: Like I'll be honest about that. Um, I'm curious obviously about the way the world is going. Um, but like right now I'm just really enjoying helping founders and then, um, you know, scaling up Phospha.
+speaker_0: Mm-hmm. Do you typically find founders yourself or like is there a way for them to reach out to you and kind of like, "Hey, I'm here. Look at me"? [laughs]
+speaker_1: Yeah. It's a bit of both.
+speaker_0: Both.
+speaker_1: It's a bit of both. Yeah. I will, um, you know, look at all of the startups coming out of Y Combinator-
+speaker_0: Mm-hmm
+speaker_1: ... try and understand the problem they're working on, the team. I'll reach out to them. I often have a lot of inbound referrals from the founders I've already invested-
+speaker_0: Mm-hmm
+speaker_1: ... te- telling me about their friends that may be starting companies. Um, so yeah, it's a mix of both. Um, yeah.
+speaker_0: Mm-hmm. Okay. And, uh, another question is a little bit more, let's talk about the future. So how do you think all this generative AI, vibe coding, all of these like new technologies will influence how startups are being built?
+speaker_1: Yeah. It's a good question. I'd say one thing I've noticed, uh, is founders are getting younger perhaps.
+speaker_0: Oh, yeah.
+speaker_1: And I actually-
+speaker_0: Agree
+speaker_1: ... [laughs] I actually went and looked at my data. I think in the last 12 months I've invested in like five 18-year-olds, where there was an 18-year-old in the founding team.
+speaker_0: Mm-hmm.
+speaker_1: And I was thinking about it and I was like, ChatGPT or like these tools allow you to learn things quickly.
+speaker_0: Mm-hmm.
+speaker_1: And maybe before, you know, it used to be like, "I go to university-"
+speaker_0: Yeah.
+speaker_1: "... maybe I'll go do an internship-"
+speaker_0: [coughs]
+speaker_1: "... I'll go work at a startup or a big company, I'll learn things." And now it's like, "Well, I don't need to do all of that. I can just learn straight away." And obviously with vibe coding, I think, uh, it's become slightly easier to create software-
+speaker_0: Mm-hmm
+speaker_1: ... and to experiment. So I think it's like become- both become slightly easier. You can learn more on your own. And so I think those barriers to entry are coming down. And so maybe you're seeing, uh, people just start earlier. And, and like, it's like, "I don't need to wait to finish my degree now. I can just"-
+speaker_0: Mm-hmm
+speaker_1: "... start building today." So I think that's one thing that's shifted. Um...
+speaker_0: Is it good or bad?
+speaker_1: [laughs] Good question.
+speaker_0: [laughs]
+speaker_1: You know, if it's... Like, like Patrick, when I met him, I think he was 18 or 19, like it was clearly good in that sense. Like-
+speaker_0: Mm-hmm
+speaker_1: ... you know, he, like Sam Altman, I think was 18 or 19 when he dropped out of Stanford. So I think for certain individuals where, you know this is the path, I think it's fine. I think it's a good thing, 'cause there's more peop-
+speaker_0: Mm-hmm
+speaker_1: ... like you're, you're increasing access to talent around the world-
+speaker_0: Mm-hmm
+speaker_1: ... to be able to do this stuff. Um...For the people who are doing it maybe a little bit out of FOMO, where it's like, "Oh, I've seen someone else-
+speaker_0: Yeah
+speaker_1: ... drop out-
+speaker_0: Yeah
+speaker_1: ... I don't think it's a good thing", I don't think it's necessary. I think it's perfectly fine to graduate, to go work, to learn. Um, I don't think you can force having a good idea. I think g- good ideas, like, happen-
+speaker_0: Mm-hmm
+speaker_1: ... through your experiences and your insights. Um, so, so for some people, I think it's a good thing.
+speaker_0: Yeah.
+speaker_1: Uh, but when people are doing it more maybe out of, like, fear or, or pressure or copycatting, whatever, I don't think that's a good thing.
+speaker_0: So it should be kind of, like natural, organic? [laughs]
+speaker_1: Yeah, yeah, yeah. Like, if, if the drive is there and you were going to do it anyway, like, sure.
+speaker_0: Yeah. Another quote of yours.
+speaker_1: [laughs]
+speaker_0: "What founders do is magic. They underestimate their own work while putting investors on a pedestal." Can you expand on that a little bit more?
+speaker_1: Sure. Yeah, um, I was guilty of this, I would say, where I feel like, you know, there are some investors... Like, in some ways, capital is a commodity. Money is money. And so-
+speaker_0: Mm-hmm
+speaker_1: ... what do VCs do? They put a lot of effort into, like, creating their brand and, like, being a loud voice on maybe Twitter or, like, trying to be a thought leader and so on. And so you could create this perception of like, "Oh wow, this investor is, like, so amazing, so successful, so clever." And now I've made the transition to the other side, and I've seen it. I'm a little bit tongue in cheek here, but I'm like, like v- most VCs are like professional middlemen.
+speaker_0: Mm-hmm.
+speaker_1: And it's like, I'm taking someone's money-
+speaker_0: Yeah
+speaker_1: ... and then I'm giving it to someone else. The real magic is the person who's founding a company or building something, starting from zero to one. That is really hard. And so what... Maybe some of the advice I've given my founders is, like, when you meet these VCs, you don't need to put them on a pedestal. Like, they can't do what you're doing. Uh, what you're doing is genuinely hard and magic. And so, you know, just treat them as normal people, and, um, just have that sort of confidence and authority. Like, yeah, maybe you don't have product-market fit yet and you're feeling like, you know, everything's working for other people. Um, but that's where I was going with that, where it's like, look, I f- I feel like founding a company, starting a startup, scaling one, it's a different category of work-
+speaker_0: Yeah
+speaker_1: ... compared to, like, being an investor. Um-
+speaker_0: Exactly.
+speaker_1: Yeah.
+speaker_0: Okay, now I have a fun question for you. So I have a few founder profiles without names, nothing, just like that. You tell me fund or pass, and why?
+speaker_1: Okay. [laughs]
+speaker_0: [laughs] Okay, a solo founder with insane shipping speed, but weak storytelling. Fund or pass?
+speaker_1: Fund.
+speaker_0: Okay, why?
+speaker_1: Uh, I think the insane shipping speed-
+speaker_0: That's the key word. [laughs]
+speaker_1: ... is really important. Yeah, and then storytelling you can learn. Yeah.
+speaker_0: Fair enough. A brilliant team with perfect metrics, but slow execution.
+speaker_1: Oh, man. How did they get the perfect metrics if they're slow in execution?
+speaker_0: [laughs] That's a good one.
+speaker_1: I'm probably borderline pass because they're the...
+speaker_0: Okay. A non-AI company with five million ARR growing 40% year over year.
+speaker_1: Non-AI company.
+speaker_0: Mm-hmm.
+speaker_1: Uh, 40% growth year over year. Five million ARR. Pass.
+speaker_0: Why?
+speaker_1: Uh, 40% year over year I think is probably-
+speaker_0: Not enough?
+speaker_1: Not enough, no. They're gonna get-
+speaker_0: Tough life. [laughs]
+speaker_1: Yeah, I know.
+speaker_0: Okay, uh, last one. A first-time immigrant founder with no network, but extreme conviction.
+speaker_1: Fund.
+speaker_0: Why?
+speaker_1: I think that conviction, whatever is driving it is probably something special and, like, you want to back it. And I think, again, the beauty of Silicon Valley is you can come here with no network, but in three months, you can know everybody. And if you're, like, building something-
+speaker_0: So true.
+speaker_1: Yeah, so yeah.
+speaker_0: Okay, the last one. Your wish for 2026?
+speaker_1: Ooh.
+speaker_0: Personal or work related, doesn't really matter. [laughs]
+speaker_1: [laughs]
+speaker_0: I have no wishes [laughs].
+speaker_1: I've got two. Um, raise my next fund, and England win the World Cup.
+speaker_0: Yay!
+speaker_1: [laughs]
+speaker_0: That is so good. Okay, high five.
+speaker_1: Thanks, thanks.
+speaker_0: [clapping] That was great.

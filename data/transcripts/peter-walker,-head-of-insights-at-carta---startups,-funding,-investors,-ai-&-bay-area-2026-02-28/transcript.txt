@@ -1,0 +1,899 @@
+speaker_0: Hey, Peter. It's so nice to see you here. Thank you for coming. I have to say that it was really difficult to catch you.
+speaker_1: [laughs]
+speaker_0: So I'm really excited. [laughs]
+speaker_1: Uh, yeah, apologies for being difficult, but thank you so much for having me.
+speaker_0: Uh, yeah.
+speaker_1: Yeah.
+speaker_0: So you are Head of Insights at Carta.
+speaker_1: Uh-huh.
+speaker_0: What a great job title. [laughs]
+speaker_1: It's a wonderful job, yeah.
+speaker_0: Yeah. So can you tell us a little bit more what Carta does for startups and founders?
+speaker_1: Yeah, absolutely. So Carta is the leading equity management platform in the US, and increasingly, we have places across the globe as well, helping startups in, I think, 100 different countries now. Um, but-
+speaker_0: Wow
+speaker_1: ... effectively, our core product is cap table management for those founders, a lot of early-stage founders. Um, so that's issuing equity to your employees, fundraising on safes, understanding dilution. Anything and everything to do with handing out equity in your business, we can help you with that.
+speaker_0: Mm-hmm. At what stage do, typically, founders reach out to you?
+speaker_1: It used to be that they would wait until seed or series A when they got some real venture capital dollars in the door. But [clears throat] increasingly, thanks to this program we launched called Carta Launch, um, they can join us completely for free until they raise a million dollars. So they come to us sometimes just an idea stage, a couple founders in a garage, all the way up to pre-IPO companies.
+speaker_0: Oh, wow.
+speaker_1: Yeah.
+speaker_0: I didn't know about that.
+speaker_1: Yeah, yeah.
+speaker_0: So is it, like, a recent development?
+speaker_1: Uh, I think we, Carta Launch went live in 2020. So last couple of years.
+speaker_0: Okay.
+speaker_1: But there's about 10 or 11,000 pre-seed companies now on Carta.
+speaker_0: Mm-hmm.
+speaker_1: So it's, it's been a huge success.
+speaker_0: Okay. Awesome. So and as a head of insights, you definitely work a lot with data, right?
+speaker_1: Yes. [laughs]
+speaker_0: [laughs] No surprises here.
+speaker_1: Every day.
+speaker_0: But so did you notice any changes? Like, what changes do we see in the ways we use data right now?
+speaker_1: Mm-hmm.
+speaker_0: Uh, like, you know, with, with the rise of AI, with everything, uh, what's new?
+speaker_1: I think that people are using data. It used to be that maybe companies were kinda reluctant to share their data.
+speaker_0: Mm-hmm.
+speaker_1: You know, it's this proprietary advantage. And certainly, with AI, a lot of people are saying that you need proprietary data in order to run useful models. At Carta, we've done something different where we've actually taken aggregated and anonymized versions of the data, and we put it out-
+speaker_0: Mm-hmm
+speaker_1: ... as marketing for our brand. So I'm starting to see a lot more companies try to educate their market using the proprietary data they have while making sure that they're keeping it aggregated, anonymized, and not sharing any private stuff. So that's a cool and interesting new way that we've seen a lot of startups try to, like-
+speaker_0: Yeah
+speaker_1: ... get into data spaces.
+speaker_0: But the importance just keeps rising, right? So data is a king.
+speaker_1: Yes.
+speaker_0: We have no doubts.
+speaker_1: Yes. Data is the new oil, as everyone loves to say.
+speaker_0: Oil.
+speaker_1: [laughs]
+speaker_0: Okay, that's, that's interesting. Okay. And another question. So we all know that fundraising is a little bit difficult right now, yes?
+speaker_1: Yeah, yeah.
+speaker_0: But because you analyze a lot of data and work with it, so can you tell me a little bit more about the venture capital landscape in 2024 based on the data that you have? Do we have any hope? Is it getting better or worse?
+speaker_1: [laughs] There's always hope.
+speaker_0: Okay, let's stay positive.
+speaker_1: So let's, let's start there. 2023 was not a great year for startup fundraising.
+speaker_0: Yeah, definitely.
+speaker_1: That's definitely true.
+speaker_0: Yeah.
+speaker_1: To just give you a sense of the scale, in 2021, startups on Carta raised $220 billion in that, a single year, which is, uh, an amazing amount of money.
+speaker_0: Yeah, a lot. [laughs]
+speaker_1: So much. In 2023, that was down to about 60 billion. So 220 to 60 is a really big drop. 2024 started out kind of flat to 2023. I do think that fundraising will pick up in the latter half of the year. So maybe this year, it'll come in around 80 or 90 billion. But it's gonna be a long time before we see the kind of fundraising amounts that we did in 2021. Those days are probably gone for, for quite a while.
+speaker_0: Hmm. Okay, so it's positive and not positive at the same time.
+speaker_1: Better than last year. Better than last year, not as good as the peak.
+speaker_0: I'm convinced. Okay, so we have hope for the second half of the year, right?
+speaker_1: Yes, yep.
+speaker_0: Okay. Let's see what 2024 has for us.
+speaker_1: Yes.
+speaker_0: Okay. And, you know, uh, what is the typical size of a founding team, right?
+speaker_1: Mm-hmm.
+speaker_0: Uh, because I know that some verticals, they are very typical for solo founders.
+speaker_1: Yeah.
+speaker_0: For other verticals, it's really hard to do everything alone.
+speaker_1: Yeah.
+speaker_0: So can you share a little bit more here? What are the average size and how does it vary depending on the vertical specifically?
+speaker_1: Yeah. So this was a cool study we did about a year ago.
+speaker_0: Ah, okay.
+speaker_1: And it turns out the median founding team on Carta is two founders.
+speaker_0: Two founders.
+speaker_1: So you and a co-founder. That's across-
+speaker_0: So if you have two, so it means you have a team already, right?
+speaker_1: Yeah, that's a full team, or, uh, that's a founding team. You can do a lot more, up to... There are companies with five, six, even seven founders.
+speaker_0: Yeah, seven.
+speaker_1: That's probably a little bit too many.
+speaker_0: Seven founders?
+speaker_1: Wouldn't recommend it, yes.
+speaker_0: But have you seen it really?
+speaker_1: Yeah, we've seen a couple. Uh, it's, it's a very... It's an odd structure. Uh, it's not very common, so I wouldn't-
+speaker_0: I think the, the most I've seen was, like, five. Yeah, but... [laughs]
+speaker_1: So and it... To your question though, it varies a lot based on the space. So if you're an e-commerce or a standard SaaS business, one, two, or three founders is kind of-
+speaker_0: Mm-hmm
+speaker_1: ... really the, the range. If you're building in biotech or hardware, or building in real atoms where you're actually making physical products, it does tend to have a slightly larger team size. So maybe it's three or four, or maybe even five founders in biotech. But-
+speaker_0: Mm-hmm. How do you explain it? Like, you need more expertise, or why is it so?
+speaker_1: Yeah, I think some of the biotech stuff is that you want both technical, as in scientific-
+speaker_0: Yeah
+speaker_1: ... and commercial expertise. And, and-
+speaker_0: Okay
+speaker_1: ... it's difficult to find those, you know, unicorn doctors who've-
+speaker_0: Yeah
+speaker_1: ... commercialized a bunch of products. So that's probably a reason why. It's also, candidly, like, if you're building a hardware product, you're probably going to need to take in capital. You're not gonna grow as quickly at the beginning 'cause you have to build real things.
+speaker_0: Yeah.
+speaker_1: So that, oftentimes, makes it easier to have a couple founders who, one can fundraise, one can build a product, one... et cetera, et cetera.
+speaker_0: Mm-hmm.
+speaker_1: So that's the idea.
+speaker_0: And for solos, so which industries are typical for solo founders mostly?
+speaker_1: Like consumer.
+speaker_0: Consumer.
+speaker_1: E-commerce.
+speaker_0: Yeah.
+speaker_1: S- like, standard SaaS is a little bit more. It's... Solo founders make up about 20 or 25% of the founders on Carta.
+speaker_0: Yeah.
+speaker_1: So it's not impossible. There are definitely solo-founded companies that do really well.
+speaker_0: But I believe, in time, they will still need someone else, right?
+speaker_1: Yeah.
+speaker_0: But at least to start and launch the product, you can do it on your own.
+speaker_1: Yeah, and not to say that they don't have smaller teams. They just don't have co-founders along with them.
+speaker_0: Yeah.
+speaker_1: So actually, we've seen a trend where solo founders may end up hiring teams and give them a little bit more equity than other people, but they... not all the way to the founding level.
+speaker_0: Mm-hmm.
+speaker_1: So they... you just kinda gotta find your own path.
+speaker_0: Yeah, but actually, my next question was about equity, right?
+speaker_1: Okay.
+speaker_0: How do you typically share this equity? Especially if you have two co-founders, that is very typical.So do we share it, like, 50/50 or what is the right way, right? Because you probably know it. I've heard that, like, when you have 50/50, it's not really good.
+speaker_1: Mm-hmm.
+speaker_0: However, it is pretty widespread. Not good because, like, no one has more responsibility. And if something happens-
+speaker_1: Mm-hmm
+speaker_0: ... or you have to make a really, like, important decision, then you struggle because, like, no one is, like, is a boss, I would say so.
+speaker_1: Yeah. [laughs]
+speaker_0: So what's your take here based on all the data the two have?
+speaker_1: So I'll state up front, I wouldn't wanna paint this as a moral judgment.
+speaker_0: Yeah.
+speaker_1: There's not, like, one "right" way to do it, quote-unquote.
+speaker_0: Of course.
+speaker_1: What we see from the data is that, you're right, most companies, if they have two co-founders, actually don't split 50/50.
+speaker_0: Don't split it?
+speaker_1: Do not.
+speaker_0: Okay.
+speaker_1: Yeah. Only about 40% of those companies end up splitting 50/50.
+speaker_0: But that's a lot of what we get. Yeah.
+speaker_1: It's a lot. It's a sizable, you know, percentage. But the majority split somewhere other than 50/50.
+speaker_0: So they do have a boss [laughing].
+speaker_1: Somebody's the boss. Somebody's the boss.
+speaker_0: I'll put it this way. Yeah. Yeah.
+speaker_1: And usually the split, the median split, again, there's a lotta ways to do this, but the median split we see for two-founder companies is 55/45.
+speaker_0: 55, 45.
+speaker_1: So not a giant gap, right?
+speaker_0: Yeah.
+speaker_1: It's not 80/20.
+speaker_0: Yeah.
+speaker_1: But it does make it clear w- who makes the decisions. The decision-making structure in the company is really clear at the beginning. The other point that we've made to founders all the time, and we still see founders getting tripped up on this is-
+speaker_0: Mm-hmm
+speaker_1: ... if you're founding a company with a co-founder, even if you don't, you should have a vesting schedule on that equity.
+speaker_0: Mm-hmm.
+speaker_1: So that means you don't just get that 45 or 55% outright. It vests over time as you stay with the company. Because if you unfortunately have a founder divorce or for some reason it doesn't work out-
+speaker_0: Yeah, it happens
+speaker_1: ... you don't th- you don't want them to walk away with 40% of the business.
+speaker_0: Yeah.
+speaker_1: 'Cause then investors will look at your company and say, "Look, that person is no longer helping."
+speaker_0: Yeah.
+speaker_1: "That's a giant portion of equity that's not useful to the company anymore." So there's a risk.
+speaker_0: Yeah. Usually they, they tend not to invest unless you solve this issue [laughs].
+speaker_1: Yeah. They call it dead equity, right? And that's a big, big problem for founding teams that have already split up.
+speaker_0: But, like, how much time should you wait, you know, before you get, like, a lot of equity?
+speaker_1: [clears throat]
+speaker_0: Like, what is this, like, buffer [laughs] zone?
+speaker_1: So you can start vesting it immediately, but do it, like, once every quarter or so.
+speaker_0: Every quarter.
+speaker_1: So... And then you... The typical schedule is four or five years.
+speaker_0: Okay.
+speaker_1: So if you get the 40%, you do it over four years, that's 10% a year. Every quarter you get about 2% or so. And so you say, "Yeah, you worked on this for a year, so you walk away with 10%, but you don't walk away with the full 40."
+speaker_0: Yeah.
+speaker_1: Yeah.
+speaker_0: Not on the first day. Yeah.
+speaker_1: Not on the first day.
+speaker_0: Just recently had a conversation with a founder. She lost her co-founder-
+speaker_1: Yeah
+speaker_0: ... who was also CDO, and she was absolutely depressed because-
+speaker_1: Mm-hmm
+speaker_0: ... of the equity issue as well.
+speaker_1: Yeah.
+speaker_0: So that's a very, very good tip.
+speaker_1: It's a common way for, for early companies to not be able to make it, unfortunately.
+speaker_0: Yeah. Yeah. Yeah.
+speaker_1: [laughs]
+speaker_0: That's a very... Th- that's very important, definitely. And, you know, I also wanted to talk about SAFEs, obviously. [laughs]
+speaker_1: Okay.
+speaker_0: Because we have a Carter representative here.
+speaker_1: [laughs]
+speaker_0: So they have become widely popular.
+speaker_1: Yes.
+speaker_0: And, you know, I love how you put it, like, "SAFEs are eating the world of early stage startups," right?
+speaker_1: Right.
+speaker_0: I think I saw it in one of your presentations. So is the SAFE right instrument? I know that opinions differ, but, like, can you share a little bit more? Obviously there is no right answer as usual.
+speaker_1: Mm-hmm. Yeah.
+speaker_0: But let's try to [laughs] -
+speaker_1: Yep
+speaker_0: ... think what's the best... Yeah.
+speaker_1: Yeah. Best way to use SAFEs?
+speaker_0: The best way. Yeah.
+speaker_1: So SAFEs, simple agreement for future equity, is this way... It's essentially just a promise written in a contract which says, "I give you some money right now-"
+speaker_0: Mm-hmm.
+speaker_1: "... and then when you raise a priced round, my money will convert into equity in your business-"
+speaker_0: Yeah.
+speaker_1: "... at that time." So you get the money upfront and I get the equity later on. It's a great way to fundraise for early stage startups.
+speaker_0: Mm-hmm.
+speaker_1: It's, it's cheaper, it's faster, it's less legal cost.
+speaker_0: Yeah. That's what
+speaker_1: It's... You can do it on a rolling basis.
+speaker_0: Mm-hmm.
+speaker_1: So, like, I can get a 15K check and then a 25K check from someone else, do two d- two separate SAFEs, same terms. That's all wonderful. What we're seeing, though-
+speaker_0: [laughs] Yeah.
+speaker_1: ... there's, there's a couple problems. One is, it used to be that you do one round on SAFEs, and then you would move to priced equity, and it was pretty clean and easy.
+speaker_0: Mm-hmm. SAFEs to priced equity. Okay.
+speaker_1: Now found- But SAFEs are now taking up, like, two, three, four... We know companies that have done five or six separate SAFE rounds.
+speaker_0: Wow.
+speaker_1: And what happens when you do that is whenever you get to that first price round, the dilution is really high. Like you may-
+speaker_0: Yeah
+speaker_1: ... own less of your company than you think.
+speaker_0: Yeah.
+speaker_1: So just a warning for founders, SAFEs are fantastic. I wouldn't do three... I wouldn't do four or five rounds on SAFEs. Keep it to, like, one to three maximum. And don't be afraid of priced equity. We know it costs more. There's legal costs, all that kinda stuff, but it's worth it in the end to have a clean cap table.
+speaker_0: Mm-hmm. And can you also explain the difference, because, uh, very often founders ask the difference between SAFE and-
+speaker_1: Mm-hmm
+speaker_0: ... convertible notes?
+speaker_1: Yeah. So one, the SAFE is an equity instrument.
+speaker_0: Mm-hmm.
+speaker_1: So it's just a promise for equity.
+speaker_0: Promise for equity. Okay. Got it.
+speaker_1: The s- the second is exactly the same, convertible notes, except for it comes with an interest rate.
+speaker_0: Mm-hmm.
+speaker_1: So there's the same agreement on, "I'll give you money upfront, you give me equity later on." But it also comes with an interest rate attached to that instrument, which means it's technically debt.
+speaker_0: Yeah.
+speaker_1: You're tacking on debt. And because that has an interest rate, it has a date when that interest rate is due-
+speaker_0: Yeah
+speaker_1: ... called the maturity date. And that's a little bit more favorable to investors than to founders. It... You can fundraise on either. They're both great. People just tend to choose the SAFE these days just 'cause it's simpler.
+speaker_0: Well, it's easier, definitely, right?
+speaker_1: Yeah.
+speaker_0: Because if you have an interest rate, I assume it's less popular [laughs] -
+speaker_1: Yes, exactly
+speaker_0: ... and it's more
+speaker_1: And you're actually taking on debt, which isn't very great for an early, early stage company.
+speaker_0: Yeah, yeah. Are there any s- very specific cases when you have to choose convertible notes or not really?
+speaker_1: Not rea- Uh, well, honestly, it's only when the investor insists on them.
+speaker_0: Okay.
+speaker_1: Yeah. And most investors are pretty cool with SAFEs these days. There are some industries-
+speaker_0: Yeah. Yeah
+speaker_1: ... where, who are maybe a little bit more conservative, who would want a convertible note, but it really just depends on what the founder can negotiate.
+speaker_0: Mm-hmm.
+speaker_1: Yeah.
+speaker_0: Another burning question, I think it's one of your presentations, you once mentioned that small teams perform better. And well, as... [laughs]
+speaker_1: [laughs]
+speaker_0: It sounds a little bit controversial. So-
+speaker_1: Yeah.
+speaker_0: And as, as far as I know, layoffs remain stubbornly high.
+speaker_1: Mm-hmm. Yeah.
+speaker_0: So can you please share a little bit more on this, uh, based on data.
+speaker_1: Yeah.
+speaker_0: Like, is there any hope in terms that founders will start higher better-
+speaker_1: Yeah
+speaker_0: ... or maybe it's just not reasonable if smaller teams perform better? So what's your take here?
+speaker_1: I don't know if I have great data on whether or not they e-... you end up performing better. What I do know is right now, founders are very reluctant to hire. So hiring is way down-
+speaker_0: Mm-hmm
+speaker_1: ... from where it was in the last couple years. So teams themselves, you know, the standard team at a seed-stage company, say, if it was a median of, call it, 15 or 16 people in 2021-
+speaker_0: Mm-hmm
+speaker_1: ... maybe it's only 10 people today.
+speaker_0: Is this connected with the lower fundraising activity?
+speaker_1: Definitely.
+speaker_0: Do you guys think so?
+speaker_1: Yeah, 100% connected to fundraising, and also connected to the idea that, um, if you need to... If you're gonna have longer until your next fundraise, you need to monitor your cash burn really closely. What's the biggest expense for most startups is payroll.
+speaker_0: Yeah. Oh, of course.
+speaker_1: So hiring people is tough. And the layoffs, a lot of companies have found that they're actually performing as well or better now with fewer people than in the earlier times with more people. So the reluctance to hire. That next new hire has to be, like, a really clear ROI for them to, to actually bring it into the business. So it's tough out there for, for startup employees looking for a new job.
+speaker_0: Yeah. And I understand founders.
+speaker_1: Yeah.
+speaker_0: And that's okay, right? Because they're thinking about their business-
+speaker_1: Yeah
+speaker_0: ... and how to survive. But what can we s-
+speaker_1: [clears throat]
+speaker_0: Like, what can we advise to those people who are looking for a job right now-
+speaker_1: Yeah
+speaker_0: ... and if they want to join some startup teams?
+speaker_1: The... It's... I won't sugarcoat it. Like, it's definitely harder than it was-
+speaker_0: [laughs]
+speaker_1: ... in 2022 or 2020, even early 2023. I think when you're making the case as a, someone who wants to get into startups, I think it's really useful, especially at the smaller stages of seed series A.
+speaker_0: Mm-hmm.
+speaker_1: You're not really applying to the job because, say, you want to be, like, a growth marketing manager.
+speaker_0: Mm-hmm.
+speaker_1: You should think about it as you're applying to the job because you can't... You really want to work on the problem that this startup is solving, right?
+speaker_0: Yeah.
+speaker_1: So, like, startups wanna see, at that early stage, missionary employees who, even if they weren't to join this startup, they would join another startup or another company in this space. Like, they're ou- absolutely fascinated by this set of problems.
+speaker_0: Yeah.
+speaker_1: Uh, it's a lot easier to make the case for yourself if you're fascinated by the problem, than if you're just like, "I'm a great marketing manager. This seems like a cool job."
+speaker_0: Mm-hmm.
+speaker_1: Um, but I, you know, I, I respect everybody out there searching for a job at the moment. It's definitely not easy.
+speaker_0: Yeah, it's definitely not easy. And I also see this tendency that, you know, a lot of founder, they try to find, like, a superstar.
+speaker_1: Mm-hmm.
+speaker_0: So some people, you know, they say that, "Okay, it's easy to find this job in a startup, like internship or something like this, because, well, they're early stage-"
+speaker_1: Yeah.
+speaker_0: "... they don't need much, like, experience." But what I see is actually that it's a little bit hard, because founders, they want to have some superstar in their teams.
+speaker_1: Yeah.
+speaker_0: They want to take, like, CEOs from Instacart or whatever-
+speaker_1: [clears throat]
+speaker_0: ... just to make sure that they do not make a mistake. What do you think?
+speaker_1: I think that certainly in the last few years, you know, founders may have gotten back to, to wanting really, really high-quality people in those roles. And I say high quality, you know, there's different ways of judging that. Sometimes, actually, founders will look at someone who's coming from a DoorDash or an Instacart or something-
+speaker_0: Yeah
+speaker_1: ... and say, "Well, if you haven't worked at early-stage places, sometimes those people don't function as well at the tiny, tiny startup, 'cause there's just way less resources." If you're at a big team at Uber, and then you come to a tiny startup, you're not gonna have nearly the resources, and you're gonna maybe have to do a lot of that work yourself that you used to have a team do.
+speaker_0: Yeah.
+speaker_1: So it kinda depends on what sort of the founder is looking for. But it is tougher to stand out in the sort of general recruiting market today than it was 12 months ago, just based on all of the amazing people who have unfortunately gotten laid off over the past year.
+speaker_0: Yeah.
+speaker_1: Yeah.
+speaker_0: Yeah, okay. But let's stay positive anyways. [laughs]
+speaker_1: Gotcha. Yeah. [laughs]
+speaker_0: Uh, I also love your statement, "It's AI and everything else." Uh, can you please comment a little bit on here? What did you mean by this?
+speaker_1: Well, I was talking mostly about fundraising. So general picture in fundraising, a little gloomy.
+speaker_0: Yeah.
+speaker_1: AI fundraising has been ramping up really significantly-
+speaker_0: Yeah
+speaker_1: ... over the last 12 months.
+speaker_0: Yeah.
+speaker_1: Something like, AI companies, they fundraise quicker, they have higher valuations, and they have more cash per round than non-AI companies.
+speaker_0: Mm-hmm.
+speaker_1: So that's proven out by Carta data very clearly. This boom has been happening basically since ChatGPT went live-
+speaker_0: Yeah. Exactly
+speaker_1: ... so, end of 2022-ish. So it's been over a year now. Um, we don't see it slowing down, really. AI's still the hottest category across all of our sectors.
+speaker_0: Mm-hmm.
+speaker_1: But maybe some investors are getting a little bit more cautious about, "Are there gonna be a ton of really big winners from this, or is it"-
+speaker_0: Yeah, exactly
+speaker_1: ... "another hype bubble?" There's always a hype bubble in startups.
+speaker_0: Exactly.
+speaker_1: This is just the latest one.
+speaker_0: We all know about crypto-
+speaker_1: Crypto-
+speaker_0: ... and crypto winter, right?
+speaker_1: ... or, yeah, mobile, whatever it is. So there's, there may be a decline in AI coming, but it ha- it certainly isn't starting now. [clears throat]
+speaker_0: Yeah, yeah. That's, that's really definitely very interesting. Uh, but, you know, uh, if we talk about other verticals, there is also, like, a trend making un-sexy industries sexy.
+speaker_1: Mm-hmm.
+speaker_0: Do you think that this, you know, like hardware and a lot of verticals are getting more popular slowly?
+speaker_1: Definitely. I think that there has been a shift, not a gigantic one, but a meaningful one-
+speaker_0: Yeah
+speaker_1: ... between people who only used to invest in software businesses-
+speaker_0: Mm-hmm
+speaker_1: ... and they're now willing to invest in hardware or biotech or energy or things that are really deeply in- uh, uh, you know, uh, intertwined with the real world. And I think that's great. I think those are some of the businesses that really need venture capital the most, 'cause-
+speaker_0: Yeah, sure
+speaker_1: ... they're risky, risky, risky at the beginning, but it... the outcomes can be really amazing at the end. Um, there's also been a rotation towards, you know, defense tech and those sorts of hardwares, which were a little bit out of favor-
+speaker_0: Yeah.
+speaker_1: ... in the boom times, and are now-
+speaker_0: Yeah
+speaker_1: ... you know, with, uh, El Segundo, Neer LA, and all those places, seems like a bit of a revival for that as well. So I'm all for it. I think it's a... I think it's a good rotation. Um, there'll be a lot of money for software businesses still, but the VCs are more open to those pitches than they used to be.
+speaker_0: Yeah, definitely. And, yeah, you know, because, like, of the rise of AI, there are so many companies, they just add AI everywhere. So [laughs] -
+speaker_1: [laughs]
+speaker_0: ... sometimes you just don't even understand what they do. But you see, like, "AI, AI, powered by AI," and you go, "Okay."
+speaker_1: S- some of those websites are really hard to read. Yeah. [laughs]
+speaker_0: Honestly, I, I, I don't really know how investors figure it out, because, uh, do you have any ideas? Because, you know, when you have so many companies with AI involved-
+speaker_1: Yeah
+speaker_0: ... how to make the right decision?
+speaker_1: I feel like... Well, some investors are really super technical-
+speaker_0: Yeah
+speaker_1: ... and they're gonna go deep into the actual models and everything. Many investors are not. So in those cases, I think w- a lot of what they're trying to suss out is, "Okay, if we just treat AI as this next new technology-"
+speaker_0: Mm-hmm
+speaker_1: "... what does it actually enable this business to do?"... how does it change your relationship with your customers? Are they going to be able to establish a real defensible business-
+speaker_0: Yeah
+speaker_1: ... or is it gonna be really easy to copy, 'cause everybody can use AI? So that's... It's a tough moment, you know. It's why some of the AI investment... I'm sure some of it will be wasted, but, you know, that venture capital always kind of only has... two out of ten really makes sense. So, it's, it's okay in that sense.
+speaker_0: That's why we call it venture, right? [laughs]
+speaker_1: Yes, exactly. These are risky bets.
+speaker_0: Yeah, yeah, yeah. And, you know, uh, also you've said once, it's the Bay Area and everything else.
+speaker_1: Mm-hmm.
+speaker_0: And I really love it, and I want to talk a little bit more about this. And, you know, just, like, recently, last week, I realized that there was a Startup Grind, and at 4:00 PM, like, uh, Garry Tan was speaking there, right? The president of Y Combinator. At the same time, at Stanford, Sam Altman was giving a speech also at 4:00 PM.
+speaker_1: Yeah. [clears throat]
+speaker_0: And at the same time, at Stripe session, there were Jason Huang, the founder of NVIDIA-
+speaker_1: Right
+speaker_0: ... who was also giving... And I was like, "Is that even possible anywhere else in the world that you have all these, like, tech superstars talking at the same time-"
+speaker_1: Yeah.
+speaker_0: "... and you don't even know, you know, like, just, like, within, like, 15 minutes drive, and you don't even know where to go?"
+speaker_1: Yeah.
+speaker_0: Like, what is so magical about the Bay Area, and is it still, you know, like, the top? Because, you know, whenever I go, I went to Austin, uh, for a conference, then I went to Boston, then I went some other areas, and everyone keeps saying like, "Oh, we're gonna have the next Silicon Valley here."
+speaker_1: [laughs]
+speaker_0: And I'm like, "Well, okay, interesting." [laughs]
+speaker_1: [laughs]
+speaker_0: So, can you tell me a little bit more?
+speaker_1: My guess is the next Silicon Valley is just Silicon Valley.
+speaker_0: Oh, wow.
+speaker_1: I think it's gonna stay here for-
+speaker_0: The next Silicon Valley is the Silicon Valley.
+speaker_1: [laughs]
+speaker_0: I love it, yeah.
+speaker_1: It's just, it's just not... Uh, you know, there's, there was this trend or this thought during 2020, 2021 pandemic years that, "Okay, Silicon Valley was the home of startups, but now startups are gonna be everywhere, and it's gonna be democratized."
+speaker_0: Okay.
+speaker_1: What I say, what I will say is it's easier to start a company anywhere than it used to be. That's for sure true.
+speaker_0: Mm-hmm.
+speaker_1: But the heart of startups is still very much the Bay Area. So in Carta Data, it's about 35% of all the capital invested into startups goes to capital in the Bay-
+speaker_0: Mm-hmm
+speaker_1: ... or goes to startups that, that are, uh, in, either in San Francisco or San Jose area. Um, but if you look at just AI startups, it's, like, almost 50% of the capital. So, if AI is the next wave of the startups, those are definitely still more concentrated in San Francisco than anywhere else. And there's just, just the way that, you know, Hollywood in LA or finance in New York-
+speaker_0: Mm-hmm
+speaker_1: ... like, there are homes of certain industries, and it's very hard to dislodge those places.
+speaker_0: I love it. Homes of certain industries. [laughs]
+speaker_1: Like, the home of startups is, is San Francisco, right? Like, if you wanna be an actor, you move to Hollywood. If you wanna be a startup founder, oftentimes you move to the Bay. And that's been true for the last 10 years, and I'd, I'd expect it to be true for the next 10 as well.
+speaker_0: Yeah. Because, you know, after the pandemic, a lot of people, they moved away-
+speaker_1: Mm-hmm
+speaker_0: ... you know, moved out from the Silicon Valley, and they moved to Florida, to Miami, a lot of... And, like, these people, like, keep telling me, "Oh, you see, this is the next hub. Come on, we should go there."
+speaker_1: Yeah.
+speaker_0: So, okay, still, the heart of the tech is still here, right?
+speaker_1: Yes, very much so. Mm-hmm.
+speaker_0: So, if you wanna do something, like, in the tech sphere, it's better to be here. But what is so magical about this place? [laughs]
+speaker_1: [exhales] I think... You know, one of the things that I think is different about San Francisco and the Bay Area versus other places is just the depth and expertise of the angel network here.
+speaker_0: Mm-hmm.
+speaker_1: So, you'll run into angel investors who've been angel investing into startup companies for three decades in the Bay.
+speaker_0: Yeah.
+speaker_1: Which is just, like, not possible anywhere else. What... The way that I like to talk about it is, what do rich people with disposable income like to do with their money? If you're in Dallas or other places, maybe you invest in real estate.
+speaker_0: Mm-hmm.
+speaker_1: In San Francisco, you invest in startups.
+speaker_0: Mm-hmm.
+speaker_1: And you're probably, 'cause you made your money in startups, and you understand tech in that way. So there's, like, a ecosystem where tech money gets created here, and then it's recycled back into the next generation of young companies. And I think that that's true in other places, but it's much deeper here in San Francisco.
+speaker_0: Yeah. And I think, also, you know, what I've noticed that a lot of accelerators that are based here-
+speaker_1: Yeah
+speaker_0: ... uh, even if they have around 30% of international founders come in, they now started requesting them to be physically in person here.
+speaker_1: Yep. That was a big shift from like-
+speaker_0: Why?
+speaker_1: ...
+speaker_2: Yeah.
+speaker_0: Yeah, why? Because of this, like, thing that is happening?
+speaker_1: Just... I mean, there's some part of it that's serendipity. Like, you can go to the coffee shop and have the conversation with the VCs, and they'll just drag in that other VC who happens to be in line there. Like-
+speaker_0: Yeah
+speaker_1: ... that happens in the Bay. It can happen elsewhere, but it happens more frequently here. The other thing is, I mean, Garry Tan from Y Combinator has made this very clear that they just believe very deeply in San Francisco and the in-person experience here. That's not true for every accelerator or for every company-
+speaker_0: Yeah
+speaker_1: ... but there are a lot. There's kind of a little bit of a pushback towards building completely distributed teams at the very beginning. Like, you gotta have that founding team together with maybe those early engineers-
+speaker_0: Mm-hmm
+speaker_1: ... to start iterating quickly. And then as you grow, maybe it's easier to hire remote talent from other places.
+speaker_0: Mm-hmm. But, you know, also to Y Combinator, uh, they also started, you know, exploring other areas. They went to Boston for their, like, startup school in person.
+speaker_1: Yep.
+speaker_0: And they're going to London as well.
+speaker_1: Mm-hmm.
+speaker_0: What do you think... What is the reason behind this-
+speaker_1: I thi- I think-
+speaker_0: ... in your opinion?
+speaker_1: I think YC is just trying to be the dominant global brand for accelerators. Um, they've got a huge headstart here in the Bay.
+speaker_0: Yeah.
+speaker_1: You know, I think they're the most respected of many accelerators. And it used to be that accelerators all kinda looked like YC.
+speaker_0: Mm-hmm.
+speaker_1: Like, there was TechStars and YC in other places, but it was all cohort program, take some equity. It was, like, a very kind of regimented thing. But now you're seeing, uh, accelerators or little incubators for various little industries or hacker houses or pop-up shops. Like, the whole space has kind of exploded.
+speaker_0: Mm-hmm.
+speaker_1: So, I think YC wants to grab that global audience and saying, "We want YC to be very deeply associated with the word startup." Like, you should-
+speaker_0: Ambitious plans. [laughs]
+speaker_1: When you... Exactly. Like, Garry is not short in ambition, for sure. So, uh, I mean, I respect it. I think he's, he's doing great things.
+speaker_0: Definitely. Well, and I mean, the places that they're going are definitely, uh, very important. Like, take Boston, right? It has a huge, like, system, especially in biotech, science. So, I mean, it makes sense. The same is about London, the capital of, you know, like, all European, uh, ecosystems.
+speaker_1: Mm-hmm.
+speaker_0: So, I, I clearly understand that.
+speaker_1: [laughs]
+speaker_0: But, you know, also another question about accelerators-
+speaker_1: Yeah.
+speaker_0: ... uh, very often started to ask me like, "Should I go? Should I apply?"
+speaker_1: Mm-hmm.
+speaker_0: Like, in your opinion, uh, why is it so important to go through these programs? Because obviously, you know, like, accelerators, they sometimes invest in you, right?
+speaker_1: Yeah.
+speaker_0: And that is great, cash. But beside the cash, what else can you get there? Like, what is so special about them? And would you recommend, for example, if you have a founder friend-
+speaker_1: Yeah
+speaker_0: ... would you recommend him or her to go through the program?
+speaker_1: [laughs] I think honestly, if, um-
+speaker_0: No. [laughs]
+speaker_1: That's not true. Accelerators are fantastic, but you need to be specific about what you want out of them.
+speaker_0: Mm-hmm.
+speaker_1: So if you can fundraise and get your business started without them, I'd say skip it.
+speaker_0: Mm-hmm.
+speaker_1: Um, one, they can be very expensive in terms of equity.
+speaker_0: Sure.
+speaker_1: So the YC deal, it's two safes and there's a little bit of back and forth between them, but effectively you're getting something like $500,000 for 7%-
+speaker_0: Yeah
+speaker_1: ... of the business.
+speaker_0: Mm-hmm.
+speaker_1: That's a good amount of money, but 7% is a lot of the business as well.
+speaker_0: True.
+speaker_1: Other- other accelerators have actually worse deals than YC.
+speaker_0: Yeah.
+speaker_1: So equity is a really important thing. You wanna hold onto that. What do you get out of accelerators? I think three things. One, cash upfront.
+speaker_0: Cash. Okay.
+speaker_1: Two, network.
+speaker_0: Network. Yeah.
+speaker_1: Network is a gigantic thing, especially in some place like YC where the alumni and the people-
+speaker_0: Yeah
+speaker_1: ... associated with the program are so fantastic.
+speaker_0: Yeah.
+speaker_1: So, like, I- Is it true that if you're in YC, can Gary Tan dial Sam Altman for you and maybe, like, have your conversation? Like, that stuff happens, right?
+speaker_0: Yeah.
+speaker_1: For sure. The third advantage is knowledge in a very concentrated way. So they- the cohorts are designed so that you come in with an idea. Maybe you started a product.
+speaker_0: Mm-hmm.
+speaker_1: But you iterate so quickly-
+speaker_0: Yeah
+speaker_1: ... that you come out of that-
+speaker_0: And you can pivot many times, you know? Like-
+speaker_1: You- you come out of that on a much stronger basis for your company.
+speaker_0: Mm-hmm.
+speaker_1: I think all of those are great reasons. If you're doing it just for the credibility, I'd say pray- maybe skip it.
+speaker_0: Mm-hmm.
+speaker_1: Um, if you're doing it... Oh, and this is a trend we see a little bit, which I- I don't really understand, is founders doing more than one accelerator. I- I don't really recommend that.
+speaker_0: Yeah.
+speaker_1: That seems... I- if you- you're not gonna learn that much from the next accelerator that you couldn't have gotten from the first one most of the time. Maybe there's some really significant differences.
+speaker_0: Yeah.
+speaker_1: But I wouldn't recommend [laughs] doing more than one.
+speaker_0: And, you know, like, always founder, they put these labels, like, for example, on LinkedIn, like-
+speaker_1: Sure
+speaker_0: ... Techstars, YC.
+speaker_1: Yeah.
+speaker_0: So then how do you choose which one to put [laughs] -
+speaker_1: Exactly.
+speaker_0: ... or you just put all of them there, you know, like YC, Techstars, 500 Block [laughs]?
+speaker_1: I would not put all of them there. I think that's [laughs] a negative signal. Yes, for sure.
+speaker_0: Yeah. It's like, "Okay."
+speaker_1: Right.
+speaker_0: But, you know, talking about network, because you've mentioned that the power of network is really important-
+speaker_1: Yeah.
+speaker_0: Is it because warm introductions always work better than a cold one? So basically, if you want to network yourself, it would be probably much slower than if you go through the acceleration program, right?
+speaker_1: Yeah.
+speaker_0: And one more follow-up question here, so two in total.
+speaker_1: Sure.
+speaker_0: Uh, is it who you know or what you know?
+speaker_1: [laughs]
+speaker_0: So.
+speaker_1: It's always a combination of both-
+speaker_0: Combinations [laughs]
+speaker_1: ... who and what you know.
+speaker_0: Okay.
+speaker_1: But I will say that, yes, in general, if you're trying to take venture capital, getting a warm introduction to that VC-
+speaker_0: Yeah
+speaker_1: ... matters, for sure.
+speaker_0: VC matters. Okay.
+speaker_1: There's- it is possible to get venture capital investment from cold outbound, cold intros. That does happen. It just happens less frequently-
+speaker_0: Yeah
+speaker_1: ... than warm intros.
+speaker_0: I agree.
+speaker_1: The other reason for the network is it's not just capital that you want. Like, maybe someone in the YC network can introduce you to that next engineer that's gonna really accelerate your business. There's a lot of reasons why network matters.
+speaker_0: Yeah.
+speaker_1: But in general, I think, like, building a dense network in really mature venture ecosystems, New York, San Francisco, et cetera, can be helpful when you need capital, need hiring, just a whole host of things that might be helpful for your business.
+speaker_0: Okay, so-
+speaker_1: Can be helpful when you need capital, need hiring.
+speaker_0: Basically saying that still cool, [laughs] there's a little bit more maybe?
+speaker_1: Just a whole host. What you know is clearly, it's suffic- it's necessary-
+speaker_0: Yeah
+speaker_1: ... but it's not sufficient.
+speaker_0: Yeah.
+speaker_1: Who you know can really accelerate.
+speaker_0: Because if you know a lot, but no one knows about it-
+speaker_1: Yes
+speaker_0: ... probably you won't go too far.
+speaker_1: And then you gotta start marketing yourself, right? So, yeah.
+speaker_0: Yeah, exactly.
+speaker_1: Yeah.
+speaker_0: And also, you know, as we mentioned networking, you probably go to a lot of networking events yourself, right?
+speaker_1: I do. I-
+speaker_0: I mean, probably you- [laughs]
+speaker_1: I do. [laughs]
+speaker_0: You try to avoid them sometimes. [laughs]
+speaker_1: Occasionally.
+speaker_0: But, uh, any tips, you know, because also, especially people who are new to the Bay Area-
+speaker_1: Mm-hmm
+speaker_0: ... they come here, the founders, and they're like, "Okay, what do I do? How do I network? How do I get out of this comfort zone?" Do you have any specific tips? [laughs]
+speaker_1: Uh, I actually do have some specific tips after spending as... I- I think we met at a network event here.
+speaker_0: Yeah, yeah.
+speaker_1: So, like, it's- it- it can be really helpful. Couple points. One, it is really easy to stand out at a networking event if you've done your homework. So, like, don't go and just try to meet random people. Go when you know someone you want to meet is there and have done some research on them. Say like, "Hi, I'm Peter. I read your blog recently and I really found it fascinating that you said X, Y, Z."
+speaker_0: Mm-hmm.
+speaker_1: That tells me a couple things. One, you did your research.
+speaker_0: Yeah.
+speaker_1: Two, you know who I am-
+speaker_0: Yeah
+speaker_1: ... and it's useful for me to, like, understand that I can be helpful to you that way. And-
+speaker_0: But how- how... Sorry. Yeah.
+speaker_1: Yeah.
+speaker_0: I just interrupted. How do you always know who is there? Okay, for example-
+speaker_1: You- you don't always know.
+speaker_0: Yeah. If I know that you're speaking there, I may go there. I'm like, "Okay, Peter is speaking there."
+speaker_1: Yeah.
+speaker_0: "That's my time-"
+speaker_1: Yeah. Yeah.
+speaker_0: "... my opportunity."
+speaker_1: [laughs]
+speaker_0: But if, uh, like, I'm not sure or I do not know, and not always you can see the list of attendees-
+speaker_1: Sure
+speaker_0: ... uh, how to hack the system? [laughs]
+speaker_1: Totally. So that only applies if you... there's one person there that you really know and meet.
+speaker_0: Yeah, specific one.
+speaker_1: Yeah.
+speaker_0: Okay.
+speaker_1: For the general, like, I'd like to go and network with people in startups, one of the things that I think more founders can get really good at is try to explain your business and your idea in two sentences or less.
+speaker_0: Mm-hmm.
+speaker_1: So imagine you had 20 seconds to explain to yourself.
+speaker_0: Okay. How would you introduce yourself to me? Okay. Hi, Peter [laughs]
+speaker_1: Correct. Okay, so let's say I was pitching Carta.
+speaker_0: Yeah.
+speaker_1: Right?
+speaker_0: Okay.
+speaker_1: So it's like, "Hi, Dasha. My name is Peter. Uh, I'm the founder and CEO of Carta." But I'm not. That's Henry.
+speaker_0: [laughs]
+speaker_1: [laughs] But I have this-
+speaker_0: But just in case, you know the template.
+speaker_1: I have this new- I have this new business. It's called Carta. We run the cap table for startup companies. What that means is we make it easier for them to issue equity to their employees, investors, and founders.
+speaker_0: Mm-hmm.
+speaker_1: Like, bam.
+speaker_0: Not bad.
+speaker_1: Stop. And then- then just- just stop.
+speaker_0: [laughs]
+speaker_1: And say... Any reaction. Like, let them join the conversation. One of the things that happens when you meet a lot of founders in very tight proximity is they're so focused on their pitch because they live it every day.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: Right? They're just in it all the time that sometimes they- they continue talking for, like, three or five minutes and no one's going to be able to follow them through the whole thing, right? So allow them to have breaks and allow your- your conversation partner to jump in and say, "Oh, that's very interesting. Tell me more about that."... or blah, blah, blah. Like, I just think that, uh, founders sometimes kind of push their startups a little bit.
+speaker_0: Yeah.
+speaker_1: When-
+speaker_0: It happens, yeah.
+speaker_1: And I totally get it because it's your life, right? This is the thing that you've chosen to do, which is amazing.
+speaker_0: Yeah.
+speaker_1: Let people join the conversation.
+speaker_0: But- but do you think that still, you know, this kind of elevator pitch is still important? Because, you know, like, a couple of years ago, that was really important. Everyone was talking about, "Okay, how to make elevator pitch."
+speaker_1: Yeah.
+speaker_0: Is it still relevant or not really?
+speaker_1: I think it definitely is still relevant.
+speaker_0: Still.
+speaker_1: Um, I think one of the... No, it's something, it's a dirty secret. I just think it's human nature, um-
+speaker_0: [laughs]
+speaker_1: ... is that investors-
+speaker_0: Interesting
+speaker_1: ... investors invest in founders they really like, right? You're much more likely to invest... Maybe not all of the time, but a lot of the time, it's, "Who do I really like? Do I- Am I attracted to this founder as a person? Do I love their ideas?"
+speaker_0: Mm-hmm.
+speaker_1: "Do I think they can have the ambition that you need?" And so, like, being able to concisely explain your pitch, 'cause you're gonna give this pitch a lot. You're gonna explain yourself-
+speaker_0: Yeah
+speaker_1: ... to so many people.
+speaker_0: Yeah.
+speaker_1: So making it really tight and clear allows you to then lean back, listen to their questions, and actually engage with them on a one-on-one human level instead of just, like, reciting a couple paragraphs
+speaker_0: Yeah, yeah, yeah.
+speaker_1: ... about your startup
+speaker_0: But, you know, one investor once told me that he doesn't care as much about your product and the elevator pitch that you give-
+speaker_1: Mm-hmm
+speaker_0: ... but he cares about who you are, like, and he says, like, "If you want to attract my attention, you s- you should start with your," I don't know, "nationality, background," I don't know, "your hobbies."
+speaker_1: Mm-hmm. Yeah.
+speaker_0: Do you think it can be relevant or what is the, like, the best balance here?
+speaker_1: I totally think it's relevant who you are-
+speaker_0: At least to mention a little bit, like-
+speaker_1: ... what are your experiences.
+speaker_0: Yeah.
+speaker_1: But you can let that come out naturally in the conversation.
+speaker_0: Yeah. Okay.
+speaker_1: Right? So it's not like, "I'm Peter. I was born here. I like soccer. I do blah, blah, blah."
+speaker_0: Ooh, he likes soccer.
+speaker_1: It's like, "Here's my-"
+speaker_0: I'm glad
+speaker_1: Yeah. Here's-
+speaker_0: He's a Man U-
+speaker_1: Man United fan. Um, e- it's, "Here's my startup or my idea," and then as you get talking, you say, "Oh, yeah, you know, I used to work at Google, and because of that, I have this experience-"
+speaker_0: By the way, yeah. [laughs]
+speaker_1: ... or whatever it is. I didn't work at Google. But, um, I think it's just, like, a natural flow. But I think what that investor is saying is also the ability to persuade people-
+speaker_0: Mm-hmm
+speaker_1: ... to be interested in you is a big part of being a founder. That's not just investors.
+speaker_0: True.
+speaker_1: It's your first hires, your co-founders, your customers. They're all at your earliest stages. Your product is important, but they're investing in you. Um, so, like, founders often ask me like, "How do I find my first employees?" And unfortunately, the response I have to give them is, "That is, like, your... That's the core job of being a founder, that you have to find the exact right people to build this thing with you."
+speaker_0: Yeah, that's part of the fun, yeah.
+speaker_1: It's not easy.
+speaker_0: [laughing]
+speaker_1: It's really... It's really, really hard, but that's why you're the founder-
+speaker_0: Yeah
+speaker_1: ... 'cause you have the ability to bring people along in the journey.
+speaker_0: Yeah, yeah, yeah. No.
+speaker_1: Mm-hmm.
+speaker_0: And that's a very good point. And, you know, when I go to events, I also go to a lot of events, I see that you should, you know, like, you should start the conversation, because sometimes-
+speaker_1: Yeah
+speaker_0: ... like, the person can be not interested in you, but you have to try to find this, you know, common ground because for sure, like, you can mention, like, up to five different things and one would be interesting.
+speaker_1: Yeah.
+speaker_0: You know, like, you can say, I don't know, like, for example, "I write for Forbes," and the person wants to give comments or something.
+speaker_1: Yeah.
+speaker_0: But you have to try, you know, because very often people just start conversation, then they see, okay, like, cold response and they're like, "Oh, I'm so, so done."
+speaker_1: [laughs]
+speaker_0: You know, so yeah.
+speaker_1: Right, right.
+speaker_0: But you have to try and I think it works. Okay. So going back to all your tips. So first, do your homework, right?
+speaker_1: Yeah.
+speaker_0: You had some more. [laughs]
+speaker_1: Yeah. Do your homework. Uh, perfect that elevator pitch.
+speaker_0: Yeah.
+speaker_1: And then be interested in the person that you're talking to-
+speaker_0: Mm-hmm
+speaker_1: ... not just trying to convey as much information about yourself. So if you and I are meeting, I should be as interested in what you do-
+speaker_0: Mm-hmm
+speaker_1: ... and why you're there as I am in getting all of the facts and figures about my life and my business out into the world.
+speaker_0: Mm-hmm, mm-hmm.
+speaker_1: You know, because you're trying to persuade someone to give you more of their time and attention. So, I mean, it's- it's just like any normal human conversation. You know, you want to be interested to ask questions to make it a free-flowing thing, not just, "Here's my pitch. Did you like it? You didn't like it? Okay, next pitch, next pitch, next pitch."
+speaker_0: Mm-hmm, mm-hmm.
+speaker_1: You know? Yeah.
+speaker_0: And just- just a tiny follow-up here because, like, you know, you're American. There are a lot of immigrants-
+speaker_1: Yes, sure
+speaker_0: ... founders immigrants, and very often they struggle a lot with this, you know, cross-cultural communication-
+speaker_1: Mm-hmm
+speaker_0: ... because sometimes they don't understand which feedback they receive because Americans tend to be very nice, you know?
+speaker_1: [laughs] Yeah.
+speaker_0: And- and, like, you never know the real truth behind these words.
+speaker_1: Yeah.
+speaker_0: So as an American, [laughing] can you give me some tips, like, how to understand and how to- how better to deal with that, you know, like, as an immigrant?
+speaker_1: Deciphering Americanisms is hard sometimes. Um-
+speaker_0: [laughs] This sandwich-
+speaker_1: [laughs]
+speaker_0: You know, feedback sandwich, right?
+speaker_1: Feedback sandwich.
+speaker_0: Like- [laughs]
+speaker_1: So, I mean, I guess this is a little different based on the setting. In a networking event, people are gonna tend to just be nice, right?
+speaker_0: Okay.
+speaker_1: 'Cause there's... Like, you don't wanna cause a confrontation at a networking event.
+speaker_0: Yeah, like, no fighting involved. [laughs]
+speaker_1: No, it's- it's very rare that you're gonna tell someone about your business and someone at- who you just met is gonna be like, "That's terrible."
+speaker_0: Yeah. [laughs]
+speaker_1: Like, they're just- we're just not gonna do that.
+speaker_0: No way, 100%.
+speaker_1: I kinda wish sometimes they would, right?
+speaker_0: Yeah.
+speaker_1: 'Cause then you'd be like, "Okay, maybe I need to adjust things."
+speaker_0: [laughs]
+speaker_1: Whatever. Um, in a feedback meeting from VCs-
+speaker_0: Yeah.
+speaker_1: VCs are a special kind of, uh, feedback persona in that oftentimes they will pass for a huge number of reasons.
+speaker_0: Mm-hmm.
+speaker_1: And many times they won't even tell you necessarily the reason that they pass. They'll just say, "It's not for us, it's not a fit"-
+speaker_0: Mm-hmm
+speaker_1: ... et cetera. Um, so it's very difficult to know exactly what you should take away from that feedback.
+speaker_0: Yeah. How not to be depressed, you know, and think that it's you and everything is wrong with you. [laughs]
+speaker_1: 100%. It's... I mean, this is why I respect founders so much, 'cause it can be very personally emotional.
+speaker_0: Oh, yeah. True.
+speaker_1: It's, like, really hard. Um, one is to usually separate it from... As much as you possibly can from you versus the business.
+speaker_0: Okay. Mm-hmm.
+speaker_1: Like, most VCs are trying to judge the business and the potential of the business. And yes, they care about you 'cause you are gonna be the one pushing it forward. But it's not a personal strike against you as a human being, right?
+speaker_0: Yeah.
+speaker_1: The other point is that you should ask for feedback whenever you can.
+speaker_0: Mm-hmm.
+speaker_1: Um, the best VCs will give you feedback. Uh, they'll say, "This part of the pitch doesn't make sense," or, "I don't believe in the market sizing." And maybe, you know, p-This feedback was given to Brian Chesky at Airbnb all the time-
+speaker_0: Yeah
+speaker_1: ... and look how it worked. So there will be people who tell you no that are wrong. But listening to the nos and the why might help you sharpen the pitch for the next investor.
+speaker_0: Mm-hmm.
+speaker_1: So, it's not that you need to say, "This person told me no, so I have to change everything about my business." It might be, "This person told me no, so I'm gonna highlight a different part of my idea for the next investor."
+speaker_0: Mm-hmm. And, you know, saying no is still an answer, but-
+speaker_1: Yes
+speaker_0: ... what very typical- typically happens is ignorance-
+speaker_1: Yeah
+speaker_0: ... when you're like trying to pitch your company or send emails to investors-
+speaker_1: Yeah
+speaker_0: ... or also when you're looking for a job and just you get no feedback. And a lot of people ask me like, they're like, "Why are we doing this? I don't have know if it's yes or no, just tell me no."
+speaker_1: Yeah.
+speaker_0: And I look, you know, I would just be happy with no.
+speaker_1: [laughs] Right.
+speaker_0: But why ignorance? It's... What is that? [laughs] Like explain it to me.
+speaker_1: There's a lot of reasons. I mean, well, this gets back to our point about warm intros.
+speaker_0: Okay.
+speaker_1: It's like, it's a much harder thing for someone to ignore you if they've been introduced by a friend or a colleague.
+speaker_0: Because the demand is so high?
+speaker_1: The demand is high, and also they do- they wanna keep that other relationship strong. So they're not gonna just ignore you and tell you nothing.
+speaker_0: Okay.
+speaker_1: But also you should notice if you're trying to raise venture capital and you're sending cold emails to VCs, they're getting hundreds and hundreds of those all the time. So, it could very well be that they literally didn't see it.
+speaker_0: Mm-hmm.
+speaker_1: Sometimes it's that they read it and didn't find it, uh, very alluring. So they just didn't respond. Again, this is a-
+speaker_0: So, why do you waste your time on typing an email, right? [laughs]
+speaker_1: This is the kind of thing where it's like you gotta judge whether or not this is a good use of your time. Right?
+speaker_0: Mm-hmm.
+speaker_1: Is it a... Is it a great use of your time to cold pitch hundreds and hundreds of investors and get very little feedback? Or should you work on the business and then work on getting warm intros to very specific investors who can then actually give you yeses and nos? Depends on what you need.
+speaker_0: So, m-
+speaker_1: And I know that's hard for-
+speaker_0: Yeah
+speaker_1: ... someone who's an American and like kind of in a network to already say.
+speaker_0: Yeah.
+speaker_1: You know? So it's... it is tough.
+speaker_0: But it's not like disrespect, right?
+speaker_1: Yeah.
+speaker_0: It's just like-
+speaker_1: No, it's not.
+speaker_0: VCs have to be like this, and employers have to be like this-
+speaker_1: [laughs]
+speaker_0: ... because it's just the demand is so high and you have to prioritize, right?
+speaker_1: Look, I'm sure that there are cases where it's been disrespectful. And the most of the time, it's just people acting normally-
+speaker_0: Yeah
+speaker_1: ... and it's not like a personal slight against you. Yeah.
+speaker_0: Yeah. Yeah. Okay. Two more questions. [laughs]
+speaker_1: Let's do it.
+speaker_0: Yeah. Uh, one is about startup valuation. So, are they going higher? Are they going lower? And, you know, um, I've talked to many of people. So, is it good to have high valuation for startups, uh, if you're a founder-
+speaker_1: Mm-hmm
+speaker_0: ... or if you're a ventury- uh, a ventury capitalist? So, what is the best scenario and how are they doing right now, these valuations?
+speaker_1: So, valuations. Let's talk about early stage valuations-
+speaker_0: Yeah
+speaker_1: ... for the moment. First thing that most founders should know is that this isn't exactly what your business is worth. This isn't really a judgment on-
+speaker_0: Yeah
+speaker_1: ... your business today is worth, say, $12 million. It doesn't really mean that. It's a supply and demand function.
+speaker_0: Mm-hmm.
+speaker_1: The supply is your business. The demand is investors' attention on your business.
+speaker_0: Mm-hmm.
+speaker_1: And if there are many investors who are interested in what you're building, your valuation will naturally be higher.
+speaker_0: Mm-hmm.
+speaker_1: So it's a- it's all about supply and demand. Right now, early stage valuations for a seed round in the US, it's about $13 million pre-money.
+speaker_0: Mm-hmm.
+speaker_1: So, $13 million pre-money, plus about a $3 million or so raised-
+speaker_0: Mm-hmm
+speaker_1: ... gets you to a $16 million post-money valuation.
+speaker_0: Mm-hmm.
+speaker_1: Those are pretty high, right? That's a-
+speaker_0: Pretty high, yeah.
+speaker_1: That's a pretty robust valuation. What's happened is the valuations have stayed pretty high, but fewer and fewer companies are raising rounds. So essentially, VCs are saying, "We think the valuations are okay, but only a certain segment of companies are worth that amount of money." So they're just investing less frequently. The- the total number of rounds has gone down.
+speaker_0: Mm-hmm.
+speaker_1: The other point to make about valuations, is it good to have a high one? Is it good to have a low one?
+speaker_0: Yeah.
+speaker_1: Uh-
+speaker_0: Depends probably. [laughs]
+speaker_1: So, it totally depends, but it also is... You know, we've seen very recently some of the dangers of having your valuation be too high.
+speaker_0: Mm-hmm.
+speaker_1: So-
+speaker_0: What is that?
+speaker_1: 2021, there were companies that were making $2 or $3 million in ARR that were valued close to a billion dollars.
+speaker_0: Mm-hmm.
+speaker_1: If that's the case, in order to get to the next thing, whatever's past a billion, you gotta get that ARR up super high. You've gotta grow incredibly quickly. So, what high valuations do is they mean you have to grow into them very fast. What a lower valuation does is to say, look, we may only be m... Let's say we make a million dollars ARR right now-
+speaker_0: Mm-hmm
+speaker_1: ... and the valuation is $10 or $12 million. That's not as great as it was in 2021, but it's nice because we can very clearly see a pathway to get to $3, $4 and $5 million in revenue-
+speaker_0: Mm-hmm
+speaker_1: ... which will get us to the next round of financing. So lower valuations can be easier to grow into, which make it easier to get that next round of financing.
+speaker_0: Yeah.
+speaker_1: But it's, you know, it's human nature to be like, "My business is worth a billion dollars."
+speaker_0: Yeah, of course.
+speaker_1: How amazing is that? Right?
+speaker_0: [laughs]
+speaker_1: Like, it's tough to refuse. So, I'm not... It's not... I'm not holding against the founders who tried... who didn't turn down big term sheets and things. But it... A lot of companies right now, unfortunately, are having to go back to their investors and say, "We're not worth that much. We need to do a down round-"
+speaker_0: Mm-hmm.
+speaker_1: "... and, like, take some of this off the top." And those are tough conversations to have.
+speaker_0: Oh, yeah. I understand.
+speaker_1: So, you- you wanna avoid those if you can. Yeah.
+speaker_0: Yeah. Yeah. No, thank you very much for sharing. And, you know, as the founder of Women Tech Meetup, I talk to a lot of female founders and female representatives. My question, only 2% of received money goes to female founders right now.
+speaker_1: Yeah, yeah.
+speaker_0: What [laughs] does your data say? Is there any hope? Is the situation getting better?
+speaker_1: Mm-hmm.
+speaker_0: And how can we potentially, you know, change that?
+speaker_1: So, I h- we have a lot to say about this in terms of the data.
+speaker_0: Okay.
+speaker_1: So-
+speaker_0: One more hour. [laughs]
+speaker_1: Yeah, exactly. We set aside another 90 minutes.
+speaker_0: No, no. No rush. [laughs]
+speaker_1: Um, here's- here's what we know. So we do an annual study of all of the companies on Carta every year.
+speaker_0: Yeah.
+speaker_1: And we produce data on demographics, gender and race and ethnicity.
+speaker_0: This is very helpful, by the way. [laughs]
+speaker_1: It's- it's a great... I love that we do it. Um-Um, last year, uh, across the entirety of Carta, that 2% stat, ours was, like, two and a half or maybe even close to three, but it was a bit... effectively the same. So you're right.
+speaker_0: Mm-hmm.
+speaker_1: What is the difficulty is if you just look at all startups, that 2% or 3%, whatever it is, it's going to be very difficult to budge.
+speaker_0: Mm-hmm.
+speaker_1: Reason being, a ton of that, uh, money is being invested into late-stage companies.
+speaker_0: Yeah.
+speaker_1: Those late-stage companies were founded eight to 10 years ago. Founders eight to 10 years ago were much likely... much less likely to be women.
+speaker_0: Yeah.
+speaker_1: So there's a late-stage problem with that analysis. So what we like to do is we s- say, "Let's focus on the earliest, earliest part of the venture market and see if there's any change happening in angel-"
+speaker_0: Just to have a clearer picture. Mm-hmm
+speaker_1: "... or seed," 'cause that's where the change is gonna start.
+speaker_0: Mm-hmm.
+speaker_1: And in that sense, things have gotten better.
+speaker_0: Better?
+speaker_1: Yes. So 2023, about, I think, six and a half or 7%, ag- not amazing, but twice as much-
+speaker_0: Yeah
+speaker_1: ... of capital is going to, uh, women-led companies at the pre-seed and seed rounds. Better. Now to the negative part of the story.
+speaker_0: The worst.
+speaker_1: We were climbing up pretty slowly year over year from about 2018 to 2023. And then in 2023 to 2024, there was a slight decline in the percentage of capital going to women-led companies. So what do we think is happening there?
+speaker_0: Yeah. Do we have, like, less women founders, or is the quality worse? So what's wrong?
+speaker_1: There were a little bit fewer women starting companies, incorporating companies in 2023, that's true, but not a gigantic difference.
+speaker_0: Yeah.
+speaker_1: Maybe a percentage difference.
+speaker_0: But, you know, to, to your point, I've talked to one accelerator, and they told me, like, "We have a special program for women-
+speaker_1: Yeah
+speaker_0: ... but they just do not apply."
+speaker_1: Mm-hmm.
+speaker_0: I'm like, "Hmm, interesting." And they're like, "We wish to have more-
+speaker_1: Yeah
+speaker_0: ... but just we don't have them." So maybe sometimes that what happens. But also, I meet, like, a lot of female founders every day, and they are like, "We need more help," you know. [laughs]
+speaker_1: Yeah. And some of this... the, the 2%, all those statistics that we mentioned are... they're usually focused on women-led companies or founding teams that are all women. Mixed-gender founding teams, so a man and a woman starting a company together, those have actually taken more capital. So there's, like, more women founders. They may just be co-founders with a guy, you know.
+speaker_0: Mm-hmm.
+speaker_1: And that's happening more frequently.
+speaker_0: Yeah.
+speaker_1: I wouldn't want to say this is a problem of, like, women not starting companies. I think there's probably more than enough women who are trying to start companies. Um, although, of course, we could always use more. O- one of the ideas... This is just an idea, I don't know if it's true exactly, is that in a downturn, people tend to try to just follow patterns they followed before. And so they'll invest into, say, repeat founders. And again, if you're a repeat founder with an exit, that means probably you started your first company five or six years ago, seven years ago.
+speaker_0: Mm-hmm.
+speaker_1: And so you're more likely to have been a man then anyways. Like, more successful repeat founders were men back then, uh, just based on demographics changing. So that's, I think, a little bit of what's happening.
+speaker_0: Yeah.
+speaker_1: I'm really hopeful that 2024 sees a reversal in the slight downturn that we've had. But if we're gonna see any change in that, it's gonna happen at the earliest part of the market. It's not gonna happen in late stage.
+speaker_0: Yeah, of course.
+speaker_1: Yeah.
+speaker_0: And to wrap up our conversation, can you name a few startups-
+speaker_1: [laughs]
+speaker_0: ... that you're really a fan of, or that you think have really great potential?
+speaker_1: Oh, wow. Uh, I don't usually name individual startups-
+speaker_0: Okay
+speaker_1: ... that I love just because, uh, Carta kinda serves everybody equally.
+speaker_0: Yeah.
+speaker_1: Um, you know, personally, I... there's been some really cool... I, I think some of the later stage startups are doing really amazing things. I'll, I'll name a couple. I'll name one startup out of YC that I really liked actually recently. Um, their name is Vizly.
+speaker_0: Mm-hmm.
+speaker_1: V-I-Z-L-Y.
+speaker_0: Yeah, I've heard of them. Okay.
+speaker_1: Um, and so my job at Carta is a lot about data analysis and creating charts and all this kinda stuff. And they have an AI platform that allows you to talk to your data in English instead of in SQL. So you can just type in questions, and it produces charts for you.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: I really love it. There's a lot of companies trying this.
+speaker_0: Yeah.
+speaker_1: The reason I like them is because they are data nerds like me, and they love good-looking charts. So they're like-
+speaker_0: Good-looking charts. [laughs]
+speaker_1: There's a lot of companies that produce bad-looking charts.
+speaker_0: That's what you do at Carta.
+speaker_1: Exactly. I mak-
+speaker_0: You're making good-looking charts. [laughing]
+speaker_1: I make great-looking charts in, in one sentence. So they have gotten really detailed into, like, how to create really great graphics using AI.
+speaker_0: Yeah.
+speaker_1: Um, I love it. I think it's a really cool business.
+speaker_0: Yeah. No, thank you so much for sharing. And yeah, I know there are a lot of great companies, but yet-
+speaker_1: Mm-hmm
+speaker_0: ... this is really interesting to know.
+speaker_1: Right.
+speaker_0: And thank you so much, Peter, for this great conversation. That was super insightful, and I really enjoyed it. Thank you for coming.
+speaker_1: Yeah, appreciate it. Thanks for having me.

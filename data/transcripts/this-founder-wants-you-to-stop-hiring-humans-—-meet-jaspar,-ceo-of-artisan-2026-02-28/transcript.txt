@@ -1,0 +1,1091 @@
+speaker_0: [instrumental music]. Hi, Jasper. How are you?
+speaker_1: Hi, Yossi. I'm great. How are you?
+speaker_0: I'm great too. Thank you for coming-
+speaker_1: Thank you
+speaker_0: ... actually, for letting me come. [laughs]
+speaker_1: Thank you for coming, yeah. [laughs]
+speaker_0: Yeah. And talking to you. So, let's start.
+speaker_1: Yeah.
+speaker_0: You're 23 years old, right? You've raised around 35 millions. You're very well-known and famous for these tough-
+speaker_1: Oh
+speaker_0: ... hiring humans campaigns. These are just some facts about you, right?
+speaker_1: Okay.
+speaker_0: You're not the first-time founder.
+speaker_1: Yeah. Not, not the... First-time venture-backed founder. I had two companies before that were real companies that weren't venture-backed, um, and then I had a lot of fake shitty companies when I was younger.
+speaker_0: Okay. Interesting. Okay. So first venture-backed, but not the first one like this.
+speaker_1: Yeah. [laughs]
+speaker_0: So you had some, like, kinda like entrepreneurial experience before.
+speaker_1: Yeah, yeah.
+speaker_0: Okay, cool. So what are you building right now? What problems are you solving? Tell me more about Artisan.
+speaker_1: Yeah. At Artisan, we create AI agents that we call Artisans, and we create software for them to operate within. Uh, so the first is Ava, our AI BDR.
+speaker_0: Yeah.
+speaker_1: She automates the entire outbound-
+speaker_0: I think we can see her from here. [laughs]
+speaker_1: Yeah, you can see her. [laughs] She'll be have a, a face over there.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: External artwork. Uh, yeah.
+speaker_0: [laughs]
+speaker_1: So, we, Ava, AI BDR, she automates the entire outbound sales demand generation workflow. So, finding new leads, researching them, writing emails on LinkedIn messages and, and sending them on your behalf. Um, that's the first iteration of what Artisan is. But the, the broader goal is to consolidate software and to automate labor in that consolidated software.
+speaker_0: Mm-hmm. So if to put it very simple, because sometimes when I talk to people and they're like, "Oh, Artisan, this cool company," so what is it you say? Like, "Oh, AI BDR." And they're like, "Uh..." [laughs]
+speaker_1: Yeah.
+speaker_0: Like, people who are not, like, in tech all the time.
+speaker_1: Yeah.
+speaker_0: So, if I'm your grandmother, so [laughs] how would you explain it to me? So, like, very, very simple for everyone to understand.
+speaker_1: Yeah. Right now, just an AI sales rep that sends emails on your behalf and gets you meetings. So-
+speaker_0: Yeah. Why do, why do we need one?
+speaker_1: 'Cause every company wants leads and wants meetings and wants more top-of-funnel demand generation.
+speaker_0: Yeah.
+speaker_1: Um, and you don't wanna necessarily have a human doing that for you when AI can already do it. So we're just automating the work that you would otherwise have a human in a BDR, SDR role doing.
+speaker_0: Yeah. So basically, you're helping humans to get rid-
+speaker_1: Yes
+speaker_0: ... of this boring, like, routine, right?
+speaker_1: Yeah.
+speaker_0: Like-
+speaker_1: Like, the repetitive mundane work that no one really enjoys doing. The BDR role has the highest turnover of any role in sales.
+speaker_0: Mm-hmm. Yeah.
+speaker_1: Like, no one wants to be a BDR. You become a BDR as a stepping stone to becoming an AE. Um, so it's automating that mundane, repetitive, boring work that people don't want to be doing in the first place.
+speaker_0: How can you trust AI, like, to send really, like, creative mails on your behalf, for example?
+speaker_1: Yeah.
+speaker_0: What if something goes wrong, you know? Because a lot of companies, they're so worried about their reputation, right?
+speaker_1: Yeah. It's super difficult to get it to a point where it works well, and we've been, uh-
+speaker_0: Yeah
+speaker_1: ... fighting for two years, and we now have a very, very, very strong email generation, uh, LLM pipeline.
+speaker_0: Mm-hmm.
+speaker_1: Uh, but it's been difficult to get here. When we first launched, the emails were awful. Um, it's, [laughs] it's been a...
+speaker_0: [laughs] I love how you say it, "They were awful."
+speaker_1: Yeah, they were. They were. There's been a long iteration process going through endless prompt iterations to get to-
+speaker_0: Yeah
+speaker_1: ... the point where we have enough safeguards and precautions in place to make sure that the LLM doesn't hallucinate any emails-
+speaker_0: Yeah
+speaker_1: ... and to make sure that the quality is good. But it's been a, a long journey. I'm not gonna share any implementation [laughs] details.
+speaker_0: [laughs]
+speaker_1: But it's been a long journey.
+speaker_0: Are you proud of your product now?
+speaker_1: Yeah, I am. Yeah. I w... If you asked me a year ago, I would've said no. I wa... [laughs]
+speaker_0: Yeah.
+speaker_1: Said I'm proud of the idea, but now, yes.
+speaker_0: Yeah. Okay, great. Uh, but, like, I mean, for example, if I want to test Artisan out, right? Uh, like, and I'm, like, a little bit worried or, like-
+speaker_1: Mm-hmm
+speaker_0: ... you know, hesitating. So, are there, like, certain, like, test periods when, like, you work and, like, to make sure that all these emails sound like me or something like that? I don't know. Do you have-
+speaker_1: Yeah.
+speaker_0: ... you know, these, like, LLM smell? Like, a lot of people are concerned, like-
+speaker_1: Yeah, yeah
+speaker_0: ... that all emails will be, like, exactly the same?
+speaker_1: Yeah.
+speaker_0: So do you do something to prevent-
+speaker_1: Yeah, we have this-
+speaker_0: ... that from being so?
+speaker_1: ... sample generation function, where you can generate sample emails and sample messages that Ava's creating.
+speaker_0: Uh-huh.
+speaker_1: And then you can add coaching points, so you can coach Ava directly and say-
+speaker_0: Oh
+speaker_1: ... "I want it to sound like-"
+speaker_0: So, like, "Be like me."
+speaker_1: Yeah.
+speaker_0: Or something like that.
+speaker_1: Like, "Use emojis," or, "Use this writing style," or-
+speaker_0: Yeah
+speaker_1: ... "Write like this person." And you can iterate the writing style and see previews of what she's gonna come up with, and then you can use that to refine the campaign settings before you go live.
+speaker_0: Mm-hmm. But now that we started talking about, uh, emails, but just like a personal question-
+speaker_1: Mm-hmm.
+speaker_0: I'm pretty sure that your inbox is overloaded.
+speaker_1: Yeah.
+speaker_0: Just like is mine, for example. And, like, I'm honestly suffering right now with LinkedIn as well. Because before, you know, like, inbox was one thing, and then, like, emails on LinkedIn was a different thing.
+speaker_1: Mm-hmm.
+speaker_0: And, like, people didn't spam you on LinkedIn. So now it's a little bit complicated. How do you deal with that yourself?
+speaker_1: Myself, um...
+speaker_0: Do you have a routine for that? Um, I'm honestly, I wanna know the answer-
+speaker_1: I inbox... Yeah
+speaker_0: ... [laughs] for me.
+speaker_1: I inbox zero, once or twice a day, um, where I just go through... I use Superhuman for email. It's really, really good.
+speaker_0: Yeah.
+speaker_1: Uh, do you use Superhuman?
+speaker_0: No.
+speaker_1: You should.
+speaker_0: Should I?
+speaker_1: It's great, yeah.
+speaker_0: How does it help?
+speaker_1: Um, you just mark an email as done. It treats each email as a task.
+speaker_0: Mm-hmm.
+speaker_1: So you mark it as done when you're finished with the task, which is the email. Or you can snooze it for later. You can tag people internally in comments. And it just makes it so you always get to zero and action everything. So, yeah.
+speaker_0: Mm-hmm. Okay, but you do check them on a daily basis right now-
+speaker_1: Yeah
+speaker_0: ... once or twice a day? So you're well-disciplined. Okay, tightly.
+speaker_1: Yeah. And I always look at the notifications as they come through, and if it's important I'll just reply immediately.
+speaker_0: Okay. Then if it's not, you can just, like-
+speaker_1: Yeah, I'll just leave it
+speaker_0: ... get back to it later.
+speaker_1: Yeah.
+speaker_0: Okay. So also, like, how big is the team right now?
+speaker_1: Um, around 35.
+speaker_0: 35. You raise 35 things?
+speaker_1: Yeah. [laughs]
+speaker_0: Very fast. One million 3%. [laughs]
+speaker_1: Yeah.
+speaker_0: Okay, so, and, uh, we are recording right now-
+speaker_1: [clears throat]
+speaker_0: ... from your house.
+speaker_1: We are.
+speaker_0: You call it Artisan House.
+speaker_1: Yes, okay.
+speaker_0: So you work from here. You live here. How does it feel to live with your employees? [laughs]
+speaker_1: Um, I guess it feels normal to me just 'cause we've...... done it for so long. Um, but I guess it could be weird to other people in other companies. But we have a really strong routine. Like, it's, it's nice sleeping downstairs.
+speaker_0: Yeah.
+speaker_1: 'Cause when I finish work, I can just [laughs] go, go downstairs and go to bed.
+speaker_0: So it's like, "I'm done, so okay, I'm leaving-
+speaker_1: Yeah
+speaker_0: ... the office space.
+speaker_1: The commute's really easy.
+speaker_0: I'm going downstairs." Yeah, yeah, yeah.
+speaker_1: Yeah, great commute.
+speaker_0: [laughs]
+speaker_1: Um, I, i- it works really well for us. Yeah.
+speaker_0: Okay. Can you say that it's like part of your culture? And in general, like if we define like artisan culture, what is it?
+speaker_1: Mm-hmm. Um, I think that we're very mission-driven, and we all work together extremely well. Like, um, we're always looking out for each other.
+speaker_0: Yeah.
+speaker_1: We have this... Half of the team, like, uh, maybe two-thirds, half of the team is remote.
+speaker_0: Yeah.
+speaker_1: So we have this Slack channel called Shoutouts where everyone's always give each other praise for different things.
+speaker_0: Yeah, love it. Yeah.
+speaker_1: And everyone's really immersed in the culture. Like, uh, Tina got a tattoo of our logo, so did I. It's faded a bit, so I have to get it redone-
+speaker_0: Oh, yeah
+speaker_1: ... [laughs] but, uh, the tattoo, we all got tattoos of our logo. Um, one of the other engineers is wanting to get one as well.
+speaker_0: Well, like, you're not required to have a tat- two to be on the team, right? [laughs]
+speaker_1: You're not required? Just strongly encouraged. [laughs] No, no. I'm joking. I'm joking.
+speaker_0: No. Okay. No, honestly-
+speaker_1: Uh..
+speaker_0: ... when I saw Tina's post, I was like, "What?" [laughs]
+speaker_1: Yeah.
+speaker_0: I was like, "No way." And then I saw your post. How did it happen? Like, okay, like, let's like a little distraction. How did it happen, this thing with tattoos?
+speaker_1: Yeah. We actually got them on the sales offsite in Mexico, which is probably why it's now like pretty faded.
+speaker_0: No, like, normal people, they just do like offsite swag. [laughs]
+speaker_1: Yeah. [laughs]
+speaker_0: But you decided to go like-
+speaker_1: This is swag, swag plus.
+speaker_0: ... next level.
+speaker_1: Yeah.
+speaker_0: Okay. Okay. And, uh, you're just like, "You guys-"
+speaker_1: No, I wanted to get one, so I was gonna go and get one. And then, when we were there, Tina came along, and she was like, "I'm gonna get one too." Uh, I was like, "Great."
+speaker_0: Did you try to, like, make sure that she's [laughs] like-
+speaker_1: No, I'm all, I'm all for it. [laughs]
+speaker_0: Okay. Okay. So, so you didn't check with her like, "Are you sure? Are you sure?"
+speaker_1: I did s-
+speaker_0: Like, "It's a real one," like?
+speaker_1: Well, yeah, she knows. Yeah. She's, she's good at making decisions.
+speaker_0: Okay.
+speaker_1: Yeah.
+speaker_0: Okay. This is, this is really funny. Uh, so, okay. By living here and working from here, how does this work? Like, how does your schedule looks like? What times you wake up?
+speaker_1: It varies a lot, depending on like winter or summer. Uh, like, in the winter- [laughs]
+speaker_0: What? [laughs] Wha- what? [laughs]
+speaker_1: 'Cause in the winter, I get up super early because it gets dark, uh-
+speaker_0: Ah
+speaker_1: ... super early.
+speaker_0: Okay.
+speaker_1: So I get to have the full day of sunlight, go to the gym.
+speaker_0: So like kinda like sunlight, uh, makes you more productive?
+speaker_1: Y- I dunno, I just, like, feel happy and not depressed.
+speaker_0: Oh, okay.
+speaker_1: Yeah. [laughs]
+speaker_0: Fair. Fair enough. Let's be happy.
+speaker_1: Um, so in the winter, I wake up super early, go to the gym in the morning, then do the full day of work. Um-
+speaker_0: Every day?
+speaker_1: Pardon?
+speaker_0: Gym every day?
+speaker_1: Yeah, yeah. Well, six days a week.
+speaker_0: Oh, my God, I'm so jealous.
+speaker_1: Yeah. [laughs]
+speaker_0: Okay.
+speaker_1: Uh, but in the summer, I wake up like a little bit later, like 7:00 or 8:00, um, and then do the work and then go to the gym like in the afternoon, evening, um, and then come back and do some work and go to bed.
+speaker_0: Mm-hmm. So what time do you, like, stop working? I know that, like, startup founders, it's not about 9:00 to 5:00, but, like, how does working-
+speaker_1: You don't really have a fixed time, like, um, just if I have something to do, then I won't work whilst I do that thing. Otherwise, I'll probably work.
+speaker_0: Yeah.
+speaker_1: Yeah.
+speaker_0: Do you have this kinda like work/life balance?
+speaker_1: Um-
+speaker_0: If there is any life? [laughs]
+speaker_1: Kind of, not really.
+speaker_0: In SF-
+speaker_1: In SF, I kinda try not to, um, 'cause I'm like, if I'm in SF, it's like my time to work and lock in. And then, when I travel, I spend more time doing other things and seeing friends and stuff.
+speaker_0: How often do you travel? Okay, let's hear [laughs].
+speaker_1: Once a month, twice a month, once a month.
+speaker_0: Okay.
+speaker_1: Yeah.
+speaker_0: Pretty good. Okay, that's great. And, you know, like, also about travel, so you're originally from, um, London, right?
+speaker_1: Yes.
+speaker_0: So, and so now you're in SF, so my question is for you, like if we compare, like, the best city for live in, SF versus London, so how-
+speaker_1: Mm-hmm
+speaker_0: ... different are they for you? And I remember, like, I saw your post when you told like, "Oh, my God, like, SF is so quiet in the evening."
+speaker_1: Yeah.
+speaker_0: "There is like no nightlife," and it's like, and then you're like, "Oh, this is time for buildings."
+speaker_1: Mm-hmm.
+speaker_0: How did you feel when you moved first, then, like, how did this feeling evolve?
+speaker_1: [coughs]
+speaker_0: Like, how do you feel now?
+speaker_1: Yeah. So between London and, and moving here, I spent a year traveling around-
+speaker_0: Mm-hmm
+speaker_1: ... uh, where I went to, like, a bunch of countries, and I spent a lot of time in New York, so it wasn't like a direct transition-
+speaker_0: Got it. Okay
+speaker_1: ... London to SF. So I didn't really have that, "Oh, I'm moving." It was like I'd been-
+speaker_0: Yeah, yeah, yeah
+speaker_1: ... moving around a bunch, and then I just-
+speaker_0: Yeah
+speaker_1: ... stopped moving in SF.
+speaker_0: Yeah.
+speaker_1: Um, so it wasn't like a direct comparison. But more broadly, I think London is more fun, and there's-
+speaker_0: Mm-hmm
+speaker_1: ... more entertaining things to do.
+speaker_0: [laughs]
+speaker_1: But SF has better consistent weather, um-
+speaker_0: Uh-huh
+speaker_1: ... way more nature, way more things you can do outside, um, and is much better for work. Like, the tech ecosystem is unparalleled anywhere else in the world, and you just constantly bump into people that end up being a part of your career somehow, which is really cool and interesting.
+speaker_0: True.
+speaker_1: Um, so it's the best place in the world to be if you want to build or work in the, uh, in the startup ecosystem.
+speaker_0: A lot of people say that, like, after London, um, SF feels like a small village. Uh, I mean, maybe it's a little bit, but-
+speaker_1: Yeah
+speaker_0: ... does it feel this way for you?
+speaker_1: I feel like SF does have a bit of a town vibe.
+speaker_0: Yeah.
+speaker_1: Um, like, it, it's... There's some really beautiful areas, and it's, like, very nice views.
+speaker_0: Yeah, 100%.
+speaker_1: I spent the first four months living in SF in SoMa, and [laughs] I didn't leave SoMa or downtown.
+speaker_0: Yeah.
+speaker_1: Um, so I thought SF was horrible.
+speaker_0: I still do it sometimes [laughs] -
+speaker_1: No
+speaker_0: ... but I like it. [laughs]
+speaker_1: No, I-
+speaker_0: I love SoMa, but it depends where-
+speaker_1: You love SoMa?
+speaker_0: Yeah, yeah.
+speaker_1: I hate SoMa.
+speaker_0: Okay. Th-
+speaker_1: [laughs]
+speaker_0: We're not friends anymore. [laughs]
+speaker_1: [laughs] Uh, no, no, no judgment.
+speaker_0: [laughs]
+speaker_1: But, um, I didn't leave SF, I didn't leave SoMa and downtown, and then I was just immersed in the, the downtown city where, like, the vast majority of the homeless people are and-
+speaker_0: Where in SoMa? Like, civic center, you mean? Because it depends.
+speaker_1: I lived in NEMA. Do you know that building?
+speaker_0: I lived in NEMA, too-
+speaker_1: I know
+speaker_0: ... when I moved to SF.
+speaker_1: Yeah.
+speaker_0: Great building, but-
+speaker_1: Great building, horrible area. Yeah.
+speaker_0: ... terrible surroundings.
+speaker_1: Yeah. Um, so I had a really bad impression of SF. Then, when I moved up north more, um, like, by North Beach, Russian Hill area, it's just much nicer, and, like, you have clean areas around you. [laughs]
+speaker_0: Yeah. Okay. So, let's... Okay, like, if we compare it, so let's say culture, what would you pick? Um, London or SF?
+speaker_1: Um, London.
+speaker_0: Food?
+speaker_1: London.
+speaker_0: [laughs]
+speaker_1: [laughs]
+speaker_0: Okay. Um, nature, climate?
+speaker_1: SF.
+speaker_0: Okay, obviously people.
+speaker_1: Um-It depends what for. Like, if I wanna find people who are, like, like-minded from a work context, then SF.
+speaker_0: Okay.
+speaker_1: Um-
+speaker_0: I wonder which people-
+speaker_1: I think both though
+speaker_0: ... you can find in London. [laughs]
+speaker_1: Yeah, both.
+speaker_0: Okay. Um, shopping?
+speaker_1: Um, I don't really go out shopping. I mostly do it online, so bu- they're mine, yeah.
+speaker_0: Same. Yeah, yeah, yeah. Uh, okay. Interesting. So, let's get back to Artisan team. Uh, I know that your guys are so great in keeping your team lean.
+speaker_1: Mm-hmm.
+speaker_0: And, like, I mean, even though, like, you've raised a lot and you're always, like, expanding. But, like, for example, you don't even have, like, technically, like, a person for marketing-
+speaker_1: Yeah
+speaker_0: ... yourself. [laughs] Like, you're doing it with Tina together. So, why? Like, is it intentional?
+speaker_1: Um-
+speaker_0: Accidental? Or, like, yeah.
+speaker_1: It's not completely intentional. Like, when we first started, I tried to hire someone to do marketing-
+speaker_0: Yeah
+speaker_1: ... but I just never found anyone that was quite right.
+speaker_0: Yeah.
+speaker_1: And it turned out that we actually didn't need to have anyone in that role. Like, uh-
+speaker_0: Yeah.
+speaker_1: And I thought we did, but we didn't. So, I think it's an interesting reflection that maybe if I were starting again, I would be even more lean and think about like, do we actually need this function right now or is this something that we can grow into later?
+speaker_0: Yeah.
+speaker_1: Um, so it's been like a learning curve. I think, a lot of the time, you just lean towards filling every role because it's like, "Oh, is that what someone else is supposed to do?" But I think that we've tried to be more critical now about, "Okay, do we really need this? What does this role-"
+speaker_0: Yeah.
+speaker_1: "... need to look like? Or can someone else own that function?"
+speaker_0: Yeah, yeah, yeah-
+speaker_1: Yeah.
+speaker_0: ... exactly. No, I, I agree with you. And how do you, like, how do you hire? So, what are these criteria that you're looking for in people?
+speaker_1: Yeah.
+speaker_0: I know that you have some open roles. And sometimes people ask me like, "Oh, like, you know, I wanna join Artisan."
+speaker_1: Yeah.
+speaker_0: "Like, how can I do that?" [laughs] I have no idea. Let's ask them. So, I'm asking you. [laughs]
+speaker_1: Yeah. I think, um, broadly, people who, uh, are mission-driven and don't just want a job, and they actually want to work specifically for Artisan. Like, that's something that we always look for. Like, they're not just looking for, like, an engineering role. They specifically want to work with us, um, because they either like the mission or like the culture or something along the lines of that. Um-
+speaker_0: Or just me. [laughs]
+speaker_1: [laughs] Yeah. Exactly. Um, people who are gonna work hard. Like, we're obviously a startup, so everyone's-
+speaker_0: Yeah
+speaker_1: ... firing all cylin- uh, firing all cylinders, pushing hard to execute on the mission. Um, people who are a good culture fit, so they're gonna be supportive of other people in the company and not just focused on their own goals and on their own-
+speaker_0: That's a great point
+speaker_1: ... role functions.
+speaker_0: Mm-hmm.
+speaker_1: Um, people who we are gonna enjoy working with is another one. Like, it's nice to work with people who you-
+speaker_0: Yeah
+speaker_1: ... enjoy the presence of.
+speaker_0: Yeah.
+speaker_1: Um, I think those are the biggest things that come to mind.
+speaker_0: Okay. Like, I also know, like, I mean, but, um, how does experience matter for you? Like, are you looking specifically, like, for some superstars, you know, like, with 20 years of experience? Or, like, you're also ready to give a chance for-
+speaker_1: [clears throat]
+speaker_0: ... like, folks who are, like-
+speaker_1: Yeah
+speaker_0: ... new to this sphere?
+speaker_1: [clears throat]
+speaker_0: Like, does it matter at all for you?
+speaker_1: I think it depends on the role. So, like, we just hired a new CTO, um, and he has decades of experience. And he was-
+speaker_0: Yeah
+speaker_1: ... uh, VP at a very big startup before. So, for that role, we obviously went for someone who was extremely experienced-
+speaker_0: Yeah
+speaker_1: ... 'cause they are building an entire org. Um, for engineers, we, for the most part, try and get pretty experienced people. Uh, like a lot of our engineers have, have strong experience at great startups. Um, for other roles, it matters less. Like, uh, I think in, in marketing, it's not necessarily as important. Like, not that we've hired anyo- [laughs] anyone in marketing.
+speaker_0: [laughs] I think so.
+speaker_1: But, um, but, like, I'm not technically that experienced and, [laughs] and I'm leading that. Um, but yeah, so I think it's a broad mix. Like, depending on the function, we decide whether we need someone super experienced or not.
+speaker_0: Yeah. Mm-hmm.
+speaker_1: But for the most part, people are pretty experienced.
+speaker_0: But, um, how do you... Like, you mentioned that you've just hired, like, a really, like, great, like, superstar, well-experienced engineer, right?
+speaker_1: Mm-hmm.
+speaker_0: Like, CEO. How do you even attract them? Like, because, like, yeah, like, you're doing great, you're a well-known, but still, you're like kind of a startup, right?
+speaker_1: Yeah.
+speaker_0: Why would people leave their, like, stable jobs and careers to join Artisan?
+speaker_1: Yeah.
+speaker_0: Or, like, even in general, why would people, like, exchange this, like, you know, stable job unto, like, startup life?
+speaker_1: I think there's a few things. One, it's a lot more fun. Uh, you have-
+speaker_0: Oh, yeah.
+speaker_1: ... a lot of room to do exciting things and to have a real impact and to-
+speaker_0: Real imp- yeah
+speaker_1: ... see how what you're doing moves the needle rather than just-
+speaker_0: Mm-hmm
+speaker_1: ... doing one little button on a, on a big app.
+speaker_0: Yeah.
+speaker_1: Um, two, you have the potential upside of equity. So, your equity, if you're in a large company, is not likely to increase in value that much-
+speaker_0: Oh, yeah
+speaker_1: ... if you're in a startup. It's, it's, to an extent, it's a bit like a lottery ticket. I like to think with-
+speaker_0: True
+speaker_1: ... with us, it's more like a, [laughs] a coin flip whether you're, it's gonna be worth billions or not.
+speaker_0: [laughs]
+speaker_1: Um, but there, there's that side of it. Um, three, the culture is always gonna be more exciting and more mission-driven. Some people also just wanna work hard and they want to do something impactful and have a, a real impact in their career. And they think a startup is where you can do that. So, I think those are the things. And then, sometimes we have to convince people too. So, it's a, a pitch. But, yeah.
+speaker_0: Okay. So, like, is it fair that we say that it's less money motivation and more, like, mission, vision-
+speaker_1: Yeah
+speaker_0: ... um, like, kind of like impacts?
+speaker_1: You're always gonna get a lower base salary in a startup than you would in, in... Well, not always. But usually, you're gonna get a-
+speaker_0: Yeah
+speaker_1: ... a lower base salary than you would in big tech.
+speaker_0: Yeah, yeah, yeah, yeah, yeah. Okay. Um, and another thing that I wanted to ask you before we also ask your amazing, uh, female partner to join us- [laughs]
+speaker_1: Yes.
+speaker_0: ... is, like, what do you do, like, when you're not working and building Artisan? Like, what is, like, doing in your free time?
+speaker_1: Yeah. I'm cur-
+speaker_0: If you have time. [laughs]
+speaker_1: [laughs] Yeah. Um, I'm currently getting my pilot's license, so I'm doing that.
+speaker_0: What?
+speaker_1: Yeah. I, I have a lesson, actually, in like three hours, four hours. Uh, so that's fun. I like doing that.
+speaker_0: That's not a typical hobby.
+speaker_1: Um-
+speaker_0: Okay, I have to say, yeah.
+speaker_1: It's fun.
+speaker_0: Okay.
+speaker_1: Um, other than that, I go to the gym.
+speaker_0: Yeah.
+speaker_1: Um, I don't really do anything else when I'm in SF. When I travel, I like-... see friends and go to dinners and stuff. But when I'm in SF, I try and just stay focused.
+speaker_2: Is it, like... Is it fair to say that you're like, "Work hard, play hard?" Like, if you work hard, you also, like, have a lot of fun, like in crazy parties or it's not working?
+speaker_1: I do it in batches. So like, I, I haven't drunk for the past, like, few weeks, and I'm not drinking for the next, like, month.
+speaker_2: Yeah, you're doing, like, a sober month, right?
+speaker_1: Yeah.
+speaker_2: Or something? [laughs]
+speaker_1: Like a sober two months. Yeah.
+speaker_2: So-
+speaker_1: So-
+speaker_2: Sober two months? Okay.
+speaker_1: Yeah. So I, um, I do it-
+speaker_2: Why?
+speaker_1: ... in batches, just 'cause I wanted to really lock in. And we're, we're doing some big product work right now, and I wanted to be-
+speaker_2: Mm-hmm
+speaker_1: ... all hands on deck and working as often as I can.
+speaker_2: Okay. Okay, great. And last question, how can you describe you as a... yourself as a leader? Like, what are some features that you like about you and you dislike about you? [laughs]
+speaker_1: Yeah. Okay. Uh-
+speaker_2: I love Artisan. I'm the best.
+speaker_1: [laughs] Um, some features I like about... I, I think I'm very positive.
+speaker_2: Okay. [laughs]
+speaker_1: I try and, uh-
+speaker_2: That's cool
+speaker_1: ... be very mission-driven and center everything around, like, a big push.
+speaker_2: Yeah.
+speaker_1: Um, I think I'm good at giving feedback, and-
+speaker_2: [laughs] Even when no one asks you about that.
+speaker_1: [laughs] Yeah. And maybe sometimes... Maybe a bad thing, something unsolicited feedback.
+speaker_2: Is feedback a gift for you?
+speaker_1: Uh, pardon?
+speaker_2: Is feedback a gift? Do you agree that feedback is a gift?
+speaker_1: Yeah. Of course. 'Cause otherwise people can't iterate. I think it-
+speaker_2: Do you like getting feedback yourself?
+speaker_1: I do. I do.
+speaker_2: [laughs]
+speaker_1: [laughs] Even if sometimes it hurts a little bit, I still do like it.
+speaker_2: Okay.
+speaker_1: Um, yeah. Yeah.
+speaker_2: So what do you dislike about yourself as a leader not as a person?
+speaker_1: As a leader. Um, what do I dislike about myself as a leader?
+speaker_2: Or maybe areas where you can be better, you think.
+speaker_1: Um, I'm a pretty unserious person sometimes.
+speaker_2: Unserious.
+speaker_1: Yeah.
+speaker_2: [laughs]
+speaker_1: So even if there's a serious topic, I struggle to-
+speaker_2: [laughs] Okay
+speaker_1: ... to be serious.
+speaker_2: Yeah.
+speaker_1: Um, yeah. I think that's probably one thing. And then I... I'm also just on a journey as a leader, like-
+speaker_2: Mm-hmm
+speaker_1: ... discovering how to be optimal. So I think there's just so much that I don't know, but I also don't know what I don't know. So I try and learn from people who are further along in their journey.
+speaker_2: Yeah. And, like, because you're also, like, a pretty young founder-
+speaker_1: Yeah
+speaker_2: ... how does it feel, you know, when you even hire people who are, like, [laughs] 20 years older-
+speaker_1: Yeah
+speaker_2: ... than you? And how actually to make sure that they listen to you, that, like... kind of, like, that they understand that you understand everything, what you're doing-
+speaker_1: Yeah.
+speaker_2: That they can trust you.
+speaker_1: I... Yeah, I don't know. I haven't really had that problem. I don't know. Um-
+speaker_2: Never, no?
+speaker_1: I feel like people usually take what I say seriously. [laughs]
+speaker_2: [laughs] Even though I'm unserious.
+speaker_1: [laughs] Even though I... Yeah, I don't know. That... It's a ironic, uh, [laughs] thing, but yeah, I haven't really had that problem hiring people who are older. I think that in tech you kind of expect it to an extent, because-
+speaker_2: Mm-hmm
+speaker_1: ... a lot of the biggest companies that have been created over the past decade have been... a few decades have been by founders who have been in their early 20s.
+speaker_2: Yeah.
+speaker_1: So there's not really a stigma against being young that you might have in some other industries.
+speaker_2: Yeah. I mean, I recently met, like, some folks, they're, like, in high school and they're like... they just got accepted to YC.
+speaker_1: Yeah.
+speaker_2: So, I mean, I don't think that anything can surprise me anymore. [laughs]
+speaker_1: Yeah, exactly.
+speaker_2: And, like, they're amazing. I mean, yeah. So I guess there is, like, a certain trend that, like, founders tend to be younger.
+speaker_1: Yeah.
+speaker_2: I don't know if it's, like, for better or for worse.
+speaker_1: Mm-hmm.
+speaker_2: I guess just maybe also, like, a lot of young, younger people, they understand that now it's an option.
+speaker_1: Yeah.
+speaker_2: Versus, like, when I was younger, I didn't have this role model.
+speaker_1: Yeah.
+speaker_2: I didn't know that it can be, like, you know, a career path at all. [laughs]
+speaker_1: Yeah. And I think also you can kind of tell if someone knows what they're talking about or not when you speak to them.
+speaker_2: Mm-hmm.
+speaker_1: So people will take you seriously if it seems like you know what you're talking about with the topic at hand.
+speaker_2: Yeah.
+speaker_1: And you can't really fake that. And people have pretty good bullshit detectors, so you just- [laughs]
+speaker_2: Yeah. Yeah. That's, that's a good s- [laughs] statement.
+speaker_1: Yeah.
+speaker_2: Okay. So thank you so much. I guess now we can also invite Tina to join you to talk about your viral marketing campaign.
+speaker_1: Can't wait.
+speaker_2: Okay.
+speaker_0: Okay, guys. So, so happy to chat with you both now, right? So okay, two of you are behind all these viral campaigns, Stop Hiring Humans, like then this, uh, like, amazing [laughs] raisin billboards that, like, I've heard from so many people. They're like, "What is that?" [laughs] And then also, like, a lot of viral videos on LinkedIn and so on. So I... Like, it's pretty impressive. So what are you doing is, like, honestly, like, great. [laughs] So tell me more about that. So you have no marketing people in your team. We started talking about it, uh, with Jasper. But, Tina, maybe start with you. Like, how does it work like that? Like, just two of you randomly brainstorm and it becomes so successful. Like, what's your secret sauce? Like, how do you do that?
+speaker_2: I think... So one area, I think, that our marketing team is different, or yes, 'cause it's me and Jasper, is we, we both come from marketing backgrounds as well-
+speaker_0: Marketing team. [laughs]
+speaker_2: Yeah. [laughs]
+speaker_1: [laughs]
+speaker_2: This is the marketing team at Artisan right now. Um, but yeah, we both come from marketing backgrounds, and so I think we naturally both gravitated towards owning this function. And it's been one of the most fun areas, at least for me-
+speaker_1: Yeah. I agree
+speaker_2: ... to work on as well. So we've been able to stay really close to it. And because of that, I think because we understand the company really well, you know, obviously he founded it. I joined, you know, when it was very early days, around five employees. So we're able to stay really close to the exact brand or the exact message that we want to convey. And you also can come up with some really crazy ideas, because there's no one that you need to get approval from or you need to run things by. We can just run with ideas, experiment, iterate, and see what happens.
+speaker_0: Yeah. But also,
+speaker_3: Yeah.
+speaker_0: But also
+speaker_3: Yeah.
+speaker_0: That's crazy campaign. So, Jasper, how do you balance between being, like, super risky-
+speaker_1: Yeah
+speaker_0: ... and actually, you know, like, kind of, like, how do you... Because, like, some campaigns, you know, a lot of companies stay away from them being too crazy because they're very, like, concerned about their reputation.
+speaker_1: Yeah.
+speaker_0: So how do you balance these two things?
+speaker_1: Yeah. I think the one thing that we've noticed time and time again is that if we do something with the standard median messaging that you get from any AI company-
+speaker_2: Yeah
+speaker_1: ... it doesn't do well and we don't get any ROI. Um, and kind of ironically, if something makes people feel something and gives them some kind of visceral reaction, even if it's negative, you get a lot more ROI from the campaign-
+speaker_0: Mm-hmm
+speaker_1: ... just from a ARR generated perspective. Um, which is interesting and counter to what it probably should be.... but if you don't make people feel anything, then you don't get any ROI. So it's a game of balancing that ROI with the brand image and with the brand perception. And we've tried to hover in the middle, um, where the things we do, they do piss people.
+speaker_0: [laughs]
+speaker_1: They, they-
+speaker_0: They definitely do. I'm pretty sure, yeah.
+speaker_1: They also put the right message in, in other peoples heads. Like, they, they think of us as the company that's building AI agents and building AI employees. Um, and they understand that we have this AI BDR AVA.
+speaker_0: Yeah.
+speaker_1: So it, it gets the messaging across, and it gets it to more people because of the way we frame it. But we do have to then work on doing some positive brand-
+speaker_0: Yeah, mm-hmm
+speaker_1: ... reinforcement in order to make up for that potentially somewhat-
+speaker_0: Exactly
+speaker_1: ... damaging-
+speaker_4: Messaging
+speaker_1: ... messaging.
+speaker_0: Damaging messaging [laughs].
+speaker_4: Yeah.
+speaker_0: I like it. So what was the story, Tina, behind this stop hiring human campaigns? I guess this campaign also pissed a lot [laughs] of people off, because some people, they do really worry about, like, AI replacing them, right, and their jobs?
+speaker_1: Yeah.
+speaker_0: Which I don't think that this is the case. I mean-
+speaker_1: Yeah
+speaker_0: ... or it depends. So what was the reason? How did you come up with this slogan? And, like, tell me more about this.
+speaker_4: Yeah.
+speaker_0: That's really interesting, 'cause I think when we first, when I first joined, we had the idea to do a PR press release that wanted to really lean into the idea of people were really scared of people taking peoples' jobs. Um, but the execution on that didn't work that well, 'cause we sent out a press release. It didn't really get any traction, and so-
+speaker_1: Mm-hmm
+speaker_4: ... I know ahead of our series A fundraising, we really wanted to make a splash and just show everyone that we wanted to go big.
+speaker_0: Yeah.
+speaker_4: And so, I think Jasper was the one who just randomly one day was in the office, and he was like... We were brainstorming slogans, and he was just like, "Stop hiring humans." We were like, "That sounds good. I like the sound of that." It's catchy. It sticks in your head. It's not something that's too overly complicated.
+speaker_0: Did ChatGPT help you? [laughs]
+speaker_1: I don't think for the initial one. It helped with, like, the different iterations of how we did it.
+speaker_4: Yeah. So things like, "Artisans don't come into work hungover."
+speaker_1: Yeah.
+speaker_4: "Artisans don't do this. Artisans don't do that." So, yeah-
+speaker_1: ChatGPT helped us with a lot of those.
+speaker_4: Exactly. Yeah. So from then, you know, it was like we were bouncing ideas off j- I still remember, I think we were in that corner of the house over there. We were just, it was late at night.
+speaker_1: Oh, yeah, I remember that. Yeah.
+speaker_4: Yeah, we were bouncing ideas off of each other-
+speaker_0: [laughs]
+speaker_4: ... for the billboards, and the bus shelters, and things like that. Um-
+speaker_0: Yeah.
+speaker_4: So yeah. It was... I think we wanted something that was going to catch peoples' attention, but that wouldn't, wouldn't go too far in terms of, you know, um-
+speaker_1: Yeah
+speaker_4: ... being offensive or anything like that.
+speaker_0: Yeah. And I think, like typically, I mean, SF is well-known for all its billboards, right? Where, like, when you drive your car you see all this, like, "Oh, optimization, productivity, helps you do this, that."
+speaker_4: Yeah.
+speaker_0: Yeah, yeah. And you're just like, "Okay. Okay. Okay. Okay." You can definitely see that, like, a lot of money was invested into this billboard. They're, like, very beautiful, well-designed. But then just, like, five minutes back, like, you do not remember what was on this billboard. And then you're just like, "Stop hiring humans," right? [laughs] But, like, I think the, the most exciting one was just a recent one when, like, you and Sam just looking at each other-
+speaker_4: Yeah
+speaker_0: ... and then it's just, like, so fucked up. Like, seriously.
+speaker_4: [laughs]
+speaker_1: [laughs].
+speaker_0: But I mean-
+speaker_4: It just raised [laughs]
+speaker_1: Yeah.
+speaker_0: Why?
+speaker_1: That was a joke. That was a joke. Just to-
+speaker_0: Another joke.
+speaker_4: [laughs]
+speaker_0: O- okay. That's how you call crazy campaigns. "That was a joke. That was a joke."
+speaker_4: He's saying that now after-
+speaker_1: Yeah
+speaker_4: ... the backlash. No.
+speaker_1: Excuse me, Tina.
+speaker_0: [laughs]
+speaker_4: [laughs]
+speaker_1: You know that. That was your idea with the faces.
+speaker_4: [laughs]
+speaker_1: Um-
+speaker_4: Yeah.
+speaker_1: Yeah, so we... Basically that was another one where we were like... Some of the other campaigns had been ragebaiting.
+speaker_4: Yeah.
+speaker_1: This was a new concept of-
+speaker_4: Mm-hmm
+speaker_1: ... cringe baiting.
+speaker_4: Mm-hmm.
+speaker_0: [laughs]
+speaker_1: Where-
+speaker_0: Did it work?
+speaker_1: Yeah, yeah. It worked really well. We basically... Uh, it was actually Tina's idea to-
+speaker_4: [laughs]
+speaker_1: ... to do, like, the big f- It was kind of inspired by, like, the-
+speaker_4: The legal ones that are-
+speaker_1: Yeah
+speaker_4: ... like, injured by something-
+speaker_1: Injured, yeah
+speaker_4: ... and then call these people.
+speaker_1: And it has, like, the face on it.
+speaker_0: Traditional old school-
+speaker_4: Yeah
+speaker_0: ... billboards, yeah.
+speaker_1: Yeah. But the face's idea, I think-
+speaker_4: Yeah
+speaker_1: ... came from, from Tina. Um, so the goal was to make it super cringe and to get someone to tweet it, and then make it go up. But the problem was, it was up for, like, three weeks before anyone said anything-
+speaker_4: Yeah, yeah. [laughs]
+speaker_1: ... so it must've been hundreds of thousands of people who had driven up the 101, seen that, and just thought we were being, like, dead serious.
+speaker_4: [laughs]
+speaker_1: But then finally, this random guy, I don't know who it was, tweeted it-
+speaker_4: Yeah. Thank God for him.
+speaker_1: ... and got, like, hundreds of thousands of, of views.
+speaker_4: Mm-hmm.
+speaker_1: Um, and then I did a LinkedIn post basically explaining it, 'cause we didn't wanna, like, say it before it happened.
+speaker_4: Preemptively, yeah.
+speaker_1: Otherwise it just looked weird.
+speaker_4: Like, no one cares.
+speaker_1: Um-
+speaker_4: After three weeks.
+speaker_1: Yeah, it was painful.
+speaker_4: [laughs]
+speaker_1: Uh... [laughs] But it, it was-
+speaker_0: Did you have a moment, like, "Why did we do that?" Or no, before, while you were waiting?
+speaker_4: [Laughs]
+speaker_1: Posting on LinkedIn, I've gotten very used to experiencing extreme cringe. So I'm pretty... I have a high tolerance.
+speaker_0: [laughs]
+speaker_1: Yeah.
+speaker_4: Yeah. You have to do what the people like. Yeah.
+speaker_0: Yeah. But, like, a question, because you know, like, I mean, we've been talking with Mike, like, also colleagues about, like, how successful billboard campaigns are. And in most cases, and I talked to a lot of partners, everyone says that billboards don't work because, like, the ROI is so hard to prove. And, like, you don't get too many leads. In your case, mostly it's, like, eye-catching things. Something like, like... Did you get leads? Like, did you get what you wanted?
+speaker_4: Yeah. I think we did. I think, you know-
+speaker_1: Most of our leads come from billboards.
+speaker_0: So your billboards work. So [laughs] how come?
+speaker_1: They get way better-
+speaker_4: Yeah
+speaker_1: ... ROI than paid ads.
+speaker_4: Yeah.
+speaker_1: Or an- like any other channel we use, billboards are the highest ROI for us.
+speaker_0: Yeah.
+speaker_4: We've definitely seen an upshoot in direct traffic and organic search after putting up our billboards as well.
+speaker_0: Yeah.
+speaker_4: So that means people are putting in Artisan. They're searching for us.
+speaker_1: Mm-hmm.
+speaker_4: They're like, "What is an AI BDR?" So yeah, it's definitely doing something.
+speaker_0: Yeah. So, like, I know you've experimented a lot and tested different channels for marketing. So if you, like, you say, like, top three, what are the best? Look, I know it really depends on every company, but what would you recommend or suggest people trying? Oops. [laughs]
+speaker_4: What's our list? Okay. I'll, I'll name three, and you can tell me if you agree or disagree.
+speaker_0: You're like, "I don't agree with anyone." [laughs]
+speaker_1: [laughs]
+speaker_4: Yeah.
+speaker_1: Introative feedback, this is how we do it. [laughs]
+speaker_4: Yeah. Exactly. I think... So yeah, billboards have definitely worked really well for brand awareness and general traffic. I would say in terms of conversions, SEO and organic search work really well. We've been putting in a lot of effort and investing in that for a while now.
+speaker_0: Yeah.
+speaker_4: 'Cause that usually is the one that people give up on too early 'cause it's-
+speaker_0: Yeah
+speaker_4: ... a very long-term game. You're building up credibility. You're building up rankings. And then I think organic social is probably the other one that is really big for us. So posting on LinkedIn-
+speaker_0: Mm-hmm
+speaker_4: ... building up awareness, especially on Jasper's profile. He's got a lot of fans-
+speaker_1: Oh
+speaker_4: ... as we know. Um-
+speaker_1: Oh.
+speaker_4: And I think recently... [laughs]
+speaker_1: [laughs]
+speaker_4: Yeah.
+speaker_1: That was no, that was too much cringing. [laughs]
+speaker_4: [laughs] Yeah. Uh, and yeah, what we've realized is a lot of the other paid things like paid ads, paid newsletters, we've actually recently cut down spend on that because we've realized as much as-
+speaker_1: We don't get as much ROI.
+speaker_4: Yeah. We're getting a lot of revenue from them as well actually, and they work decently well, but just for the amount of investment we're putting in, it's just not at all
+speaker_0: Yeah. But probably, like, you probably wouldn't recommend to every company to start with billboards, right? Because that's, kind of like, expensive-... and just like, "Yeah." So, but I guess, yeah, CEO sounds pretty traditional. Um-
+speaker_1: I think organic content is the easiest thing to start with.
+speaker_0: The cheapest one. [laughs]
+speaker_4: Yeah. Mm-hmm.
+speaker_1: Uh, building a, a brand on social media and pumping out content-
+speaker_4: Yeah
+speaker_1: ... that drives people towards-
+speaker_4: Mm-hmm
+speaker_1: ... your...
+speaker_0: Do you remember this moment when you realized that you actually started getting a little followers? Was it, like, after YC or, like, what was this triggering moment when you, when it's just like, "I woke up famous"? [laughs]
+speaker_1: [laughs] Definitely still not famous.
+speaker_0: Okay. We... Tina, you have to work on that. [laughs] Okay.
+speaker_4: Work on your Instagram profile as well.
+speaker_1: Oh, great. Yeah. [laughs]
+speaker_0: There was a moment probably when it just clicked, because, like, you know-
+speaker_4: Yeah
+speaker_0: ... there is always, like, a gap between like 10,000 followers and then like 100. So, you know, kind of like... I know you're not there still, but... [laughs]
+speaker_4: By the time I joined, Artisan was already doing really well. Like, there were... I remember seeing at least 30,000 followers on LinkedIn, and you probably had around 20K. And from that even, when I was assessing companies, I was like, it's really cool at this early, they have so much of a following. It really shows that, A, either they're really good at doing marketing, or B, people are really interested in what they're doing. So, I guess that happens.
+speaker_1: Yeah. On like... I, I think the first batch of interest came from Reddit. The-
+speaker_4: Mm-hmm
+speaker_1: ... the first channel we used for growth was Reddit. It was posting... It was rage bait as well, actually. It was like-
+speaker_4: [laughs]
+speaker_0: [laughs]
+speaker_1: It was like after we raised, after we raised the first bit of funding. I would post on, like, SaaS and entrepreneur subreddits being like, "I raised, uh, $1.5 million of a $50 million valuation with no product," and no, uh, background-
+speaker_4: [laughs]
+speaker_1: ... in, in anything. And just like-
+speaker_4: No one... Who the hell is he? Yeah.
+speaker_0: [laughs]
+speaker_1: Yeah, just really piss people off, and then they would follow me engagement and then-
+speaker_4: [laughs]
+speaker_1: ... get, like, thousands of people coming to the website and-
+speaker_0: Yeah. But you know what I see different on your LinkedIn? There are definitely a lot of founders, especially YC founders, who post, like, kinda like educational helpful content. Like, "Oh, these are the slide that you need to use to raise," or, "This is like 10 top VCs you have to reach out to." You don't do this. [laughs] So you just like... I, I can't even explain how would I describe your LinkedIn. So, there is no, like, educational, like this type of content. It's mostly something catchy about the-
+speaker_1: Yeah, it's mostly, like, uh, building in public, I, I guess is the easiest way to describe it.
+speaker_4: Building in public, yeah.
+speaker_0: Building in public. Yeah, yeah, yeah. And, like, last question to both of you is, like, about this, my favorite video that you did for, like, April's Fools. But that was, like, amazing. Honestly, like, when I saw it, and I was like, "Amster Panadas here." I'm like, "Oh, yes, of course, YouTube." But like-
+speaker_4: [laughs]
+speaker_0: ... I didn't believe it right away, but maybe some people did. But then I was like, "There must be something." And then I was just, "This is genius. So this is just so fun." And I know, like, a lot of people actually believe that there is, like, you know, like, a CEO. Like, they were just like, "Oh, yes. Finally." So, how did you come up with that? And, you know, like... Because it's also kind of like a risky thing. You invested a lot of money into some just joke video. [laughs]
+speaker_4: Yeah.
+speaker_0: Like, what was the reason behind that?
+speaker_4: Well, we came up with the idea, I think, two weeks prior. We were in Vegas for a conference, and we were brainstorming-
+speaker_0: [Laughs] That's where you got inspiration? [laughs]
+speaker_4: Where the magic happens, yeah.
+speaker_1: Yeah.
+speaker_4: And we really wanted to do something for April Fools. We've been talking about it for ages, and we originally wanted to do... Do we wanna share this idea, or do we wanna keep it secret?
+speaker_1: Keep it secret.
+speaker_4: Okay. We wanted to do... We had a whole other idea that we were going to do-
+speaker_1: [laughs]
+speaker_4: ... which you'll find out about next year. Uh, but it was just... It would've taken way too much time. It was huge production, and so we were like, "We're just not gonna have enough time to do this."
+speaker_0: Yeah.
+speaker_4: So we came up with this separate idea as kind of a backup plan within, you know, 30 minutes, and then we started pulling together pieces. And by the time our conference ended two days later, we had a whole film crew ready to go. We had a location.
+speaker_1: Mm-hmm.
+speaker_4: We had an actor. And instead of going back to SF from Vegas, we switched our flights to LA, and then we filmed that weekend.
+speaker_0: Let's go. [laughs] And, like, what was the main result? I guess from what I see, it's just like that a lot of people were, like, reposting it, right? A lot of likes, a lot of comments. Like, it's really was viral.
+speaker_1: Yeah. We got a lot of, first of all, impressions. I guess that's the, the, the top of funnel vanity metric.
+speaker_4: Yeah.
+speaker_1: Um-
+speaker_4: Impressions. [laughs]
+speaker_1: [laughs] Yeah. We got a lot of awareness for it.
+speaker_0: Isn't serious, okay. [laughs]
+speaker_1: For these funny impacts. Um, I, I think one of the things that we're trying to do is make sure that we show the culture that we're building to other people, and it's like... It's a fun culture. Like, we try and-
+speaker_4: Mm-hmm
+speaker_1: ... make everything [laughs] enjoyable.
+speaker_4: Yeah.
+speaker_1: Um, and I think that it helps with a few things. One, it drove direct lead acquisition. Like, people saw that. They were like, "What do you actually do?"
+speaker_4: Mm-hmm.
+speaker_1: We spun up an AI CEO landing page-
+speaker_4: Oh, yeah. Mm-hmm
+speaker_1: ... where we collected their emails, but then we actually told them, "Oh, well, you can't actually hire this now, but you can hire IAI Video Ava."
+speaker_4: Yeah.
+speaker_1: Um, second, for hiring, people just like it when we do fun things.
+speaker_4: Mm-hmm.
+speaker_1: Like, they, they're like, "Oh, that looks like a place that I wanna work."
+speaker_4: Yeah.
+speaker_1: So it's just showing ourselves and our personalities, I think-
+speaker_4: Yeah
+speaker_1: ... externally to an extent.
+speaker_4: And I think being creative and pushing the boundaries of what B2B SaaS can be. Because everyone's like, "Oh, that's..." You know, it's usually a traditional boring industry.
+speaker_0: Yeah.
+speaker_4: There's a lot of people just trying to, you know, make money off of software.
+speaker_0: Yeah.
+speaker_4: But I think we can do so much more with that and create a brand that people follow-
+speaker_0: Yeah
+speaker_4: ... and they like and they support. And that is really powerful, just in general.
+speaker_0: No, I love it. I mean, it's so fun to watch. And I'm like... I mean, I'm always very excited [laughs] when I see like a new post. Okay. [laughs] It's gonna be something. So, yeah. So, [laughs] thank you, Tina and Jasper. So, and I think, uh, I wanna invite also Sam right now to talk more about, like, engineering and product stuff. Sam, [laughs] thank you for joining us. So, uh, we talked a lot about Jasper, about different things. So, right now I wanna start with how did you two meet? [laughs] Because I think I don't know this story, so I wanna learn.
+speaker_4: Yeah. So we met through Y Combinator. So, Jasper had started, um, like a month before I met him. Uh, he was pre-product then.
+speaker_1: [laughs]
+speaker_4: I saw him on the YC board, and then I emailed him. And he responded, and then we chatted a couple times. And then, um, I joined the team originally to lead the product team. Um, then became co-founder later.
+speaker_0: Basically just saw, like, him, like, on the, kinda like the YC website, and that's how you just reached out?
+speaker_4: Yes.
+speaker_0: Okay. And then just you had a conversation, and you realized that, like, there is a match, and you can work with each other?
+speaker_4: Yeah.
+speaker_1: Yes.
+speaker_0: It sounds, like, easy. [laughs]
+speaker_1: [laughs]
+speaker_5: Okay.
+speaker_1: That's the same as how Tina joined as well, actually, uh, originally.
+speaker_5: Yeah.
+speaker_1: Uh, like, like, five, four months later. Um, same, saw her on YC, reached out.
+speaker_0: How do you, how do you make these decisions so quick?
+speaker_1: What do you mean?
+speaker_0: I mean, yeah, how do you understand, like, if a person fits or not? Um, probably now you're more advanced and you have, like, a series, like funnel or whatever.
+speaker_1: Obviously. Yeah, now it's a lot better. Uh, to begin with, there was-
+speaker_0: [laughs] What do you mean better?
+speaker_1: [laughs]
+speaker_5: [laughs]
+speaker_0: I mean, the girls are amazing. [laughs]
+speaker_1: No, no, I know, I know. But, like, to begin with, there were some wrong decisions. Um, I think that's something that every startup goes through, making, uh, wrong decisions early and, and figuring out how to be better.
+speaker_5: Okay.
+speaker_1: Yeah.
+speaker_0: So now you're a co-founder, so how do you work together? Like, how does it, like, do you have a lot of conflicts or, like, you're always aligned on things? So how does this work at all?
+speaker_5: Yeah, we usually agree on most things, so it's pretty easy in that way. If we do disagree, we usually get over it in a couple minutes and we talk through things and then end up agreeing ultimately, so-
+speaker_1: Yeah.
+speaker_0: Who is more flexible? Are the results such a thing? [laughs]
+speaker_1: Flexible?
+speaker_5: Maybe, uh-
+speaker_0: [laughs]
+speaker_5: I guess it depends on what we're talking about.
+speaker_1: Yeah. Uh, if it's engineering or p- or, like, technical product related, then I will be more flexible 'cause I don't know what I'm talking about.
+speaker_0: You're a non-techial co-founder, right?
+speaker_1: Yeah.
+speaker_0: So, um-
+speaker_1: Yeah, it's 31
+speaker_0: [laughs]
+speaker_1: [laughs]
+speaker_5: [laughs]
+speaker_0: You're non-technical.
+speaker_5: Yeah. [laughs]
+speaker_0: [Laughs] But, uh, so Sam, like, you are, like, now you're responsible for products, right? But you've also been leading the whole engineering team?
+speaker_5: Mm-hmm.
+speaker_0: Like, tell me about it more. [laughs]
+speaker_5: Yeah, so I started my career in engineering, so I did that for, like, six, seven years, and then I transitioned into product. Um, and then I met Jasper. I was supposed to be doing product, and I ended up doing engineering just by how things were set up at the time. Um, it's fun. I like engineering still.
+speaker_1: Yeah.
+speaker_5: It's just I prefer doing more, like, the strategic work on the product side. But I think, um, it's, it's good to have context on engineering as well 'cause it makes it easier for me to work with engineers.
+speaker_0: Most of engineers are male, right? Here in the team.
+speaker_5: Yeah. I think that's just true broadly in general, like, everywhere I've worked.
+speaker_1: Yeah. Yeah.
+speaker_5: Uh, I was at IBM before, and there was maybe two girls on the team out of 70 engineers, so-
+speaker_0: That's so cool. And you're, like, a cool, like, female co-founder-
+speaker_1: [laughs]
+speaker_0: ... leading all these male engineering team. I think this is amazing. So how does it feel?
+speaker_5: Um, it's good. It's fun. It's been fun the past year and a half we've been working together. It's been very exciting. We're moving quickly.
+speaker_1: Yeah.
+speaker_0: So, okay. No, no. This is, this is amazing. So now you're focused on products, right? So what, like, what in general excites you the most about Artisan right now? Like, what are you excited for the future?
+speaker_5: Um, we have a lot of fun things coming on the product side that I can't dig into too much. [laughs]
+speaker_1: [laughs] Top secret fun things. [laughs]
+speaker_5: Yeah. Um, I think just, like, the product ideation part for me is really fun, so we've been doing a lot of that recently. Um, we have a big launch coming towards the end of the year that I'm very excited about.
+speaker_0: Mm-hmm. And just for, like, how, how do you, like, adjust your product depending on the feedback, on the customer feedback? Like, you know, like, that's what, like, a lot of people recommend. Listen to your customer, talk to your users. Like, does it work for you? What feedback do you listen to? What feedback you don't listen to because it really depends?
+speaker_1: Yeah. I think we try and listen to what the customer is looking for from an outcomes perspective, rather than the specific feature that they request.
+speaker_5: Yeah.
+speaker_1: So sometimes they'll ask us something, but they really just want the outcome that that would derive. Um, so we try and figure out what the outcome that they're asking for is and reverse engineer our way into building that into the product that isn't necessarily the same as what they ask for. Um, but everything that we build is centered around customer feedback, and we do our entire iteration and product cycles around what customers are asking for. Or what we think they're going to want, and then we validate it by asking them, "Do you actually want this?" And-
+speaker_5: Mm-hmm
+speaker_1: ... usually w- we're aligned with the customers. [laughs]
+speaker_0: Okay. What are your favorite features about Sam? Like, as a co-worker, obviously.
+speaker_1: [laughs]
+speaker_5: [laughs]
+speaker_0: Yeah, yeah, yeah. Or maybe, like, you know, like, a lot of... Very often in the team, you have co-founders that match each other.
+speaker_1: Yeah.
+speaker_0: Sometimes it happen that they're exactly similar, so how does it work in your case?
+speaker_1: Um, it's great that she's technical. [laughs]
+speaker_5: Yeah. Obviously. [laughs]
+speaker_1: [laughs]
+speaker_0: You are technical.
+speaker_1: That's it. [laughs]
+speaker_5: There is nothing more
+speaker_1: [laughs]
+speaker_5: ... you could ask for.
+speaker_1: Uh- [laughs]
+speaker_5: [laughs] Oh my God.
+speaker_1: She understands how to build a product org, which I don't.
+speaker_5: [laughs]
+speaker_1: And how to write a PRD, which I don't.
+speaker_5: [laughs]
+speaker_1: [laughs] I'm very good at dumping ideas into a long nonsensical document, but not very good at executing them and making sure they actually end up being products. So-
+speaker_5: Yeah.
+speaker_1: We balance each other in that way.
+speaker_0: What do you like more, um, most about Jasper?
+speaker_1: We don't really do compliments normally, so this is new. [laughs]
+speaker_5: [laughs]
+speaker_0: Okay. We, we get our, we get and try it out, you know. [laughs]
+speaker_5: Um, I like his energy. That's probably the best thing about him.
+speaker_1: Aw, thanks. [laughs]
+speaker_5: Jasper's very high energy.
+speaker_0: Yeah.
+speaker_5: Yeah.
+speaker_0: Okay, and, um, is there a thing, like, when you're looking for, like, new employees or people to join you, is there, like, an energy test level that is like-
+speaker_5: [laughs]
+speaker_1: No. No, we don't really care. It's just from a other place. Yeah, I don't think... I think if everyone had high energy, it would actually be a nightmare 'cause then, like-
+speaker_0: Probably
+speaker_1: ... it would just be- [laughs]
+speaker_0: Hello. [laughs]
+speaker_1: Like, two of me together would be actually kind of annoying.
+speaker_0: [laughs] Maybe. We'll see. Okay.
+speaker_1: Hina, from our product team over there, nodding. [laughs]
+speaker_5: [laughs]
+speaker_0: Is this a... Our product team? Okay. Hello. Okay, great. Thank you guys. So yeah, thank you, Jasper. And yeah, I guess we'll keep talking with girls, so... [laughs]
+speaker_5: [laughs]
+speaker_0: Okay, so one on one. [laughs] So first of all, I have to say I love beautiful, smart and technical women. [laughs] So, so great chatting with you. So can you like... Can we go a little bit back? Can you tell me how did you decide to become an engineer? Because I know that a lot of girls, they kind of like... Even if they're interested, they can be, like, hesitating because, you know, it's not like the path that they saw, like, with their moms or sisters or whatever and their role models. So how did it happen with you? Why? [laughs]
+speaker_5: Yeah. Yeah, that's a good question. So, um, I studied finance in college, actually.
+speaker_0: Okay. [laughs]
+speaker_5: And I thought I was gonna do that. So I graduated. Um, I did investment banking internships, and then I ended up working at Wells Fargo.
+speaker_0: This is from engineering? Okay. [laughs]
+speaker_5: Oh no, it's very different. Um, and then, like, nine months into my job after college, I hated it and I just wanted to get out of it. So, um, I started learning how to code.... after work each day, and then a year later I got my first job at a startup. Um, yeah.
+speaker_0: Wow. Okay. Interesting. So, um, it's kinda, like, first pivot that you did, like, an educational thing, right?
+speaker_5: Mm-hmm.
+speaker_0: So, like, kinda like, did you... Like, were you scared?
+speaker_5: Um, I wasn't really scared just 'cause, uh, I guess the pain of working in finance-
+speaker_0: Really was so bad.
+speaker_5: Yeah, like, the risk I was taking, so.
+speaker_0: Okay. And then, so you've been working as an engineer for a while, right? Like, in pretty well known, like, huge companies. So you had a great stable job [laughs]. Like, what happened?
+speaker_5: Yeah.
+speaker_0: Why did you make this pivot? And first you joined a startup, and second you also made it pivot from engineering to product.
+speaker_5: Mm-hmm. Yeah, so I was at a startup originally that got acquired by IBM.
+speaker_0: Okay.
+speaker_5: So I just stayed there for a very long time after that.
+speaker_0: Okay.
+speaker_5: Um, I worked there in engineering for, like, five years and then transitioned to product. I think, um, the reason I transitioned to product originally was I kind of had a finance background too that was interesting for some of the stuff we were working on-
+speaker_0: Mm-hmm
+speaker_5: ... at IBM. Um, and I just got involved in everything there and I, I liked it better. Yeah. What was the other question you asked me? Yeah.
+speaker_0: Yeah. [laughs] The second part, uh, okay, first pivots, uh, from a, like, kinda, like, corporate world to startup world, and then from engineering to product, right?
+speaker_5: Okay. Yeah. So corporate to startup, I think, um, yeah, I always liked working at startups. I'd worked at two startups before going to IBM.
+speaker_0: Okay.
+speaker_5: And I'm just, um, I like the pace of it a lot better, so that was kind of easy for me.
+speaker_0: Yeah.
+speaker_5: I stayed at IBM for a long time, and then I was just, uh, having an itch to work at a startup again, so yeah.
+speaker_0: Yeah. And, you know, like, I, I meet a lot of people who, like, want to make this pivot in their careers because they don't feel comfortable or not happy or, like, they kinda, like, you know, lose interest.
+speaker_5: Mm-hmm.
+speaker_0: Um, what would you recommend to those people? Because, like, it's pretty scary sometimes to make changes.
+speaker_5: Yeah. I think just, like, plan it in advance. So I had saved up a bunch of money that I could live off of.
+speaker_0: Save money. [laughs]
+speaker_5: Yeah. [laughs]
+speaker_0: Yeah, yeah, yeah.
+speaker_5: In case there was any issues. But yeah, I think that's, like, the best way to do it.
+speaker_0: Yeah.
+speaker_5: Just plan it, like, a d- a year in advance, and then it's, it's not as risky if you do it that way.
+speaker_0: But what, like, if something goes wrong, and, like, for example, you make a pivot and then you understand that actually [smacks lips] you don't feel happy?
+speaker_5: Um, I don't know. That never worried me. I felt like conviction what I wanted to shift to each time.
+speaker_0: Yeah.
+speaker_5: So yeah, I think just, like, try to figure that out before and then make the shift when you're ready.
+speaker_0: Yes, like, as long as you have some kinda, like, money saved [laughs] -
+speaker_5: Yeah.
+speaker_0: You're pretty safe, you know, like, at least for, like, certain times. So even if it doesn't go well, you can still probably get back, right?
+speaker_5: Mm-hmm.
+speaker_0: I mean, you can always go back, right? Nothing stops you from it. And, you know, like, um, we talked with Jasper and Tina about how small, or basically there is no marketing team. [laughs] They do it themselves. Uh, what about, like, product and engineering? Do you also try to keep these teams lean or not?
+speaker_5: Yeah. That, uh, that team's a little bit bigger just because of how much product we're building.
+speaker_0: Yeah.
+speaker_5: Um, we started with, like, two engineers. We had two engineers about a year ago. So we've grown quite a lot in the past year. Now we've got, um, 12 engineers.
+speaker_0: Mm-hmm.
+speaker_5: On the product side, we've started growing recently. Same with design. But yeah, engineering is the one that kinda grows first.
+speaker_0: Yeah. But you still kinda, like, try to keep it somehow lean, right?
+speaker_5: Mm-hmm. Yeah. We use tool, AI tools like Cursor, for example.
+speaker_0: You do?
+speaker_5: Yeah. So it just makes everyone move a lot faster. When I started, you had to write every line of code-
+speaker_0: Yeah
+speaker_5: ... so now it's fun to see new engineers coming in, and they have to spend, like, a quarter of the amount of time actually writing code.
+speaker_0: Yeah. Yeah. And do you think that with time it will become, that there, that it will be, like, a new trend of companies to have smaller and smaller teams?
+speaker_5: I do. I don't think we're there quite yet, 'cause you still have to do, like, the systems design layer-
+speaker_0: Yeah
+speaker_5: ... which you can't have an LLM do at the moment.
+speaker_0: Yeah.
+speaker_5: But I think in a couple years we'll get there.
+speaker_0: Yeah. And, you know, like, I think kinda, like, a lot of people are talking about this, uh, one founder or solo founder companies, right, that they will probably pop up [laughs] in the future.
+speaker_5: Yeah.
+speaker_0: I think it's the case, yeah. But yeah, I'm, I agree with you. That's kind of probably not there yet. And then also I, I wanted to ask you about some personal life. You know, like, rather than a, uh, working at Artisan, like, what do you enjoy? Like, uh, how do you spend your free time?
+speaker_5: Yeah, that's a good question. I don't do much outside of working right now. [laughs]
+speaker_0: Not a lot of free time.
+speaker_5: [laughs] But, um, I used to like to do lots of sports. I like skiing, snowboarding-
+speaker_0: Mm-hmm
+speaker_5: ... um, tennis. I'm, I'm very athletic, so I like things like that. But I haven't done much of that recently. I guess in San Francisco we go on walks a lot down by the water, which is nice.
+speaker_0: Yeah. Uh, where are you from originally?
+speaker_5: Um, I'm from Napa, so, like, 45 minutes north, so broader Bay Area.
+speaker_0: Oh, wow. So, like, SF was not kinda, like, new for you?
+speaker_5: No, I, like, grew up nearby. Would come to the city every year. So yeah.
+speaker_0: Yeah. And, you know, like, um, wrapping up our conversation, I wanted to ask you this very typical question, but still I guess every advice matter here, is, like, for women who want to break into tech or startup world or engineering, any tips from your side? Like, maybe you've seen something that worked out really well for you and they can
+speaker_5: Yeah.
+speaker_0: ... use.
+speaker_5: Yeah. I think just, like, by nature of what girls gravitate towards, there's not gonna be as many women around you when you're-
+speaker_0: Yeah
+speaker_5: ... working. Like, even in school that, in, at my school there weren't many. There was probably one in the computer science program.
+speaker_0: Did you feel comfortable-
+speaker_5: Uh
+speaker_0: ... being, like, alone, like, a- an only woman in the room?
+speaker_5: Yeah. I'm kind of a tomboy, so I've always hang- or hung out with guys.
+speaker_0: Yeah.
+speaker_5: But, um, I, I think that's part of the reason why some girls veer away from it.
+speaker_0: Yeah.
+speaker_5: Um, but I don't know. I think everyone's nice who's working on it.
+speaker_0: Yeah.
+speaker_5: So, yeah.
+speaker_0: Yeah. Okay. So yeah, th- so, like, yeah, let's go back to the tips. So this is one, right? Okay. What else, what else would you recommend?
+speaker_5: Um, [sighs] what else?
+speaker_0: Kinda like, I don't know, like, you know, mm, a lot of girls complain that, yeah, it's kinda like hard to be alone. And, like, sometimes when they, like, even go to events, you know, when they're surrounded by, like, men or other founders that, like, kinda, like, they feel, mm-So, not that confident.
+speaker_4: Yeah.
+speaker_0: Any ways to how to overcome this issue? Or just maybe just go and try things and try to impress with your knowledge? Or what's your-
+speaker_4: Yeah, I think just, like, lean into it. Like, y- y- you can learn the same skills that the guys can. And, um, yeah, I think that's all that you need to do.
+speaker_0: Yeah. And, um, how, how diverse is your team right now?
+speaker_4: Um-
+speaker_0: In general, I mean.
+speaker_4: Diverse? We have... It's probably like, I don't know, Jasper probably knows better number on this, but maybe like 30% women.
+speaker_0: That's pretty good.
+speaker_4: Um-
+speaker_0: Okay.
+speaker_4: Yeah, the engineering team is mostly guys, but we don't get a lot of female applicants. So-
+speaker_0: That's what I hear from a lot of companies, that there is, like, an issue that they just, like, not so many, um-
+speaker_4: Yeah
+speaker_0: ... demands? I would say so.
+speaker_4: Yeah. Yeah.
+speaker_0: Which is weird. But, like, for some reason, it happens. Yeah.
+speaker_4: Yeah. I think product is different. There's more girls that are gravitating towards that. Our design team is mostly guys as well, which I'm, I'm not sure why that is, but-
+speaker_0: Okay. But, I mean, cheers to more women in the team. But I guess you're doing pretty great so far, so thank you so much and go Artisan. [whoosh sound] 23-year-old Chief of Staff, Artisan.
+speaker_4: Yes.
+speaker_0: Okay, let's start with that. So, first of all, that's pretty weird that at such a young age you have this, uh, job title, right? And I'm so proud of you, but, like-
+speaker_4: Thank you
+speaker_0: ... let's clarify a little bit how it all happened.
+speaker_4: Yes.
+speaker_0: And specifically, before we we- uh, go deeper, what is chief of staff role? Like, what do you do at Artisan?
+speaker_4: Yeah. Chief of staff is... It's a funny one. I feel like everyone sort of knows what we are, but not really.
+speaker_0: Mm-hmm.
+speaker_4: I've gotten people who are like, "Oh, you just do HR? You're like chief of the staff of, you know, pe-"
+speaker_0: Yeah. Yeah. That's what a lot of people think. Yeah.
+speaker_4: Yeah. So, the term originated, if we're gonna do a bit of a history lesson, from the White House. So, you know, presidents would have chiefs of staffs. And so I think that's what Silicon Valley kind of modeled the role off of-
+speaker_0: Yeah
+speaker_4: ... is like a strategic advisor, right-hand man or woman kind of thing.
+speaker_0: Yeah.
+speaker_4: And so it's different for everyone, right? You try to compliment the skillset of your CEO. And it's interesting 'cause when I first applied to Artisan, I did not expect to be doing this role at all. I originally applied for a marketing role, they had one on YC. I was like, "Okay, that fits my skillset." I've been doing marketing and PR for the past two years. Uh, but then, yeah, when I had the interview with Jasper, he was like, "I'm actually looking for a chief of staff right now. Would you be interested?" And I was like, "I mean, I'll give it a shot."
+speaker_0: Yeah.
+speaker_4: I think it was perfect for me because I did want to branch out and try a lot of different hats-
+speaker_0: Yeah
+speaker_4: ... and see what I was most interested in. But I really didn't know what it would entail. And so he put me through a lot of different tests, uh, before I got the job and just to make sure that I had-
+speaker_0: What did he do?
+speaker_4: Yeah. So, he threw me like... He was like, "Redesign our entire website. You know, create a launch strategy for this. Make a mini, uh, go-to-market strategy." And so I had to do all these things and kind of think on my feet. And from doing that, I think I even just learned a lot of skills in the process of, "Oh, okay. These are all the things that I can do that I didn't realize I could."
+speaker_0: Yeah.
+speaker_4: So it was very cool.
+speaker_0: Uh, so you just did it.
+speaker_4: Yeah, yeah, yeah. [laughs]
+speaker_0: Yeah. And like, so basically, if we describe this role, it's actually like you're doing kinda like everything. A lot of different things.
+speaker_4: Yeah.
+speaker_0: I always call it maybe just like kind of like a set of different mini special projects, right?
+speaker_4: Yeah.
+speaker_0: And you're just, like, leading them.
+speaker_4: Yeah.
+speaker_0: And, um, yeah, because, like, your, like, hiring story is pretty interesting. So, you reached out through, like, YC website. [laughs] I think we talked a lot about YC today.
+speaker_4: YC was my first. [laughs]
+speaker_0: Cheers to its website. Yeah, yeah, yeah. So, um, any tips or recommendations for all other, like, I don't know, like male or female representatives looking for jobs right now? Because, like, it's always kinda hard to find a job.
+speaker_4: For sure.
+speaker_0: And, like, I think it takes at least, I would say, at least six months right now to find a job-
+speaker_4: Yeah
+speaker_0: ... just from zero to, like, something. So, any tips?
+speaker_4: Yeah, for sure. I think the first thing that people need to recognize is it does take time. I think I've told you this before, but when I decided I wanted to work for an AI startup, from that kind of initial thought and the research process to getting the offer at Artisan, it took me a full year to-
+speaker_0: Yeah
+speaker_4: ... get to that point. And so there was a lot of-
+speaker_0: It's motivation. [laughs]
+speaker_4: Yeah, exactly. There were a lot of bumps along the way, you know. There were a lot of times I got really close to getting a dream job or something that I was really excited about. And then final stage, you know, didn't get the offer or didn't work out.
+speaker_0: Yeah.
+speaker_4: So, you know, there's a lot of bumps along the way. And I feel like you really need that time to understand the industry, to follow these companies that you're really interested in and watch them grow and learn more about them and figure out how you might contribute your value as well. Um, general tips is just try and do as much re- research as possible. I've said this to a lot of people, but-
+speaker_0: Research about the company or about what?
+speaker_4: About the company, about the industry, about the market. Because when you come into an interview, it's almost an opportunity to just demonstrate how excited you are about the space. You know?
+speaker_0: Yeah.
+speaker_4: How much initiative you can show. So, especially for people who are interested in breaking into startups, because a lot of the time, especially early interviews, you'll be talking directly to the founder or to someone who works directly with the founder. And so, you know, the, the more you can show that you are a very proactive and very smart person who can think on their fee and take initiative, that's really important. So, examples of this include, you know, doing research on the company before and being like, "I have a suggestion for you guys to do this." Or like, "Even if you don't hire me, like, here's some advice."
+speaker_0: Mm-hmm.
+speaker_4: "I think you guys should definitely do this." Or like, "I'm happy to connect you to this person in my network 'cause it looks like you guys could use help with this."
+speaker_0: Yeah.
+speaker_4: So, it's just going above and beyond to really show that, you know, "I'm willing to hustle. I'm willing to..." 'Cause when you're at a startup as well, you have to take a lot of ownership of, you know-
+speaker_0: Yeah
+speaker_4: ... projects. You have to figure it out. So, you, you really want to show that you can figure it out before the interview even starts.
+speaker_0: Yeah. I think that's the best part about working at a startup. That, like-
+speaker_4: Yeah.
+speaker_0: ... you can definitely do a lot of things. You can feel your impact. And this is, like, so magical. But you also mentioned that you knew that you wanted to work in an AI startup. How did you know that? And, like, why AI startup? Because I, I see that a lot of people, they start struggling at this point because they don't really understand what they want to do.
+speaker_4: Yeah. Yeah, exactly. I definitely didn't know what I want to do. And I think-
+speaker_0: You're just like, "AI startup, let it be." [laughs]
+speaker_4: Exactly. I got lucky with Artisan because I honestly didn't really know what I was getting myself into until, you know, even a year later. Now I'm like, "Okay, I love what I do right now," but-
+speaker_0: Yeah. There you have it
+speaker_4: ... I think I'm happy with your choice.Happy. Yeah. I- I have to say that. I'm paid to say that. No, I'm kidding. I think [laughs] what I've realized... So what initially drew me to startups in the first place was I've always been someone I really wanna make a difference. I wanna have an impact and I want to have a seat at the table. And I think when I first joined a more traditional company, what really frustrated me was, you know, I was just this small cog in a gigantic machine. And even though I wanted to lead or I had ideas, they were like, "You have to wait your turn. You know, you have to do your course. And you know, year after year you get a little bit more promotion each year." And that really frustrated me 'cause I was like, "No, I wanna start now." And so that was the main reason I... you know, I was drawn to startups 'cause I had a lot of f- friends who were founders as well. And I just saw the dynamic pace that everyone moved at. It was really fun. And the second thing was, yeah, around AI. Um, around when I started working, November 2023, that was when ChatGPT obviously came out as well. And I was like, "This is amazing."
+speaker_0: Yeah.
+speaker_4: "There's so many things I can do with ChatGPT that I..." Yeah. You know, it halves my work. And so I was like, "I really want to, yeah, explore this more." I feel there's so much potential with what it can do, and there's a lot of places that really need more, more innovation.
+speaker_0: Yeah. No, definitely. I think ChatGPT is like, kinda like a friend that you can validate your ideas with. [laughs]
+speaker_4: [laughs]
+speaker_0: It can be everything as well. Yeah.
+speaker_4: Yeah.
+speaker_0: Uh, like you're still kinda like a taste maker, but still it's nice to test it out, you know, and just like see where you can get better. And now, like as you're happy being here at Artisan, what do you like the most about the company?
+speaker_4: Ooh, good question.
+speaker_0: Ooh. Yeah.
+speaker_4: Lots of things. Yeah.
+speaker_0: They're not listening. [laughs]
+speaker_4: Yeah. I think like, like it's been said before, the energy here is, is different. It's very young energy. I think Sam and Jasper are very ambitious founders. There's... And it's just, it's very chaotic. Like, I think one of the most exciting things, especially in the early days, was every once in a while we would have a dramatic change. We were like, "Okay, stop everything that we're doing right now. We're gonna go in this dir- this direction now."
+speaker_0: Mm-hmm.
+speaker_4: I think that can be really exciting because you're never working on anything for too long. It feels like every decision you're making is very intentional. It's like, "Okay, you know, we've tried this. It's not working. Let's move to this." It's just very fast-paced. And I think as a young person you're really excited about, you know, making an impact, you know, creating change. And so having that really... that mentality or that atmosphere where you're like, "Oh, I really can do anything. Like, if we wanna do this tomorrow, we can make it happen."
+speaker_0: Yeah.
+speaker_4: Yeah.
+speaker_0: How do you judge yourself? Or how do you evaluate yourself personally? Because probably at least, like, that works for me. You probably understand like when you're doing great and-
+speaker_4: Yeah
+speaker_0: ... when like you did something that you can do better. How- what's your internal evaluation mechanism? [laughs]
+speaker_4: Yeah. I think... I don't know. I think you're probably pretty... I think everyone who works in tech is pretty similar. I think we're all perfectionists. We're all overachievers.
+speaker_0: Yeah.
+speaker_4: So I think we tend to focus a lot on what we could be doing better and not enough on what we have done.
+speaker_0: Yeah.
+speaker_4: Um, I think especially in my role, because it's been so much learning over the past year, I have been pretty hard on myself being like, "Oh, I could do this better, I could do this better. I have no idea what I'm doing."
+speaker_0: Yeah.
+speaker_4: But it's getting to a point now where, you know, we're starting to work with data more and I'm like, "Okay, I can see the numbers going up. So that must be a good thing."
+speaker_0: Yeah.
+speaker_4: Um, but yeah, I think it's important just for myself as well to every once in a while, like take a step back and be like, "Okay, I've already done all of this."
+speaker_0: Yeah.
+speaker_4: "So let me not hold myself to impossible standards and just appreciate that."
+speaker_0: Yeah. And I also think it's okay to fail. I guess this is the metric about Bayer culture.
+speaker_4: Oh, yeah.
+speaker_0: Not failing in terms of the startup fail in general and even though, but just, like, like even marketing campaign, you test it out. It's all, like, learning experience.
+speaker_4: Yeah.
+speaker_0: Because like if you don't do it in a bad way, you will never know how it can be better, right?
+speaker_4: Exactly.
+speaker_0: So you try experimenting, you try to do different things, and then it gets better.
+speaker_4: Yeah.
+speaker_0: And, you know, like wrapping up this, like, little one-on-one, I wanted to ask you, what do you see, uh, for yourself in the future here or in general? Like, because like you're so young, early in your careers, but already doing amazing. So what are you dreaming about?
+speaker_4: Yeah, good question. I feel like my dreams have really shifted from, you know, when I was at school to even now. And so I think my life is still very much unfolding and I'm just kind of going along with the flow right now. I know when I was younger my dream was always to be a writer because I was... I studied English at university. And so-
+speaker_0: Oh, wow. Okay.
+speaker_4: I think at some point I would like to go back to... Well, I still am, you know, I'm doing a lot of storytelling right now in my-
+speaker_0: Definitely using English and writing. Yeah, true.
+speaker_4: Yeah.
+speaker_0: Communication. So I think there's something around what really excites me is, yeah, sharing, sharing stories, connecting with people in the world at large. Um, the startup space is just so cool 'cause there's so many cool ideas, there's so many exciting opportunities. Even with Artisan, there's just so much potential for where we could expand, you know, outside of sales in the future. So yeah, I'm definitely not going anywhere. I think Jasper mentioned I have a tattoo, so that's kind of me locked in. But I think in the future I would love to also just get more involved in the startup ecosystem. I know like people are always bouncing ideas off each other. They always have new projects. And so I definitely wanna be as involved as possible, just like, you know, all the exciting new things happening. London or San Francisco?
+speaker_4: Ooh.
+speaker_0: [laughs]
+speaker_4: I know. Yeah. So I'm-
+speaker_0: You lived in London, right? So we have to explain it.
+speaker_4: Exactly.
+speaker_0: I'm not just asking out of nowhere.
+speaker_4: [laughs]
+speaker_0: Yeah, yeah, yeah. [laughs]
+speaker_4: Yeah. I lived in London for... Well, I lived in the UK for five years, so I've just moved to San Francisco. Six years.
+speaker_0: Solid time. Yeah.
+speaker_4: Yeah. I feel like I, I can have an opinion on this, but, uh, for me, definitely San Francisco. I'm a little bit biased. I grew up in America, so I do feel very American at heart. Um, I have moved around a lot as a kid as well, so I feel like San Francisco has that nice balance of it's international and I am, yeah, huge lover of nature. So I go hiking almost every weekend. We have this right here.
+speaker_0: [laughs]
+speaker_4: Yeah. So I'm a big fan of that as well. Um, and obviously the tech ecosystem. I think one thing that London was missing for me was when I was trying to break into the startup scene, London didn't have as much of a built-out scene as obviously it does in SF. And I forgot who it was that said this, but one big piece of career advice as well is you kind of have to move to where the opportunities are. So if you wanna work in Hollywood or film, you should go to LA. If you wanna work in tech, you should move to SF. And I think that is still very true. It is very hard to make something happen in a place where you don't have the same infrastructure. But London is a beautiful place as well. And I go back very often to see my friends.
+speaker_0: So you're gonna wanna work in financials, you probably go to London. [laughs]
+speaker_4: Yeah. London, New York. Yeah.
+speaker_0: Yeah. Okay. So this is great. Thank you so much.
+speaker_4: Thank you.
+speaker_0: And go Artisan. [laughs]
+speaker_4: Of course. Of course.
+speaker_0: Woo. [clapping]
+speaker_4: Thank you so much. Yeah.
+speaker_0: High five.

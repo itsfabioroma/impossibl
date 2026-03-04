@@ -1,0 +1,393 @@
+speaker_0: Hey, Matt.
+speaker_1: Hi.
+speaker_0: How are you?
+speaker_1: Very good. [laughs] Thank you.
+speaker_0: [laughs] Thank you for joining me. You know, I've been planning this interview for a while, and I wanted to talk to someone who can tell us a little bit more about how San Francisco has changed with time. I moved to San Francisco two years ago, and it's very... It was very different back then than it is now, but I don't have any data to prove it. And I think the best way to talk about how city evolves is to talk about real estate. So you represent one of the largest commercial real estate companies in the world.
+speaker_1: Mm-hmm.
+speaker_0: So tell me more. [laughs]
+speaker_1: Yeah. Absolutely. Well, first of all, I've- I've been born and raised in San Francisco, so I feel like I have a unique perspective as well of, um, having lived here my whole life. But certainly things, um, change in real estate is the way to sort of put a bookmark, I think, in different parts, different chapters in history we should say. Um, and really for what we do, which is representing San Francisco based startups and, and venture firms, the separator is really pre-pandemic and post-pandemic. So, um, as you mentioned, two years ago, we were really sort of in the depths of the pandemic and to see where things have come now is, uh, is truly fascinating.
+speaker_0: Is San Francisco back?
+speaker_1: It's not back to 2019 levels, but we've certainly turned a corner, um, and things are starting to look up. Some parts of the meg- of the market are actually completely on fire. So, um, if you think about it in the kind of a K-shaped recovery, that's kind of the best way to, to wrap your head around it. High growth tech and AI is really pulling up the top end of the market, and those companies are really focused on high-end nice space, but there's a lot of older, tired commodity type buildings that need to be improved that are really struggling. So it's really a case of the haves and the have-nots. Um, for a little bit of numbers behind it, last year there was 10 million square feet of leasing done in San Francisco, which is the highest level since the pandemic. So if you're comparing pre-pandemic, post-pandemic, 2025 was the first year we sort of returned to kind of a more normal, um, pre-pandemic cycle of leasing in San Francisco. So we still have a long way to go, but we've definitely turned the corner.
+speaker_0: So, okay, so the market is hot, but it's still warming up.
+speaker_1: Exactly.
+speaker_0: [laughs]
+speaker_1: The broader market is warming up, but in the top 10 to 15% of the market, things are as hot as ever. So back to 2019 levels of hot, um, and really that's being driven by the fact that companies want to bring employees into a really nice office space, especially after the pandemic. You don't wanna bring people into a dark, dingy office that's depressing. You can't recruit to that-
+speaker_0: No
+speaker_1: ... and you're competing against people working from home. So the office has become a little bit more of a homey place. And because of that, people want natural light, they want views, they want something that's high end. And that basically has concentrated all the demand into, into one place. So what we're seeing on the ground is tour activity is as hot as it's ever been. Um, we're working late again, doing our computer work after we do our days of tours.
+speaker_0: Mm-hmm.
+speaker_1: Um, so that feels a lot like 2019.
+speaker_0: Wow. This is amazing. So like if we look at some indicators, so what indicators matter the most? Obviously we see a lot of headlines saying that the market is back, San Francisco is back, but like what does actually tell us about that it is back?
+speaker_1: Yes. Um, well, as we all know, headlines tend to lag what's actually happening on the ground. Um, and the thing that people are most focused on from a media perspective is the vacancy rate.
+speaker_0: Mm-hmm.
+speaker_1: So for a little bit of perspective on the vacancy rate-
+speaker_0: Yes. [laughs]
+speaker_1: Yeah. We were pre-COVID 3%, which is incredibly low. I mean, that's almost like there's no space available. And we saw all these companies looking for space. So it's crazy competitive. That's why prices were so high, vacancy was, was crazy low. Now we're at 32% vacant market. So we went from 3% pre-pandemic to now we've settled in at around 32%. So the vacancy rate's really high. That means a third of the office market is available. That's what the headlines tend to glom onto.
+speaker_0: But it's still good.
+speaker_1: Yes. Well-
+speaker_0: If we compare with like two years ago, right?
+speaker_1: Yes, exactly. It's gone down. Um, but what people don't understand and what don't hear in the headlines is that tenant demand is at an all-time high both pre-pandemic... I mean that all the companies, if you total up all the square footage that they're looking for in San Francisco, it's never been higher ever.
+speaker_0: Oh, okay.
+speaker_1: So the demand side of the equation has never been stronger. Um, rents are rising, vacancies decreasing, and last quarter, so in Q4, we had a million square feet of net absorption. What net absorption means is the amount of space that was leased outpaced the amount of space that was brought to the market by a million square feet.
+speaker_0: Mm.
+speaker_1: So when you have positive net absorption, that's how the vacancy rate goes down. And we've had five straight quarters of positive net absorption. So more space being let- leased than is being brought to the market.
+speaker_0: Why do companies... Why are they looking for big office spaces?
+speaker_1: It- Well, it's interesting. In this cycle, and by this cycle it's really being propped up by AI, companies are growing incredibly fast. I mean, there's a few examples of companies that they've gone from 5,000 square feet to 300,000 square feet in just a few years. And even in the, the dot-com boom era, um, or after the great, uh, recession, we never saw companies growing that fast. So not all companies are doing that, but, um, that's part of the reason why we're seeing the demand for just larger office spaces that are growing headcount so fast.
+speaker_0: Wow. Interesting. And let's talk numbers, obviously. So what do office prices look right now if we compare it to the pre-pandemic?
+speaker_1: Mm-hmm.
+speaker_0: Or maybe you can just share some kind of like options that are on the markets right now.
+speaker_1: Yeah. So the citywide average asking rent right now is around $70 a square foot.
+speaker_0: $70 per square foot.
+speaker_1: Mm-hmm. And before COVID, um, that was right around $80 to $95 a square foot.
+speaker_0: Mm-hmm.
+speaker_1: So you're seeing about a 15 to 25% discount on pre-pandemic rents. Um, so it's a great time to be a tenant in the market. There's still a ton of opportunity out there. Um-
+speaker_0: Still, not too late?
+speaker_1: No, not too late. In fact, some of our clients who feel a little bit more comfortable about their growth trajectory for the next five to seven years are locking in today's prices and signing longer term leases, and they're gonna age really well as rents continue to go up. Um, so the other thing that I think is important too, people are obsessed about, um, asking rents, and it's kind of a- a thing the media gloms onto as well.... what you're also getting in addition to a discount to asking rent, is landlords are really loading up concessions when you sign a lease. So those concessions can be, um, tenant improvement dollars to construct your space or tweak it or-
+speaker_0: Mm-hmm
+speaker_1: ... build it out as you need to, and also free rent upfront. So you actually don't end up paying rent. Say you sign a five-year lease, you might get the first five months free, which makes the effective rent of the deal go down as well.
+speaker_0: Mm-hmm. Interesting. Okay, and what are some most popular sizes that people are looking for?
+speaker_1: Yeah. It's... The most popular segment of the market, without a doubt, is under 5,000 square feet.
+speaker_0: Under 5,000 square feet.
+speaker_1: So if you translate that to team size, 5,000-square-foot office is probably a 35-person team. Um, and again, all that is on the heels of AI, and all these companies that were born since the pandemic, they're all in office, they're all 996, 20-something-year-olds, early [laughs], early founders, first-time founders, and they're in the office all the time. Um, but again, they want something nice. They want something that's better than their home. They wanna give people, um, a place to work that is a no-brainer for them to come in, wanna be there.
+speaker_0: Leave. [laughs] Work/leave. [laughs]
+speaker_1: Work/slash. We've had tons of people asking about hacker houses and-
+speaker_0: Yeah
+speaker_1: ... just really trying to bridge the, um, the at-home experience with the work experience. But to answer your question, under 5,000 square feet, the smallest segment of the market is by far the most active.
+speaker_0: Mm-hmm. Interesting. And who is moving to San Francisco? And who actually isn't? AI startups, big companies, international companies. Tell me more.
+speaker_1: Yeah. AI is the headline. [laughs]
+speaker_0: Of course. [laughs]
+speaker_1: Everyone who's in San Francisco, AI is the headline. So, um, a little bit of numbers behind that. Last year, 25% of the office leasing that was done was done by AI companies in San Francisco. 80% of the new leasing was done by AI companies. So-
+speaker_0: 80%?
+speaker_1: 80%, um-
+speaker_0: Wow
+speaker_1: ... of the new leasing. So what we're really seeing is that the legacy tech companies are still kind of rightsizing their portfolios, Salesforce, Dropbox, some of the other big ones, while the young AI companies are the ones that are, um, up and coming, growing really, really fast. What we think that means in terms of San Francisco is during the pandemic, we really saw the 30-somethings move out of the city, people with kids who had young families relocated to other parts of the Bay Area, other parts of the state or other parts of the country.
+speaker_0: Mm-hmm.
+speaker_1: And on this rebound, we've really seen that it's- it's the 20-somethings that have sort of filled in the gap there. Um, I have some friends that do apartment leasing, and they said it's never been crazier. I'm sure many people that listen to your podcast, um, can relate in San Francisco that it's really, really hard to find an apartment right now-
+speaker_0: Oh, yeah
+speaker_1: ... and really competitive. Um, and a lot of that is just the 20-something generation, the 996 generation that have come into San Francisco. They wanna work every day. They want to, uh, um, to work as hard as they can, and that's really what's driving this next boom. Um, but yeah, there's still obviously a mix of everything in San Francisco. There's financial services, there is legacy tech, but the boom and growth is all AI.
+speaker_0: Yeah. Of course AI. You know, I was talking to one of the investors recently, and he has been here also, like, forever, almost for 20 years, and he mentioned that before, everything was in the Bay Area, somewhere in Mountain View, Palo Alto. Now everything is, like, back to the city. And honestly, all, like, young, emerging companies, new companies, they're all there in the city, right?
+speaker_1: Yeah, absolutely. And it's happened really fast. I mean, 2025 was really kind of an inflection point in San Francisco. I think a lot of it was just a confluence of a couple of different things. We had a new political regime, um, in the mayor's office, in the board of supervisors. I think anybody objectively could say that the streets felt a lot cleaner and safer in 2025 than they did before. The media narrative around San Francisco really shifted in 2025. I mean, instead of the doom loop, San Francisco's, you know, headed into abyss, the headlines really sort of changed to San Francisco's coming back and things are doing really well. Um, AI obviously being the main thing, and the last piece of that was the return to office that a lot of the major employers implemented in 2025. Salesforce, Dropbox, every major tech employer in the Bay Area mandated some sort of a hybrid schedule. And the confluence of all those things really sort of created the boom in San Francisco. And to your point, it's very much concentrated in San Francisco. It's not Palo Alto, it's not Mountain View, it's not San Jose, it's not the Bay Area as a whole, it's San Francisco, and that's what's really exciting.
+speaker_0: Yeah. I can tell that there is so much more people in the city. And honestly, it feels amazing. I'm a little bit worried that it will become a New York again. [laughs]
+speaker_1: Yeah. Yeah. [laughs]
+speaker_0: Hopefully not.
+speaker_1: Yeah.
+speaker_0: You know? But we'll see. Uh, but you know, another question, and, uh, I wonder, like, what you think about that is I think that before, founders wanted to start always with starting, like, a smaller space, let's say a desk in the coworking or just, like, a coworking space. Now I talk to a lot of founders who actually want to rent an office space right away-
+speaker_1: Mm-hmm
+speaker_0: ... kinda, like, skipping this stage-
+speaker_1: Mm-hmm
+speaker_0: ... by, like, renting a coworking space. Do you see it as well? Do you feel it as well?
+speaker_1: Yeah.
+speaker_0: Or am I wrong?
+speaker_1: No, absolutely. Um, I think part of the reason for that is companies are growing a lot faster this cycle than they were before. So you just outgrow the coworking space really quickly.
+speaker_0: So there is no point even to start.
+speaker_1: Exactly. You might as well just go take your- your space. And even if you're three people, but you know you're gonna be 20 by the end of the year, it makes sense to just go rent a 20-person office, especially because rents are cheaper than they were before. That 20-person office is a little bit more affordable than it would have been before the pandemic. Um, and I think the biggest drawback that we hear about coworking is just the lack of brand identity. So if you're looking to go from 3 people to 20 people, it's just easier to- to recruit when you are bringing people into maybe your own full floor. You get off the elevator, your logo's there. There's just more identity. It makes y- gives you a little bit more of a feeling of legitimacy. But all that said, there's still very much a role for the coworking providers in the landscape. Um, the analogy that I like to use is that if you are deciding between getting your own private office or a coworking space, the coworking route is like signing a lease for an apartment. It can be done in a couple days. You can move in-
+speaker_0: Mm-hmm
+speaker_1: ... take the keys, and be up and running.Renting your own office is much more like buying a home. It can take like weeks or months just to get through the paperwork, all the legalese, get everything coordinated to move in, um, all the vendors set up. So, the other benefit to coworking is that it's totally managed, you don't have to worry about the day-to-day operations, stocking anything, um, anything like that. And, because they're shorter term agreements, they're a little bit more flexible, so let's say that you sign up for a six-person office, but you end up needing eight people, um, two months into it, if they have the space available, they usually happily move you into a larger space.
+speaker_0: Mm-hmm.
+speaker_1: So that flex is- is also still what makes coworking an attractive option.
+speaker_0: Yeah. But why do you think so many founders prefer working in-person right now?
+speaker_1: I- I think it's, it's hard to change decades and centuries of human behavior. We collaborate in-person, we work together in-person. We have these tools that help us be able to work remotely on occasion.
+speaker_0: Zoom. [laughs]
+speaker_1: Zoom-
+speaker_0: Yeah.
+speaker_1: ... Google Meet. Um, I think in general, people sort of forgot through the pandemic that there is centuries of human behavior of us being in-person that wasn't just gonna be replaced by us being able to work remotely. I can just speak for myself in our office, just the ability to go tap someone on the shoulder or yell across the office for just a little bit of information, when if you're at home you'd have to call, text, set up a meeting, it's just so much faster. The pace is so much faster. And when you're building something, there's just nothing that c- that can match the in-person collaboration and then the culture that you can build when you're in-person. Not to say you can't do it remotely, but I think that's why we're seeing such a strong pushback to office work.
+speaker_0: Yeah. And I just had a conversation with one of my founder friends, and he has like a remote team, and he told me that like never again. Like, "It's so hard."
+speaker_1: Mm-hmm.
+speaker_0: "Like, we already, like, hired these people-"
+speaker_1: Mm-hmm.
+speaker_0: "... and we love them, but it's just so hard to build a product when you are, like, in different time zones even, you know?" Even, like, if you're talking about West Coast versus East Coast, like three hours difference-
+speaker_1: Mm-hmm
+speaker_0: ... which is not so dramatical, but still it impacts, like, a lot.
+speaker_1: Yeah, absolutely. And I think the world has settled into a place... I should say tech has settled into a place, for the most part, on hybrid being the right way to do it.
+speaker_0: Mm-hmm.
+speaker_1: So a little bit of this, a little bit of that, it doesn't have to be all or nothing five days a week, it doesn't have to be fully remote, but I think hybrid gives people a fair balance where they don't need to come in every day. If they have a young family, it is easier for them to just come in two days a week, three days a week. Um, but the company still sees the benefit of people coming together for the majority of days in a week. And there's been long studies done that productivity via remote companies versus in-person work, it's so much better than in-person work for all the reasons we just talked about.
+speaker_0: Yeah. I agree with you. And what do you think founders usually get wrong when they want to rent an office space?
+speaker_1: That's a great question. Um, I think the number one thing is founders underestimate how long the process can take. And a lot of that is because we, uh, as in the brokers representing you as the founder and the founder-
+speaker_0: Yeah
+speaker_1: ... we only represent 50% of the timeline in the negotiation. There's a whole other side of the table that has their own attorney, um, their own brokers, and they work at a different pace than we can. So, we only control so much of the timeline, we can only, um, impact it so much. I think a lot of times we have intro calls with founders and they say, "We're ready to get up and running in the next 30 days, and we need to be in the next 30 days." In reality, the process takes about two to three months, especially if you wanna do it correctly. You wanna be able to survey the market, make sure you find the right space, make a decision that's the best for the company at where you are in the stage. And also-
+speaker_0: Good terms.
+speaker_1: Good terms. You wanna make sure that you're- you have enough time to negotiate. When you're rushing and moving really quickly, it just makes it a lot harder to negotiate the best terms possible. So, giving yourself enough time is number one. Number two, I- I would really say that founders have underestimated how competitive it is at the upper ends of the market. So if you want nice space, it isn't 2021 where you are the only game in town. There might be three companies vying for that space too, so you have to be ready to potentially pay up over your budget if it's a space that you really want.
+speaker_0: Hm. Okay, so prepare, like, time-wise.
+speaker_1: Mm-hmm.
+speaker_0: And also, get ready to pay more if needed.
+speaker_1: Exactly. And it's a- it's- if you aren't- if you do wanna stick to your budget, you can absolutely find a space. There's space for every budget level. That's the great part about having a 32% vacant market.
+speaker_0: Seriously.
+speaker_1: Uh, but it just might not be the space that you dreamed of or you thought you were getting. It's the classic-
+speaker_0: That's a good point. [laughs]
+speaker_1: ... champagne taste and beer money. I mean, it's a- it's- it's- you- you need to have champagne money if you want champagne taste. Otherwise, you need to have beer money if you want beer taste. That's just how it is.
+speaker_0: I love the comparison.
+speaker_1: [laughs]
+speaker_0: But, uh, how has the office itself changed?
+speaker_1: Mm-hmm.
+speaker_0: You know, it's like, what do founders w- want to have now at the office? I don't know, rather than desks, I don't know, phone booths, whatever, like event space. What is it that they want?
+speaker_1: Yeah. Um, you nailed a bunch of them. I- in general, obviously less desks than we had before. A lot more collaboration areas, both informal and formal.
+speaker_0: Yeah.
+speaker_1: Soft seating, couches, um, high tables with stools, a lot of different places where people can work. And like we spoke about, it very much is that you're competing against working from home-
+speaker_0: Mm-hmm
+speaker_1: ... so you wanna make the office sort of feel like a home. Sometimes people wanna go sit on a couch, and some people wanna be at a desk. Sometimes people wanna be at a high table. So you need to have multiple areas for people to work. And really, we've seen the office lean a little bit more into kind of the hospitality, um, side of things, so really good coffee. You still- meals are still really important. [laughs] Lunches, if you're working late, dinners are still just as important as they were before the pandemic. Um-
+speaker_0: By meals- by- by meals, what do you mean? Like, if you rent an office space that you have enough different, like, spots around? Or, like, what exactly?
+speaker_1: In k- in terms of kitchen-
+speaker_0: Or a kitchen for the private chef?
+speaker_1: ... and catering and places to eat.
+speaker_0: Mm-hmm.
+speaker_1: Um, but it's still, you know, very important that you serve lunch, that you serve dinner, whether it's Forkable or one of the other catering vendors. Um, and again, really good coffee. Some people are doing a barista in their office.
+speaker_0: Mm-hmm.
+speaker_1: Um, but one thing that you touched on, which I think is- is very much changed since before the pandemic, is we get o- often asked that...... our space needs to have an event area in it.
+speaker_0: Yeah.
+speaker_1: So many people are doing events. Um, it really felt like it made a roaring comeback in, in 2025. And more and more companies are very focused on a proper all-hand space, and a space that can flex for events, or a space that they can bring in for customers too.
+speaker_0: Mm-hmm. Interesting. But if we talk about the neighborhoods, what are some neighborhoods that you can tell they're like emerging or they're the most demanding?
+speaker_1: Everyone always asks about Mission Bay, um, because of the proximity to Y Combinator, OpenAI. Um, Jack-
+speaker_0: But it's so far away from everything.
+speaker_1: F- exa- And there's no office inventory, so it's very hard to find quality options there. Um, but everyone just wants the proximity to those engines. Um, Jackson Square, just north of the Financial District, it's-
+speaker_0: Yeah, Ja- Jackson Square is fair. Uh-huh.
+speaker_1: And everyone li- It's, it's kind of a serene, more tranquil setting. There's lots of trees. There's very charming brick and timber type buildings. Um, but again, not a big inventory. Super popular. Lot of VC firms.
+speaker_0: Mm-hmm.
+speaker_1: A lot of, um, creative agencies wanna be there too, so it's highly competitive.
+speaker_0: And I think they're much smaller. No?
+speaker_1: Much smaller. Yeah. It's very hard to get a larger footprint there. Hayes Valley is another one that people ask about all the time. Cerebro Valley, as it was-
+speaker_0: Mm-hmm
+speaker_1: ... sort of, uh, coin coming up out of the pandemic. Um, and the Mission is still really popular too. Uh, but again, those areas are not as easy accessible by public transportation. Jackson Square, Mission Bay, they're kind of on the periphery a little bit.
+speaker_0: Mm-hmm.
+speaker_1: Um, but that tends to feel like the areas that people ask about the most. The inventory tends to bring them closer downtown though, when they realize that there really is nothing compelling available in terms of those, those other locations.
+speaker_0: What about the Financial District in general? I mean, Jackson Square, they're part of Financial District, I believe so-
+speaker_1: Yeah.
+speaker_0: But yeah, just like in general, like Market Street and like closer to Embarcadero. How is this area going?
+speaker_1: Half of the San Francisco office inventory is in the North and South Financial District. So it's a 90%, 90 million, uh, square foot market, and 45 million square feet of that is in the North and South Financial District.
+speaker_0: Mm-hmm.
+speaker_1: All that to say, there's tons of options. There's tons of opportunity. Once you come downtown, you'll find double the options that you could find in Jackson Square. And because of that, they end up being a little bit cheaper actually too, just because they're competing amongst each other for su- for all this activity.
+speaker_0: So it's cheaper in Financial District?
+speaker_1: It can be, yeah. It depends, it depends on ex- exactly what it is you're looking for. But if you're looking for those kind of smaller, sub 10,000 square foot offices, a lot of times it can be cheaper in the Financial District.
+speaker_0: So which area is the most expensive for the office spaces?
+speaker_1: Mission Bay.
+speaker_0: Mission Bay?
+speaker_1: Exactly. And a- again, it's, it's because it's, um, supply constrained. There's just not a lot of inventory, and there's a lot of big companies that have gobbled up space there.
+speaker_0: Yeah.
+speaker_1: Like OpenAI.
+speaker_0: OpenAI, Uber, Bay.
+speaker_1: Exactly. And that's what makes it a little bit more challenging and more expensive. Um, but it's San Francisco. There's tech companies everywhere, and I've had, uh, many meetings with people who are from out of town, but are sort of leading the search process for office space in San Francisco. And they just hear Financial District, and they say like, "No." And you have to explain. Perplexity is in the Financial District. Chime's in the Financial District. There's myriads of tech companies. It's San Francisco, they're everywhere. So just because you're in the Financial District, um, doesn't mean that you're not littered with tech companies all around you. And the other thing about just the proximity to Market Street, you're close to Bart. You're close to Muni.
+speaker_0: Yeah.
+speaker_1: You're close to the Ferry Building. You're pretty close to Cal Train. Um, so it's obviously easily accessible for anybody coming from Marin, the South Bay, anywhere in the city or the East Bay. Um, and actually, the [laughs] entertainment, uh, amenities have become a lot better in the Financial District too. It's becoming a little bit more of a, um, after work drinks destination than it was before. I mean, there's always been some institutions in the Financial District-
+speaker_0: Right. Yeah
+speaker_1: ... where people in shirt and ties would go get drinks, but there's a lot more kind of fun, younger, um, hip places that have popped up. And again, the mayor's office has done a really good job of trying to promote some of that and make the Financial District not just a work environment, but a play environment as well.
+speaker_0: Yeah. But I'm surprised that some people do not want Financial District. For me, it's honestly the most convenient place ever, because like everything is close. You wanna go to Embarcadero, it's there. You wanna go to, I don't know, Nob Hill, it's there. Even like Mission Bay. So everything is close.
+speaker_1: Yep.
+speaker_0: And it's like very convenient in terms of the public transportation.
+speaker_1: Yeah.
+speaker_0: So I'm surprised. But I also met some people who say like, "Oh, we wanna be close to the beach."
+speaker_1: Mm-hmm.
+speaker_0: Or I don't know how actually, how popular is this request right now?
+speaker_1: It, it, uh, it's generally a pretty short conversation, because certainly people ask-
+speaker_0: Short conversation. [laughs]
+speaker_1: ... but there's, there's ju- there's just no inventory.
+speaker_0: I see.
+speaker_1: So it's very much... The west side of the city is very much residential. The north side of the city is very much residential. Um, you can find the occasional office opportunity. Um, Cursor is in sort of North Beach, uh, North Waterfront up there. And a lot of companies have asked that, about kind of being up there too, kind of where Levi's Plaza is. Snapchat's there. There just isn't a lot of inventory. So again, a lot of people ask about some of these other areas. Once you present options and they realize there's really nothing compelling, most people end up back in the Financial District. [laughs]
+speaker_0: Interesting, but I get, yeah.
+speaker_1: But for founders, I will say too, another, um, interesting area that people never ask about, but often find there to be a lot of good inventory for, call it under 5,000 square foot offices. So 35-ish people, is Union Square. And Union Square's got-
+speaker_0: Union Square.
+speaker_1: Very buzzy streets.
+speaker_0: Yeah.
+speaker_1: There's always tourists and people around. It's actually become one of the-
+speaker_0: I think. [laughs]
+speaker_1: Yeah, exactly. It's actually become one of the safest areas in the city. Um, there's a police command post at Union Square. And, and, um, crime is down like exponentially in the area. And there's a lot of these really charming small jewel box buildings, where they're, have a full floor is 3,500 square feet. So you open the elevator, it's brick, there's big windows, and you control the full floor. Just like really good identity, um, for a smaller company. And again-
+speaker_0: Hmm
+speaker_1: ... not the most popular area on first glance, so you still are getting really good deals there too.
+speaker_0: Yeah. I had some conversations with someone recently that Union Square like is not a tech area at all.
+speaker_1: Mm-hmm.
+speaker_0: And like it doesn't make sense to have any billboards there or an office there, because it's mostly for tourists.
+speaker_1: Mm-hmm.
+speaker_0: But I would also argue, because I used to live next to the Union Square, and honestly, it's pretty convenient. Like, you have Apple Store nearby. You have a lot of restaurants. You have shops if you wanna go and buy something. Uh, I mean- [dramatic music plays] I find it pretty convenient as well.
+speaker_1: Absolutely. Places to eat and drink. Um, hotels. So if you're bringing, uh, people in from, from... Either customers or investors or, um, employees-
+speaker_0: Mm-hmm
+speaker_1: ... you have a lot of places to put 'em up. Um, so yeah. I- The other thing that... Underrated thing about Union Square that people don't realize is that there's tons of parking garages too, because it was designed as like a parking hub for people to drive in from the East Bay-
+speaker_0: That's a good point
+speaker_1: ... from Marin. Parking's really easy.
+speaker_0: But do modern founders drive?
+speaker_1: Um, well-
+speaker_0: [laughs]
+speaker_1: ... yeah. Older founders, yes. Um, younger founders, scooter, bike, walk, um, Waymo.
+speaker_0: Yeah.
+speaker_1: So... But you'd be surprised. More often than not, people still would like to have access to parking, whether that be-
+speaker_0: Yeah
+speaker_1: ... keeping their options open for, um, recruiting possibilities, bringing customers in-
+speaker_0: Or investors, right?
+speaker_1: Investors, exactly. Still important.
+speaker_0: Yeah. But imagine, like, I'm a first founder. I mean, I'm not that experienced, but my company's growing. I have an AI startup, and I want to rent an office space, but I have... Like, I know nothing about it. So what should I start with? Imagine, like, I call you or like, what, what is the next step since-
+speaker_1: Yeah
+speaker_0: ... I identify this need that I need an office space?
+speaker_1: Yeah. The number one thing you can do is set up a meeting with someone like myself, and we can give you a full diagnostic of-
+speaker_0: [laughs]
+speaker_1: ... of questions, um, and things that you need to be thinking about. And a lot of times... I'll give you an example. We ask about headcount, and we ask about, "What do you think headcount might be in two years, in three years?" If you're an early stage founder, it's very hard to know.
+speaker_0: Oh, yeah.
+speaker_1: [laughs] But the, the reason we ask diagnostic questions like that is because the answer that you give us allows us to sort of translate it to real estate terms. So, if you're looking for a 20-person office, we use a benchmark of around 150 square feet a person, then you know you're looking for about 3,500 square feet of space. With about 20 people, we'd ask you how many conference rooms you think you need. Um, do you need a boardroom? Uh, what... How do you guys envision yourselves working? Is it gonna be a lot of one-on-one meetings? Are you gonna have a lot of six-person team rooms? Like, what, what's most important to you? Um, do you plan on having events? All these kind of leading questions to help us sort of diagnose exactly what it is that you think you need.
+speaker_0: Mm-hmm.
+speaker_1: Um, and then we'll go out to the market, and based on those kinds of requirements, show you how many spaces generally fit what you're looking for. So, a lot of times, if you don't feel like you know exactly, it's best to come to us, let us present options, and a lot of times, the options sort of lead you into knowing what it is you need.
+speaker_0: Mm-hmm.
+speaker_1: Especially if you're a first-time founder and this is your first office.
+speaker_0: Mm-hmm. Do you see the difference between first-time founders looking for an office space and, like, second, third-time founders?
+speaker_1: Absolutely.
+speaker_0: Do you... Like, are they looking for different things in the office?
+speaker_1: Um, I wouldn't say they would... Necessarily looking for different things, but second and third-time founders might be more steadfast about their... Certain things that they absolutely have to have. Um, so, since the pandemic, all of us are still taking virtual meetings, even if we're still in the office, oftentimes.
+speaker_0: Absolutely.
+speaker_1: So, offices that are built out with, like, six-to-eight-person conference rooms, a lot of times, they're, they're just not being used because we're not having six-person, eight-person meetings like we were before. We're having a lot more one-on-ones, or we're doing virtual meetings. So, second and third-time founders seem to be a little more adept at knowing... Uh, "Let's not optimize for those kind of medium-sized conference rooms. Let's try to find offices that have, like, a lot of really small meeting rooms." Um, they're just a little more accustomed to knowing things like that. And for first-time founders, we'll sort of help you with things like that too, but obviously, second and third-time founders are a little bit more, um, aware of those kinds of things that they know they need. All-hands, for example, too. Um, they might be a little more picky about... They want something where they can bring everyone in and have all-hands, or a place to eat. Some, some second and third-time founders, we found, are really into eating culture [laughs] -
+speaker_0: Interesting
+speaker_1: ... and sharing meals together. Um, it's like I told you, meals are still super important, which I think is, like, fascinating.
+speaker_0: Interesting.
+speaker_1: Yeah.
+speaker_0: I'm surprised to learn that.
+speaker_1: Yeah. They're just kind of cultural. Uh, people like to eat together, um, and it's kind of like a family thing, uh, and it's still just very, very important.
+speaker_0: And I think a lot of founders are looking for private chefs right now.
+speaker_1: Mm-hmm.
+speaker_0: I think that's definitely a trend.
+speaker_1: Yeah, absolutely. Finding a, a kitchen space that can accommodate that is a little bit trickier. Um, it's certainly easier to cater. But we've, we've had the request, for sure.
+speaker_0: How often do you get the request to have bunk beds or something like that at the office space?
+speaker_1: [laughs] Um, luckily, fairly rarely. Uh, the city is pretty strict in terms of, uh, offices that allow you to be able to sleep. But, um, we do have a, a sort of a product type in San Francisco called Live Workspaces. A lot of them are south of Market. They're essentially apartments, um, or lofts, where you can work as well and have an office. So, they kind of have the duality, um, of being able to be a space that's an apartment or an office, or an office where people tend to sleep. Um, it's just a very small sort of segment of the market.
+speaker_0: How, how does it look like? Work-Live Spaces, sorry. What is that? [laughs]
+speaker_1: They're generally... If you walk in, the furniture makes a big difference, 'cause you have it laid out as like an office, and you might say, "Oh, this looks like kind of a-"
+speaker_0: Kind of like a double bed right in the middle?
+speaker_1: Right.
+speaker_0: [laughs]
+speaker_1: A lot of times they have, uh, a mezzanine, where the bedroom might be up there, which can be converted to a conference room. So it kind of depends on how you wanna to use it, but they'll have full kitchens with a hood, stove, dishwasher, everything. Um, an area that could either be a living room, if you're living there, or it could be set up with desks, if you're a company. If it has a second-floor bedroom, like in a mezzanine, it could be a conference room or a bedroom. Sort of depends how you end up wanting to use it. But again, this only maybe works for a team of, like, five people or less. So, it's really, really hard to find a hacker house for 30 to 40 people, because the inventory doesn't really allow for it, and the city doesn't really allow for it either.
+speaker_0: Mm-hmm. Are there any new office concepts like open space, right?
+speaker_1: Mm-hmm.
+speaker_0: This is pretty popular still.
+speaker_1: Mm-hmm.
+speaker_0: Or, like, do you see any new trends coming up?
+speaker_1: It's a very hard industry to disrupt. I mean, real estate's been around for a while.
+speaker_0: Okay.
+speaker_1: Certainly, we've had some-
+speaker_0: I thought healthcare is the one, you know? [laughs]
+speaker_1: Yeah. Well, exactly. These are, these are antiquated industries. So, um, many have tried. It's very hard to find something that's, that's able to actually disrupt.... the norms that we were used to.
+speaker_0: Yeah.
+speaker_1: Um, I mean, WeWork was really probably the, the, the one that had the most traction, and now it's sort of pulled back into a little bit more of just a traditional real estate company than what it was before. Um, so nothing super exciting that I could say is, is gonna be like a game changer. Um, there's obviously little experiments always popping up, but this is a centuries-old business. [laughs]
+speaker_0: Okay. No news here.
+speaker_1: [laughs]
+speaker_0: But, okay, going back to numbers, just to confirm, so you said that one of the most popular segments is under 5,000 square feet.
+speaker_1: Mm-hmm.
+speaker_0: So, how much should you be ready to pay monthly, uh, if you're looking for an office like that? More or less?
+speaker_1: Yeah. I mean, I'm gonna have to actually pull my calculator out if you want me to do the actual numbers on a monthly basis, but if you're looking for about five-
+speaker_0: Let's bring the calculator. [laughs]
+speaker_1: Yeah, 5,000 square feet. Um, a nice safe average asking rent we could say is about $70 a square foot, which is the city average. So it's $70 a square foot, and, um, 5,000 square feet, that's like a $350,000 yearly rent. So, on a monthly basis, that's right around 30 grand.
+speaker_0: 30K per month if you want to have a nice office for like 35-ish people-
+speaker_1: Ex-
+speaker_0: ... in San Francisco.
+speaker_1: Yep.
+speaker_0: If we look at other cities across the country, is... like, are the prices, um, signi- significantly lower?
+speaker_1: Um, yes. Generally speaking, San Francisco's always on the higher end nationally. New York's also on the higher end. The difference between San Francisco and New York, San Francisco's a 90 million square foot market, New York's 480 million square feet. So it's- [laughs]
+speaker_0: A little tiny difference. [laughs]
+speaker_1: [laughs] Right. And so, because it's such a vast market, you can find segments of the market where rents are $250 a square foot in New York, but you can also find rents that are $30 a square foot. So, it has something for everybody. Um, San Francisco, other than New York, there's segments in Chicago where there's more expensive rents.
+speaker_0: Mm-hmm.
+speaker_1: Um, but San Francisco's always gonna be one of the leaders of the pack. It's one of the, the top 10, um, most expensive real estates markets internationally as well.
+speaker_0: Does it mean that prices in the Bay Area are lower or getting lower, or not really?
+speaker_1: The general Bay Area, um, rents have gone down, but the reason why it's really hard to give sort of blanket statements is that, you take Palo Alto, for example. Palo Alto as an entire market might see rent decrease, but downtown Palo Alto concentrated around the CalTrain station-
+speaker_0: Yeah
+speaker_1: ... rents are always really high. So, again, it's, it's... it's what makes it hard to make blanket statements generally about what's going on, because different segments of the market in different pockets operate differently, even within somewhere like Palo Alto or Mountain View.
+speaker_0: Most common mistakes that you see startups are making while they're looking for their office space?
+speaker_1: I think a lot of times people are focused on square footage. Um, understandably so. It's just how big your office is gonna be. Instead of focusing on the layout, so the design, and how it functionally, um, operates for your company.
+speaker_0: Mm-hmm.
+speaker_1: And also not focused enough on flexibility. And the reason for that being if you're in growth mode, you don't wanna sign a five-year lease. You don't know how big you're gonna be in two years. So, making sure that you find something that has a certain of lease term to allow you to grow and find that next office is really, really vital. You don't wanna find, um, an office where you have to lock yourself in too long when you're still at the stage where you're growing.
+speaker_0: Mm-hmm. What are these, like, what is the average timeline that you have to lock in the office for?
+speaker_1: I think for... Oh, for the most part, um, if you're-
+speaker_0: Three years? Mm-hmm
+speaker_1: ... looking at a direct lease, landlords are really gonna push on the shortest end, three years. Um, but for nicer spaces, five, seven, 10-year leases.
+speaker_0: Ooh.
+speaker_1: And that's where subleases come in, and that's what, um, many of our clients take advantage of. So basically, another company that still has three years of, of term left on their seven-year sublease, we'll put their space on the sublease market, hopefully 'cause they're growing it onto a n- another space. They'll leave all their furniture behind. It's already cabled. Um, and another company will come in and take over that lease for the remainder of the term. They get the benefit of, of less capital expenditure upfront because the space is already furnished, it's already cabled. They can sort of plug right in. Um, the term is shorter. And generally speaking, rents are, are pretty much on par with what direct rents would be, but you save a lot of money in that kind of upfront capital that you're saving because you're taking over a, a space that's ready to go.
+speaker_0: Is it the same as, like, apartments markets? When you move in, the office space is completely empty?
+speaker_1: Uh, for the most part, yes. But subleases, like I just described, are so popular because so many of these companies wanna move quickly, that furnished, plug-and-play, ready-to-go space, um, is leasing so quickly. Landlords who traditionally have just given you a vacant space are now actually furnishing it themselves-
+speaker_0: Hmm
+speaker_1: ... because they know for the most part what 80% of the tenants in the market in that size range are gonna be looking for in terms of desk count, what the conference rooms need to look like. They'll just go in, spend the money upfront to furnish it, because a furnished new space is leasing like that. And then because that all-time tenant demand that we tal- that we talked about, more companies than ever looking for space, they're looking for more space than they ever have before. If you're delivering a quality space, it will absolutely get leased in this market. There's just no doubt about it.
+speaker_0: So if you were a founder, where would you rent your office space? Which area?
+speaker_1: We talked about it earlier. I, I think Ja- uh, Union Square, 'cause actually-
+speaker_0: You'd go with Union Square.
+speaker_1: I would go with Union Square because it's very affordable. Um, there's a, a large inventory of full floor, under 5,000 square foot floors-
+speaker_0: Mm-hmm
+speaker_1: ... in these really charming boutique jewel box buildings.
+speaker_0: Mm-hmm.
+speaker_1: The streets are really buzzy. There's nightlife. Um, if I had female employees, I don't feel like they would be nervous about walking down the street at night.
+speaker_0: Mm-hmm.
+speaker_1: Um, there's always just people around. Uh, for that reason, I would definitely lean Jackson Square. Or sorry, Union Square.
+speaker_0: Union Square. That's true. Um, any predictions that you can give for us for the future of how SF market will change?
+speaker_1: We don't wanna give predictions necessarily, but what I can say based on the current market conditions is that so long as AI, um...... doesn't have some sort of large change happening that's unforeseen. Um, we're probably about the third inning of a nine-inning baseball game, meaning we've just started to rebound. Rents are up, vacancies are down, five quarters of positive net absorption, but that's really just the beginning. A lot of times cycles in San Francisco will be on an upswing for between 5 and 15 years. So if that's the case, we just started. Um, and for that reason, I, I think for founders, the most important thing to know is that, yes, things are starting to trend upward, but there's still never been a better time to be growing your business in San Francisco. Um, you should feel lucky to, to be sort of a part of this next wave. And from a real estate perspective, from an office perspective, you've never had the optionality that you're gonna have today. Again, remember, just in 2019, the market was 3% vacant. And we would see seven, eight companies vying for one space, um, having to put up massive letters of credit just to be able to get their foot in the door to possibly be able to lease it-
+speaker_0: Yeah
+speaker_1: ... $100 square foot rents, so we've come such a long way from that point. Um, you should feel really good that real estate is not gonna be a headache for you.
+speaker_0: Are you... Can you say [laughs] that the rent will be more and more expensive?
+speaker_1: Um, obviously can't say that for sure, but based on current trends, uh, it's absolutely looking that way. And again, like I pointed out, um, some of our clients who are more comfortable with their three-year, five-year, seven-year growth trajectory, maybe they're just a little bit more mature tech companies, they're starting to look at potentially locking in today's rents for a longer term, because they feel that rent is gonna age pretty well against the market in the next three, five, seven years.
+speaker_0: Okay, so probably 2026 is a really good time to think about your office space-
+speaker_1: Mm-hmm
+speaker_0: ... if you're hesitating, right, and lock it in-
+speaker_1: Mm-hmm
+speaker_0: ... before it's not too late- [laughs]
+speaker_1: And be-
+speaker_0: ... and not too expensive.
+speaker_1: And before all the quality options go away.
+speaker_0: Go [laughs].
+speaker_1: So... And the way to think about that is the market is 32% vacant. In reality, there's probably 20% of that inventory is tired, old commodity-type spaces and buildings that, because our construction prices are so high, landlords don't have the money to be able to invest to make them nice new spaces. Tenants don't wanna invest the money to make them nice new spaces 'cause there's so many other options available where they don't have to spend all that money. So in reality, yes, the market's 32% vacant, but maybe only 10 or 15% of that is quality stuff that, that you would wanna lease. And again, on the demand side, all-time record demand, there's a lot of other companies that are thinking the same thing you are. So, all that high record demand is really concentrated on, like, the top end of the market, and there's a big chunk of it that's just never gonna lease in this cycle until somebody's able to put money into it, reinvest it, do new lighting, furnish it, build out the appropriate size conference rooms, give you an all hands space and event space. It's just gonna sit vacant.
+speaker_0: Unless you're completely desperate. [laughs]
+speaker_1: Yeah, exactly. [laughs] Well, and that's, that's how we got to 3% vacant is that, um, before the pandemic, things were so crazy, you didn't have a choice. You just... You had to take that space because it was the only option you had. Now with so many options, those ones are gonna sit until everything else gets leased up, but that might still be five, 10 years away.
+speaker_0: How do you compromise?
+speaker_1: In what's... From what standpoint?
+speaker_0: No, I mean, as a startup founder, as a company owner, how do you compromise if you want to have everything, but obviously, your resources are limited? So when you talk to clients, how do you maybe push them in the right [laughs] direction or, like, how do you explain them that, "Hey, listen, you may not have this, but this one is so much better"?
+speaker_1: Yeah. A lot of times, um... Well, the easiest way is budget. [laughs] Um, it's the biggest sort of, um, f- like, refiner of your scope. If you can open up your budget, it makes the options a lot, a lot greater. Um, but obviously, not everyone can do that. And so, like we touched on earlier, I think what actually tends to happen is that the inventory sort of speaks to what you need to compromise on. So, a lot of times we'll survey options, we'll do a... You know, you'll, you'll have 20 options initially to look at. Maybe we go two or the top six that you liked, and that will sort of give you the indication of what it is you might need to compromise on. You gotta let the inventory sort of tell you, uh, what the answer is. So, it might be that space was absolutely perfect for us, but the landlord is insisting on a five-year lease. We would need to sign a five-year lease to take that space. Okay, maybe we do that because this space is so nice that even if we outgrow it in two years, we know that we'll be able to find a subtenant-
+speaker_0: Mm-hmm
+speaker_1: ... for the back half of it and be able to get out of it. It's a little bit of a roll-of-the-dice in the future, but people are feeling confident enough in where we're at in the market now that they, they feel like they can find a subtenant for the back end of that lease. So, a lot of times, it's term. You might wanna only do an 18-month term, but the options that you like might be a minimum of three years. Then you roll the dice, you do the three-year lease term. If you outgrow it, it's a good problem to have. You'll maybe have 18 months on the backend to go find a subtenant, but again, plug and play, 18-month space. For the same reasons you wanted it right now, you're hoping someone else is gonna want it when you're moving out.
+speaker_0: Yeah, interesting. Okay, I have some repertory questions for you.
+speaker_1: Okay.
+speaker_0: So, meaning that you need to provide me short answer.
+speaker_1: Okay.
+speaker_0: Let's see what you say.
+speaker_1: [laughs]
+speaker_0: Is SF still number one city to build a startup?
+speaker_1: Yeah, without a doubt.
+speaker_0: [laughs] Office as a cost center or culture engine?
+speaker_1: I'll be a little more long-winded on this one.
+speaker_0: Please do. [laughs]
+speaker_1: It's absolutely a cultural center, it always has been. I, I always say San Francisco's always been one of the most expensive cities from a labor perspective and a real estate perspective, and there's a reason all the companies still want to be here. It's just, uh, for culture, for, um, idea sharing, for access to capital, access to customers, there's just still no better place.
+speaker_0: Mm-hmm. I think I've... I kinda, like, asked you about that, but still, one neighborhood in SF founders should bet on right now.
+speaker_1: Union Square, and then I'll do a second and third place, would be the North and South Financial District.
+speaker_0: North and South Financial District?
+speaker_1: Mm-hmm.
+speaker_0: Okay, interesting. What's the biggest disconnect is in the market today?
+speaker_1: Construction prices. Um...Yeah. Um, so again, giving you a short answer, we have the most expensive market for construction in the entire country. So, the problem that it's creating is that all this supply that we have, 32% vacancy, 20% of it needs construction-
+speaker_0: Mm-hmm
+speaker_1: ... but the landlords don't have enough money to do the construction, and the tenants don't want to do the construction.
+speaker_0: Mm-hmm.
+speaker_1: If construction prices were cheaper, landlords would just do the work and we'd have all this great space-
+speaker_0: Mm-hmm
+speaker_1: ... but we have 20% not-so-great space.
+speaker_0: So, by construction, you mean like renovating the space, right?
+speaker_1: Exactly.
+speaker_0: Got it. Okay. One thing founders should stop optimizing for when choosing an office?
+speaker_1: Square footage. I think it's more important to optimize for layout and flexibility.
+speaker_0: Are lease terms getting shorter or longer?
+speaker_1: Generally shorter. Um, in the nice, high-end products, longer.
+speaker_0: Mm-hmm. Biggest surprise you've seen in San Francisco office demand last year?
+speaker_1: Just the speed with which the demand side, uh, blew up. That we've ha- had so many companies looking for so much space, it really felt like it happened in, over the course of one year.
+speaker_0: I, I see so many founders asking for bunk beds. I'm sorry. [laughs]
+speaker_1: Yeah.
+speaker_0: But literally, so many. I'm surprised that you do not get this request.
+speaker_1: No.
+speaker_0: Maybe they're scared to tell, uh, the real estate agent directly, you know? [laughs]
+speaker_1: I think so. I think it's a hard no from us.
+speaker_0: Yeah, definitely. Uh, what is something that is tripping founders and their teams up when they move into a new office space?
+speaker_1: Um, I would say not finding an office space that has, um, the appropriate number of small conference rooms. Because if you haven't been in an office, you don't tend to think about the fact that people are on virtual calls still all the time. Um, and a lot of times, you might take an office with two six-person meeting rooms, and one person's in one, one person's in the other, and they are both on a Zoom call. It's not very efficient.
+speaker_0: Definitely not, right. If a founder waits another year to sign a lease, do they win or lose?
+speaker_1: If they're looking for very high-end space, lose. If they're okay with more commodity space, win.
+speaker_0: Interesting. Office perks that matter in 2026, and ones that don't matter anymore.
+speaker_1: Mm-hmm. I would say very much it's the functionality over perks, so making sure that you have an office with multiple places for somebody to sit down and work, whether that's at a, a high table, a couch, um, a desk. You wanna make sure that you've got multiple options.
+speaker_0: Couches are really popular. [laughs]
+speaker_1: Very popular, very popular. Um, and also getting really expensive too.
+speaker_0: Oh, yes.
+speaker_1: So, I would say that just the, uh, the optionality of places for people to work is a perk that people are really, um, passionate about. Um, and what's not as important, I would say again, are those six, eight-person team meeting rooms, that they're just not being utilized like they were before.
+speaker_0: Um, a follow-up question. Uh, do you see that modern founders don't need like a separate office space for the CEO, as like maybe more traditional or old-school founders used to ask for?
+speaker_1: Yes. Definitely less so. Um, that doesn't mean it doesn't still happen.
+speaker_0: Yeah.
+speaker_1: But, yeah. And a lot of times, I mean, we're seeing a lot of the AI founders are in their 20s, and they don't wanna be in an office. They [laughs] wanna be with everybody else too. So, it's definitely more of a legacy tech thing for the CEO to have their own office-
+speaker_0: Mm-hmm
+speaker_1: ... but obviously, once you get to a certain size, call it, you know, 100-plus employees, the, the f- the CEO and generally the C-suite will have their own offices.
+speaker_0: Okay. Anything, like your final tips that you would recommend to founders looking for their office spaces right now?
+speaker_1: Yeah. I would say give yourself enough time. I know it's hard. You-
+speaker_0: At least three months.
+speaker_1: Exactly. Your timeline, um, generally is different than the real estate timeline is. It's a lot shorter. Um, and we will do our best to sort of bridge the gap, but make sure that you give yourself enough time. That way, you can be opportunistic, find the right space, and make sure that you get that space at the right terms for you.
+speaker_0: Amazing.
+speaker_1: Mm-hmm.
+speaker_0: Thank you, Matt. I guess you answered all my questions, and I'm definitely so excited about the future for San Francisco. I love our city. I hope you do too. [laughs]
+speaker_1: Yeah, absolutely. Let's do it again next year.
+speaker_0: Yeah. Let's see how it changes. [laughs]

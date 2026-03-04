@@ -1,0 +1,417 @@
+speaker_0: Hi, Sasha.
+speaker_1: Hi, Dasha.
+speaker_0: Thank you so much for coming. Super excited to have you here.
+speaker_1: Good to see you, as always.
+speaker_0: [laughs] Thank you. So let me do like a quick intro view. So I've been waiting for this, uh, conversation for a while for a number of reasons. So first of all, I think you are the most founder-focused founder [laughs] that I know, and you're a perfect representative of the Bay Area culture, meaning that you're always super responsive, kind, friendly, ready to share your wisdom and knowledge. So that's impressive. [laughs] Another thing is you are like a serial founder, right, and you have collectively raised over $1 billion of dollars in venture capital and debts. You're an ex-YC alumni. Uh, you raised your company, raised to unicorn status before Puzzle. You're a CEO of Puzzle, which is a modern accounting software for ambitious founders that I'm happy to be part of right now, too. And you're also a father. You have two kids, so... And also you're a speaker and you do multiple other things. So that is so, so impressive. Did I miss anything?
+speaker_1: That's- that's a good amount.
+speaker_0: [laughs] So, okay, let's do step by step. So I'd like to start, of course, with Puzzle. So can you tell me a little bit, because it's your current venture, you're working on that, so why Puzzle? How did you come up with this idea?
+speaker_1: I think one of- one of the things that is really important when starting a company is it has to be something that you're really passionate about, uh, and you have to be really excited about it because it takes a long time to build a big, iconic, uh, or enduring company. And in that, there's gonna be lots of ups and downs. So if you aren't ready to go through the better-for-worse, just like getting married-
+speaker_0: Oh, yeah [laughs]
+speaker_1: ... like for better, for worse, you have to be excited about it. One of the things I found in Puzzle is when I was scaling my last two companies to hundreds of employees and raising a lot of money, that one of the things that I was constantly frustrated about was not being able to make data-driven decisions about the finances of the company.
+speaker_0: Mm-hmm.
+speaker_1: And so, I think Vinod Khosla put it really well, which is founder's intuition is a really powerful force. When you can combine founder intuition with real-time financial health data, you can make better decisions about the success of your company. And so that was the thing that I got the most excited about. How do we help founders, regardless of their background, who are passionate about solving a problem, have the most important data available at their fingertips to make really important decisions?
+speaker_0: Awesome. So, basically, it was, like, a personal problem that you faced, and you wanted to find a better solution. So if we summarize it, basically, what, like, what problems does Puzzle solve?
+speaker_1: Puzzle solves three really important problems.
+speaker_0: Mm-hmm.
+speaker_1: The first is every company in the entire world has to file taxes.
+speaker_0: Oh, yeah. [laughs]
+speaker_1: It is a requirement by the government.
+speaker_0: Yeah.
+speaker_1: And so the first and foremost, you need to be able to have software to be able to prepare your taxes. That's accounting software, and that's the first thing Puzzle does.
+speaker_0: Yeah. Taxes. Okay.
+speaker_1: The second thing that Puzzle does is it helps you understand your business, the financial health of your company. Now, traditionally, those are your financial statements and your metrics.
+speaker_0: Mm-hmm.
+speaker_1: And what that does is you- you historically would get a very summary report a couple weeks after the month ends. Meaning that in the end of September, you are now getting to see the data from August to compare to July right about when October hits. Well, that's kinda too late.
+speaker_0: Yeah.
+speaker_1: And so I need to understand my business today, be like navigating a boat through the ocean and saying-
+speaker_0: Yeah
+speaker_1: ... "You know, remember three months ago, you were at this very specific point." But you're in a specific spot today trying to get to your destination tomorrow. You can't have summary data from months and months ago. And then the third thing is we help you with design so that anybody of any background can become almost an expert in accounting without having to have any background in accounting.
+speaker_0: Yeah.
+speaker_1: And so we make it very intuitive to understand what is your business, what's changing in your business, um, in a way that thousands of founders have, uh, have made it... Thousands of founders have given us feedback, and they've said, "Okay, now I finally understand what's changing my business."
+speaker_0: Mm-hmm. Yeah, I know. I think accountant is a very unique sphere, I would say, so a lot of founders struggle with that, right? And the way that you're trying to make it easier, I think is super, super helpful. By the way, do you know why, like, why- why is it so challenging for everyone? Like, is it, like, such a difficult sphere, or, like, why, like, people constantly struggle with taxes or, like, accounting?
+speaker_1: Yeah, it's a good question. I haven't found a really great way to articulate this in a succinct way that makes sense-
+speaker_0: Yeah [laughs]
+speaker_1: ... other than it takes six years to become a CPA.
+speaker_0: Ooh.
+speaker_1: So it's not something that you can just pick up a book and learn about in a weekend. Two, because it's very simple math equations, it feels like it should be pretty easy. This plus this divided by this.
+speaker_0: Yeah.
+speaker_1: It's very basic arithmetic, but it is very basic arithmetic with, like, 100,000 if-then statements that have to work-
+speaker_0: Yeah
+speaker_1: ... 100% of the time in every possible case. And then third is, when you're very early in your business-
+speaker_0: Mm-hmm
+speaker_1: ... accounting actually is pretty simple. You probably don't have too much revenue or any revenue at all.
+speaker_0: Yeah.
+speaker_1: And you have a couple employees and maybe a little bit of expenses. You're probably on a free plan of almost every software that you're using. It's not that complicated. But as you hit product market fit, it becomes very complicated very fast. You have stuff you're paying on time, you have stuff you're paying later. Some stuff goes to your balance sheet. Some of it goes to your P&L. Some stuff is in a foreign currency. Some stuff's in a US currency. There's a lot of if-then statements.
+speaker_0: Sounds complicated. [laughs]
+speaker_1: Uh, and so you have to handle all of those every single time in every edge case.
+speaker_0: Yeah. I got it. Uh, and you know, like, so when we talk about this, uh...When we talk about AI specifically, you know, why Puzzle is possible right now? Like, do you think that AI somehow made it easier right now to empower Puzzle to help founders?
+speaker_1: Yeah. So I'm gonna answer that in two ways.
+speaker_0: Yeah.
+speaker_1: AI, AI makes accounting much easier in two particular ways.
+speaker_0: Mm-hmm.
+speaker_1: One is accounting requires context to what something is. And if you don't have that context, it makes it very hard to do accounting. In fact, it makes it impossible to do accounting. So the easy example is if you buy something at Apple-
+speaker_0: Mm-hmm
+speaker_1: ... you know what you bought. But if you just see Apple in your accounting software, we don't know what that is. Now, if you just bought it and all of a sudden we alert you and say, "Hey, Dasha, yesterday you bought something at Apple-"
+speaker_0: Yeah.
+speaker_1: "... what is that?" Now, large language models or LLMs can be very good at interpreting that and saying you can just say, "This was a computer I just bought for somebody new at my company." Well, we can interpret that. We've trained it to interpret that against your specific chart of accounts, understand accounting rules and policies, and apply that. So typically, that would require three years and 37 journal entries. Or you can now just respond and say, "That's a computer." The second place is there's a lot of things in accounting that require upfront configuration. And so by setting things up in an upfront configuration, the system can then run and train and learn.
+speaker_0: Mm-hmm.
+speaker_1: And so what the other aspect is continuing to find inferences in what you did before to make sure you're doing the same thing into the future and spotting anomaly detection. Historically, you'd have to write a rule for every possible anomaly you can think of. Now you can do that, but you can also supplement it with AI to help make sure that your books are accurate. Accounting is about completeness and accuracy.
+speaker_0: Mm-hmm.
+speaker_1: And what AI can do is help make both the completeness and the accuracy much less work.
+speaker_0: Interesting. Do you think AI will ever replace accountants in general?
+speaker_1: I don't for one or two very specific reasons. One is, as a founder-
+speaker_0: Yeah
+speaker_1: ... I am personally liable for the accuracy of my books.
+speaker_0: Yeah.
+speaker_1: And so I am always gonna want a human to, who is an expert, to say, "This is both complete and accurate." And so whether it is a human making mistakes, we call that human error, or it's AI and we call that hallucinations, which is like-
+speaker_0: Yeah. Yeah, yeah, yeah, yeah
+speaker_1: ... a fun term for human error. There are mistakes that are gonna happen.
+speaker_0: Yeah.
+speaker_1: The difference is there are laws that make me personally liable. As long as I'm personally liable, I can't tell my shareholders, I can't tell the IRS, "Oh, AI prepared it. I'm off the hook." No. They have to be accurate, they have to be accurate to my standards. So I'm always gonna want an expert there. That said, I think the role of an accountant is going to change from doing fairly tedious manual work-
+speaker_0: Mm-hmm
+speaker_1: ... to getting to spend time being the expert on financial health, helping me or any other founder spend more time making the company better. We're literally taking the experts in financial health, they've studied six years to become experts, the reigning experts in financial health of a company, and we're making them do rote categorization and rote checks and balances. That's crazy. They should be doing much higher level strategic work-
+speaker_0: Yeah
+speaker_1: ... and working with the founders.
+speaker_0: Yeah. No, I definitely agree with you. But the idea of Puzzle, right, is that founders can do everything themselves, right? So they can go to the platform and they can do everything easily so they don't necessarily need an accountant to help them.
+speaker_1: I think there's four stages. If you're a brand new founder and you've just incorporated your company, our, um, onboarding is so intuitive that a founder can do it themselves.
+speaker_0: Okay.
+speaker_1: And we help them show where the problem areas are and, and how they need to fix them.
+speaker_0: Mm-hmm.
+speaker_1: And we make that very intuitive because when you're in the early days of, uh, accounting, your accounting is actually somewhat fairly simple. As you start generating revenue and you need to start doing specific accounting things like revenue recognition or you start maintaining a more appropriate balance sheet-
+speaker_0: Mm-hmm
+speaker_1: ... then what we do is we effectively make your accountants and your bookkeepers have much more superpowers.
+speaker_0: Yeah.
+speaker_1: And then the third stage is when you're getting much bigger and you're doing very complicated accruals or you need to pass an audit or you're starting to expand-
+speaker_0: Yeah
+speaker_1: ... internationally, we help make all of that rote work much more efficient so that your team can help spend more time making you more effective at improving your business.
+speaker_0: Mm-hmm. Okay. That makes, yeah, makes a lot of, uh, makes a lot of sense and definitely very interesting. Yeah.
+speaker_1: Hold on. I wanna, I think there's two, I think there's two really important points to make here.
+speaker_0: Sure.
+speaker_1: I think one is if you are a brand new founder-
+speaker_0: Yeah
+speaker_1: ... Puzzle is the first solution that provides an alternative to doing nothing, which is bad because you have to pay taxes and you're just building a bigger liability-
+speaker_0: Yeah. You have to
+speaker_1: ... or hiring a very expensive bookkeeper when your early days of your accounting are very simple. And so what we solve is a new option for brand new founders to be able to stay compliant-
+speaker_0: Mm-hmm
+speaker_1: ... have most of their work done, and be able to do it themselves. We're empowering founders to do it. As they grow and expand and you need to have an expert because it's either getting complicated or too time-consuming-
+speaker_0: Yeah. Mm-hmm
+speaker_1: ... then what Puzzle solves is we have a whole network of accountants on our platform and you can just press a button and they've been pre-vetted experts in accounting and tax. But secondly, we make their jobs so much more efficient. So instead of your delivery now being, "Hey, here's a huge set of financial statements-"
+speaker_0: Yeah
+speaker_1: "... I hope you know what these mean and good luck."
+speaker_0: [laughs]
+speaker_1: To this very interactive, really value-added review at least once a month with your accounting team or your outsourced bookkeeper or your finance team to say, "Here's the state of our business. Here's what's changing. Is this what we expect? And what do we do to improve it?"
+speaker_0: Yeah. And, you know, why is it so important for founders to actually be in charge of their financial health? Because very often, you know, when I talk to founders they say, "Oh, you know, I don't care about accounting because I have, like, my, my accountant for this, our CFO, so I don't really know what we use or what we do." Like-And I think it's like, it's wrong, uh, because I guess as a founder, you have to be, like, leading that. You have to be responsible for everything. So, why is it so important for founders to actually, you know, keep track of these things?
+speaker_1: One of the top reasons why companies go out of business is because they run out of money. And so if you aren't tracking and understanding-
+speaker_0: Yeah
+speaker_1: ... what makes you more money and what costs money, then you just have a higher likelihood of going bankrupt. And so the first thing that we solve is helping you have real-time visibility into your cash flow and your runway to help you avoid being bankrupt, whether you need to change pricing, increase revenue, go raise money, or whatever the sort of main sort of culprit is to running out of money. The second thing is, if you don't understand your financial health, and you're not a trained expert in accounting and finance, well, you're just sort of leading your company blind. It'd be like saying, you know, "I'm healthy because I've looked in the mirror." Well, it doesn't mean I don't have diabetes, or I don't have cancer, or I don't have some-
+speaker_0: Yeah
+speaker_1: ... brain illness. Like, I'm not an expert in physical health. I know who I am, and I have a gut sense. But why would you not go have an expert-
+speaker_0: Yeah
+speaker_1: ... give you the evaluation, give you a real-time health marker, so that you can do it? We've made it so easy. And for early-stage companies, it is completely free. There's no longer an excuse to not knowing it. And the third is, listen, if you're just fucking around by yourself in your room, and you're calling yourself a founder in title, that's totally okay. But what if you have employees and you have partners and you're working with other people? That is the responsibility of a CEO. So you can no longer say, "Oh, I'm like a founder in title only." When you start having the obligation-
+speaker_0: Yeah
+speaker_1: ... responsibilities of building a real business, you need to take this seriously. It is a core part of your job responsibility. And you would never hear this from a second-time founder. You don't hear a second-time founder being like, "Oh, I don't really care. I just outsourced it, and I'm not paying attention." Of course not. This is only a weird discussion, especially with like venture back founders here in Silicon Valley, where they're like, "I don't really care," and like whatever. It is a responsibility of every company to have a CEO. And if you want to be a CEO, you can be a founder, but if you want to be a CEO, somebody has to be the CEO of a company. Their job is to responsibly allocate the resources of a company, which are people and money. And if you aren't paying attention to your money, and you aren't paying attention to what people are working on, you are for sure decrea- decreasing your chances of being successful.
+speaker_0: Yeah, and I think, uh, like, it's a question for mostly like first-time founders, because second-time founders, as you mentioned, they always know, right, the value of the accounting and of keeping track of their financial health. So they're more careful with that, right? And, you know, uh, another question is actually, so if we can summarize the benefits, you know, having an accountant only-
+speaker_1: 'Cause I have a great thing. So-
+speaker_0: Okay. Sure, sure, sure.
+speaker_1: So, a fr- Well,
+speaker_2: [laughs]
+speaker_1: So [laughs] 'cause you, you brought up in the beginning, you're, you're a parent, I'm a parent.
+speaker_0: Yeah.
+speaker_1: And, and so this past weekend, I, uh, a, a friend of ours let us borrow their boosted board.
+speaker_0: Okay.
+speaker_1: Like an electric skateboard.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: And I'm sitting there with my kids, and I was like, "All right, you have to put on your helmet, and you have to put on elbow pads, and you have to put on knee pads-"
+speaker_0: Yeah.
+speaker_1: "... and we're gonna go really slowly."
+speaker_0: Yeah.
+speaker_1: And they're like, "Uh, I don't really need to, I don't really need to." And they're doing, they get the hang of it. And then we went a second time, and they didn't wear their elbow pads. And what happens?
+speaker_0: [laughs]
+speaker_1: Boom, they bite it.
+speaker_0: I know what happened.
+speaker_1: Smashed both of their elbows, scraped up-
+speaker_0: Yeah
+speaker_1: ... knees scraped up. And they're like, "Ow, what are you doing?" And I was like, "Listen, I told you."
+speaker_0: Yeah.
+speaker_1: "And now what are you gonna do? Now that you're a second-time rider, you're gonna wear your pads." [laughs] Similarly, we all have to learn-
+speaker_0: That's a great comparison
+speaker_1: ... our lessons.
+speaker_0: Yeah.
+speaker_1: We all have to learn our lessons. It's just ridiculous that first-time founders have to learn the lesson of going through bankruptcy in order to take the responsibility of being a CEO seriously.
+speaker_0: Yeah. I had exactly sa- same situation with my kids [laughs], so I totally got it. Yeah. And this is such a great comparison. Uh, you know, so basically, like knowing your financial health, your finance, uh, financial insights daily is kind of a protection, right, for your business. So you're kind of aware of everything that's going on, and this is so important. And, you know, the other thing is taxes, right? So, the tax season is here. So, how does Puzzle help with taxes? I know you touched it a little bit already. Can you please share more? And also, any like, I don't know, like red flags for founders to be aware that when tax season is coming, like you have to start thinking about this, I don't know, one month before, two months before, whatever. Like, because I know it's a very burning topic for a lot of founders, and usually, they start thinking about it the last minute when it's already too late or you're so busy, and like you have a lot of problems already.
+speaker_1: Yeah [laughs], yeah. It happens all the time. So I think the first news is it happens to almost everybody.
+speaker_0: Okay-
+speaker_1: And so-
+speaker_0: ... so we're safe here [laughs]
+speaker_1: ... you're not alone as founders-
+speaker_0: You're not alone. Yeah
+speaker_1: ... uh, as owners. I think the things to remember are the moment you incorporate your company is the moment you start accruing a tax liability. So-
+speaker_0: Yes
+speaker_1: ... as soon as you're a legitimately incorporated company, you have to do it. Um-
+speaker_0: Okay
+speaker_1: ... the amount of time it takes to do your accounting is not finite. Actually, the longer you wait, the more complicated it gets-
+speaker_0: Mm-hmm
+speaker_1: ... because you have to go through every dollar that comes in and out of your business, and you have to com- make sure that it is complete every month-
+speaker_0: Yeah
+speaker_1: ... and you have to make sure it's itemized. And so if you have waited, so let's say you incorporate June of one year, you file an extension in April to October 15th-
+speaker_0: Mm-hmm
+speaker_1: ... of the next following year. You still have to do all of that work no matter what. And so again, today, if I said, "Yesterday, you went to an Apple Store"-
+speaker_0: Yeah
+speaker_1: ... you know exactly what it is. If I say, "You know, in March 2022, what was that Apple purchase?" You are not gonna know. You're gonna have to dig through your emails-
+speaker_0: Yes. No, I do.
+speaker_1: ... find the receipts, forward it along-
+speaker_0: Exactly
+speaker_1: ... then itemize it, and then you have to back-accrue it. So, there's all of these other implications. The challenge becomes if you aren't doing a little bit all the time, then by the time you need it because you're in the middle of tax or M&A or any of these other major-
+speaker_0: Yeah
+speaker_1: ... inflection points, you have to do all of that work again. And you have to find somebody. Right now, a couple weeks before tax filing is due, it is very hard to find somebody who will do it, because 50%-
+speaker_0: So it's already late.
+speaker_1: It's already too late.
+speaker_0: Okay. [laughs]
+speaker_1: It, it... You have e- you... The 50% of all accountants and tax professionals quit over the pandemic. So there's a massive labor shortage.So the best way to do it is to sign up for Puzzl, go through and start making sure everything is okay. We'll help you all the way through it, and then hopefully we can help you find somebody. But if not, after tax season is over, you can find somebody to help you do a late filing and you'll pay a little bit of penalty, but we'll take care of it. We'll help you get through all of that.
+speaker_0: That is so supportive. [laughs]
+speaker_1: I'm the founder and multiple times, like, this stuff is complicated and hard and, um, but it, it... You shouldn't have to not know what good looks like in order to make it work. So one of the things that we spend a lot of time doing is making sure that we have a network, we've designed it with your needs in mind-
+speaker_0: Mm-hmm
+speaker_1: ... and w- we're there to help support you to make you sure that you're, you're compliant and ready to build an enduring company.
+speaker_0: Awesome. Okay, so summarizing the tax question. You have to plan, like, ahead of time, right? That's not to be too late and you have to be careful because, like, all good accountants are already, like taken or whatever, so, right? You have to be very mindful about this process. And what-
+speaker_1: The good news is-
+speaker_0: Yeah
+speaker_1: ... April 15th-
+speaker_0: Oh, there's good news
+speaker_1: ... happens the same time every year.
+speaker_0: [laughs]
+speaker_1: And October 15th happens the same time every year. So you can plan in advance-
+speaker_0: Ahead of time
+speaker_1: ... you know when those dates are. [laughs]
+speaker_0: [laughs] Yeah, I feel like, uh, people always think about it and then something happens and they forget. But yeah, that's, that's a good thing to remember, that it's always at the same time. And-
+speaker_1: Right. It only takes-
+speaker_0: Yeah
+speaker_1: ... it takes, on average, two and a half minutes to set up your Puzzl, have all of your draft financial statements and your metrics done. So there's literally no excuse because in the two and a half minutes you're watching this video, just open up another browser, type in puzzl.io, and you can just get started. It's, like, so, so easy.
+speaker_0: And fast, yeah. [laughs]
+speaker_1: And fast.
+speaker_0: Another thing is fundraising, right? Right now it's also like, I think a season of fundraising, so startups fundraise. Uh, how can Puzzl make this process easier for companies who are looking for investments?
+speaker_1: So the level of scrutiny of your financials gets bigger the further you come along. So if you're in the early days, um, having financial statements, even if they're good enough, is good enough. But imagine going to somebody and saying, uh, "Hey, investor, I'm building this thing and I would like to, like, I would need some money in order to do this." So you're fundraising. Um, and they're g- like, "Okay, great. Um, let's go through this and tell me some of your metrics. Great. Can you send me over the financial statements?" And you're like, "Ooh, I don't know what those are," or, "I don't have any."
+speaker_0: Mm-hmm.
+speaker_1: I mean, so if you're not paying attention and able to comply with things that are legally required, that are common knowledge, that are easily solvable in the market-
+speaker_0: Mm-hmm
+speaker_1: ... the question is immediately gonna become, "What else are you not doing to stay compliant?" Um, and so it's not really an excuse of, like, "Oh, I didn't know that I had to file taxes," or, like, "I didn't know I had to have financial statements." Ta, now you do, uh, and that's it. So, uh, I think it brings in the skepticism and when we did a survey of, of, I think a couple of dozen venture firms and we said, "Of the deals that you like, what are the top reasons why you would pass on not investing?"
+speaker_0: Oh, interesting.
+speaker_1: And one of the top three reasons was they can't provide their financial statements.
+speaker_0: Really?
+speaker_1: So you get through, you find an investor.
+speaker_0: Yeah.
+speaker_1: You're pitching tons of investors. You finally get somebody to say yes, and then you can't complete the due diligence over something as obvious and common knowledge as you need to have your accounting. That is just such a frustrating thing to have to go through.
+speaker_0: Yeah. Okay, so it's clear, so when you are about to fundraise, so how does it help you to communicate with your investors?
+speaker_1: Yeah. So d- as your business starts becoming more mature, you're generating revenue, you have customers, you have to understand-
+speaker_0: Yeah
+speaker_1: ... your burn and your runway. One of the common problems that we hear is, "I have my story," and I'm telling, it's, like, really exciting narrative. "We're gonna change the world and we're gonna build this thing-"
+speaker_0: [laughs] Yeah, yeah
+speaker_1: "... and it's gonna be, like, amazing. And here's the proge- and here's, like, what we're gonna do." And then you have your financial statements and they just don't match, right? So it's sort of a, what is the gap between your version of reality and the actual reality?
+speaker_0: Mm-hmm.
+speaker_1: And the closer you can make those things align-
+speaker_0: Mm-hmm
+speaker_1: ... the better it is. So the way to solve that isn't by lying. That's typically what people do. They go in either naive or completely unaware. It's to say, "Here's where we are in our journey to taking over the world and this is the amount of money we've spent, this is the amount of money that we'll need. Here are the milestones that we're gonna achieve." But when you go to fundraise and they say, you say, "I wanna raise this much money," the first question is, "Why and what are you gonna do with it?" What is that? That is accounting. Accounting for the money in the business. [laughs] So you have to be able to answer this. It's less important what the actual answer is, it's just more important that you have an answer.
+speaker_0: Yeah. No, yeah, thank you for sharing. And summarizing this, like, big topic, obviously, so as far as I see, we can make the following statement that, like, Puzzl empowers company actually to grow, so it helps founders to save their time, focus on growth, less on accounting, but at the same ta- time keeping track of all the, like, financial situation and, like, basically, it's the tool that empowers founders and help them scale. Am I correct?
+speaker_1: Yeah, exactly. The other way I like to sort of think about it is, uh, most of the time as founders, one of the things that we care a lot about is being a customer-first company.
+speaker_0: I love it.
+speaker_1: And you can't possibly be a customer-first or a customer-centric company if you are about to run out of money. So what we do is we help you alleviate the anxieties to be able to be actually customer first, to solve a customer problems because you have a good sense of your financial health and you're prepared for that fundraising or that M&A moment.
+speaker_0: Yeah, and I guess solving your customers' problems are the key to success, right? Because you need to give them what they want, adjust, work on your product and so on.
+speaker_1: It's very hard to charge somebody money if you're not solving them problems, a problem
+speaker_3: [laughs]
+speaker_0: 100% I agree with you. That's for sure. And, you know, the other part of questions I want to focus on some of your, like, you know, experience and learnings from your founder's journey as well. So, and of course, you know, the first one is probably your... the, the mistakes, the most common mistakes that founders make and maybe you made during your fundraising journey for other founders not to make. [laughs]
+speaker_1: There's so many, because I think-
+speaker_0: I, I, yeah, I'm sure [laughs] -
+speaker_1: If there was a-
+speaker_0: I'm sure there are
+speaker_1: ... a list of problems that founders make, I think I've checked almost all of them off a box along the way.
+speaker_0: Oh, lucky you.
+speaker_1: Uh, and so, uh, what I get to do now is help solve them for other people along the way. So, I would say-
+speaker_0: That's good enough too [laughs].
+speaker_1: [laughs] Or at least advise them, uh, not to. I think one of the, the more common mistakes, um, is just not being intentional with the time and the money of, of your company. So, there's two really valuable resources and it, it's hard to get them back, and that's time and that's money. So, being really intentional about what you're doing with the time and the money is really important for any business or any type of initiative that you're trying to do. Um, I think tactically some of the same mistakes that, that we made before is that as a founder, um, I think a lot of times, I'm used to being... working harder, uh, thinking I'm smarter than other people.
+speaker_0: Mm-hmm. Mm-hmm.
+speaker_1: Um, and so the nature of that is trying to do too many things myself. Um, and, uh, and so I think one of the things is you have to hire good people and empower them to be really successful. The other part of that that I think is really important is not letting go of being in the details. And so how do you do that? Because I, I don't have time to do everybody's job, nor should I, nor am I as good at that.
+speaker_0: Exactly.
+speaker_1: And so one of the things that I spend a lot more time doing this time around that I didn't last time is writing things down. What are the principles in which we operate? What are the values in which we uphold as a company? What is the goal of what we're trying to achieve and how are we going to achieve that? Because then as you hire more and more people or you, uh, are en- empowering people to make decisions, they're making decisions in line with your expectations. Um, and then the last piece, uh, that I think a lot of founders do poorly is they don't grant enough equity to their team. Uh, and so there's-
+speaker_0: Hmm
+speaker_1: ... sort of this general imbalance. And I, I think that you want to create the incentives that align towards, like, long-term success. And paying a lot of attention to the incentives, uh, of what you're doing, either inadvertently or inadvertently, is, is a really important overlooked skill.
+speaker_0: That's so interesting. But, you know, I want to take one step back about the corporate culture because you touched on this question and I think it's very interesting. Because how do you know which, which culture do you want to have in your company? So, like, for example, for you, like, how do you, how do you understand these values? What's important for you? What's not?
+speaker_1: You've touched on, I think, one of the most important lessons, uh-
+speaker_0: [laughs]
+speaker_1: ... for founders. So, I'm glad you did that.
+speaker_0: Let's go for it.
+speaker_1: Yeah, yeah, yeah. [laughs] Good job, Dasha.
+speaker_0: Yeah.
+speaker_1: Um, everybody is different and everybody has a different set of values.
+speaker_0: Yeah.
+speaker_1: And that is totally okay. Building your company in the vision of somebody else's personality is just a recipe for disaster because-
+speaker_0: [laughs]
+speaker_1: ... you're not being who you are.
+speaker_0: Yes.
+speaker_1: Every successful company has a different and unique culture. And so you can have a very cutthroat, ruthless culture and be successful, like Uber. You can have a very, like, collaborative and empowering culture-
+speaker_0: Mm-hmm
+speaker_1: ... like Square and be very successful. Twitter was very successful under Jack Dorsey and is... will, will be very successful under Elon Musk. Like, very different cultures, same product.
+speaker_0: Yeah.
+speaker_1: So, you as a founder should think about what are the things that you care about, what is the culture you want to create. Because if you're gonna spend five to seven days a week for five to 15 years of your life building something, it shouldn't be this, like, pretend version of you. It has to be who you really are. And so you build the culture around yourself.
+speaker_0: Yeah.
+speaker_1: You don't adapt to your hypothesis and vision because it's just going to fall apart at some point.
+speaker_0: And I guess it's really hard to change anything later, right? Like, if you build it from day one and then in five years, it's really hard to change it. But, uh, are there any specific values that you care about at Puzzle right now?
+speaker_1: Generally, everybody has their own strengths.
+speaker_0: Yeah.
+speaker_1: And strengths overused become weaknesses.
+speaker_0: Yeah.
+speaker_1: And so you have to find the balance of your superpowers-
+speaker_0: Yeah
+speaker_1: ... and the behaviors. Because if you create a set of values that you can't live-
+speaker_0: [laughs]
+speaker_1: ... like, you're gonna look-
+speaker_0: That's even worse. That's even worse
+speaker_1: ... like a hypocrite.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: And you're like, "Well, I am the founder and CEO, so I'm going to act this way, but all of you guys have to act this other way." That's not okay. And so when we think about what are the values that I uphold and how do we propagate those into the behaviors of the company, I think the four things that are really important is first is that customer info security and, say, trust is the first and foremost thing.
+speaker_0: Mm-hmm.
+speaker_1: So, there are no exceptions to investing in info security, um, at the high standard in the early days. The second is customer has to trust you and the product.
+speaker_0: Mm-hmm.
+speaker_1: You're a brand new company, nobody knows you, so much is relying on your reputation and it's very easy to take shortcuts for the sake of the pressure of venture.
+speaker_0: Yeah.
+speaker_1: And so customer trust and customer value first, uh, are the first two. Um, the second is I like to debate. That is okay.
+speaker_0: Okay. [laughs]
+speaker_1: But at the same time, we can't have infinite debate. We have to be able to come to a decision. And so that is teams work together. And that means you have to be able to disagree and commit, uh, because we're not a family, we're a team.
+speaker_0: Yeah.
+speaker_1: And I think that's really important. Um, and, uh, there's a fourth one on our website that I'm not remembering right now.
+speaker_0: [laughs] That's okay. You can, you can remember it and, and share it later. But, but these are great. And, you know, I also wanted to continue this conversation, how do you actually attract top talent, right? Okay, maybe you're the second-time founder and it's a bit easier for you. But as a first-time founder, right? When no one actually knows you, how do you convince people to work on you and say like, "Hey, come join me. I promise it will be fun and successful"? So, how do you do that?
+speaker_1: Yeah.That's hard. Uh-
+speaker_0: [laughs] Thank you.
+speaker_1: ... [laughs]......... to say [laughs]. If we think about partnerships and marketing and recruiting and fundraising in a somewhat similar theme, the first thing you have to do is you have to attract somebody's attention.
+speaker_0: Mm-hmm.
+speaker_1: So what is your narrative and what is your counter-narrative? Um, you have to know what you stand for and you have to know what are the things that make people pay attention. Um, Helen on our marketing team came to me and said, "Your first five words have to earn you the right to your next five minutes." And so, you have to pay a lot of attention. So I think, uh, in the early days it's really hard because nobody knows who you are.
+speaker_0: Yeah.
+speaker_1: So you have to lean into your advantages. Paul Graham, I think, recruited because he used Lisp as a programming language. And so he found the very early adopters of this new language and he said, "Okay, well, I'm gonna attract the very best early stage engineers-"
+speaker_0: Mm-hmm.
+speaker_1: "... because of this." In my first company, there was almost no startups in San Francisco. And so we used our advantages, you can have a startup in San Francisco. And that was fairly unheard of in 2010. Um, this time around, we're leaning into some of the strengths, which is, it's a big vision.
+speaker_0: Mm-hmm.
+speaker_1: Um, I'm a second time founder. Uh, we're, uh, funded by some of the best investors. Um, and while I get excited about accounting-
+speaker_0: [laughs]
+speaker_1: ... it's usually not the thing that leads with-
+speaker_0: [laughs]
+speaker_1: ... how you attract great people-
+speaker_0: Yeah
+speaker_1: ... at this, like, obscure thing. Now, the good news about accounting is it's relevant to every company. So there is a very large-
+speaker_0: True
+speaker_1: ... universe of people. That's an attractive component of accounting. The second part is, um, well, I don't think so, you could say. Accounting can be boring, um, but it's really important to everybody, which makes a big market. But what if we could actually make this relevant? And so we talk about the real-time ability to help entrepreneurs build enduring businesses. Well, everybody has worked for an entrepreneur at some point.
+speaker_0: Yeah.
+speaker_1: They want their entrepreneurs making better decisions. They want to work for a company that's going to be valuable. And so you can make it appeal to the common owner of, don't you wish your leadership did this? And almost everybody that's worked in the startup scene long enough has worked for some founder who's making gut decisions and tanks their company, even though they've worked really hard. And so I think you have to appeal to your audience, um, and that is different than, um, your customers and your employees and your investors. They all need a slightly different narrative, um, and that's okay. But, but you have to find your first, wh- what do you stand for and what's unique about you?
+speaker_0: Yeah, makes total sense. And, you know, the other question I wanted to ask you, of course, and as an experienced fundraiser, any tips here? Anything that you can recommend in terms of finding the right investors, fundraising tips, rather than getting all your financiers, you know? Like [laughs] and have them ready? What else?
+speaker_1: Um, I think there's a, there's some wisdom behind companies... What is it? Companies aren't sold, they're bought. Is that the right thing? You have to have the right story at the right time to the right audience. And so in order to know when is the right time to fundraise-
+speaker_0: Mm-hmm
+speaker_1: ... um, you need to kind of have three things together. Um, the first is you have to have a really compelling fundraising narrative. And, um, we built these templates with Notion that are incredible and they're free for every founder on Notion's website, and it teaches you how to think about what is your unique angle in fundraising. Um, and then the second piece is, your business has to be ready. It's hard to fundraise if you can't articulate why what you're doing is compelling-
+speaker_0: Yeah
+speaker_1: ... and what you're gonna do with that money. Um, and then the third thing is, uh, you have to have, you have to be in a position of strength. And sometimes that means you don't need the money. That's a really good way to start fundraising [laughs].
+speaker_0: [laughs].
+speaker_1: The other part is, if you're not a great actor, and most of us aren't, um, you have to create a mechanism to drive FOMO, or fear of missing out. And that doesn't mean, I'm like kind of fundraising sometimes and I'm not. When your business is in the right place, you should be prepared. We actually have ano- another Notion template out there about how to be prepared for your fundraise.
+speaker_0: Yeah, yeah, yeah.
+speaker_1: It's also free and available for everybody.
+speaker_0: It's a really good one, yeah.
+speaker_1: Um, so you, you're prepared, you have the right story, the timing is right, and then you go. So the prime example is for, l- um, Puzzle. Um, w- what we're building now, we had the due diligence room always ready because, well, that's just my style anyway and most second-hand founders.
+speaker_0: Yeah. Yeah.
+speaker_1: The second is, we were picking what our narrative was. And the third is, we hit an inflection point. And so we knew what investors we wanted to target, we knew what the story was, we had everything already pre-prepared. So when the business hit that inflection point of the growth curve to where our growth was literally going up exponentially, we knew that was the right timing. We had our full target list, and then we went hard for weeks. Said, "All right, here's who we're gonna fundraise from, here's the story, here's the narrative." And so you create that urgency amongst yourself-
+speaker_0: Mm-hmm
+speaker_1: ... which creates the urgency amongst investors, um, and then it works. And then you're also spending less time actually fundraising because I've seen and heard founders go on for months and months and months-
+speaker_0: Yeah
+speaker_1: ... because-
+speaker_0: Can be so hard
+speaker_1: ... they're like, "The business isn't ready, they're not prepared, their fundraising story is mediocre, they don't have a network." And so you're not using all of the tools available to make your fundraise successful.
+speaker_0: So don't start unless you're not ready, right? So when you're ready, you can start. And yeah, like, you should probably, when you start, you have to dedicate a lot of time and, and, like, attention to this specific process, right, to make it go fast and efficient.
+speaker_1: Yeah. Look, similarly, like, if you're trying to go, you know, date or pick up somebody in a bar and you're wearing a terrible outfit-
+speaker_0: [laughs]
+speaker_1: ... and you don't have a pickup line and you're not ready and you can't tell a compelling story about-
+speaker_0: Yeah
+speaker_1: ... why you're, like, a good person to date, like it's, of course it's not going to be successful. Like you want to go in, ideally, like, when you're dressed to impress, you have a good story-
+speaker_0: Oh, these are good tips
+speaker_1: ... you got a job [laughs]. Yeah, yeah. You're here. Um, or-
+speaker_0: Yeah, yeah, yeah
+speaker_1: ... just like I found my wife, you just use a lot of vodka.
+speaker_0: [laughs].
+speaker_1: [laughs].
+speaker_0: Well, yeah, I guess it helps. But I also remember your tips, uh, from one of the events when you said that you can grow a beard or, like, dye your hair. So I guess it may work too, right?
+speaker_1: Totally. When we went fundraising also-
+speaker_0: Be different [laughs].
+speaker_1: Ha- it was right in the middle of the pandemic and people were taking lots and lots of video meetings.
+speaker_0: Oh yeah.
+speaker_1: And so, how do you make a video meeting where people are doing 15-minute to 30-minute screens back to back all day, every day? I had a mustache.
+speaker_0: Yeah. [laughs]
+speaker_1: [laughs]
+speaker_0: [laughs]
+speaker_1: I totally shaved. Big, huge, thick mustache. It looked terrible according to my wife. I thought it looked pretty cool.
+speaker_0: Oh, you have to listen to her, you know? [laughs]
+speaker_1: But you stand out, right? So you're in a screen. How do you differentiate-
+speaker_0: Yeah
+speaker_1: ... like, your face, right? So as a man, we can grow facial hair, some of us. So I grew a thick mustache along the way. I also made my presentation, like, much more dynamic and interactive-
+speaker_0: Yeah
+speaker_1: ... so that looking at the screen was, like, much more exciting. Um, where when you're in a room, you can move around a lot. You can have... You can, sort of, change your outfit around. You can stand out in a bunch of different ways, but if you're on a face Zoom video meeting, like, you know, you got to do your part. So you got to stand out and be memorable.
+speaker_0: Yeah.
+speaker_1: In a good way.
+speaker_0: Yeah. I guess for ladies it's a bit complicated with mustache, but we definitely can try different ways around.
+speaker_1: I mean, if you showed up to a pitch meeting with a mustache, that would stand out.
+speaker_0: Oh, yeah, for sure [laughs].
+speaker_1: [laughs]
+speaker_0: I have no doubts here. Another question. Uh, what are the most, you know, like, the hottest moments of your startup journey, or still are? Like, uh, that you're, like, you know, had difficulties with, but learned how to work with as well?
+speaker_1: Yeah. I- I would say three things that I'm doing differently this time-
+speaker_0: Yeah
+speaker_1: ... than I did before that help, I think, make this founder journey more, um, in- increased in the chances of- of- of success, I hope. The first is, I'm very disciplined about time management.
+speaker_0: Mm-hmm.
+speaker_1: And so you have to stay physically healthy, mentally healthy, and you have to understand when you're working and when you're not. And so I'm very regimented on, how do you balance, um, work and personal health, and then family? I have two kids and a wife, um, and you have to spend time on- on all of them. Uh, and so...
+speaker_0: But do- do you have a work-life balance right now?
+speaker_1: I didn't say work-life balance.
+speaker_0: Okay.
+speaker_1: I just said allocation of time to what I'm doing.
+speaker_0: Yeah. No, no, no. I'm just asking. I'm just curious [laughs].
+speaker_1: I don't. I know my week ahead of time, uh, before-
+speaker_0: That definitely helps
+speaker_1: ... before the week starts.
+speaker_0: Yeah.
+speaker_1: Um, and so I know, and I've been in agreement with my wife who also works, how are we going to manage our household to be successful? Um, and sometimes that has to be flexible because, um, she has to go to England and, uh, London and Dublin next week.
+speaker_0: Yeah.
+speaker_1: And I got to figure out how to take the kids. So the- these things happen, uh, along the way. The second is, I think, um, having conviction before you start. So before I started Puzzle, I spent a year researching it. I spent three months doing interviews, and the whole time helped me build conviction. I built a prototype. I built a financial model. I built, uh, and I did 100 interviews before I started. So, that gives me conviction before I start, uh, that I know what I'm building and I have a high conviction for- for what that is. And then the last is, um, you know what you're good at and you know what you're not good at. And so I'm really good at 80% of stuff, and I'm really bad about that last 20%.
+speaker_0: Mm-hmm.
+speaker_1: Maybe I'm good at 95%, I'm really bad at that last 5%. And so you hire people around you that complement each other-
+speaker_0: Mm-hmm
+speaker_1: ... and facilitate one of our core values, which is sort of debate, discuss, identify who the decision maker is, and move on. And one of the things that I really like doing is I like doing partnerships and I like doing events and I like doing product and I like doing user experience. Those are places where I like... Now, I don't make the final decision. We have a great team that builds these things, but that's the place that gives me a lot of energy. And then, of course, as a founder, I have to deal with all sorts of other nonsense-
+speaker_0: Yeah
+speaker_1: ... and stuff that's less energy-creating, but you got to do it anyway. So it's about balancing and it's finding people that are really good at the things that you're not good at. So, I'm not an engineer, um, and so... We have an insanely incredible engineering team.
+speaker_0: Yeah.
+speaker_1: And I know I wasn't going to spend six years becoming a CPA, even though I've taken a lot of accounting classes and I've done a lot of accounting and I've done a lot of finance. And so we needed to build out a team that had deep expertise in this. So I think it's about knowing your strengths and knowing your weaknesses so that you can lean into your strengths and you can complement your weaknesses.
+speaker_0: Yeah. No, 100%. But, you know, rather than, um, what- what you do as a founder, what do you like doing just as a person? I don't know. What are you like doing in your free time?
+speaker_1: Free time would be something that, uh, would be great. I think it's a hilarious concept that there's free time in
+speaker_4: [laughs]
+speaker_1: I, um, I do, uh, two things for myself. One, I play soccer on, um, Saturday morning, Sunday mornings. Um, and that is my own personal time.
+speaker_0: [laughs]
+speaker_1: Been playing with the same group of people for, like, 25 years, um, and it's, like, an incredible, um, fun time.
+speaker_0: Wow.
+speaker_1: That's my time. And then I keep a really disciplined schedule. So Monday, Tuesday, I work late. Uh, Wednesday, I'm with the kids. Thursday's date night with my wife. We've been doing it for...
+speaker_0: Oh, that's a great tip.
+speaker_1: God, 15 years.
+speaker_0: Wow.
+speaker_1: Every... Once a week. No phone, no- nothing else. Um, Friday is- is family time. I have a bunch of family in the Bay Area and we try and spend time and have friends over. Um, and then Saturday, Sunday is a mix of kids' stuff and around. So, being really disciplined on time. If I had more time during, uh, winter, it's skiing.
+speaker_0: Oh.
+speaker_1: Uh, and so that's sort of the- the rest of it. Um, and then, um, reading. Like, that's... If I have very little free time, we sit around, uh, and we read, usually on Saturday mornings with the family. Um, and that- that's how I catch up. Uh, don't really have much time for much else.
+speaker_0: [laughs] Yeah. Your favorite three places in San Francisco?
+speaker_1: Uh, well, I'm not going to name any restaurants, because, uh, they're the secret gems.
+speaker_0: Okay [laughs].
+speaker_1: Uh, I don't want to get-
+speaker_0: You don't want to get lines there
+speaker_1: ... getting too crowded. Um, you know, I think-
+speaker_0: It can be anything. Areas to walk at. I don't know, like...
+speaker_1: So, I- I think last Wednesday, um, Andrew on the product team and I took a hike up to the top of Mount Tam while we were doing sort of planning and resourcing. And so what we did is we spent the previous couple days doing some asynchronous work-
+speaker_0: Yeah
+speaker_1: ... and then we got up and we hiked to the top. And it was an amazing peak to look down on the fog. It was one of those iconic San Francisco days where you just see Salesforce Tower, the top of the Golden Gate Bridge-
+speaker_0: Oh. Yeah
+speaker_1: ... um, and Sutro Tower poking up amongst the- the fog, and you're standing above it. So, I think hiking in Mount Tam, uh, up in Milva- up in Marin, uh, or over in the Redwoods up on Skyline in the East Bay are two of my- my favorite spots in the Bay Area. Um, the Land's End is just a really nice easy walk.
+speaker_0: I love it. Yeah.
+speaker_1: It's flat. You don't really get out of breath. You have these sweeping views over the ocean and it gives you perspective that no matter how much trouble you, like, feel like you're in, or no matter how much stress, you're staring out at infinite ocean and it puts everything-
+speaker_0: Yeah
+speaker_1: ... a bit more into perspective.
+speaker_0: Hard to disagree.
+speaker_1: Uh, and then, um, I think the last spot is, uh, just walking on, like, along the Embarcadero-
+speaker_0: Mm-hmm
+speaker_1: ... from sort of, like, the giant stadium up around to Crissy Field, whether on a bike or riding, um, and just grabbing little snacks and food along the way and just sort of, like, eating and meandering your way through the city is, like, pretty great.
+speaker_0: Yeah. No, amazing. Thank you so much, Sasha. It was a great conversation. I really enjoyed it.
+speaker_1: Thanks, Sasha. Good to see you.

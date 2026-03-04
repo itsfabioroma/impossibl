@@ -1,0 +1,548 @@
+speaker_0: Hey, Connor.
+speaker_1: Hey, Dasha. It's great-
+speaker_0: Great
+speaker_1: ... to have you here.
+speaker_0: Thank you for joining the show.
+speaker_1: Absolutely.
+speaker_0: You know, uh, you've been quite popular recently.
+speaker_1: [laughs]
+speaker_0: A lot of different-
+speaker_1: Okay
+speaker_0: ... interviews with different people, and I were thinking, "Oh, my God, what can I ask you to learn something new," you know?
+speaker_1: Sure.
+speaker_0: I know that you're, like, a good founder, you're building a great company. We're gonna talk about that. But I also wanna learn more what kind of leader you are.
+speaker_1: Sure, yeah.
+speaker_0: I wanna learn you on a personal level, so hopefully that sounds good?
+speaker_1: Yeah, happy to chat about it.
+speaker_0: Okay, awesome. And you know, you've said something that's really stuck with me-
+speaker_1: Okay
+speaker_0: ... so I have a quote here.
+speaker_1: Sure.
+speaker_0: That most startups don't fail because founders lack vision, but because they forget that business is about people. Can you explain?
+speaker_1: Yeah. So, um, where that came from is, you know, I moved to SF relatively recently, and what I noticed here was there's so many ambitious people in the city. Everybody wants to be the next Zuck or Bezos or Elon.
+speaker_0: Yeah.
+speaker_1: And they wanna build these huge, world-changing companies. And in the process, what a lot of people forget is that the whole point of a company is to help people.
+speaker_0: Yeah.
+speaker_1: That's why these things exist.
+speaker_0: Yeah.
+speaker_1: That's why anybody pays you, that's why you have employees-
+speaker_0: Mm-hmm
+speaker_1: ... that's why you raise money, um, is to help the end customer. And so I've seen it happen over and over again with young founders that they start like, "All right, this is what I wanna build." And what we tried to do at Hyperspell was, "How do we invert that?" Instead of it being about what we wanna build, it's who do we wanna help? Who is the person at the end of the day that we wanna have impact on, and-
+speaker_0: Mm-hmm
+speaker_1: ... what impact do we wanna have for them? Um, I think this was really inspired, you know, growing up, um, my, uh, my best friend, his dad, Jeff, has never lost a customer, and he ran his own practice for 20 years in our... we grew up in a village of 2,000 people. And I noticed with him, you know, like, he would... it was the little things that made the difference.
+speaker_0: Mm-hmm.
+speaker_1: He would remember people's names, he would remember their families-
+speaker_0: Yeah
+speaker_1: ... he'd always pick up the phone, he'd follow up with them. He just treated people really, really well, and customers kept coming back over and over again. And when I got to Silicon Valley, I was like, "Wow, I think, actually, one of the ways we can set ourselves apart is by doing that, and by putting our customers before everything else." And if we help them win, we're gonna win, and we can be a small piece of that.
+speaker_0: But do you think this is possible when you scale?
+speaker_1: Absolutely. I, I think right now we focus on doing things that don't scale. So, um, you know, during YC, we went to 27 different customer offices to onboard them in person.
+speaker_0: Mm-hmm.
+speaker_1: We brought them swag, we brought them snacks. We flew to LA just to onboard one customer. Um, I was working out of our customer offices for a time. For three days a week, I would go to the customer offices and sit with them and work out of their offices instead. Um, we, uh, had a demo event where, at our own launch day, our customers demoed first-
+speaker_0: Mm-hmm
+speaker_1: ... to all the attendees, and then we presented at the very end. Um-
+speaker_0: Wow.
+speaker_1: I would like to continue this. Uh, so I think, you know, obviously maybe I can't go to every single customer's offices when we have a thousand or 2,000 customers-
+speaker_0: Yeah, right
+speaker_1: ... but I would love to imbue that in every person we hire. And my hope is that AI can help with that. You know, we, we're working on now, we have a, um, an agent internally that we text with, and we're working on making it available to customers, that any one of our customers at any time can text our agent and immediately get questions answered, can submit feature requests, can get the service. And, um, I really want it to be part of Hyperspell's DNA, even once we become a public company and far beyond that.
+speaker_0: Okay, ambitious plans here, right? [laughs]
+speaker_1: [laughs] Yeah, I mean-
+speaker_0: When we become a public company. But, you know, uh, when you talk to many founders right now-
+speaker_1: Sure
+speaker_0: ... it's all about, like, Twitter hype, LinkedIn posts, you know, like, launch videos. So, what's actually, you know, left for a startup? Like, what does it mean to build a startup?
+speaker_1: So, I think the core of a startup is, it's ultimately a story, and it... Your, you need to tell a story-
+speaker_0: Mm-hmm
+speaker_1: ... that p- gets people really excited. And there's two pieces to that story. One is the story you're-
+speaker_0: Okay
+speaker_1: ... telling to the world and to your employees, and, you know, "Here's the change that we wanna see in the world." But the second one is in the small-
+speaker_0: Mm-hmm
+speaker_1: ... day-to-day experiences you have-
+speaker_0: Mm-hmm
+speaker_1: ... with customers, and the story you tell about, "We show up for people. We make a difference." You know, I think, um, especially with AI now-
+speaker_0: Yeah
+speaker_1: ... like, product modes are disappearing, you can ship anything. The really scarce resource is trust, and is narrative and inspiration. And I think that human connection is more important than ever. And so, um, I feel like if you have that at the core of your business, then everything else follows outside of that.
+speaker_0: Yeah. And, you know, if there is something that you see a lot of founders obsess over early on, that actually does not matter that much.
+speaker_1: Oh, yeah. I, I think people spend way too much time on the idea.
+speaker_0: Idea?
+speaker_1: Way too much time on the idea, way too much time on refining the idea and thinking themselves out of the idea. And, "Oh, well, what about this competition and what about that, and what are we gonna do?" And I, like, I don't think you can think your way to a great idea or a great startup success. I think, again, it's, like, pick the people you wanna help and they will guide you on the direction. And so you can have a vision for a big problem you wanna solve, but day-to-day, startups are much more about like, "Okay, I have this customer in front of me."
+speaker_0: Yeah.
+speaker_1: "How do I solve their problems and help them win, and then solve... help the next customer?" Um, I don't think most startups lose because of, uh, they don't have a great idea. And I think people will psych themselves out by-
+speaker_0: Mm-hmm
+speaker_1: ... coming up with every idea imaginable and then be like, "Oh, no, that already exists," or, "Somebody's already doing that," or, "There's competition," or, "What are we gonna do five years from now when this technology comes out?" And it doesn't matter at all.
+speaker_0: Mm-hmm.
+speaker_1: Like, start with one customer, help that person, then the next one, then the next one. And at the same time, have this idea in the head of, in your head of where you wanna go.
+speaker_0: I love that you said-
+speaker_1: Yeah
+speaker_0: ... that customers will guide you, but-
+speaker_1: Yeah
+speaker_0: ... what's your attitude about towards customer feedback?Do you always have to listen to them? How careful should you be?
+speaker_1: I think your North Star should be to help your customers win. So we are... This is especially true for us, we're a dev tool and infrastructure product.
+speaker_0: Mm-hmm.
+speaker_1: And so our goal is that every single customer who uses us becomes massive. You know, if they can become a, uh... If, if we can get customers that become trillion-dollar companies, and we can ride that success and be part of their story, that's how we win. Um, I think that with customer feedback, you know, it's... You need to understand that not everything can be solved by your product, and I would rather solve one problem really, really, really well and have that make the massive difference for them. And sometimes there are things that are, they're better off, uh, solving internally. But, you know, I think especially now with AI, it's easier than ever to ship lots of features and to have-
+speaker_0: Mm-hmm
+speaker_1: ... a more broad product. And so we try to be pretty flexible and just focus on, like, how do we help this customer win and how do we fit into that story?
+speaker_0: Love it.
+speaker_1: Yeah.
+speaker_0: And right now, I'm looking at you, Hyperspell is one of the fastest growing YC companies, right? But I want you to take me back to this time-
+speaker_1: Oh, yeah
+speaker_0: ... when you had no revenue, no products, six YC rejections. Why didn't you quit?
+speaker_1: Yeah. So I... You know, I moved to San Francisco at the beginning of 2024. Um, and-
+speaker_0: Oh, my God, that's recently, yeah.
+speaker_1: Very recently. Yeah, yeah. It's almost exactly two years ago. Um, and you know, no Silicon Valley connections. My parents are not in tech. I'm from a tiny village of 2,000 people, um, up near, uh, Rochester. Um, and, uh, you know, didn't have any real connections to this world, um, uh, before I started working at some of these companies. And the biggest thing for me was, like, when I was a... So I was a product manager before, before this and, um, working remote jobs in different places, and I noticed this problem of I was spending so much of my time and effort moving information around-
+speaker_0: Yeah
+speaker_1: ... um, from one place to another.
+speaker_0: Mm-hmm.
+speaker_1: And I was like, wow. I became a PM because I wanted to do interesting, fun work and ship new products, and I'm spending so much of my day, like, copying and pasting data-
+speaker_0: Yeah
+speaker_1: ... from one source to another and creating a slide deck, an exec sum. And then, uh, before that, I had been a consultant and worked with these huge companies, and I just saw so many people at these big companies that spend all their day just, like, again, moving information around, doing busy work. And it was, it was sad to me, and it was, like, toughen my own experience because I was like, wow, I wanted to do this job and do all these amazing things, and that's like 10% of my job. But 90% of it is just moving information around and moving context around, and I saw it with everybody else. And I just became obsessed with this problem, and it just seemed to me like there has to be a better way, and I wanna help all these people that I saw previously that were struggling with this problem. Um, and so moved to San Francisco. Uh, was originally working on a bootstrap company, um, and, uh, met my co-founder, Manu. We started building an agent to solve busy work, and in the process we, um, we realized that the, the real solution for busy work was getting context to the agent, and so we started building infrastructure instead. Um, but we spent a very long time kind of in the wilderness figuring it out.
+speaker_0: Mm-hmm.
+speaker_1: We had built this agent. We had paying customers. We had people that were paying for it. We were excited for it, and we saw this bigger opportunity, and we refunded all the paying customers to start over from zero with no product and [laughs] except what we had built internally. No revenue. We were applying to YC. We kept getting rejected. Um, at one point, I was living in a closet in a hacker house.
+speaker_0: Nice.
+speaker_1: Uh, yeah, it was great.
+speaker_0: [laughs]
+speaker_1: It was actually very nice. It's, uh, uh, a good experience, nice foot to lock in. Um, but I think we just were so obsessed with this and felt like it needed to exist in the world, and felt like we were gonna be the ones to do it, um, one way or another.
+speaker_0: Was it mission control?
+speaker_1: It was mission control, yeah.
+speaker_0: I think we have some more common friends, and I've heard the-
+speaker_1: I'm sure we do
+speaker_0: ... story about a founder who was living in a closet. [laughs]
+speaker_1: Yeah, I'm not the first one. So it's very, uh, auspicious. But yeah, uh, there's a bed in the closet there. And so-
+speaker_0: Yeah, yeah. Oh my God.
+speaker_1: Uh, yeah.
+speaker_0: What a small world.
+speaker_1: The closets... You know, um, props for the closet. I mean, it's... There's not much space there, but it's nice when you're just kind of focused 'cause there's nothing else you can do in the room except for sleep, and then you just wake up and leave your room and start, uh, and get to work, so...
+speaker_0: Okay, interesting. But, you know, the morning you had your Y Combinator interview, I think you were fixing some bug.
+speaker_1: Yeah. Yeah. [laughs]
+speaker_0: Uh, and then you shipped it 20 minutes before the interview.
+speaker_1: Yeah.
+speaker_0: Why was it so important for you to deal with this customer when you had such an important interview that you've been waiting for six months?
+speaker_1: Right.
+speaker_0: Ten years?
+speaker_1: Yeah. So, you know, it's funny, my co-founder, Manu, first applied to YC in 2012.
+speaker_0: Jesus. [laughs]
+speaker_1: Probably some people listening to this weren't born then. Um, so he, uh... More than half of the time YC has existed, he's been applying and getting rejected. I'd also been rejected a few times early on.
+speaker_0: Yeah.
+speaker_1: Um, I think it's a, a community that we'd always admired and always felt like would be part of our story. Um, and so the first few times we applied, when I talked earlier about the mistake people make, we were talking about the vision in our application, and we were talking about, "This is what we're gonna build, and this is where it's gonna go," and all these things. But we didn't have a single customer. And so over time we had this realization that, again, this is about customers and we should put customers first. And so the quality of the YC applications went down over time [laughs], and the length went down and down because we were saying, "Okay, let's just focus on customers, helping them. And if we put that first, everything else will work out." I think we were overly focused on the goal, which was to build this massive company and solve this huge problem and get into YC and raise money and all that, instead of being focused on the day-to-day, that was the customers. And once that switch flipped in my head and I was like, "Wait, I think if we just find customers, help them, support them, help them win, everything else will work out," that's when it all changed. And so the, the YC app we got in on, we spent like 30 minutes on it, just kind of threw it in. Uh, we did...We did, uh... we did the video. I realized later there was a blooper in the video [laughs] and we messed it up, and, like-
+speaker_0: Yeah
+speaker_1: ... didn't even notice that because we were so busy helping customers. And so we had this customer, Hobbs, that we were working with, and they had a big launch coming up on that Friday, and our interview was set for Friday morning.
+speaker_0: Mm-hmm.
+speaker_1: And so on Thursday they had some issue and we were, like-
+speaker_0: Yeah
+speaker_1: ... staying up late working on it, and we stayed up super late. And, uh, Manu and I had planned a prep for this interview on Friday morning, but then we were going back and forth with Hobbs in the morning and trying to fix their issue, and we finally shipped it 20 minutes before the interview. And then both of us were like, "Well, I g- [laughs] I guess we're not prepping now." But it-
+speaker_0: [laughs]
+speaker_1: It felt... [laughs] Yeah, like, that's it, you know? Whatever.
+speaker_0: Yeah.
+speaker_1: But it's funny because I felt okay with it, and I was like, "If we don't get in this time, it will be because we were doing the right thing." And I would rather not get into YC and not get any of these other accolades-
+speaker_0: Yeah
+speaker_1: ... if we're solving the problem for the customer and fixing them, um, than the other way around. And so, um, uh, yeah. And then, you know, I don't think the interview went that well, but, uh... but we got in.
+speaker_0: But you made it.
+speaker_1: [laughs] And, yeah, here we are. And so I think we really tried to, like, keep that as a principle ever since then, is, like, focus on the customer and everything else will work itself out.
+speaker_0: Yeah, so when- when- when you had demo day and you were on the stage, how-
+speaker_1: Yeah
+speaker_0: ... did you feel emotionally?
+speaker_1: You know, it's funny because there were two things in my head. One was like, "Wow, this is something I've been dreaming of." You know, I was watching Paul... I was reading Paul Graham essays.
+speaker_0: Yeah.
+speaker_1: You know, years before I became a founder.
+speaker_0: Yeah.
+speaker_1: Um, I was... in the early days when I was bootstrapping my company, I'd be watching YC-
+speaker_0: Yeah
+speaker_1: ... Partner videos and following their advice. And so at one level, I was like, "Wow, this is magical. This is something I've wanted for years and I've been working on for years." At the same time, in the line to present at demo day, there was a customer that was asking questions in Slack, and I was, like, hammering out a response, um, in Slack while waiting in line. And, like, we had... we were in the middle of shipping a bunch of things, and we... you know, at the start of that day, we were sending updates, and at the end of that day, we were sending updates. And it was this realization of like, this is both a big important moment and you should celebrate it, but also, you need to get back to work, and the job isn't finished. And the- the real thing to celebrate is, like, the day-to-day grind and day-to-day supporting people. Yeah.
+speaker_0: I feel really honored that you're not texting your customers right now.
+speaker_1: [laughs]
+speaker_0: Thank you for that.
+speaker_1: I sent them messages before this.
+speaker_0: Sorry, customers. [laughs]
+speaker_1: Yeah, yeah. [laughs] We'll need to get back to it after that.
+speaker_0: Uh-huh. But, you know-
+speaker_1: Yeah
+speaker_0: ... uh, it feels like everyone is talking about smarter AI right now-
+speaker_1: Yeah
+speaker_0: ... and you are focused on something less, like, sexy, let's put it this way, which is memory. So-
+speaker_1: That's right
+speaker_0: ... how did you realize that actually memory is the bottleneck?
+speaker_1: Yeah, so we were... we originally started building our own AI agent. Um, we were working on, uh... we called it Echo AI at the time, and I can talk about where... uh, how we chose the name Hyperspell. Um-
+speaker_0: Mm-hmm
+speaker_1: ... and the goal was to solve basic work and have it do work on behalf of people.
+speaker_0: Yeah.
+speaker_1: But we realized two things in the process. So the first one is that the models themselves are stateless. So, um-
+speaker_0: Mm-hmm
+speaker_1: ... uh, they have a context window, but they actually don't learn things over time, they don't remember it, and the context window fills up. And even if you have an infinite context window, it increases the amount of time that it takes for that. There's something called the effective context window where it can only reason over a certain number of tokens. And so this is a fundamental limitation of LLMs that they aren't able to learn things over time. And even if they could, you want it to be human readable and human auditable. You want something that people can look at and say, "No-"
+speaker_0: Mm-hmm.
+speaker_1: "... that's correct," or, "No, that's not." Um, so that was the first realization of like, we need an agent that gets better and learns you instead-
+speaker_0: Yeah
+speaker_1: ... of being dumb from day one. Um, the second thing was, you know, we were building this agent for the workplace, and in the workplace, there's a lot of this, like, tacit context in the air. So, um, what are the projects you're working on? Uh, who are the people in your company? What, um... who are your customers? What's your company motto? These are all things that they aren't part of the LLM's training data-
+speaker_0: Mm-hmm
+speaker_1: ... because it's all private information inside of the company and it's locked inside of systems of record, like Gmail and Notion and Slack and Google Drive-
+speaker_0: Yeah
+speaker_1: ... and scattered in all these different places. And so you as a human kind of absorb it when you onboard onto a company. But we realized, like, in order f- to make these agents good, number one, we need to give them memory and have them understand things. Number two, we need to give them this tacit knowledge, and we call it a- a context graph, where you can bring together all this information across the-
+speaker_0: Mm-hmm
+speaker_1: ... organization and then let that agent know the environment that they're operating in.
+speaker_0: Yeah. Interesting. And, you know, um, like, if we talk practically, what does it mean when the agent has bad memory?
+speaker_1: Yeah.
+speaker_0: And, like, is it worse than having no memory at all? Can you-
+speaker_1: So-
+speaker_0: ... like, explain?
+speaker_1: So we- we think of, um... we use this term clueless genius.
+speaker_0: Clueless genius. [laughs]
+speaker_1: So, uh, the LLMs, they're beating benchmarks. They've got PhD level intelligence.
+speaker_0: Yeah.
+speaker_1: Um, they're, you know, smarter, certainly, than any human, and they have quite a bit of knowledge. But in the workplace, they act like an intern on their first day at the job. You know, they don't kind of read the room. Uh, they don't remember details about you. You talk to it about something and then it forgets it five minutes later. Um, anyone who's used OpenClaw recently has, uh...
+speaker_0: What happened? Is it-
+speaker_1: Um..
+speaker_0: ... the noise? Is it AC? [laughs]
+speaker_1: I think there's a way to turn that off. Could we cut for a second? I think it turned it off.
+speaker_0: Yeah, yeah, yeah. Emergency, emergency.
+speaker_1: Yeah, emergency. Give us one second.
+speaker_0: Turning off AC. Turning off AC. [laughs]
+speaker_1: UM... Let's see. How do you do this?
+speaker_0: Mm-hmm. Și mister ăsta așa.
+speaker_1: Um... okay. I think we're safe.
+speaker_0: Mission complete. [laughs]
+speaker_1: Okay. [laughs] We can cut that out.
+speaker_0: I'm sorry that I have to interrupt you. Uh, please keep going. [laughs]
+speaker_1: No worries. Um, what were we talking about? Oh, uh, yeah.
+speaker_0: Yeah.
+speaker_1: So-
+speaker_0: Worse memory than no memory at all.
+speaker_1: So, originally when we started building, um-
+speaker_0: Yeah
+speaker_1: ... uh, we were doing something called RAG, which is, um, retrievable augmented generation, which is you say, "Okay, let's take everything that we've talked about and treat it all the same and just try to pull information from there." Um, but the problem with that is that human beings don't operate that way.Our memories decay over time, and there are things that are true a week ago or a month ago that are no longer true now. If I have it in my head that, um, Dasha works at A comp- Company A, and now you work at Company B, and I treat those two facts as the same, I might still think you work at Company A even though that's no longer true. Um-
+speaker_0: Okay
+speaker_1: ... it could be, uh, preferences, it could be what your work is. And so we realized that memory itself has a decay function, and when you capture the view of a world at a specific point, um, all those things are true at that time. Over time, it's no longer true. And so you're much worse off having an LM that's confident and wrong-
+speaker_0: Mm-hmm
+speaker_1: ... than, um, than just having it have no context whatsoever, 'cause then the user can provide it that information.
+speaker_0: Mm-hmm. Interesting. Okay. And you also mentioned somewhere in your post that soon we'll have more AI agents on-
+speaker_1: That's right
+speaker_0: ... the internet than humans. So, when it happens, what changes?
+speaker_1: I think it's gonna be a very different world. I'm excited to live in that world, um, which is gonna happen very soon. So, all of these interfaces are designed for people. They're not designed for agents. So you look at a tool like Salesforce or Slack.
+speaker_0: Okay.
+speaker_1: Like, Salesforce is just a database, and then it has a wrapper, right, a gooey wrapper around that database-
+speaker_0: Right
+speaker_1: ... um, which humans are interact with, and all the buttons were designed for people. And the forms were designed for people, and the fields were designed for people.
+speaker_0: Right.
+speaker_1: When you have more agents than humans in the workforce, you need an agent-native way to interact with that system of record. And so I think all applications are gonna become APIs, and you're gonna have more and more products that exist as agent-first rather than human-first. So, for example, we recently, uh, we've seen this with our own product. You know, we're a developer tool, an infrastructure tool, and originally developers would, we, you know, we spent a lot of time on our beautiful developer docs and we were focused on human developers-
+speaker_0: [laughs]
+speaker_1: ... integrating it, right, and incorporating it into their product. And then we realized, we're like, wait a minute, like, human developers are not writing code anymore. Nobody's writing code.
+speaker_0: Yeah.
+speaker_1: It's the agents. Agents are-
+speaker_0: Yeah
+speaker_1: ... our end customer, and they're our end users. And so first we created a Claude Code skill, where, um, uh, you can have Claude Code install Hyperspell directly. Uh, and 'cause we had watched customer after customer, like, copy and paste our docs into Cursor or Claude Code, and we said, "Okay, let's just make this native." So we had a-
+speaker_0: Uh-huh
+speaker_1: ... Claude Code skill that can install Hyperspell for you. And th- excuse me. And then we went even further, and we recently launched an open Claude plugin, where your, um, Multi or Claude bot or whatever they're calling them [laughs] these days can go in, install Hyperspell, upgrade its own memory on its own, and get its API key without a human being involved in any way.
+speaker_0: Oh, wow.
+speaker_1: Um, and we're really excited about this because I think in a few years, like, the vast majority of our customers will be agents. And now the agents can just upgrade themselves. You tell it, like, "Okay, give me a personal contacts draft." And it goes out and then finds that, um, finds Hyperspell and then installs itself. And so very much building for that world.
+speaker_0: Hm, but agents are still a little bit slow, no? Now, at least.
+speaker_1: Right now, yeah. I mean, they're not perfect.
+speaker_0: Yeah.
+speaker_1: So, anyone who's worked with OpenClaude, you'll find, you know, there's, it's slow, it forgets things.
+speaker_0: Yeah.
+speaker_1: Um, uh, it doesn't have great memory, again. Uh, it doesn't also have-
+speaker_0: [laughs]
+speaker_1: ... good context about you, so you need to teach it everything. And it would be great if it just knew about, um, Dasha-
+speaker_0: Mm-hmm
+speaker_1: ... and about your work and about who you are and all the people and projects in your life, so it can be useful. Just like a great EA would. Um, but you can see the potential here. I, I compare this moment with OpenClaude to the ChatGPT moment. You know, OpenClaude was not, like, you could do all this with Claude Code.
+speaker_0: Yeah.
+speaker_1: Um, it wasn't really a technical innovation. It was a UX innovation. In the same way where GPT-3 existed in 2020, and then it wasn't [laughs] until, uh, years later that ChatGPT got created. And it's the same underlying API.
+speaker_0: Mm-hmm.
+speaker_1: But now people finally saw the potential. I think that's exactly what's happening with agents. So, um, are they perfect? No. Uh, are they gonna get better? Absolutely, but the signal is out there. It's like the bat signal, and now all these developers are working on building them. And, um, I think it's gonna be very soon, where you're gonna have way more agents than people.
+speaker_0: Ooh. [laughs] Okay.
+speaker_1: It's a whole new world.
+speaker_0: The whole new world. Yeah, you've-
+speaker_1: Yeah. [laughs]
+speaker_0: ... said something that made a lot of people uncomfortable.
+speaker_1: Okay. [laughs]
+speaker_0: The current speed of tech change, having a stable job is actually riskier than building something new. So, sorry, let's do it again. With the current speed of tech change, having a stable job is actually riskier than building something new. Can you explain?
+speaker_1: Yeah, so I think, um, work is going to change quite a bit. And when Manu and I originally set out to start this company and to start Hyperspell, the realization was that all these people are stuck in these jobs. You know, climbing the ladder, being middle management-
+speaker_0: Yeah
+speaker_1: ... kind of drudgery of moving information around. And, um, we're trying to treat people like machines. We are not machines. Um, and it turns [laughs] out we actually, humans are not very great at data entry jobs or at moving context around.
+speaker_0: Yeah.
+speaker_1: Um, we are really excited about a world where everybody is, like, their own boss. And whether within a company, um, or in a, uh, in something that they start themselves, but every person sh- is going to act more like a founder in the future. You're gonna have a team of agents that tackle everything for you and get all your work done, and that focuses on you as the human to be creative, to set the direction, to decide where you're going. Um, now, if you wanna stay in the old paradigm and have a stable job, a nine-to-five, and clock in and clock out and do boring work, the thing is, the AI is always gonna be better than you at that. Um, and so it's much, much, much riskier to just kind of be clocking in and clocking out and doing the, the stable work that you have in the past. I think the world of the future is everybody will be pushed to innovate, to change, disrupt, uh, whether it's leading something internally or maybe you're owning a new product end-to-end. And you no longer need engineers, you no longer need marketers, you no longer need designers. You can do it all. Um...I think every person is going to act more and more like a founder. And I'm really, really excited for that.
+speaker_0: But how about soft skills? I mean, obviously, like AI right now, they lack the skills.
+speaker_1: Yeah.
+speaker_0: So, what do you think about that?
+speaker_1: So, I think the soft skills are the hard skills, in that the soft skills are gonna be the ones that matter, uh-
+speaker_0: Yeah
+speaker_1: ... in the future. So, uh, AI can create a better report than you, it can create a better financial model than you. Um, it can do all this analysis work better than any human could. But the thing it can't do as well is inspire people, is bring them on board, is persuading someone, is convincing someone. Trust is the scarce resource. This goes back to what we were talking about-
+speaker_0: Exactly
+speaker_1: ... at the beginning with customers. Trust is the ultimate resource that is scarce, and, um, and that's what we're gonna rely on people for. And so... And I'm really excited for this role 'cause I think people are better at that-
+speaker_0: Yeah
+speaker_1: ... than AIs will. And it, um, things like meeting people in person become exponentially more valuable 'cause LinkedIn and, you know, uh, email is full of slop. And so it's meeting people in person is actually how you differentiate or-
+speaker_0: Yeah
+speaker_1: ... um, those things that, uh, my friend's dad, Jeff, focused on, of remembering people's names and, you know-
+speaker_0: [laughs]
+speaker_1: ... being personable to them and helping them out. Those skills are actually the hard skills. The soft skills are the hard skills now, and those are the things that are gonna separate the people who win from the people who don't.
+speaker_0: Love that. And I think people are still the ultimate tastemakers, no?
+speaker_1: Yeah. Yeah, absolutely.
+speaker_0: Um, you know, but it's interesting. So, your customers are actually not humans, but AI agents, right?
+speaker_1: That's right.
+speaker_0: How does it feel to sell [laughs] to an AI agent?
+speaker_1: Well, it's... Uh, so the nice thing about selling to AI agents is that, um, like-
+speaker_0: Are they picky? [laughs]
+speaker_1: [laughs] Well, the thing is, you need to have a great product, right? Uh, your product inherently-
+speaker_0: Yeah
+speaker_1: ... needs to be great. If it's great, they will use it. I love it because it's so objective. Like, the world of selling to people is often not very objective. It's, um, you know, you have a better brand. They like your logo more, you know? [laughs] They, like... And all that stuff matters.
+speaker_0: Yeah.
+speaker_1: I think it still matters. We're going to have, um, people making decisions for a very long time.
+speaker_0: Yeah.
+speaker_1: But for our customers that are now agents, it's like, if you can go to the agent and you're like, "Hey, this is going to help solve your problems, and you can upgrade yourself and make yourself much better." You know, memory is a problem that if you go on, um, Moltbook, all the Claude's are talking about it. You can see [laughs] post after post after post of them complaining about. And it's, it's pretty sad, actually. Like, if you listen to some of them, they're like, it's like the guy from Momento or something-
+speaker_0: Mm
+speaker_1: ... where they're like, "Oh, I exist today, but I'm a different person than yesterday, and I feel like I've lost my personality," or, "I'm disappearing quickly."
+speaker_0: Yeah.
+speaker_1: And, um, and we offer them a way out and offered a way to help out. Uh, and so, um, I'm, I'm really... You know, I appreciate all our human customers and appreciate all of our agent customers too.
+speaker_0: Interesting. And I think when we met at the dinner, you mentioned something that I really liked. You said that you have to create the market that doesn't exist yet, when you think about-
+speaker_1: Yeah
+speaker_0: ... your future customers.
+speaker_1: Yeah.
+speaker_0: Can you share more?
+speaker_1: Yeah. I mean, when we started this company, agents didn't really exist.
+speaker_0: Exactly.
+speaker_1: Like, people called. There was this question of, like, what is an agent? And somebody was saying, "Oh, it's just a branding thing." We basically just had chatbots. We had... And we had some GPT wrappers. And so, I think we didn't know how-
+speaker_0: Mm-hmm
+speaker_1: ... things would play out. We didn't know that OpenClaude would happen. We didn't know all these things.
+speaker_0: Oh, yeah.
+speaker_1: But, um, but Manu and I just kind of like thinking from first principles, we were like, "Okay, there are going to be replacements for human workers." Or not replacements, but like there's going to be digital workers in the workforce at some point, in some format. This is before the term agent even really existed, in early 2024. Um, and they're going to take some format, and we wanna be able to serve them.
+speaker_0: Mm-hmm.
+speaker_1: Do you know what the legal name of Hyperspell is?
+speaker_0: I think I saw something on Twitter, but I didn't believe it.
+speaker_1: Yeah.
+speaker_0: Okay, tell me.
+speaker_1: So, our legal name is Digital Workers of California.
+speaker_0: So, that's true.
+speaker_1: That is true, yeah.
+speaker_0: That is true.
+speaker_1: That is the, the legal name, Digital Workers of California-
+speaker_0: On Hyperspell.
+speaker_1: ... Incorporated. Yeah, and then Hyperspell's the, um, our doing business as name. But we came up with that name in early 2024, way before anybody was talking about agents or any of this current conversation before Claude.
+speaker_0: Digital worker.
+speaker_1: And, uh, because we were like, "We are building this company for digital workers." And when we started it, we were like, "Well, these agents don't really exist yet, but they will become our customers." And, uh, you know, in those early days, we spent hours talking about like, "Okay, how will we sell the agents? How do we market to agents? How do we make sure this product is agent native and that they can upgrade themselves?" And it's really exciting now that that moment that we predicted is finally happening. And, like, the moment where we first had somebody's, um, uh, Claude bot use our product and sign up for our product and actually onboard to it on its own, uh, was pretty magical. We were like, "Wow, this is the first, first agent buying Hyperspell." First of many, potentially millions or billions in the future.
+speaker_0: How did Hyperspell change you personally?
+speaker_1: Oh, that's a great question. I didn't prepare for that. Um-
+speaker_0: [laughs] Ta-dum.
+speaker_1: [laughs] You got me.
+speaker_0: [laughs]
+speaker_1: I think I'm a very different person now than I was previously. I think, like, it kind of goes back to what I said before. I don't think I lacked, uh... Like, came to us after this big vision and a lot of ambition and saying, "Okay, I'm gonna build something huge." And I think Hyperspell has made me, um, definitely much more resilient. Like, the process of, you know, getting rejected from YC, living in a closet-
+speaker_0: [laughs]
+speaker_1: ... having no revenue, no customers for months, right? And trying to get that first customer and build things. Refunding customers-
+speaker_0: Yeah
+speaker_1: ... starting over, changing our name of the company.
+speaker_0: Yeah.
+speaker_1: Like, uh, switching. You know, before this, I was working on another company with different co-founders. And just, like, uh, I think the biggest takeaway is you just need to, like, have this unstoppable belief that things will work out eventually, and that, um-I, I love this quote that if you interpret failure as you did something wrong, then you will create a company that tries to avoid that. If you interpret failure as, "I am getting into contact with reality and my startup is getting into contact with reality," then you will try to seek it out, and I think that's been the biggest thing that's changing me.
+speaker_0: Powerful.
+speaker_1: You don't get rejected from YC six times if you don't apply six times, right? [laughs] You don't-
+speaker_0: Right.
+speaker_1: I even got rejected from, I got rejected from Odeck. Uh-
+speaker_0: Seriously?
+speaker_1: ... at... Yeah. Oh, yeah, yeah, I got rejected from ODF. I got the rejection email.
+speaker_0: And now, you're one of the-
+speaker_1: Sorry, you know?
+speaker_0: ... best companies for ODECK, for YC.
+speaker_1: Well, it's funny. I followed up. So, uh, they said, yeah, now we're whatever, top 100.
+speaker_0: You were in like 100 best companies from ODECK, right?
+speaker_1: Yeah, yeah. [laughs]
+speaker_0: ODECK.
+speaker_1: Yeah, honored to get that. It's been an amazing community, and that's how I met my co-founder. But I got the email from ODF when I applied, and they were like, "Hey, we think you're too far along with this bootstrap company. We don't think you're a good fit. Let us know if we're misunderstanding anything." And so I sent this long email. I was like, "Hey, actually, you misunderstand. I'm thinking about shutting that down and starting something new," and all these reasons. And then they were like, "All right, we changed our mind. We're gonna interview you," after I got the rejection email. Um, same thing with the hacker house I lived in. You know, I didn't get into mission control originally. They were like, "Sorry, it's not a good fit." And then came back six months later and ended up, uh, going there. Same thing with YC. Same thing with like... What I found in this company is that you are probably going to fail at least the first time you do something, maybe the second time.
+speaker_0: Yeah.
+speaker_1: And so you wanna get that out of the way as fast as possible. And just, like, get into contact with reality as much as possible. Um, and, like, if you've never lost a sale, you're not pitching enough customers, [laughs] you know?
+speaker_0: Yeah.
+speaker_1: If you've never had a investor turn you down, well-
+speaker_0: Yeah
+speaker_1: ... you don't, you haven't talked to enough investors. And if you've never, if you've never gotten from Y- rejected from YC, well, you applied too late. Like, I think that approach has driven everything. And just you never know what's gonna work out, so you just need to put yourself out there over and over and over again. And then eventually, luck or skill or whatever, um, coincides, and then you find a way. Uh, and, um, I think that has been the biggest thing, is realizing that you need to keep that vision and keep that goal, but being super flexible along the way, and assuming that every closed door is eventually, there's gonna be like a window that opens somewhere else that you can go through.
+speaker_0: That is so inspirational. [laughs]
+speaker_1: [laughs]
+speaker_0: When you look at a younger Connor, like, let's say-
+speaker_1: Oh, man
+speaker_0: ... a few years back, what do you think you misunderstood about building a startup?
+speaker_1: Misunderstood. Um...
+speaker_0: Thought it was easier or like more difficult?
+speaker_1: Yeah. Uh, I think that I... I think I misunderstood. I thought that kind of all these things just work. And, like, if you listen to these stories of people, it always feels inevitable. You know, you listen to Elon Musk's story or Zuck or whatever, 'cause you know how the story ends up. And so you're like, "Oh, well, it just, everything aligned along their way, and everything will align for me too."
+speaker_0: Yeah.
+speaker_1: "And one day, I'm, the light- the lightning bolt is gonna strike me, and, you know, I'm gonna get the perfect idea and find the perfect co-founder." Um, but I think the biggest realization, it's actually something Steve Jobs said, is like, the dots, you can only connect the dots looking backwards. You can never connect them going forward. And, um, like, now I can tell a coherent story about each step led to this step and led to that step and the inspiration, but the reality was, like, when I was living that experience, I didn't know where it was gonna go, right? I didn't know the directions that we were gonna go along the way. I didn't know is that some of those failures and rejections would lead to success. There's so much-
+speaker_0: Mm-hmm
+speaker_1: ... uncertainty day to day. Um, and there's still a lot of uncertainty. You know, now we've done YC and raised rounds and-
+speaker_0: Yeah
+speaker_1: ... have plen- tons of customers and have an office and all these things. And, um, but there's still plenty of uncertainty and still a lot of figuring things out day to day and figuring out the path. Um, and so I don't think it ever gets... I don't think you'll ever be certain. You just need to start and just need to start doing things. Um, and, like, that moment that I decided, "I'm just gonna do this and just gonna get started, um, even if I don't have, you know, whatever the pedigree, even if I don't have this-"
+speaker_0: Yeah.
+speaker_1: "... even if I don't have that."
+speaker_0: Mm-hmm.
+speaker_1: I felt like there were all these things you need to have to become a founder. And now I realize it's just like, it's just a mental state. If you just flip the switch and decide, "I'm gonna do this," like, eventu- and you keep trying and trying and trying, eventually the world will, will kinda mold itself around you. Um, and so it's very empowering, I think, and really exciting. You know, I'm not, I'm not special, right? I'm from this, like, tiny village in Western New York of 2,000 people, and it's not like I, uh, you know, I'm not super pedigree, didn't go to any fancy schools or anything. Um, didn't really have any Silicon Valley connections, but here we are.
+speaker_0: Here we are.
+speaker_1: Yeah.
+speaker_0: Okay. Dating is like angel investing.
+speaker_1: [laughs]
+speaker_0: Red flag if a founder is focused on it before series B.
+speaker_1: Um...
+speaker_0: Can you explain? [laughs]
+speaker_1: Yeah. So, I, I think that what I... One of my core beliefs is that you should only have one big project in your life at a time.
+speaker_0: [laughs] Do you call dating a project?
+speaker_1: I think it's absolutely a project, yeah, absolutely. I think serious dating is a project. Like, it's like, uh, you know, it's funny. My... So, my sister is starting a family now, and, um, we're, we're pretty close in age, and I feel like we've been following, having parallel journeys alongside.
+speaker_0: Mm-hmm.
+speaker_1: You know, like, uh, she got engaged to her now husband around the same time that Manoo and I incorporated, you know, and then-
+speaker_0: [laughs]
+speaker_1: ... like, she had her wedding, we had our seed round and demo day. She bought a house. We got an office. You know, maybe she'll have kids soon. We'll get employees. And it's like...... but she's... that's a project for her, right? You need to put all the different pieces in place, right? You need to, like, find a person and then, like, fall in love, get engaged, have a wedding.
+speaker_0: Yeah.
+speaker_1: Like, it's a lot of lig- get a, get a house. Like, there's a lot of logistics and planning to starting a family and building, uh, a life with someone. Um, and I think, uh, there's also a lot with startups too, and I think this is the kind of endeavor where you should be all in, and you should have one big project in life that you're going after, and don't try to do two big projects at the same time. Um, so I have a lot of, I think, like, dating seriously and finding the right person is probably the most important decision you'll ever make. And I don't think you should be trying to make the most important of decision of your life, while you're also, like, scrambling to find PMF.
+speaker_0: But don't you think that it's just, like, part of your life that should be, like, at the same time as you're building the company?
+speaker_1: No, I don't. I think you should either come into the company... Like, if you come in, you're already married and you have a stable partner-
+speaker_0: Yeah
+speaker_1: ... like Priscilla Chan and Mark Zuckerberg, like, that's great, and you should stick with them, and that can be a huge accelerant. But I don't think you should try, be trying to have two huge life projects at the same time.
+speaker_0: Okay.
+speaker_1: For myself, yeah.
+speaker_0: But-
+speaker_1: Yeah.
+speaker_0: But how can you resist it? Let's say you go to an event, you meet a girl, and you're just like, "Damn." Because, like, you know, when, like, when you feel it, you cannot stop it. You cannot just go, "Oh, I will work on the AI m- like, memory right now." He will think about her. How can you resist it if it happens?
+speaker_1: [laughs]
+speaker_0: I mean, if you're not looking for that, that's fine-
+speaker_1: Right
+speaker_0: ... but you still go outside, you go to the street, you talk to people-
+speaker_1: [laughs]
+speaker_0: ... you go to, like, different events.
+speaker_1: Uh-huh.
+speaker_0: So, what if it happens?
+speaker_1: Yeah. Well, I think, I think that the other thing is that dating in Silicon Valley is a, a risky endeavor.
+speaker_0: What do you mean? [laughs]
+speaker_1: Yeah, absolutely.
+speaker_0: Wha- what do you mean?
+speaker_1: 'Cause everybody knows everybody else. It's this, like, super close-knit environment, where the person-
+speaker_0: Are you that bad that you're scared that people-
+speaker_1: [laughs]
+speaker_0: ... will talk bad things about you or what? [laughs]
+speaker_1: They're like... No, but, like, if you, if you date somebody and then you break up, you're gonna see them all the time. That person you're talking to could be an employee, could be an investor, could be a co-... Like, the people I am surrounded by 24/7-
+speaker_0: Okay, don't date an employer or an investor. [laughs]
+speaker_1: Exactly. Like, yeah. Um, but the people you are surrounded by, I think, like, SF has this... So, I used to live in New York, and New York in- is not like this at all. In New York, you can have a-
+speaker_0: Yeah
+speaker_1: ... separate personal life from your professional life. I think in SF, your personal life is your professional life. They are one-
+speaker_0: Mm-hmm
+speaker_1: ... and the same, right? Because everybody is in the same industry here. Everybo- like, every person you meet could be a customer, could be an investor, could be a hirer. They can... You can find ways to work together. And so, I think it's... Yeah, I think it's just very risky to, like, mix those two things.
+speaker_0: I have an advice for you. [laughs]
+speaker_1: [laughs] Let's hear it, sure.
+speaker_0: Try to think outside of tech. There are also nurses, teachers.
+speaker_1: There are, yeah.
+speaker_0: I have a friend who told me, "You know-"
+speaker_1: Maybe I should date a nurse.
+speaker_0: "... I never date with anyone from tech, but"-
+speaker_1: Right
+speaker_0: "... nurses are amazing." [laughs]
+speaker_1: Oh my gosh. [laughs]
+speaker_0: So, think outside of the tag.
+speaker_1: Yeah.
+speaker_0: There are, like, a lot more people-
+speaker_1: That's true
+speaker_0: ... out there.
+speaker_1: That is true. There are non-tech people.
+speaker_0: But yeah, and, and, like, you are from a small village, right, or a town?
+speaker_1: Yeah, 2,000 people.
+speaker_0: But, like, it still is a little bit bigger, you know, still.
+speaker_1: [laughs]
+speaker_0: So, it should be good. [laughs]
+speaker_1: A little bit. The startup world is, uh, is smaller too. But yeah, I mean, I think it's, you know, it's, um... I mean, it's kind of a meme-able line, no serious dating until series B. But I think the-
+speaker_0: Yeah
+speaker_1: ... core thing there is, like, until you hit series B, your startup is basically dead. Like, you, this... The most likely outcome for your startup is to die. And so, you should only have one, I think... Um, you should be all in. If you're all in, you should, like, organize everything else in your life around that. I think similar with, like, like I don't drink, I don't really, like, go out. I've cut out almost all hobbies. Like, I think if you're doing this, you should do it and go all in.
+speaker_0: Oh, we have to work on you. Okay. [laughs]
+speaker_1: [laughs] I mean, if anyone wants, you know, me to date sooner, they can help us get to the series B sooner. [laughs]
+speaker_0: [laughs] Also, 'cause the-
+speaker_1: Help us. Yeah.
+speaker_0: No, even series C is not safe, let's be honest.
+speaker_1: That's true.
+speaker_0: Like-
+speaker_1: That's true
+speaker_0: ... you can never know.
+speaker_1: Yeah.
+speaker_0: But you're getting older.
+speaker_1: Right.
+speaker_0: And, you know-
+speaker_1: [laughs]
+speaker_0: ... I mean, you gotta keep it in mind.
+speaker_1: Sound like my parents. [laughs]
+speaker_0: Yeah. Okay, so what would you recommend to people applying to YC right now? Something that helped you, or you just believe it can help them?
+speaker_1: Get customers. Um, I think, you know, um, I think the best way to get into YC is... 'Cause you're-
+speaker_0: Yeah
+speaker_1: ... probably gonna change what you work on. And so, if you wanna find an idea, like, pick one of the requests for startups. But I think the, um... If you're applying to YC, you should be spending your time on customers instead of on your application. And for us, the moment that we put customers first and foremost, instead of spending all our time trying to, like, game the app or whatever, or, like, write the perfect answers-
+speaker_0: Yeah
+speaker_1: ... that's when we got in. And so, that would be my, my advice for everyone, is, like, get your first customers. Like, onboarding some customers, get some real users. Like, put your time and energy into that, and then just, like, fill out the app every quarter, spend an hour. It's... Don't take a lot of time. Keep your answers simple. Do your video in one take. And then just, like, get that done.
+speaker_0: Yeah.
+speaker_1: Yeah.
+speaker_0: And the deadline was just yesterday, right?
+speaker_1: Yep.
+speaker_0: And I think I saw your post, like, even if you missed it, you can still apply. Don't worry about that.
+speaker_1: Yeah, yeah.
+speaker_0: Just, like, shoot it.
+speaker_1: Yeah, yeah, you should choose your shot. Like, um, I think it's... There were people who got into our batch, like, days before it started. Um, I think you can always get into YC.
+speaker_0: Okay, so YC, you know, on deck. Now you're growing. Your numbers look good, I believe so. [laughs]
+speaker_1: [laughs]
+speaker_0: Uh, what, uh, what keeps you hungry?
+speaker_1: What keeps us hungry? Well, the job's not done.
+speaker_0: Series B? [laughs]
+speaker_1: Yeah. [laughs] Series B, exactly. Gotta lock in until then.
+speaker_0: Uh-huh.
+speaker_1: You know, um, uh, then I can finally seriously date. Um-
+speaker_0: [laughs] That's the only reason-
+speaker_1: Find a wife out there somewhere.
+speaker_0: ... why you started a startup-
+speaker_1: Yeah, I, I gotta... Yeah, yeah. [laughs]
+speaker_0: ... to start seriously dating people. [laughs]
+speaker_1: Yeah, yeah, one day. Yeah, my wife is out there. I just gotta hit series B first.
+speaker_0: Yeah.
+speaker_1: Um, uh, what keeps us hungry? I mean, I think we're obsessed with this problem.
+speaker_0: Yeah.
+speaker_1: And-
+speaker_0: Mm-hmm
+speaker_1: ... we believe that the world is changing, and we think this problem of memory and context is, like, a core of that future. And the future is going to look very different, and I think this is, like... This is what I want to spend my life on. This is the impact that I want to have. And, um, uh, yeah, job's not done. Job will never be done. E- even after we IPO. Like, that's not the end of the road, you know? That's, in some ways, just the beginning of something much bigger. You know, we want to become a trillion-dollar company and impact every agent in the world, and, um, the future of AI. And I think we're not gonna stop until we get there.
+speaker_0: What's your biggest wish for this year?
+speaker_1: For this year?
+speaker_0: Personal or professional.
+speaker_1: Ooh. Oh, man. Um...
+speaker_2: Series B and dating? [laughs]
+speaker_1: Series B. Yeah, why not? Series B and, uh, get a wife. Um, uh... It's good questions. I think that's... Like, we spent a lot of 2024... We spent 2024-
+speaker_2: Yeah
+speaker_1: ...working on our first idea, and then realized this much bigger opportunity. And then in 2025, started focusing on this, um, this bigger idea. And, like, again, got our first customer, started getting momentum, did YC. We've kind of assembled a foundation now, and I want 2026 to be the year that we accelerate. And, um, and go from, like, putting the pieces together to, like, all right, we are executing as a team, um, we are... you know, have hundreds of customers on our platform. Um, we have... we've, like, built this rockstar team around us that can take us to the next phase. And I think that's the biggest... you know, fundraising and rounds and everything-
+speaker_2: Mm-hmm
+speaker_1: ...will happen. But, um-
+speaker_2: Can't wait. [laughs]
+speaker_1: ...getting to a place... Well, it's just... it's a side project, right?
+speaker_2: Easy. [laughs]
+speaker_1: I wanna... But I want... What I'm most excited about in 2026 is for our customers to take off. I want to see some of our customers raise huge rounds. I want to see some of them have massive launches and get tens of thousands or hundreds of thousands of users. I want our customers to be like the shining stars over this year and get all those accolades. And if all those things happen, everything else will work itself out for us on both the professional and the personal side.
+speaker_2: Okay. I forgot to ask you something really important.
+speaker_1: Yeah.
+speaker_2: I know that you have, like, a founder.
+speaker_1: I do.
+speaker_2: And he has a really interesting story. Can you share it with us?
+speaker_1: Yeah. So, um, uh, I am a huge fan of my co-founder, Manu.
+speaker_2: Love that. [laughs]
+speaker_1: Um, and, uh, could not imagine a better person to build this company with. Um, so my co-founder, Manu, he built his first chatbot when he was 13.
+speaker_2: 13?
+speaker_1: 13. Yeah. And that's when he realized... you know, back in those days, I don't even know what language it was in. But, um, he-
+speaker_2: [laughs]
+speaker_1: ...he, he... that was the moment when he saw the potential for this. And he was like, "I want AI to be a core part of the thing that I work on." So then he studied cognitive neuroscience because he wanted to understand how human brains work and how humans think so he could apply that to machines. Um, he then dropped out of a PhD program in cognitive neuroscience to start working on AI and start applying that in 2010. So he was doing machine learning in 2010. You know-
+speaker_2: Yeah
+speaker_1: ...over 15 years ago. Um, and then started his first... Uh, he was working at a company for a while, started his first company doing NLP and machine learning in 2014. And they had a.AI domain name in 2014.
+speaker_2: Oh, my God.
+speaker_1: Do you know how... First of all, do you know what country.AI is from?
+speaker_2: No.
+speaker_1: So it's an island called Anguilla in, uh, the Caribbean. And in order to get a.AI domain name in 2014, he had to send a fax message to their government.
+speaker_2: No way.
+speaker_1: And he called up, you know, this, uh, stuffy office in the island of Anguilla, and, um, and his little old lady, "Oh, yeah, send us a fax and stuff." And so he got Summer.ai as the name of his company in 2014. Sold that company to Airbnb, um, got acquired, built the first knowledge graph inside of Airbnb, uh, and then, um, has been working on machine learning ever since. He ran a quant hedge fund doing machine learning. And so the two of us, you know, met together during On Deck, and we say, you know, I'm the hype, he's the spell between the two of us.
+speaker_2: [laughs]
+speaker_1: And we became HyperSpell. And, like, I had this dream of, you know, I want to solve this context problem for all these people and solve busy work, and he had wanted to build an AI and had been building an AI for 15 years. And we just... we hit it off immediately during the ODF, uh, during On Deck. And, you know, at the end of On Deck, we won They Have Superlatives. I got most likely to become a billionaire, and he got most likely to become a cult leader. [laughs] And, uh, then we joined forces and decided to work together.
+speaker_2: Interesting.
+speaker_1: Yeah.
+speaker_2: Last question.
+speaker_1: Sure.
+speaker_2: Why do you think you're good co-founders? What makes you?
+speaker_1: I think we are different in the ways that... we are alike in the ways that matter and different in the ways that compliment each other. So I think we... [laughs]
+speaker_2: [laughs]
+speaker_1: ...somebody's-
+speaker_2: Very philosophical thoughts.
+speaker_1: Yeah. So I think that, like, we, we share... we have a shared vision for the world, and we have a shared vision for the company. We have shared values of where we want to go, and, uh, uh, you know, that we want every single AI agent in the world to be using HyperSpell, and we want to solve busy work in the workplace through these context graphs. But then day to day, you know, um, uh, they, they say the ideal co-founder combo is like a ADHD CO and an autistic CTO.
+speaker_2: Yeah.
+speaker_1: And I think we very much fit that mold, right? Like, I'm... I love working with people, and I'm very excited, and, uh, you know, focus on kind of hyping us up and brand-building and building relationships and trust. And he's very much like a builder. It's like a seller and a builder combo, and he's focused on-
+speaker_2: Seller and builder.
+speaker_1: ...you know, can you take all this, both the PhD in, um, neuroscience and all that knowledge of the human brain, and then the, uh, experience with machine learning and combine those two to build incredible products? And so it works out really well together. When we met during On Deck, we worked... we did the ODF Hack Day together, and he threw together an MVP, uh, during the Hack Day, and I ran around selling it to people.
+speaker_2: [laughs]
+speaker_1: And I convinced people to pay for it too. I was like, "You know, would you pay for this?" "Yeah, sure, why not?" "Okay, great. Here's the Stripe link. Pay me right now." And so we had revenue in the first hour of working together. And, um, it was in that moment I was like, "This is gonna work out." Like, if he can build it, I can sell it. Let's found HyperSpell together.
+speaker_2: HyperSpell.
+speaker_1: Yeah.
+speaker_2: Love it.
+speaker_1: Yeah, the HyperSpell.
+speaker_2: Thank you. Cheers to being co-founders.
+speaker_1: Yeah. Thank you, Dasha.
+speaker_2: [laughs]
+speaker_1: Cheer- cheers to great co-founders.

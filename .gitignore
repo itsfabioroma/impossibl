@@ -33,6 +33,9 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# generated embeddings (large file)
+data/embeddings.json
+
 # vercel
 .vercel
 
