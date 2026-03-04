@@ -10,12 +10,20 @@ type CharacterProps = {
   scrollYProgress: any;
 };
 
+type ScrollTextRevealProps = {
+  text: string;
+  subtitle?: string;
+  dark?: boolean;
+  uppercase?: boolean;
+};
+
 const Character = ({
   char,
   index,
   centerIndex,
   scrollYProgress,
-}: CharacterProps) => {
+  dark,
+}: CharacterProps & { dark?: boolean }) => {
   const distanceFromCenter = index - centerIndex;
 
   // scatter → assemble (0 to 0.4)
@@ -24,7 +32,7 @@ const Character = ({
 
   return (
     <motion.span
-      className="inline-block text-[#1d1d1f]"
+      className={`inline-block ${dark ? "text-white" : "text-[#1d1d1f]"}`}
       style={{ x, rotateX }}
     >
       {char}
@@ -32,7 +40,7 @@ const Character = ({
   );
 };
 
-const ScrollTextReveal = ({ text, subtitle }: { text: string; subtitle?: string }) => {
+const ScrollTextReveal = ({ text, subtitle, dark, uppercase = true }: ScrollTextRevealProps) => {
   const targetRef = useRef<HTMLDivElement | null>(null);
   const { scrollYProgress } = useScroll({ target: targetRef });
 
@@ -50,7 +58,7 @@ const ScrollTextReveal = ({ text, subtitle }: { text: string; subtitle?: string 
   return (
     <div
       ref={targetRef}
-      className="relative h-[200vh] bg-white"
+      className={`relative h-[200vh] overflow-x-clip ${dark ? "bg-transparent" : "bg-white"}`}
     >
       <motion.div
         className="sticky top-0 flex h-screen flex-col items-center justify-center gap-6 px-6"
@@ -66,7 +74,7 @@ const ScrollTextReveal = ({ text, subtitle }: { text: string; subtitle?: string 
         )}
 
         <div
-          className="flex w-full max-w-4xl flex-wrap items-center justify-center gap-x-4 text-[clamp(2rem,8vw,3.75rem)] font-bold uppercase tracking-tighter"
+          className={`flex w-full max-w-4xl flex-wrap items-center justify-center gap-x-4 text-2xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl ${uppercase ? "uppercase" : ""}`}
           style={{ perspective: "500px" }}
         >
           {words.map((word, wordIdx) => {
@@ -81,6 +89,7 @@ const ScrollTextReveal = ({ text, subtitle }: { text: string; subtitle?: string 
                       index={globalIndex}
                       centerIndex={centerIndex}
                       scrollYProgress={scrollYProgress}
+                      dark={dark}
                     />
                   );
                   globalIndex++;

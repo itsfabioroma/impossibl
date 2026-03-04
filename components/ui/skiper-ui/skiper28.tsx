@@ -11,24 +11,27 @@ import React, { useRef } from "react";
 const Skiper28 = () => {
   const targetRef = useRef<HTMLDivElement | null>(null);
   
-  // Aumentamos a altura total para 500vh para compensar o "tempo" 
-  // que vamos gastar só na introdução, sem prejudicar a velocidade do texto 3D.
   const { scrollYProgress } = useScroll({
     target: targetRef,
     offset: ["start start", "end end"],
   });
 
-  // A MÁGICA DO TIMING AQUI:
-  // [0, 0.2, 1] significa:
-  // De 0% a 20% do scroll: Fica parado no 1400 (escondido).
-  // De 20% a 100% do scroll: Faz a viagem até o -900.
-  const yMotionValue = useTransform(scrollYProgress, [0, 0.2, 1], [1400, 1400, -900]);
-  
-  // A opacidade do texto de preparação:
-  // Começa 100% visível, e nos primeiros 15% do scroll, ele desaparece.
-  const introOpacity = useTransform(scrollYProgress, [0, 0.15], [1, 0]);
+  // INTRO: Some nos primeiros 15%
+  const introOpacity = useTransform(scrollYProgress, [0, 0.35], [1, 0]);
 
+  // TEXTO 3D PRINCIPAL:
+  const yMotionValue = useTransform(scrollYProgress, [0, 0.2, 1], [1400, 1400, -900]);
   const transform = useMotionTemplate`scale(0.8) rotateX(60deg) translateY(${yMotionValue}px)`;
+  
+  // Limpa o palco: Faz o texto 3D desaparecer suavemente no finalzinho (80% a 95%) 
+  // para dar espaço à transição de saída.
+  const mainOpacity = useTransform(scrollYProgress, [0.8, 0.95], [1, 0]);
+
+  // OUTRO (A SAÍDA ELEGANTE):
+  // Começa a aparecer em 85% do scroll (cruzando com o fim do texto 3D).
+  const outroOpacity = useTransform(scrollYProgress, [0.85, 1], [0, 1]);
+  // Dá um leve levante de 20px para cima enquanto aparece, chamando a próxima seção.
+  const outroY = useTransform(scrollYProgress, [0.85, 1], [20, 0]); 
 
   return (
     <div
@@ -45,33 +48,35 @@ const Skiper28 = () => {
             WebkitBackdropFilter: "blur(12px)",
             WebkitMaskImage: "linear-gradient(to bottom, black 0%, transparent 100%)",
             maskImage: "linear-gradient(to bottom, black 0%, transparent 100%)",
+            transform: "translateZ(0)", // Otimização de GPU
           }}
         />
 
         {/* LENTE ÓTICA INFERIOR (Foreground) */}
+        {/* hidden md:block salva a placa de vídeo do celular de dar lag */}
         <div
-          className="pointer-events-none absolute bottom-0 left-0 z-10 h-[25vh] w-full"
+          className="hidden md:block pointer-events-none absolute bottom-0 left-0 z-10 h-[25vh] w-full"
           style={{
             backdropFilter: "blur(6px)",
             WebkitBackdropFilter: "blur(6px)",
             WebkitMaskImage: "linear-gradient(to top, black 0%, transparent 100%)",
             maskImage: "linear-gradient(to top, black 0%, transparent 100%)",
+            transform: "translateZ(0)", 
           }}
         />
 
-        {/* TEXTO DE PREPARAÇÃO (Amuse-Bouche) */}
-        {/* Esse texto fica no centro e some logo no comecinho do scroll */}
+        {/* 1. TEXTO DE PREPARAÇÃO (Amuse-Bouche) */}
         <motion.div 
           style={{ opacity: introOpacity }}
           className="absolute inset-0 z-20 flex flex-col items-center justify-center pointer-events-none"
         >
            <span className="font-geist text-sm font-semibold uppercase tracking-[0.2em] text-gray-400">
-             So here is what I did:
+             So here is what I did
            </span>
            <div className="mt-4 h-12 w-[1px] bg-gradient-to-b from-gray-400 to-transparent" />
         </motion.div>
 
-        {/* O PALCO 3D */}
+        {/* 2. O PALCO 3D (O Show) */}
         <div
           className="absolute inset-0 mx-auto flex items-center justify-center px-4"
           style={{
@@ -86,8 +91,9 @@ const Skiper28 = () => {
             style={{
               transformStyle: "preserve-3d",
               transform,
+              opacity: mainOpacity, // Injetamos o fade out final aqui
               transformOrigin: "top center",
-              willChange: "transform",
+              willChange: "transform, opacity",
               WebkitFontSmoothing: "antialiased",
               backfaceVisibility: "hidden",
             }}
@@ -101,6 +107,20 @@ const Skiper28 = () => {
             crowd.
           </motion.div>
         </div>
+
+        {/* 3. A SAÍDA ELEGANTE (The Outro) */}
+        {/* Fica invisível e só surge no centro cruzando com o final do 3D */}
+        <motion.div 
+          style={{ opacity: outroOpacity, y: outroY }}
+          className="absolute inset-0 z-30 flex flex-col items-center justify-center pointer-events-none"
+        >
+           {/* Uma pequena linha que vem de cima pra dar continuidade geométrica com a introdução */}
+           <div className="mb-4 h-12 w-[1px] bg-gradient-to-t from-gray-400 to-transparent" />
+           <span className="font-geist text-sm font-semibold uppercase tracking-[0.2em] text-gray-400">
+           And even then
+           </span>
+        </motion.div>
+
       </div>
     </div>
   );
