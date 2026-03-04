@@ -152,15 +152,11 @@ export async function POST(req: Request) {
     const lastUserMessage = [...messages].reverse().find((m) => m.role === 'user');
 
     let queryText = '';
-    if (lastUserMessage) {
-        if (typeof lastUserMessage.content === 'string' && lastUserMessage.content) {
-            queryText = lastUserMessage.content;
-        } else if (lastUserMessage.parts) {
-            queryText = lastUserMessage.parts
-                .filter((p: { type: string }) => p.type === 'text')
-                .map((p: { type: string; text: string }) => p.text)
-                .join(' ');
-        }
+    if (lastUserMessage?.parts) {
+        queryText = lastUserMessage.parts
+            .filter((p) => p.type === 'text')
+            .map((p) => (p as { type: 'text'; text: string }).text)
+            .join(' ');
     }
 
     const context = queryText ? await retrieveContext(queryText) : '';
