@@ -90,7 +90,7 @@ const Skiper44 = () => {
           <h2>to contribute on Forbes.</h2>
           <h2>to host a podcast in a foreign language.</h2>
           <h2>to build a community from scratch.</h2>
-          <h2>to raise kids alone in a city your parents call terrible.</h2>
+          <h2>to raise kids alone in a city your parents hate.</h2>
           <h2>to get top founders to open up on camera.</h2>
         </div>
         <motion.div

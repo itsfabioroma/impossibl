@@ -1,6 +1,6 @@
 "use client";
 
-import { motion, useMotionTemplate, useScroll, useTransform } from "framer-motion";
+import { motion, useMotionTemplate, useMotionValueEvent, useScroll, useTransform } from "framer-motion";
 import { useRef } from "react";
 import ReactLenis from "lenis/react";
 import StaggeredText from "@/components/react-bits/staggered-text";
@@ -10,6 +10,8 @@ import { Skiper28 } from "@/components/ui/skiper-ui/skiper28";
 import { Skiper44 } from "@/components/ui/skiper-ui/skiper44";
 import { Skiper62 } from "@/components/ui/skiper-ui/skiper62";
 import RadialLiquid from "@/components/react-bits/radial-liquid";
+import { Skiper72 } from "@/components/ui/skiper-ui/skiper72";
+import { Skiper84 } from "@/components/ui/skiper-ui/skiper84";
 
 function CurtainSection() {
   const ref = useRef<HTMLDivElement>(null);
@@ -70,7 +72,7 @@ function CurtainSection() {
   );
 }
 
-function FadeSection({ text, uppercase = true }: { text: string; uppercase?: boolean }) {
+function FadeSection({ text, subtitle, uppercase = true }: { text: string; subtitle?: string; uppercase?: boolean }) {
   const ref = useRef<HTMLDivElement>(null);
   const { scrollYProgress } = useScroll({ target: ref });
 
@@ -80,13 +82,44 @@ function FadeSection({ text, uppercase = true }: { text: string; uppercase?: boo
   return (
     <div ref={ref} className="relative h-[200vh] bg-white">
       <motion.div
-        className="sticky top-0 flex h-screen items-center justify-center"
+        className="sticky top-0 flex h-screen flex-col items-center justify-center"
         style={{ opacity, filter: useMotionTemplate`blur(${blur}px)` }}
       >
         <span className={`text-[clamp(2rem,8vw,3.75rem)] font-bold tracking-tighter text-[#1d1d1f] ${uppercase ? "uppercase" : ""}`}>
           {text}
         </span>
+        {subtitle && (
+          <span className="mt-3 text-sm uppercase tracking-widest text-[#1d1d1f]/40">
+            {subtitle}
+          </span>
+        )}
       </motion.div>
+    </div>
+  );
+}
+
+function PortalRevealSection() {
+  const ref = useRef<HTMLDivElement>(null);
+  const { scrollYProgress } = useScroll({
+    target: ref,
+    offset: ["start end", "end end"],
+  });
+
+  /* circle grows from 0% to 150% (overshoot to cover corners) */
+  const radius = useTransform(scrollYProgress, [0.3, 0.6], [0, 150]);
+
+  return (
+    <div ref={ref} className="relative h-[200vh]">
+      <div className="sticky top-0 h-screen w-full overflow-hidden bg-white">
+        <motion.div
+          className="h-full w-full"
+          style={{
+            clipPath: useMotionTemplate`circle(${radius}% at 50% 50%)`,
+          }}
+        >
+          <Skiper84 />
+        </motion.div>
+      </div>
     </div>
   );
 }
@@ -159,6 +192,31 @@ export default function DashaPage() {
 
       {/* section 8+9 — plasma → curtain reveal rotating titles */}
       <CurtainSection />
+
+      {/* section 10 — text reveal */}
+      <Skiper72 />
+
+      {/* section 11 — thought I'd finished */}
+      <FadeSection text="Thought I was finished, right?" subtitle="impossibl." uppercase={false} />
+
+      {/* section 12 — just getting started */}
+      <FadeSection text="I'm just getting started." uppercase={false} />
+
+      {/* section 13 — second brain intro */}
+      <section className="flex min-h-screen w-full items-center justify-center bg-white px-6">
+        <motion.p
+          initial={{ opacity: 0 }}
+          whileInView={{ opacity: 1 }}
+          viewport={{ once: true }}
+          transition={{ duration: 1.5, ease: "easeOut" }}
+          className="max-w-3xl text-center text-[clamp(1.5rem,5vw,3rem)] font-bold tracking-tighter text-[#1d1d1f]"
+        >
+          As a fun sidequest, I built something while watching your podcast. It knows everything you&apos;ve ever said.
+        </motion.p>
+      </section>
+
+      {/* section 14 — portal reveal into chat */}
+      <PortalRevealSection />
 
     </ReactLenis>
   );

@@ -39,8 +39,8 @@ const Skiper62 = () => {
   }, [array, key]);
 
   return (
-    <div className="font-geist relative z-10 flex h-screen items-center justify-center bg-white px-6 shadow-[0_30px_60px_rgba(0,0,0,0.08)]">
-      <div className="flex items-center text-[clamp(2rem,8vw,3.75rem)] font-bold uppercase leading-none tracking-tighter text-[#1d1d1f]">
+    <div className="font-geist relative z-10 flex h-screen items-center justify-center bg-[#121212] px-6">
+      <div className="flex items-center text-[clamp(2rem,8vw,3.75rem)] font-bold uppercase leading-none tracking-tighter text-white">
         <span className="shrink-0">The&nbsp;</span>
         <div className="relative h-[1em] w-[8em] overflow-hidden">
           <AnimatePresence mode="popLayout">
