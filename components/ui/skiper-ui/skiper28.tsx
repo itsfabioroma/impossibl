@@ -10,21 +10,19 @@ import React, { useRef } from "react";
 
 const Skiper28 = () => {
   const targetRef = useRef<HTMLDivElement | null>(null);
-  
+
   const { scrollYProgress } = useScroll({
     target: targetRef,
     offset: ["start start", "end end"],
   });
 
-  // INTRO: Some nos primeiros 15%
+  // INTRO
   const introOpacity = useTransform(scrollYProgress, [0, 0.35], [1, 0]);
 
-  // TEXTO 3D PRINCIPAL:
+  // TEXTO 3D PRINCIPAL
   const yMotionValue = useTransform(scrollYProgress, [0, 0.2, 1], [1400, 1400, -900]);
   const transform = useMotionTemplate`scale(0.8) rotateX(60deg) translateY(${yMotionValue}px)`;
-  
-  // Limpa o palco: Faz o texto 3D desaparecer suavemente no finalzinho (80% a 95%) 
-  // para dar espaço à transição de saída.
+
   const mainOpacity = useTransform(scrollYProgress, [0.8, 0.95], [1, 0]);
 
   // OUTRO (A SAÍDA ELEGANTE):
@@ -38,15 +36,9 @@ const Skiper28 = () => {
       ref={targetRef}
       className="relative z-0 h-[500vh] w-full bg-white text-[#1d1d1f]"
     >
-      <div className="sticky top-0 h-screen w-full overflow-hidden bg-transparent">
-        
-        {/* top fade — gradient on mobile, backdrop-blur on desktop */}
-        <div
-          className="pointer-events-none absolute left-0 top-0 z-10 h-[30vh] w-full md:hidden"
-          style={{
-            background: "linear-gradient(to bottom, white 0%, transparent 100%)",
-          }}
-        />
+      <div className="sticky top-0 h-screen w-full overflow-hidden bg-transparent" style={{ contain: "layout style paint" }}>
+
+        {/* top + bottom blur — desktop only (too expensive on mobile) */}
         <div
           className="pointer-events-none absolute left-0 top-0 z-10 h-[30vh] w-full hidden md:block"
           style={{
@@ -57,8 +49,6 @@ const Skiper28 = () => {
             transform: "translateZ(0)",
           }}
         />
-
-        {/* bottom fade — desktop only */}
         <div
           className="hidden md:block pointer-events-none absolute bottom-0 left-0 z-10 h-[25vh] w-full"
           style={{
@@ -81,7 +71,7 @@ const Skiper28 = () => {
            <div className="mt-4 h-12 w-[1px] bg-gradient-to-b from-gray-400 to-transparent" />
         </motion.div>
 
-        {/* 2. O PALCO 3D (O Show) */}
+        {/* 2. O PALCO 3D */}
         <div
           className="absolute inset-0 mx-auto flex items-center justify-center px-4"
           style={{
