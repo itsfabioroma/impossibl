@@ -85,9 +85,9 @@ const Skiper44 = () => {
           <div className="absolute -bottom-2 left-full z-10 h-[44vh] w-screen translate-y-full bg-white/90" />
         </div>
         <div className="h-fit space-y-1 sm:space-y-2">
-          <h2>for woman to succeed in tech.</h2>
-          <h2>to make into SF as a Russian.</h2>
-          <h2>to contribute on Forbes.</h2>
+          <h2>for a woman to succeed in tech.</h2>
+          <h2>to make it into SF as a Russian.</h2>
+          <h2>to contribute to Forbes.</h2>
           <h2>to host a podcast in a foreign language.</h2>
           <h2>to build a community from scratch.</h2>
           <h2>to raise kids alone in a city your parents hate.</h2>
