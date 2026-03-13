@@ -60,7 +60,7 @@ export default function Home() {
         <div className="flex items-end justify-between">
           <span className="font-bold text-base text-white/80 md:text-lg">impossibl</span>
           <span className="font-bold text-base uppercase text-white/80 md:text-lg">SF</span>
-          <span className="font-bold text-base text-white/80 md:text-lg">March 21</span>
+          <span className="font-bold text-base text-white/80 md:text-lg">March 24</span>
         </div>
 
       </div>

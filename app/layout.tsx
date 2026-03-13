@@ -39,17 +39,17 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Impossibl @ SF, March 21",
-  description: "For the ones who don't fear the Impossibl. A hackathon in San Francisco, March 21.",
+  title: "Impossibl @ SF, March 24",
+  description: "For the ones who don't fear the Impossibl. A hackathon in San Francisco, March 24.",
   openGraph: {
-    title: "Impossibl @ SF, March 21",
-    description: "For the ones who don't fear the Impossibl. A hackathon in San Francisco, March 21.",
+    title: "Impossibl @ SF, March 24",
+    description: "For the ones who don't fear the Impossibl. A hackathon in San Francisco, March 24.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Impossibl @ SF, March 21",
-    description: "For the ones who don't fear the Impossibl. A hackathon in San Francisco, March 21.",
+    title: "Impossibl @ SF, March 24",
+    description: "For the ones who don't fear the Impossibl. A hackathon in San Francisco, March 24.",
   },
 };
 
