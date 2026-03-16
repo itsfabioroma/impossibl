@@ -16,6 +16,7 @@
     "@gsap/react": "^2.1.2",
     "@paper-design/shaders-react": "^0.0.71",
     "@react-three/fiber": "^9.5.0",
+    "@supabase/supabase-js": "^2.99.1",
     "ai": "^6.0.114",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
