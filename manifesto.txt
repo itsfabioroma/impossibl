@@ -27,6 +27,28 @@ And we usually get ridiculed, punished and ostracized for it.
 
 There are others. Not many. If you're reading this, it's probably too late.
 
-Follow the inner light.
+Follow the inner light. 
+
+Here is the genesis. Count as an engineer. Everything counts.
 https://ia601208.us.archive.org/24/items/TheFabricOfReality/The_Fabric_of_Reality.pdf
 
+(0, 0, 8)
+(12, 0, 42)
+(25, 1, 3)
+(38, 0, 10)
+(51, 0, 25)
+(63, 0, 7)
+(76, 0, 1)
+(89, 1, 0)
+(102, 0, 61)
+(114, 2, 17)
+(127, 0, 60)
+(140, 0, 25)
+(153, 1, 19)
+(151, 26, 9)
+(178, 0, 49)
+(191, 0, 9)
+(204, 0, 19)
+(216, 0, 6)
+(229, 0, 23)
+(242, 1, 23)

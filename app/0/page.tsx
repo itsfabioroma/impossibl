@@ -43,7 +43,7 @@ export default function ZeroPage() {
 
         {/* terminal prompt */}
         <p className="max-w-[90vw] text-center font-mono text-[clamp(0.6rem,2.8vw,0.85rem)] lowercase tracking-wide leading-relaxed text-white/40 px-10">
-          we are looking for the ones that see where others don&apos;t.
+          We are looking for those who see what others don&apos;t.
         </p>
 
       </div>
