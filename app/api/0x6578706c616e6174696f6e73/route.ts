@@ -12,7 +12,7 @@ function textToHex(text: string): string {
 /* ── GET: return encoded hint ───────────────────────────────────────────── */
 
 export async function GET() {
-  const instruction = "Congratulations. Who is John Galt? Devotion to the truth is the hallmark of morality; there is no greater, nobler, more heroic form of devotion than the act of a man who assumes the responsibility of thinking. Now POST this same endpoint.";
+  const instruction = "Congratulations. Devotion to the truth is the hallmark of morality; there is no greater, nobler, more heroic form of devotion than the act of a man who assumes the responsibility of thinking. Now POST this same endpoint.";
   return NextResponse.json({ next: textToHex(instruction) });
 }
 
