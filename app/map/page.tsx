@@ -40,7 +40,7 @@ export default function MapPage() {
 
   // check if already authed
   useEffect(() => {
-    if (sessionStorage.getItem("map-auth") === "1") setAuthed(true)
+    if (typeof window !== "undefined" && sessionStorage.getItem("map-auth") === "1") setAuthed(true)
   }, [])
 
   // handle login
@@ -62,8 +62,9 @@ export default function MapPage() {
   useEffect(() => {
     if (!authed) return
     fetch("/api/map")
-      .then((r) => r.json())
+      .then((r) => r.ok ? r.json() : [])
       .then(setPins)
+      .catch(() => {})
   }, [authed])
 
   // password screen
