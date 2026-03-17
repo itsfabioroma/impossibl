@@ -67,27 +67,6 @@ export default function MapPage() {
       .catch(() => {})
   }, [authed])
 
-  // password screen
-  if (!authed) {
-    return (
-      <div className="h-screen w-screen flex items-center justify-center bg-black">
-        <div className="flex flex-col items-center gap-4">
-          <span className="text-sm text-zinc-500 font-medium">IMPOSSIBLE MAP</span>
-          <input
-            type="password"
-            value={password}
-            onChange={(e) => { setPassword(e.target.value); setAuthError(false) }}
-            onKeyDown={(e) => e.key === "Enter" && handleLogin()}
-            placeholder="password"
-            className="px-4 py-3 rounded-xl bg-zinc-900 text-white text-sm outline-none border border-zinc-700 w-72 text-center placeholder:text-zinc-600 focus:border-zinc-500 transition-colors"
-            autoFocus
-          />
-          {authError && <span className="text-xs text-red-500">wrong password</span>}
-        </div>
-      </div>
-    )
-  }
-
   // click on map to add pin
   const handleMapClick = useCallback(
     async (e: MapMouseEvent) => {
@@ -141,6 +120,27 @@ export default function MapPage() {
     },
     {} as Record<number, number>
   )
+
+  // password screen
+  if (!authed) {
+    return (
+      <div className="h-screen w-screen flex items-center justify-center bg-black">
+        <div className="flex flex-col items-center gap-4">
+          <span className="text-sm text-zinc-500 font-medium">IMPOSSIBLE MAP</span>
+          <input
+            type="password"
+            value={password}
+            onChange={(e) => { setPassword(e.target.value); setAuthError(false) }}
+            onKeyDown={(e) => e.key === "Enter" && handleLogin()}
+            placeholder="password"
+            className="px-4 py-3 rounded-xl bg-zinc-900 text-white text-sm outline-none border border-zinc-700 w-72 text-center placeholder:text-zinc-600 focus:border-zinc-500 transition-colors"
+            autoFocus
+          />
+          {authError && <span className="text-xs text-red-500">wrong password</span>}
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="h-screen w-screen flex flex-col bg-black text-white">
