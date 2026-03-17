@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import { EB_Garamond, JetBrains_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 // sans (primary)
@@ -62,6 +63,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${adelleSans.variable} ${ebGaramond.variable} ${jetbrainsMono.variable} antialiased`}>
         {children}
+        <Analytics />
       </body>
     </html>
   );

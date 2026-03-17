@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "embed": "tsx scripts/embed-transcripts.ts"
+    "embed": "tsx scripts/embed-transcripts.ts",
+    "map": "open http://localhost:3000/map && next dev"
   },
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.56",
@@ -17,6 +18,8 @@
     "@paper-design/shaders-react": "^0.0.71",
     "@react-three/fiber": "^9.5.0",
     "@supabase/supabase-js": "^2.99.1",
+    "@vercel/analytics": "^2.0.1",
+    "@vis.gl/react-google-maps": "^1.7.1",
     "ai": "^6.0.114",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
