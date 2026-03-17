@@ -10,6 +10,13 @@ function signToken() {
     .digest("hex")
 }
 
+// check if already authed (cookie only, no data returned)
+export async function GET() {
+  const valid = await verifyMapAuth()
+  if (!valid) return NextResponse.json({ ok: false }, { status: 401 })
+  return NextResponse.json({ ok: true })
+}
+
 export async function POST(req: Request) {
   const { password } = await req.json()
 

@@ -38,17 +38,21 @@ export default function MapPage() {
   const [activePin, setActivePin] = useState<Pin | null>(null)
   const [noteInput, setNoteInput] = useState("")
 
-  // check if already authed via cookie (try fetching pins)
+  // check if already authed via cookie (no data, just auth check)
   useEffect(() => {
-    fetch("/api/map")
-      .then((r) => {
-        if (r.ok) {
-          r.json().then(setPins)
-          setAuthed(true)
-        }
-      })
+    fetch("/api/map/auth")
+      .then((r) => { if (r.ok) setAuthed(true) })
       .catch(() => {})
   }, [])
+
+  // load pins only after auth is confirmed
+  useEffect(() => {
+    if (!authed) return
+    fetch("/api/map")
+      .then((r) => r.ok ? r.json() : [])
+      .then(setPins)
+      .catch(() => {})
+  }, [authed])
 
   // handle login
   const handleLogin = async () => {
@@ -59,10 +63,6 @@ export default function MapPage() {
     })
     if (res.ok) {
       setAuthed(true)
-      // load pins after auth
-      fetch("/api/map")
-        .then((r) => r.ok ? r.json() : [])
-        .then(setPins)
     } else {
       setAuthError(true)
     }
