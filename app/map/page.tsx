@@ -38,9 +38,16 @@ export default function MapPage() {
   const [activePin, setActivePin] = useState<Pin | null>(null)
   const [noteInput, setNoteInput] = useState("")
 
-  // check if already authed
+  // check if already authed via cookie (try fetching pins)
   useEffect(() => {
-    if (typeof window !== "undefined" && sessionStorage.getItem("map-auth") === "1") setAuthed(true)
+    fetch("/api/map")
+      .then((r) => {
+        if (r.ok) {
+          r.json().then(setPins)
+          setAuthed(true)
+        }
+      })
+      .catch(() => {})
   }, [])
 
   // handle login
@@ -51,21 +58,15 @@ export default function MapPage() {
       body: JSON.stringify({ password }),
     })
     if (res.ok) {
-      sessionStorage.setItem("map-auth", "1")
       setAuthed(true)
+      // load pins after auth
+      fetch("/api/map")
+        .then((r) => r.ok ? r.json() : [])
+        .then(setPins)
     } else {
       setAuthError(true)
     }
   }
-
-  // load pins after auth
-  useEffect(() => {
-    if (!authed) return
-    fetch("/api/map")
-      .then((r) => r.ok ? r.json() : [])
-      .then(setPins)
-      .catch(() => {})
-  }, [authed])
 
   // click on map to add pin
   const handleMapClick = useCallback(

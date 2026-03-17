@@ -1,5 +1,8 @@
 import { NextResponse } from "next/server"
 import { supabase } from "@/lib/supabase"
+import { verifyMapAuth } from "./auth/route"
+
+const UNAUTHORIZED = NextResponse.json({ error: "unauthorized" }, { status: 401 })
 
 export type Pin = {
   id: string
@@ -23,6 +26,8 @@ function toPin(row: Record<string, unknown>): Pin {
 }
 
 export async function GET() {
+  if (!(await verifyMapAuth())) return UNAUTHORIZED
+
   const { data, error } = await supabase
     .from("impossibl_pins")
     .select("*")
@@ -33,6 +38,8 @@ export async function GET() {
 }
 
 export async function POST(req: Request) {
+  if (!(await verifyMapAuth())) return UNAUTHORIZED
+
   const body = await req.json()
 
   const { data, error } = await supabase
@@ -46,6 +53,8 @@ export async function POST(req: Request) {
 }
 
 export async function PATCH(req: Request) {
+  if (!(await verifyMapAuth())) return UNAUTHORIZED
+
   const { id, variant } = await req.json()
 
   const { data, error } = await supabase
@@ -60,6 +69,8 @@ export async function PATCH(req: Request) {
 }
 
 export async function DELETE(req: Request) {
+  if (!(await verifyMapAuth())) return UNAUTHORIZED
+
   const { id } = await req.json()
 
   const { error } = await supabase
