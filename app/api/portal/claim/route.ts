@@ -46,15 +46,19 @@ export async function POST(req: NextRequest) {
   }
 
   /* create builder row */
-  await supabase.from("impossibl_builders").insert({
+  const { error: builderErr } = await supabase.from("impossibl_builders").insert({
     name,
     email,
-    phone: phone || null,
     telegram: telegram || null,
     github: github || null,
     builder_number: builderNumber,
     token_id: tokenId,
   });
+
+  if (builderErr) {
+    console.error("builder insert failed:", builderErr);
+    return NextResponse.json({ error: "builder creation failed" }, { status: 500 });
+  }
 
   /* send confirmation email */
   await resend.emails.send({
