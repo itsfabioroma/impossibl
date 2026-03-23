@@ -2,19 +2,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { createHash } from "crypto";
 import { supabase } from "@/lib/supabase";
 
-const CAP = 20;
-
 export async function POST(req: NextRequest) {
-  /* check cap first */
-  const { count: usedCount } = await supabase
-    .from("impossibl_tokens")
-    .select("*", { count: "exact", head: true })
-    .eq("used", true);
-
-  if ((usedCount ?? 0) >= CAP) {
-    return NextResponse.json({ status: "full" });
-  }
-
   /* validate token */
   const { token } = await req.json();
   if (!token || typeof token !== "string") {
@@ -40,13 +28,16 @@ export async function POST(req: NextRequest) {
     .update({ hash })
     .eq("id", data.id);
 
-  /* next builder number = used count + 1 */
-  const builderNumber = (usedCount ?? 0) + 1;
+  /* builder number = used count + 1 */
+  const { count: usedCount } = await supabase
+    .from("impossibl_tokens")
+    .select("*", { count: "exact", head: true })
+    .eq("used", true);
 
   return NextResponse.json({
     status: "valid",
     tokenId: data.id,
-    builderNumber,
+    builderNumber: (usedCount ?? 0) + 1,
     hash,
   });
 }

@@ -72,7 +72,6 @@ type Phase =
   | "form"
   | "claiming"
   | "confirmed"
-  | "full"
   | "waitlisted";
 
 export default function PortalPage() {
@@ -88,7 +87,7 @@ export default function PortalPage() {
   const [phone, setPhone] = useState("");
   const [telegram, setTelegram] = useState("");
   const [github, setGithub] = useState("");
-  const [waitlistEmail, setWaitlistEmail] = useState("");
+  const [emailError, setEmailError] = useState("");
 
   const inputRef = useRef<HTMLInputElement>(null);
 
@@ -97,17 +96,6 @@ export default function PortalPage() {
     if (phase === "input") inputRef.current?.focus();
   }, [phase]);
 
-  /* ── check cap on mount ─────────────────────────────────────────────── */
-
-  useEffect(() => {
-    fetch("/api/portal/validate", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ token: "__cap_check__" }),
-    })
-      .then(r => r.json())
-      .then(d => { if (d.status === "full") setPhase("full"); });
-  }, []);
 
   /* ── validate token ─────────────────────────────────────────────────── */
 
@@ -121,11 +109,6 @@ export default function PortalPage() {
       body: JSON.stringify({ token: input.trim() }),
     });
     const data = await res.json();
-
-    if (data.status === "full") {
-      setPhase("full");
-      return;
-    }
 
     if (data.status === "valid") {
       setTokenId(data.tokenId);
@@ -144,6 +127,7 @@ export default function PortalPage() {
 
   const claim = useCallback(async () => {
     if (!name || !email || !tokenId) return;
+    setEmailError("");
     setPhase("claiming");
 
     const res = await fetch("/api/portal/claim", {
@@ -153,7 +137,15 @@ export default function PortalPage() {
     });
     const data = await res.json();
 
-    if (data.ok) {
+    if (data.error === "invalid email") {
+      setEmailError("invalid email");
+      setPhase("form");
+      return;
+    }
+
+    if (data.waitlisted) {
+      setPhase("waitlisted");
+    } else if (data.ok) {
       setBuilderNumber(data.builderNumber);
       setHash("");
       setPhase("confirmed");
@@ -162,18 +154,6 @@ export default function PortalPage() {
       setPhase("input");
     }
   }, [name, email, phone, github, tokenId]);
-
-  /* ── waitlist ───────────────────────────────────────────────────────── */
-
-  const joinWaitlist = useCallback(async () => {
-    if (!waitlistEmail) return;
-    await fetch("/api/portal/waitlist", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ email: waitlistEmail }),
-    });
-    setPhase("waitlisted");
-  }, [waitlistEmail]);
 
   /* ── render ─────────────────────────────────────────────────────────── */
 
@@ -246,13 +226,16 @@ export default function PortalPage() {
                 className="w-full bg-transparent border-b border-white/15 pb-2 text-white/80 placeholder:text-white/20 outline-none font-mono"
                 autoFocus
               />
-              <input
-                type="email"
-                placeholder="email"
-                value={email}
-                onChange={e => setEmail(e.target.value)}
-                className="w-full bg-transparent border-b border-white/15 pb-2 text-white/80 placeholder:text-white/20 outline-none font-mono"
-              />
+              <div>
+                <input
+                  type="email"
+                  placeholder="email"
+                  value={email}
+                  onChange={e => { setEmail(e.target.value); setEmailError(""); }}
+                  className={`w-full bg-transparent border-b pb-2 text-white/80 placeholder:text-white/20 outline-none font-mono ${emailError ? "border-red-500/60" : "border-white/15"}`}
+                />
+                {emailError && <p className="text-red-500/60 text-xs mt-1 font-mono">{emailError}</p>}
+              </div>
               <input
                 type="tel"
                 placeholder="phone — for emergency comms only"
@@ -295,38 +278,12 @@ export default function PortalPage() {
           </div>
         )}
 
-        {/* ── full ─────────────────────────────────────────────────── */}
-        {(phase === "full" || phase === "waitlisted") && (
-          <div className="space-y-4">
-            <div className="text-white/40 space-y-1">
-              <p>impossibl[0] is full.</p>
-              <p>impossibl[1] awaits.</p>
-            </div>
-
-            {phase === "full" && (
-              <div className="flex items-center gap-2">
-                <input
-                  type="email"
-                  placeholder="email"
-                  value={waitlistEmail}
-                  onChange={e => setWaitlistEmail(e.target.value)}
-                  onKeyDown={e => e.key === "Enter" && joinWaitlist()}
-                  className="flex-1 bg-transparent border-b border-white/15 pb-2 text-white/80 placeholder:text-white/20 outline-none font-mono"
-                  autoFocus
-                />
-                <button
-                  onClick={joinWaitlist}
-                  disabled={!waitlistEmail}
-                  className="font-mono text-white/60 hover:text-white transition-colors tracking-widest uppercase text-xs disabled:opacity-20"
-                >
-                  JOIN
-                </button>
-              </div>
-            )}
-
-            {phase === "waitlisted" && (
-              <p className="text-white/30 text-xs">noted.</p>
-            )}
+        {/* ── waitlisted ────────────────────────────────────────── */}
+        {phase === "waitlisted" && (
+          <div className="text-white/40 space-y-1">
+            <p>impossibl[0] is full.</p>
+            <p>you&apos;re on the list.</p>
+            <p>impossibl[1] awaits.</p>
           </div>
         )}
 

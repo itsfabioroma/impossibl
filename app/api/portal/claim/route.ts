@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { supabase } from "@/lib/supabase";
+import { isValidEmail } from "@/lib/validate-email";
 import { Resend } from "resend";
 
 const resend = new Resend(process.env.RESEND_API_KEY!);
@@ -12,14 +13,26 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: "missing fields" }, { status: 400 });
   }
 
+  /* server-side email validation: format + MX */
+  if (!(await isValidEmail(email))) {
+    return NextResponse.json({ error: "invalid email" }, { status: 400 });
+  }
+
   /* check cap */
   const { count: usedCount } = await supabase
     .from("impossibl_tokens")
     .select("*", { count: "exact", head: true })
     .eq("used", true);
 
+  /* cap reached — save to waitlist instead */
   if ((usedCount ?? 0) >= CAP) {
-    return NextResponse.json({ error: "full" }, { status: 409 });
+    await supabase.from("impossibl_waitlist").insert({
+      email,
+      name,
+      telegram: telegram || null,
+      github: github || null,
+    });
+    return NextResponse.json({ waitlisted: true });
   }
 
   /* atomic: mark token as used + assign builder number */
