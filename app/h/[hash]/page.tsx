@@ -21,7 +21,6 @@ type BuilderData = {
   hash: string;
   builderNumber: number;
   name: string | null;
-  claimed: boolean;
 } | null;
 
 export default function AgePage() {
@@ -80,13 +79,12 @@ export default function AgePage() {
             {/* details */}
             <div className="space-y-1 text-white/30 mt-6">
               <p>hash: {data.hash}</p>
-              {data.name && <p>builder: {data.name}</p>}
-              <p>status: {data.claimed ? "confirmed" : "unclaimed"}</p>
+              {data.name && <p>{data.name}</p>}
             </div>
 
             {/* footer */}
             <p className="text-white/15 mt-8">
-              this person is a legit impossibl builder.
+              verified at impossibl[0]. san francisco, 24 mar 2025.
             </p>
           </div>
         )}

@@ -44,6 +44,5 @@ export async function POST(req: NextRequest) {
     hash: clean,
     builderNumber: builder?.builder_number ?? token.builder_number,
     name: builder?.name ?? null,
-    claimed: token.used ?? false,
   });
 }
