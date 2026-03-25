@@ -73,7 +73,7 @@ export default function SubmitPage() {
             <div className="space-y-4 pt-2">
               <div>
                 <textarea
-                  placeholder="what did you build? (1-2 sentences)"
+                  placeholder="concise description of your project"
                   value={description}
                   onChange={e => setDescription(e.target.value)}
                   rows={3}
